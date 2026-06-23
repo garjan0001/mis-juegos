@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Colección de Juegos</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+
+    <h1>🎮 Mi Colección de Videojuegos</h1>
+
+    <div class="controls">
+
+        <input type="text" id="search" placeholder="Buscar juego...">
+
+        <select id="platformFilter">
+            <option value="">Todas las plataformas</option>
+        </select>
+
+        <select id="sortFilter">
+            <option value="az">Nombre A-Z</option>
+            <option value="za">Nombre Z-A</option>
+            <option value="available">Solo disponibles</option>
+            <option value="loaned">Solo prestados</option>
+        </select>
+
+    </div>
+
+    <p id="stats"></p>
+
+</header>
+
+<main>
+
+    <div id="gamesContainer" class="games-grid"></div>
+
+</main>
+
+<script src="js/app.js"></script>
+
+</body>
+</html>
