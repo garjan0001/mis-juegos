@@ -222,23 +222,49 @@ function cerrarModal(){
 function stats(){
 
     const total = juegos.length;
-    const prestados = juegos.filter(j=>j.prestadoA).length;
+    const prestados = juegos.filter(j => j.prestadoA).length;
+    const favoritos = juegos.filter(j => j.favorito).length;
 
-    const por = {};
+    const porPlataforma = {};
 
-    juegos.forEach(j=>{
-        por[j.plataforma]=(por[j.plataforma]||0)+1;
+    juegos.forEach(j => {
+
+        porPlataforma[j.plataforma] =
+            (porPlataforma[j.plataforma] || 0) + 1;
     });
 
     let html = `
-        <p>Total: ${total}</p>
-        <p>Prestados: ${prestados}</p>
-        <hr>
+        <h3>📊 Estadísticas</h3>
+
+        <div class="stats-item">
+            <span>Total</span>
+            <span class="stats-total">${total}</span>
+        </div>
+
+        <div class="stats-item">
+            <span>Prestados</span>
+            <span>${prestados}</span>
+        </div>
+
+        <div class="stats-item">
+            <span>Favoritos</span>
+            <span>${favoritos}</span>
+        </div>
+
+        <hr style="margin:8px 0;border-color:#333;">
     `;
 
-    Object.keys(por).forEach(k=>{
-        html += `<p>${k}: ${por[k]}</p>`;
-    });
+    Object.keys(porPlataforma)
+        .sort()
+        .forEach(p => {
+
+            html += `
+                <div class="stats-item">
+                    <span>${p}</span>
+                    <span>${porPlataforma[p]}</span>
+                </div>
+            `;
+        });
 
     document.getElementById("stats").innerHTML = html;
 }
