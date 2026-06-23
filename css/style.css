@@ -198,3 +198,49 @@ input, select{
         width:100%;
     }
 }
+/* =========================
+   DETALLE DEL JUEGO
+========================= */
+
+.detalle-principal{
+
+    width:100%;
+    max-height:500px;
+
+    object-fit:contain;
+
+    margin-bottom:15px;
+
+    border-radius:10px;
+}
+
+.detalle-galeria{
+
+    display:flex;
+
+    gap:10px;
+
+    overflow-x:auto;
+
+    margin-bottom:15px;
+}
+
+.detalle-thumb{
+
+    width:120px;
+
+    height:120px;
+
+    object-fit:cover;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    transition:0.2s;
+}
+
+.detalle-thumb:hover{
+
+    transform:scale(1.08);
+}
