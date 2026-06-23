@@ -5,7 +5,12 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Gran-Turismo.jpg"
+    "portada": "images/ps1/Gran-Turismo.jpg",
+    "imagenes": [
+      "images/ps1/Xmen_2.jpg",
+      "images/ps1/Soulblade.JPEG",
+      "images/ps1/mTime_Crisis.jpg"
+    ]
   },
   {
     "id": 2,
@@ -13,7 +18,12 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/NHL_2000.jpg"
+    "portada": "images/ps1/NHL_2000.jpg",
+    "imagenes": [
+      "images/ps1/mgs-1.jpg",
+      "images/ps1/mgs-2.jpg",
+      "images/ps1/mgs-3.jpg"
+    ]
   },
   {
     "id": 3,
