@@ -211,8 +211,12 @@ function abrirDetalle(id) {
     document.getElementById("modal").classList.remove("hidden");
 }
 
-function cerrarModal(){
-    document.getElementById("modal").classList.add("hidden");
+window.cerrarModal = function(){
+
+    document
+        .getElementById("modal")
+        .classList.add("hidden");
+
 }
 
 /* =========================
@@ -283,3 +287,13 @@ document.getElementById("favFilter").addEventListener("change",renderizar);
 ========================= */
 
 cargarDatos();
+
+document
+    .getElementById("modal")
+    .addEventListener("click", function(e){
+
+        if(e.target === this){
+            cerrarModal();
+        }
+
+    });
