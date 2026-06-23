@@ -277,51 +277,48 @@ window.cerrarModal = function(){
 function stats(){
 
     const total = juegos.length;
-    const prestados = juegos.filter(j => j.prestadoA).length;
-    const favoritos = juegos.filter(j => j.favorito).length;
 
-    const porPlataforma = {};
+    const prestados =
+        juegos.filter(j => j.prestadoA).length;
 
-    juegos.forEach(j => {
+    const favoritos =
+        juegos.filter(j => j.favorito).length;
 
-        porPlataforma[j.plataforma] =
-            (porPlataforma[j.plataforma] || 0) + 1;
-    });
+    const plataformas =
+        [...new Set(juegos.map(j => j.plataforma))].length;
 
-    let html = `
+    document.getElementById("stats").innerHTML = `
+
         <h3>📊 Estadísticas</h3>
 
         <div class="stats-item">
             <span>Total</span>
-            <span class="stats-total">${total}</span>
+            <strong>${total}</strong>
         </div>
 
         <div class="stats-item">
             <span>Prestados</span>
-            <span>${prestados}</span>
+            <strong>${prestados}</strong>
         </div>
 
         <div class="stats-item">
             <span>Favoritos</span>
-            <span>${favoritos}</span>
+            <strong>${favoritos}</strong>
         </div>
 
-        <hr style="margin:8px 0;border-color:#333;">
+        <div class="stats-item">
+            <span>Consolas</span>
+            <strong>${plataformas}</strong>
+        </div>
+
+        <button
+            class="stats-btn"
+            onclick="mostrarDetalleStats()">
+
+            Ver detalle
+
+        </button>
     `;
-
-    Object.keys(porPlataforma)
-        .sort()
-        .forEach(p => {
-
-           html += `
-                <div class="stats-item">
-                    <span>${p}</span>
-                    <strong>${porPlataforma[p]}</strong>
-                </div>
-            `;
-        });
-
-    document.getElementById("stats").innerHTML = html;
 }
 
 /* =========================
@@ -355,3 +352,56 @@ function cambiarImagenPrincipal(url){
         .src = url;
 
 }
+function mostrarDetalleStats(){
+
+    const porPlataforma = {};
+
+    juegos.forEach(j => {
+
+        porPlataforma[j.plataforma] =
+            (porPlataforma[j.plataforma] || 0) + 1;
+
+    });
+
+    let html = `
+        <h2>📊 Juegos por plataforma</h2>
+        <hr><br>
+    `;
+
+    Object.keys(porPlataforma)
+        .sort()
+        .forEach(p => {
+
+            html += `
+                <div class="stats-item">
+                    <span>${p}</span>
+                    <strong>${porPlataforma[p]}</strong>
+                </div>
+            `;
+        });
+
+    document.getElementById("statsModalBody").innerHTML = html;
+
+    document
+        .getElementById("statsModal")
+        .classList.remove("hidden");
+}
+
+function cerrarStats(){
+
+    document
+        .getElementById("statsModal")
+        .classList.add("hidden");
+}
+
+document
+    .getElementById("statsModal")
+    .addEventListener("click", function(e){
+
+        if(e.target === this){
+
+            cerrarStats();
+
+        }
+
+    });
