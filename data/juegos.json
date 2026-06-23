@@ -6,10 +6,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps1/Gran-Turismo.jpg",
+    "favorito": false,
     "imagenes": [
-      "images/ps1/Gran-Turismo.jpg",
-      "images/ps1/Soulblade.JPEG",
-      "images/ps1/Time_Crisis.jpg"
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
     ]
   },
   {
@@ -19,10 +20,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps1/NHL_2000.jpg",
+    "favorito": false,
     "imagenes": [
-      "images/ps1/mgs-1.jpg",
-      "images/ps1/mgs-2.jpg",
-      "images/ps1/mgs-3.jpg"
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
     ]
   },
   {
@@ -31,7 +33,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Parasite_Eve_2.jpg"
+    "portada": "images/ps1/Parasite_Eve_2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 4,
@@ -39,7 +47,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Time_Crisis.jpg"
+    "portada": "images/ps1/Time_Crisis.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 5,
@@ -47,7 +61,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Hescules_Disney.jpg"
+    "portada": "images/ps1/Hescules_Disney.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 6,
@@ -55,7 +75,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Time_Crisis_Project_Titan.jpg"
+    "portada": "images/ps1/Time_Crisis_Project_Titan.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 7,
@@ -63,7 +89,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Spyro_2.jpg"
+    "portada": "images/ps1/Spyro_2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 8,
@@ -71,7 +103,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Point_Bank.jpg"
+    "portada": "images/ps1/Point_Bank.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 9,
@@ -79,7 +117,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Xmen_2.jpg"
+    "portada": "images/ps1/Xmen_2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 10,
@@ -87,7 +131,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/FF_VI.JPEG"
+    "portada": "images/ps1/FF_VI.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 11,
@@ -95,7 +145,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Soulblade.JPEG"
+    "portada": "images/ps1/Soulblade.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 12,
@@ -103,7 +159,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/FFVII.JPEG"
+    "portada": "images/ps1/FFVII.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 13,
@@ -111,7 +173,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/AIR_COMBAT.JPEG"
+    "portada": "images/ps1/AIR_COMBAT.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 14,
@@ -119,7 +187,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/TEKKEN3.JPEG"
+    "portada": "images/ps1/TEKKEN3.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 15,
@@ -127,7 +201,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/FFIX.JPEG"
+    "portada": "images/ps1/FFIX.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 16,
@@ -135,7 +215,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/FF_Anthology.JPEG"
+    "portada": "images/ps1/FF_Anthology.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 17,
@@ -143,7 +229,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/FF_Origins.JPEG"
+    "portada": "images/ps1/FF_Origins.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 18,
@@ -151,7 +243,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Everybodys_golf2.JPEG"
+    "portada": "images/ps1/Everybodys_golf2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 19,
@@ -159,7 +257,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Tomb_Raider3.JPEG"
+    "portada": "images/ps1/Tomb_Raider3.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 20,
@@ -167,7 +271,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Tomb_Raider2.JPEG"
+    "portada": "images/ps1/Tomb_Raider2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 21,
@@ -175,7 +285,13 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Tomb_Raider.JPEG"
+    "portada": "images/ps1/Tomb_Raider.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg",
+      "images/ps1/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
 
@@ -188,7 +304,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/187_ride_or_die.jpg"
+    "portada": "images/ps2/187_ride_or_die.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 102,
@@ -196,7 +318,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/18_ Eigteen_wheeler.jpg"
+    "portada": "images/ps2/18_ Eigteen_wheeler.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 103,
@@ -204,7 +332,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/CAll_of_Duty_World_at_War.jpg"
+    "portada": "images/ps2/CAll_of_Duty_World_at_War.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 104,
@@ -212,7 +346,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Crash_Bandicoot_wrath_cortex.jpg"
+    "portada": "images/ps2/Crash_Bandicoot_wrath_cortex.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 105,
@@ -220,7 +360,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Crash_guerra_coco_maniaco.jpg"
+    "portada": "images/ps2/Crash_guerra_coco_maniaco.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
   {
@@ -229,7 +375,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Crazy_taxi.jpg"
+    "portada": "images/ps2/Crazy_taxi.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 107,
@@ -237,7 +389,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/DOA2.jpg"
+    "portada": "images/ps2/DOA2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 108,
@@ -245,7 +403,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Devil_May_cry.jpg"
+    "portada": "images/ps2/Devil_May_cry.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 109,
@@ -253,7 +417,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Dogs_life.jpg"
+    "portada": "images/ps2/Dogs_life.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 110,
@@ -261,7 +431,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Evil_Twin.jpg"
+    "portada": "images/ps2/Evil_Twin.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 111,
@@ -269,7 +445,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Extermination.jpg"
+    "portada": "images/ps2/Extermination.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 112,
@@ -277,7 +459,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Eye_toy_Play.jpg"
+    "portada": "images/ps2/Eye_toy_Play.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 113,
@@ -285,7 +473,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/FIFA11.jpg"
+    "portada": "images/ps2/FIFA11.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 114,
@@ -293,7 +487,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Final_Fantasy_X.jpg"
+    "portada": "images/ps2/Final_Fantasy_X.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 115,
@@ -301,7 +501,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Final_Fantasy_X2.jpg"
+    "portada": "images/ps2/Final_Fantasy_X2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 116,
@@ -309,7 +515,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Final_Fantasy_XII.jpg"
+    "portada": "images/ps2/Final_Fantasy_XII.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 117,
@@ -317,7 +529,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/GRU_villano_favorito.jpg"
+    "portada": "images/ps2/GRU_villano_favorito.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 118,
@@ -325,7 +543,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/GT3.jpg"
+    "portada": "images/ps2/GT3.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 119,
@@ -333,7 +557,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/GT4.jpg"
+    "portada": "images/ps2/GT4.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 120,
@@ -341,7 +571,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/GTA.jpg"
+    "portada": "images/ps2/GTA.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 121,
@@ -349,7 +585,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Kingdom_hearts.jpg"
+    "portada": "images/ps2/Kingdom_hearts.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 122,
@@ -357,7 +599,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/LEGO_STAR_WARS.jpg"
+    "portada": "images/ps2/LEGO_STAR_WARS.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 123,
@@ -365,7 +613,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/La_leyenda_de Spyro.jpg"
+    "portada": "images/ps2/La_leyenda_de Spyro.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 124,
@@ -373,7 +627,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Lego_Indiana.jpg"
+    "portada": "images/ps2/Lego_Indiana.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 125,
@@ -381,7 +641,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Lego_Star_Wars2.jpg"
+    "portada": "images/ps2/Lego_Star_Wars2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 126,
@@ -389,7 +655,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Locos_por_surf.jpg"
+    "portada": "images/ps2/Locos_por_surf.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 127,
@@ -397,7 +669,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/motoGP.jpg"
+    "portada": "images/ps2/motoGP.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 128,
@@ -405,7 +683,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/MR_GOLF.jpg"
+    "portada": "images/ps2/MR_GOLF.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 129,
@@ -413,7 +697,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Monstruos_SA.jpg"
+    "portada": "images/ps2/Monstruos_SA.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 130,
@@ -421,7 +711,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Onimusha.jpg"
+    "portada": "images/ps2/Onimusha.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 131,
@@ -429,7 +725,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/PES2008.jpg"
+    "portada": "images/ps2/PES2008.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
     {
     "id": 132,
@@ -437,7 +739,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Pro_rally_2002.jpg"
+    "portada": "images/ps2/Pro_rally_2002.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 133,
@@ -445,7 +753,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/motoGP4.jpg"
+    "portada": "images/ps2/motoGP4.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 134,
@@ -453,7 +767,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/RAyman_raving_rabbids.jpg"
+    "portada": "images/ps2/RAyman_raving_rabbids.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 135,
@@ -461,7 +781,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Ratatouille.jpg"
+    "portada": "images/ps2/Ratatouille.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 137,
@@ -469,7 +795,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Ratchet_&_Clark_Tamaño_importa.jpg"
+    "portada": "images/ps2/Ratchet_&_Clark_Tamaño_importa.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 138,
@@ -477,7 +809,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Rayman_M.jpg"
+    "portada": "images/ps2/Rayman_M.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 139,
@@ -485,7 +823,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Resident_Evil4.jpg"
+    "portada": "images/ps2/Resident_Evil4.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 140,
@@ -493,7 +837,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Resident_Evil_code_Veronica.jpg"
+    "portada": "images/ps2/Resident_Evil_code_Veronica.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 141,
@@ -501,7 +851,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/SXR.jpg"
+    "portada": "images/ps2/SXR.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 142,
@@ -509,7 +865,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Señor_anillos_dos_torres.jpg"
+    "portada": "images/ps2/Señor_anillos_dos_torres.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 143,
@@ -517,7 +879,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Snooker_2002.jpg"
+    "portada": "images/ps2/Snooker_2002.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 144,
@@ -525,7 +893,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Socom.jpg"
+    "portada": "images/ps2/Socom.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 145,
@@ -533,7 +907,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Socom2.jpg"
+    "portada": "images/ps2/Socom2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 146,
@@ -541,7 +921,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Socom3.jpg"
+    "portada": "images/ps2/Socom3.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 147,
@@ -549,7 +935,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Socom_Combined_Assault.jpg"
+    "portada": "images/ps2/Socom_Combined_Assault.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 148,
@@ -557,7 +949,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Sonic_raiders.jpg"
+    "portada": "images/ps2/Sonic_raiders.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 149,
@@ -565,7 +963,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Speed_racer.jpg"
+    "portada": "images/ps2/Speed_racer.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 150,
@@ -573,7 +977,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Star_Wars_Battlefront.jpg"
+    "portada": "images/ps2/Star_Wars_Battlefront.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 151,
@@ -581,7 +991,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Star_Wars_Battlefront2.jpg"
+    "portada": "images/ps2/Star_Wars_Battlefront2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 152,
@@ -589,7 +1005,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Star_Wars_episodio_3.jpg"
+    "portada": "images/ps2/Star_Wars_episodio_3.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 153,
@@ -597,7 +1019,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Super_Bust_a_Move.jpg"
+    "portada": "images/ps2/Super_Bust_a_Move.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 154,
@@ -605,7 +1033,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Tarzan.jpg"
+    "portada": "images/ps2/Tarzan.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 155,
@@ -613,7 +1047,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Tekken4.jpg"
+    "portada": "images/ps2/Tekken4.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 156,
@@ -621,7 +1061,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Tekken_TAG.jpg"
+    "portada": "images/ps2/Tekken_TAG.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 157,
@@ -629,7 +1075,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/The_Bouncer.jpg"
+    "portada": "images/ps2/The_Bouncer.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 158,
@@ -637,7 +1089,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Think_fast.jpg"
+    "portada": "images/ps2/Think_fast.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 159,
@@ -645,7 +1103,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Toca_racer_driver_2.jpg"
+    "portada": "images/ps2/Toca_racer_driver_2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 160,
@@ -653,7 +1117,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/Tomb_Raide_Angel_oscuridad.jpg"
+    "portada": "images/ps2/Tomb_Raide_Angel_oscuridad.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 161,
@@ -661,7 +1131,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/homerun.jpg"
+    "portada": "images/ps2/homerun.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 162,
@@ -669,7 +1145,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/juiced2.jpg"
+    "portada": "images/ps2/juiced2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 163,
@@ -677,7 +1159,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/los_sims.jpg"
+    "portada": "images/ps2/los_sims.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 164,
@@ -685,7 +1173,13 @@
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps2/lotus_challenge.jpg"
+    "portada": "images/ps2/lotus_challenge.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg",
+      "images/ps2/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
 
@@ -699,7 +1193,13 @@
     "plataforma": "XBOX 360",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/xbox360/call_of_duty_modern.jpg"
+    "portada": "images/xbox360/call_of_duty_modern.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/xbox360/xxxxxxxxxxxx.jpeg",
+      "images/xbox360/xxxxxxxxxxxx.jpeg",
+      "images/xbox360/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 202,
@@ -707,7 +1207,13 @@
     "plataforma": "XBOX 360",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/xbox360/gear_of_war.jpg"
+    "portada": "images/xbox360/gear_of_war.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/xbox360/xxxxxxxxxxxx.jpeg",
+      "images/xbox360/xxxxxxxxxxxx.jpeg",
+      "images/xbox360/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 203,
@@ -715,7 +1221,13 @@
     "plataforma": "XBOX 360",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/xbox360/Kinect_Adeventures.jpg"
+    "portada": "images/xbox360/Kinect_Adeventures.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/xbox360/xxxxxxxxxxxx.jpeg",
+      "images/xbox360/xxxxxxxxxxxx.jpeg",
+      "images/xbox360/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
 
@@ -729,7 +1241,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/Everybodys_golf_world_tour.jpg"
+    "portada": "images/ps3/Everybodys_golf_world_tour.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 302,
@@ -737,7 +1255,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/FEAR.jpg"
+    "portada": "images/ps3/FEAR.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 303,
@@ -745,7 +1269,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/Final_fantasy_XIII.jpg"
+    "portada": "images/ps3/Final_fantasy_XIII.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 304,
@@ -753,7 +1283,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/God_of_war_ascension.jpg"
+    "portada": "images/ps3/God_of_war_ascension.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 305,
@@ -761,7 +1297,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/God_off_War_Triologia.jpg"
+    "portada": "images/ps3/God_off_War_Triologia.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 306,
@@ -769,7 +1311,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/Metal_colection.jpg"
+    "portada": "images/ps3/Metal_colection.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 307,
@@ -777,7 +1325,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/NBA_2k8.jpg"
+    "portada": "images/ps3/NBA_2k8.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 308,
@@ -785,7 +1339,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/Resistance.jpg"
+    "portada": "images/ps3/Resistance.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 309,
@@ -793,7 +1353,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/Socom_confrontation.jpg"
+    "portada": "images/ps3/Socom_confrontation.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 310,
@@ -801,7 +1367,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/bayonetta.jpg"
+    "portada": "images/ps3/bayonetta.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 311,
@@ -809,7 +1381,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/blazing_angels.jpg"
+    "portada": "images/ps3/blazing_angels.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 312,
@@ -817,7 +1395,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/f1_champ_edition.jpg"
+    "portada": "images/ps3/f1_champ_edition.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 313,
@@ -825,7 +1409,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/fifa10.jpg"
+    "portada": "images/ps3/fifa10.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 314,
@@ -833,7 +1423,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/gt5.jpg"
+    "portada": "images/ps3/gt5.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
    {
     "id": 315,
@@ -841,7 +1437,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/heavenly_sword.jpg"
+    "portada": "images/ps3/heavenly_sword.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   }, 
   {
     "id": 316,
@@ -849,7 +1451,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/heavy_rain.jpg"
+    "portada": "images/ps3/heavy_rain.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 317,
@@ -857,7 +1465,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/house_of_dead_overkill.jpg"
+    "portada": "images/ps3/house_of_dead_overkill.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 318,
@@ -865,7 +1479,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/killxone2.jpg"
+    "portada": "images/ps3/killxone2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 319,
@@ -873,7 +1493,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/killzone3.jpg"
+    "portada": "images/ps3/killzone3.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 320,
@@ -881,7 +1507,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/lollipop_chainsaw.jpg"
+    "portada": "images/ps3/lollipop_chainsaw.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 321,
@@ -889,7 +1521,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/metal_gear4.jpg"
+    "portada": "images/ps3/metal_gear4.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 322,
@@ -897,7 +1535,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/socom_special_forces.jpg"
+    "portada": "images/ps3/socom_special_forces.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 323,
@@ -905,7 +1549,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/resistance2.jpg"
+    "portada": "images/ps3/resistance2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 324,
@@ -913,7 +1563,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/stunman_ignition.jpg"
+    "portada": "images/ps3/stunman_ignition.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 325,
@@ -921,7 +1577,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/uncharted.jpg"
+    "portada": "images/ps3/uncharted.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 326,
@@ -929,7 +1591,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/uncharted2.jpg"
+    "portada": "images/ps3/uncharted2.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 327,
@@ -937,7 +1605,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/uncharted3.jpg"
+    "portada": "images/ps3/uncharted3.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 328,
@@ -945,7 +1619,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/Play_station_move.jpg"
+    "portada": "images/ps3/Play_station_move.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 329,
@@ -953,7 +1633,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/resistance3.jpg"
+    "portada": "images/ps3/resistance3.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
   {
@@ -962,7 +1648,13 @@
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps3/LANnoire.jpg"
+    "portada": "images/ps3/LANnoire.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
 
@@ -976,7 +1668,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/BloodStained.JPEG"
+    "portada": "images/ps4/BloodStained.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
 
   {
@@ -985,7 +1683,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/F1_2017.JPEG"
+    "portada": "images/ps4/F1_2017.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 403,
@@ -993,7 +1697,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/Ghost_of_tsushima.JPEG"
+    "portada": "images/ps4/Ghost_of_tsushima.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 404,
@@ -1001,7 +1711,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/Hades.JPEG"
+    "portada": "images/ps4/Hades.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 405,
@@ -1009,7 +1725,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/Star_wars_battlefront.JPEG"
+    "portada": "images/ps4/Star_wars_battlefront.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 406,
@@ -1017,7 +1739,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/Starklink.jpg"
+    "portada": "images/ps4/Starklink.jpg",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 407,
@@ -1025,7 +1753,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/cyberpunk2077.JPEG"
+    "portada": "images/ps4/cyberpunk2077.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 408,
@@ -1033,7 +1767,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/dredge.JPEG"
+    "portada": "images/ps4/dredge.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 409,
@@ -1041,7 +1781,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/driveclub.JPEG"
+    "portada": "images/ps4/driveclub.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 410,
@@ -1049,7 +1795,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/ghos_recon_breakpoint.JPEG"
+    "portada": "images/ps4/ghos_recon_breakpoint.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 411,
@@ -1057,7 +1809,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/gt7.JPEG"
+    "portada": "images/ps4/gt7.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 412,
@@ -1065,7 +1823,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/gt_sport.JPEG"
+    "portada": "images/ps4/gt_sport.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 413,
@@ -1073,7 +1837,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/guardianes_galaxia.JPEG"
+    "portada": "images/ps4/guardianes_galaxia.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 414,
@@ -1081,7 +1851,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/hollow_knight.JPEG"
+    "portada": "images/ps4/hollow_knight.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 415,
@@ -1089,7 +1865,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/jedi_fallen_order.JPEG"
+    "portada": "images/ps4/jedi_fallen_order.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 417,
@@ -1097,7 +1879,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/The_Evil_Withim.JPEG"
+    "portada": "images/ps4/The_Evil_Withim.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 418,
@@ -1105,7 +1893,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/The_Evil_Withim2.JPEG"
+    "portada": "images/ps4/The_Evil_Withim2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 419,
@@ -1113,7 +1907,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/The_last_of_us.JPEG"
+    "portada": "images/ps4/The_last_of_us.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 420,
@@ -1121,7 +1921,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/The_last_of_us2.JPEG"
+    "portada": "images/ps4/The_last_of_us2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 421,
@@ -1129,7 +1935,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/lego_marvel.JPEG"
+    "portada": "images/ps4/lego_marvel.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 422,
@@ -1137,7 +1949,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/uncharted4.JPEG"
+    "portada": "images/ps4/uncharted4.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 423,
@@ -1145,7 +1963,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/red_dead.JPEG"
+    "portada": "images/ps4/red_dead.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 424,
@@ -1153,7 +1977,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/god_war.JPEG"
+    "portada": "images/ps4/god_war.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 425,
@@ -1161,7 +1991,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/god_war_ragna.JPEG"
+    "portada": "images/ps4/god_war_ragna.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 426,
@@ -1169,7 +2005,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/titanfall2.JPEG"
+    "portada": "images/ps4/titanfall2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 427,
@@ -1177,7 +2019,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/ffxv.JPEG"
+    "portada": "images/ps4/ffxv.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 428,
@@ -1185,7 +2033,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/NBA2k15.JPEG"
+    "portada": "images/ps4/NBA2k15.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 429,
@@ -1193,7 +2047,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/singstarmega.JPEG"
+    "portada": "images/ps4/singstarmega.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 430,
@@ -1201,7 +2061,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/spyroremake.JPEG"
+    "portada": "images/ps4/spyroremake.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 431,
@@ -1209,7 +2075,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/soulcalibur6.JPEG"
+    "portada": "images/ps4/soulcalibur6.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 432,
@@ -1217,7 +2089,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/metal_gear_survive.JPEG"
+    "portada": "images/ps4/metal_gear_survive.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 433,
@@ -1225,7 +2103,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/motoGp17.JPEG"
+    "portada": "images/ps4/motoGp17.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 434,
@@ -1233,7 +2117,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/nier_automata.JPEG"
+    "portada": "images/ps4/nier_automata.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 435,
@@ -1241,7 +2131,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/nier_replicant.JPEG"
+    "portada": "images/ps4/nier_replicant.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 436,
@@ -1249,7 +2145,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/no_mans_sky.JPEG"
+    "portada": "images/ps4/no_mans_sky.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 437,
@@ -1257,7 +2159,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/prey.JPEG"
+    "portada": "images/ps4/prey.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 438,
@@ -1265,7 +2173,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/resident_evil2_remake.JPEG"
+    "portada": "images/ps4/resident_evil2_remake.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 439,
@@ -1273,7 +2187,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/resident_evil3_remake.JPEG"
+    "portada": "images/ps4/resident_evil3_remake.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 440,
@@ -1281,7 +2201,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/resident_evil5.JPEG"
+    "portada": "images/ps4/resident_evil5.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 441,
@@ -1289,7 +2215,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/resident_evil6.JPEG"
+    "portada": "images/ps4/resident_evil6.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 442,
@@ -1297,7 +2229,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/resident_evil_village.JPEG"
+    "portada": "images/ps4/resident_evil_village.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 443,
@@ -1305,7 +2243,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/resident_evilorigins_collection.JPEG"
+    "portada": "images/ps4/resident_evilorigins_collection.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 444,
@@ -1313,7 +2257,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/sifu.JPEG"
+    "portada": "images/ps4/sifu.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 445,
@@ -1321,7 +2271,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/tormented souls.JPEG"
+    "portada": "images/ps4/tormented souls.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 446,
@@ -1329,7 +2285,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/uncharted_legado_perdido.JPEG"
+    "portada": "images/ps4/uncharted_legado_perdido.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 447,
@@ -1337,7 +2299,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/unmetal.JPEG"
+    "portada": "images/ps4/unmetal.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 448,
@@ -1345,7 +2313,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/witcher3.JPEG"
+    "portada": "images/ps4/witcher3.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 449,
@@ -1353,7 +2327,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/yakuza_like_a_dragon.JPEG"
+    "portada": "images/ps4/yakuza_like_a_dragon.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },
   {
     "id": 450,
@@ -1361,7 +2341,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/song_of_horror.JPEG"
+    "portada": "images/ps4/song_of_horror.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg",
+      "images/ps4/xxxxxxxxxxxx.jpeg"
+    ]
   },  
 
   
@@ -1374,7 +2360,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Martha_is_Dead.JPEG"
+    "portada": "images/ps5/Martha_is_Dead.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 502,
@@ -1382,7 +2374,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Residen_Evil_Requiem.JPEG"
+    "portada": "images/ps5/Residen_Evil_Requiem.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 503,
@@ -1390,7 +2388,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Residen_Evil4_Remake.JPEG"
+    "portada": "images/ps5/Residen_Evil4_Remake.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 504,
@@ -1398,7 +2402,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Tormented_soul2.JPEG"
+    "portada": "images/ps5/Tormented_soul2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 505,
@@ -1406,7 +2416,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/FF_VII_Rebirth.JPEG"
+    "portada": "images/ps5/FF_VII_Rebirth.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 506,
@@ -1414,7 +2430,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Ghost_of_Yotei.JPEG"
+    "portada": "images/ps5/Ghost_of_Yotei.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 507,
@@ -1422,7 +2444,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth.JPEG"
+    "portada": "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 508,
@@ -1430,7 +2458,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/FFXVI.JPEG"
+    "portada": "images/ps5/FFXVI.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 509,
@@ -1438,7 +2472,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/FFVII_Remake.JPEG"
+    "portada": "images/ps5/FFVII_Remake.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 510,
@@ -1446,7 +2486,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Returnal.JPEG"
+    "portada": "images/ps5/Returnal.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 511,
@@ -1454,7 +2500,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/The_Stanley_parable.JPEG"
+    "portada": "images/ps5/The_Stanley_parable.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 512,
@@ -1462,7 +2514,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Prince_persia_lost_crown.JPEG"
+    "portada": "images/ps5/Prince_persia_lost_crown.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 513,
@@ -1470,7 +2528,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Stray.JPEG"
+    "portada": "images/ps5/Stray.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 514,
@@ -1478,7 +2542,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Horizon_Forbidden_West.JPEG"
+    "portada": "images/ps5/Horizon_Forbidden_West.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 515,
@@ -1486,7 +2556,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Hell_is_US.JPEG"
+    "portada": "images/ps5/Hell_is_US.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 516,
@@ -1494,7 +2570,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Tomb_Raider_Remastered.JPEG"
+    "portada": "images/ps5/Tomb_Raider_Remastered.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 517,
@@ -1502,7 +2584,13 @@
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps5/Alan_Wake2.JPEG"
+    "portada": "images/ps5/Alan_Wake2.JPEG",
+    "favorito": false,
+    "imagenes": [
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
+    ]
   },  
   {
     "id": 518,
@@ -1511,10 +2599,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/Jedi_suvirvor.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },  
   {
@@ -1524,10 +2613,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/Expedition33.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },  
   {
@@ -1537,10 +2627,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/Suicide_Squad.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },  
   {
@@ -1550,10 +2641,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/Robocop_Rogue_city.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },  
   {
@@ -1563,10 +2655,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/Kingdom_come_deliverance2.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },  
   {
@@ -1576,10 +2669,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/Sea_of_Strars.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },  
   {
@@ -1589,10 +2683,11 @@
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps5/resident_evil_village.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },   
   
@@ -1603,10 +2698,11 @@
     "prestadoA": "",
     "region": "PAL",
     "portada": "images/ps5/Soul_Reaver_Remastered.JPEG",
+    "favorito": false,
     "imagenes": [
-      "images/ps5/mgs-1.jpg",
-      "images/ps5/mgs-2.jpg",
-      "images/ps5/mgs-3.jpg"
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg",
+      "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   }
 ]
