@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Colección de Juegos</title>
+    <title>Mi Colección de Videojuegos</title>
 
     <link rel="stylesheet" href="css/style.css">
 </head>
@@ -30,9 +30,14 @@
             <option value="loaned">Solo prestados</option>
         </select>
 
+        <select id="favFilter">
+            <option value="">Todos</option>
+            <option value="fav">⭐ Solo favoritos</option>
+        </select>
+
     </div>
 
-    <p id="stats"></p>
+    <div id="stats"></div>
 
 </header>
 
@@ -41,6 +46,17 @@
     <div id="gamesContainer" class="games-grid"></div>
 
 </main>
+
+<!-- MODAL DETALLE -->
+<div id="modal" class="modal hidden">
+    <div class="modal-content">
+
+        <span class="close" onclick="cerrarModal()">✖</span>
+
+        <div id="modalBody"></div>
+
+    </div>
+</div>
 
 <script src="js/app.js"></script>
 
