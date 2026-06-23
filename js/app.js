@@ -313,10 +313,10 @@ function stats(){
         .sort()
         .forEach(p => {
 
-            html += `
+           html += `
                 <div class="stats-item">
                     <span>${p}</span>
-                    <span>${porPlataforma[p]}</span>
+                    <strong>${porPlataforma[p]}</strong>
                 </div>
             `;
         });
