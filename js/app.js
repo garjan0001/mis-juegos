@@ -195,20 +195,71 @@ function toggleFav(id) {
    DETALLE
 ========================= */
 
-function abrirDetalle(id) {
+function abrirDetalle(id){
 
-    const j = juegos.find(x=>x.id===id);
+    const j = juegos.find(x => x.id === id);
 
-    const imgs = j.imagenes?.length ? j.imagenes : [j.portada];
+    const imagenes =
+        j.imagenes && j.imagenes.length
+        ? j.imagenes
+        : [j.portada];
+
+    let galeria = "";
+
+    imagenes.forEach(img => {
+
+        galeria += `
+            <img
+                src="${img}"
+                class="detalle-thumb"
+                onclick="cambiarImagenPrincipal('${img}')"
+            >
+        `;
+    });
 
     document.getElementById("modalBody").innerHTML = `
+
         <h2>${j.titulo}</h2>
-        <img src="${imgs[0]}">
+
+        <img
+            id="imagenPrincipal"
+            src="${imagenes[0]}"
+            class="detalle-principal"
+        >
+
+        <div class="detalle-galeria">
+            ${galeria}
+        </div>
+
+        <hr>
+
         <p><b>Plataforma:</b> ${j.plataforma}</p>
-        <p><b>Estado:</b> ${j.prestadoA ? "Prestado a "+j.prestadoA : "Disponible"}</p>
+
+        <p><b>Región:</b> ${j.region}</p>
+
+        <p><b>Estado:</b>
+        ${j.prestadoA
+            ? "Prestado a " + j.prestadoA
+            : "Disponible"}
+        </p>
+
+        <p><b>Conservación:</b></p>
+
+        <p>
+            ${j.estado || "Sin información"}
+        </p>
+
+        <p><b>Descripción:</b></p>
+
+        <p>
+            ${j.descripcion || "Sin descripción"}
+        </p>
+
     `;
 
-    document.getElementById("modal").classList.remove("hidden");
+    document
+        .getElementById("modal")
+        .classList.remove("hidden");
 }
 
 window.cerrarModal = function(){
@@ -297,3 +348,10 @@ document
         }
 
     });
+function cambiarImagenPrincipal(url){
+
+    document
+        .getElementById("imagenPrincipal")
+        .src = url;
+
+}
