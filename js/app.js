@@ -1,16 +1,13 @@
 let juegos = [];
 
 /* =========================
-   CARGAR DATOS
+   CARGA
 ========================= */
 
 async function cargarDatos() {
 
-    const response = await fetch(
-        "data/juegos.json?v=" + Date.now()
-    );
-
-    juegos = await response.json();
+    const res = await fetch("data/juegos.json?v=" + Date.now());
+    juegos = await res.json();
 
     cargarPlataformas();
     renderizar();
@@ -22,24 +19,14 @@ async function cargarDatos() {
 
 function cargarPlataformas() {
 
-    const select =
-        document.getElementById("platformFilter");
+    const select = document.getElementById("platformFilter");
 
-    select.innerHTML =
-        '<option value="">Todas las plataformas</option>';
+    const plataformas = [...new Set(juegos.map(j => j.plataforma))];
 
-    const plataformas =
-        [...new Set(juegos.map(j => j.plataforma))];
+    select.innerHTML = `<option value="">Todas las plataformas</option>`;
 
     plataformas.sort().forEach(p => {
-
-        const option =
-            document.createElement("option");
-
-        option.value = p;
-        option.textContent = p;
-
-        select.appendChild(option);
+        select.innerHTML += `<option value="${p}">${p}</option>`;
     });
 }
 
@@ -47,24 +34,18 @@ function cargarPlataformas() {
    FILTROS
 ========================= */
 
-function obtenerLista() {
+function getFiltrados() {
 
-    const texto =
-        document.getElementById("search")
-            .value.toLowerCase();
-
-    const plataforma =
-        document.getElementById("platformFilter")
-            .value;
-
-    const orden =
-        document.getElementById("sortFilter")
-            .value;
+    const texto = document.getElementById("search").value.toLowerCase();
+    const plataforma = document.getElementById("platformFilter").value;
+    const fav = document.getElementById("favFilter").value;
+    const orden = document.getElementById("sortFilter").value;
 
     let lista = juegos.filter(j => {
 
         return j.titulo.toLowerCase().includes(texto) &&
-            (!plataforma || j.plataforma === plataforma);
+            (!plataforma || j.plataforma === plataforma) &&
+            (!fav || j.favorito);
     });
 
     if (orden === "available") {
@@ -76,18 +57,30 @@ function obtenerLista() {
     }
 
     if (orden === "az") {
-        lista.sort((a, b) =>
-            a.titulo.localeCompare(b.titulo, "es", { sensitivity: "base" })
-        );
+        lista.sort((a,b)=>a.titulo.localeCompare(b.titulo,"es"));
     }
 
     if (orden === "za") {
-        lista.sort((a, b) =>
-            b.titulo.localeCompare(a.titulo, "es", { sensitivity: "base" })
-        );
+        lista.sort((a,b)=>b.titulo.localeCompare(a.titulo,"es"));
     }
 
     return lista;
+}
+
+/* =========================
+   AGRUPAR
+========================= */
+
+function agrupar(lista) {
+
+    const grupos = {};
+
+    lista.forEach(j => {
+        if (!grupos[j.plataforma]) grupos[j.plataforma] = [];
+        grupos[j.plataforma].push(j);
+    });
+
+    return grupos;
 }
 
 /* =========================
@@ -96,111 +89,171 @@ function obtenerLista() {
 
 function renderizar() {
 
-    const lista = obtenerLista();
+    const lista = getFiltrados();
+    const grupos = agrupar(lista);
 
-    const container =
-        document.getElementById("gamesContainer");
+    const container = document.getElementById("gamesContainer");
 
     container.innerHTML = "";
 
-    lista.forEach(j => {
+    Object.keys(grupos).sort().forEach(plataforma => {
 
-        const imagenes =
-            j.imagenes && j.imagenes.length > 0
-                ? j.imagenes
-                : [j.portada];
+        container.innerHTML += `<h2 style="padding:10px">${plataforma}</h2>`;
 
-        container.innerHTML += `
-        <div class="game-card">
+        grupos[plataforma].forEach(j => {
 
-            <div class="image-container"
-                 onmouseenter="startPreview(this)"
-                 onmouseleave="stopPreview(this)">
+            const imgs = j.imagenes?.length ? j.imagenes : [j.portada];
 
-                <img
-                    src="${imagenes[0]}"
-                    data-images='${JSON.stringify(imagenes)}'
-                    alt="${j.titulo}"
-                    onerror="this.src='images/no-image.jpg'"
-                >
+            container.innerHTML += `
+            <div class="game-card" onclick="abrirDetalle(${j.id})">
 
-            </div>
+                <div class="image-container"
+                     onmouseenter="hoverStart(this)"
+                     onmouseleave="hoverStop(this)">
 
-            <div class="game-info">
+                    <img src="${imgs[0]}"
+                         data-images='${JSON.stringify(imgs)}'
+                         onerror="this.src='images/no-image.jpg'">
 
-                <div class="game-title">${j.titulo}</div>
-
-                <div class="platform">${j.plataforma}</div>
-
-                <div class="region">${j.region}</div>
-
-                <div class="prestamo">
-                    ${
-                        j.prestadoA
-                        ? `<span class="loaned">🔴 Prestado a ${j.prestadoA}</span>`
-                        : `<span class="available">🟢 Disponible</span>`
-                    }
                 </div>
 
-            </div>
+                <div class="game-info">
 
-        </div>
-        `;
+                    <div class="game-title">
+                        ${j.titulo}
+                        ${j.favorito ? "⭐" : ""}
+                    </div>
+
+                    <div class="platform">${j.plataforma}</div>
+
+                    <div class="region">${j.region}</div>
+
+                    <div>
+                        ${j.prestadoA
+                            ? `<span class="loaned">Prestado a ${j.prestadoA}</span>`
+                            : `<span class="available">Disponible</span>`
+                        }
+                    </div>
+
+                    <button onclick="event.stopPropagation(); toggleFav(${j.id})">
+                        ⭐ Favorito
+                    </button>
+
+                </div>
+
+            </div>`;
+        });
     });
 
-    document.getElementById("stats").textContent =
-        `Total juegos: ${lista.length}`;
+    stats();
 }
 
 /* =========================
-   HOVER GALERÍA
+   HOVER IMAGES
 ========================= */
 
 let intervalMap = new Map();
 
-function startPreview(container) {
+function hoverStart(el) {
 
-    const img = container.querySelector("img");
-
-    let images = JSON.parse(img.dataset.images);
+    const img = el.querySelector("img");
+    const images = JSON.parse(img.dataset.images);
 
     if (images.length <= 1) return;
 
     let i = 0;
 
-    intervalMap.set(img, setInterval(() => {
-
-        i = (i + 1) % images.length;
-
+    intervalMap.set(img, setInterval(()=>{
+        i = (i+1)%images.length;
         img.src = images[i];
-
-    }, 800));
+    },700));
 }
 
-function stopPreview(container) {
+function hoverStop(el) {
 
-    const img = container.querySelector("img");
+    const img = el.querySelector("img");
 
-    if (intervalMap.has(img)) {
-        clearInterval(intervalMap.get(img));
-        intervalMap.delete(img);
-    }
+    clearInterval(intervalMap.get(img));
 
-    let images = JSON.parse(img.dataset.images);
+    intervalMap.delete(img);
 
+    const images = JSON.parse(img.dataset.images);
     img.src = images[0];
 }
 
 /* =========================
-   EVENTOS
+   FAVORITOS
 ========================= */
 
-document.getElementById("search").addEventListener("input", renderizar);
-document.getElementById("platformFilter").addEventListener("change", renderizar);
-document.getElementById("sortFilter").addEventListener("change", renderizar);
+function toggleFav(id) {
+    const j = juegos.find(x=>x.id===id);
+    j.favorito = !j.favorito;
+    renderizar();
+}
 
 /* =========================
-   INICIO
+   DETALLE
+========================= */
+
+function abrirDetalle(id) {
+
+    const j = juegos.find(x=>x.id===id);
+
+    const imgs = j.imagenes?.length ? j.imagenes : [j.portada];
+
+    document.getElementById("modalBody").innerHTML = `
+        <h2>${j.titulo}</h2>
+        <img src="${imgs[0]}">
+        <p><b>Plataforma:</b> ${j.plataforma}</p>
+        <p><b>Estado:</b> ${j.prestadoA ? "Prestado a "+j.prestadoA : "Disponible"}</p>
+    `;
+
+    document.getElementById("modal").classList.remove("hidden");
+}
+
+function cerrarModal(){
+    document.getElementById("modal").classList.add("hidden");
+}
+
+/* =========================
+   ESTADÍSTICAS
+========================= */
+
+function stats(){
+
+    const total = juegos.length;
+    const prestados = juegos.filter(j=>j.prestadoA).length;
+
+    const por = {};
+
+    juegos.forEach(j=>{
+        por[j.plataforma]=(por[j.plataforma]||0)+1;
+    });
+
+    let html = `
+        <p>Total: ${total}</p>
+        <p>Prestados: ${prestados}</p>
+        <hr>
+    `;
+
+    Object.keys(por).forEach(k=>{
+        html += `<p>${k}: ${por[k]}</p>`;
+    });
+
+    document.getElementById("stats").innerHTML = html;
+}
+
+/* =========================
+   EVENTS
+========================= */
+
+document.getElementById("search").addEventListener("input",renderizar);
+document.getElementById("platformFilter").addEventListener("change",renderizar);
+document.getElementById("sortFilter").addEventListener("change",renderizar);
+document.getElementById("favFilter").addEventListener("change",renderizar);
+
+/* =========================
+   INIT
 ========================= */
 
 cargarDatos();
