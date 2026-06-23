@@ -1,7 +1,3 @@
-/* =========================
-   GENERAL
-========================= */
-
 *{
     margin:0;
     padding:0;
@@ -11,12 +7,10 @@
 body{
     font-family:Arial, Helvetica, sans-serif;
     background:#111;
-    color:white;
+    color:#fff;
 }
 
-/* =========================
-   HEADER
-========================= */
+/* HEADER */
 
 header{
     background:#1b1b1b;
@@ -30,9 +24,7 @@ h1{
     margin-bottom:15px;
 }
 
-/* =========================
-   CONTROLES
-========================= */
+/* CONTROLES */
 
 .controls{
     display:flex;
@@ -48,9 +40,7 @@ input, select{
     color:white;
 }
 
-/* =========================
-   GRID
-========================= */
+/* GRID */
 
 .games-grid{
     padding:20px;
@@ -59,26 +49,23 @@ input, select{
     gap:15px;
 }
 
-/* =========================
-   TARJETAS
-========================= */
+/* CARD */
 
 .game-card{
     background:#1f1f1f;
     border-radius:10px;
     overflow:hidden;
-    transition:transform 0.25s ease, box-shadow 0.25s ease;
+    transition:0.2s;
+    cursor:pointer;
 }
 
 .game-card:hover{
-    transform:scale(1.08);
-    box-shadow:0 0 25px rgba(0,0,0,0.8);
+    transform:scale(1.06);
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
     z-index:10;
 }
 
-/* =========================
-   IMAGEN
-========================= */
+/* IMAGE */
 
 .image-container{
     width:100%;
@@ -92,9 +79,7 @@ input, select{
     object-fit:cover;
 }
 
-/* =========================
-   INFO
-========================= */
+/* INFO */
 
 .game-info{
     padding:8px;
@@ -103,12 +88,6 @@ input, select{
 
 .game-title{
     font-weight:bold;
-    margin-bottom:6px;
-
-    display:-webkit-box;
-    -webkit-line-clamp:2;
-    -webkit-box-orient:vertical;
-    overflow:hidden;
     min-height:34px;
 }
 
@@ -118,18 +97,9 @@ input, select{
 
 .region{
     color:#00e676;
-    margin-top:4px;
 }
 
-/* =========================
-   PRESTAMO
-========================= */
-
-.prestamo{
-    margin-top:8px;
-    font-weight:bold;
-    font-size:13px;
-}
+/* ESTADO */
 
 .available{
     color:#00e676;
@@ -137,4 +107,39 @@ input, select{
 
 .loaned{
     color:#ff5252;
+}
+
+/* MODAL */
+
+.modal{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.85);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.modal.hidden{
+    display:none;
+}
+
+.modal-content{
+    background:#1b1b1b;
+    padding:20px;
+    width:90%;
+    max-width:700px;
+    border-radius:10px;
+}
+
+.close{
+    float:right;
+    cursor:pointer;
+    font-size:20px;
+}
+
+.modal img{
+    width:100%;
+    border-radius:10px;
+    margin-bottom:10px;
 }
