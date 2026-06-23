@@ -165,13 +165,63 @@ input, select{
 }
 
 .stats-panel{
-    min-width:220px;
-    background:#222;
-    border-radius:10px;
-    padding:12px;
-    font-size:14px;
-    line-height:1.6;
+
+    min-width:180px;
+    max-width:220px;
+
+    background:#1a1a1a;
+
     border:1px solid #333;
+
+    border-radius:8px;
+
+    padding:10px;
+
+    font-size:12px;
+
+    line-height:1.4;
+}
+
+.stats-panel h3{
+
+    font-size:14px;
+
+    margin-bottom:8px;
+
+    color:#4db6ff;
+}
+
+.stats-item{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-bottom:4px;
+}
+
+.stats-btn{
+
+    width:100%;
+
+    margin-top:8px;
+
+    padding:6px;
+
+    border:none;
+
+    border-radius:6px;
+
+    background:#2a2a2a;
+
+    color:white;
+
+    cursor:pointer;
+}
+
+.stats-btn:hover{
+
+    background:#3a3a3a;
 }
 
 .stats-panel h3{
