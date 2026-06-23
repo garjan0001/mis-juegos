@@ -15,32 +15,37 @@
 
     <h1>🎮 Mi Colección de Videojuegos</h1>
 
-    <div class="controls">
+    <div class="header-layout">
 
-        <input type="text" id="search" placeholder="Buscar juego...">
+        <div class="filters-panel">
 
-        <select id="platformFilter">
-            <option value="">Todas las plataformas</option>
-        </select>
+            <input type="text"
+                   id="search"
+                   placeholder="Buscar juego...">
 
-        <select id="sortFilter">
-            <option value="az">Nombre A-Z</option>
-            <option value="za">Nombre Z-A</option>
-            <option value="available">Solo disponibles</option>
-            <option value="loaned">Solo prestados</option>
-        </select>
+            <select id="platformFilter">
+                <option value="">Todas las plataformas</option>
+            </select>
 
-        <select id="favFilter">
-            <option value="">Todos</option>
-            <option value="fav">⭐ Solo favoritos</option>
-        </select>
+            <select id="sortFilter">
+                <option value="az">Nombre A-Z</option>
+                <option value="za">Nombre Z-A</option>
+                <option value="available">Solo disponibles</option>
+                <option value="loaned">Solo prestados</option>
+            </select>
+
+            <select id="favFilter">
+                <option value="">Todos</option>
+                <option value="fav">⭐ Solo favoritos</option>
+            </select>
+
+        </div>
+
+        <div id="stats" class="stats-panel"></div>
 
     </div>
 
-    <div id="stats"></div>
-
 </header>
-
 <main>
 
     <div id="gamesContainer" class="games-grid"></div>
