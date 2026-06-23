@@ -1,26 +1,1602 @@
 [
   {
     "id": 1,
-    "titulo": "Metal Gear Solid",
+    "titulo": "Gran Turismo",
     "plataforma": "PlayStation",
-    "region": "PAL ESP",
     "prestadoA": "",
-    "portada": "images/ps1/mgs-1.jpg",
-    "imagenes": [
-      "images/ps1/mgs-1.jpg",
-      "images/ps1/mgs-2.jpg",
-      "images/ps1/mgs-3.jpg"
-    ]
+    "region": "PAL ESP",
+    "portada": "images/ps1/Gran-Turismo.jpg"
   },
   {
     "id": 2,
-    "titulo": "Resident Evil 2",
+    "titulo": "NHL 2000",
     "plataforma": "PlayStation",
+    "prestadoA": "",
     "region": "PAL ESP",
-    "prestadoA": "Juan",
-    "portada": "images/ps1/re2.jpg",
+    "portada": "images/ps1/NHL_2000.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Parasite Eve 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Parasite_Eve_2.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Time Crisis",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Time_Crisis.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Hercules Disney",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Hescules_Disney.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Time Crisis Project Titan",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Time_Crisis_Project_Titan.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Spyro 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Spyro_2.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Point Bank",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Point_Bank.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Xmen 2 Mutant Academy",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Xmen_2.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Final Fantasy VI",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FF_VI.JPEG"
+  },
+  {
+    "id": 11,
+    "titulo": "Soulblade",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Soulblade.JPEG"
+  },
+  {
+    "id": 12,
+    "titulo": "Final Fantasy VII",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FFVII.JPEG"
+  },
+  {
+    "id": 13,
+    "titulo": "AIR COMBAT",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/AIR_COMBAT.JPEG"
+  },
+  {
+    "id": 14,
+    "titulo": "TEKKEN 3",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/TEKKEN3.JPEG"
+  },
+  {
+    "id": 15,
+    "titulo": "Final Fantasy IX",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FFIX.JPEG"
+  },
+  {
+    "id": 16,
+    "titulo": "Final Fantasy Anthology",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FF_Anthology.JPEG"
+  },
+  {
+    "id": 17,
+    "titulo": "Final Fantasy Origins",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FF_Origins.JPEG"
+  },
+  {
+    "id": 18,
+    "titulo": "Everybodys Golf 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Everybodys_golf2.JPEG"
+  },
+  {
+    "id": 19,
+    "titulo": "Tomb Raider 3",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Tomb_Raider3.JPEG"
+  },
+  {
+    "id": 20,
+    "titulo": "Tomb Raider 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Tomb_Raider2.JPEG"
+  },
+  {
+    "id": 21,
+    "titulo": "Tomb Raider",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Tomb_Raider.JPEG"
+  },
+
+
+
+  
+  
+  {
+    "id": 101,
+    "titulo": "187 Ride or Die",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/187_ride_or_die.jpg"
+  },
+  {
+    "id": 102,
+    "titulo": "18 Eigteen Wheeler",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/18_ Eigteen_wheeler.jpg"
+  },
+  {
+    "id": 103,
+    "titulo": "Call of Duty World at War",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/CAll_of_Duty_World_at_War.jpg"
+  },
+  {
+    "id": 104,
+    "titulo": "Crash Bandicoot Wrath Cortex",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Crash_Bandicoot_wrath_cortex.jpg"
+  },
+  {
+    "id": 105,
+    "titulo": "Crash Guerra al Coco Maniaco",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Crash_guerra_coco_maniaco.jpg"
+  },
+
+  {
+    "id": 106,
+    "titulo": "Crazy Taxi",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Crazy_taxi.jpg"
+  },
+  {
+    "id": 107,
+    "titulo": "Dead or Alive 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/DOA2.jpg"
+  },
+  {
+    "id": 108,
+    "titulo": "Devil May Cry",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Devil_May_cry.jpg"
+  },
+  {
+    "id": 109,
+    "titulo": "Dogs Life",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Dogs_life.jpg"
+  },
+  {
+    "id": 110,
+    "titulo": "Evil Twin",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Evil_Twin.jpg"
+  },
+  {
+    "id": 111,
+    "titulo": "Extermination",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Extermination.jpg"
+  },
+  {
+    "id": 112,
+    "titulo": "Eye Toy Play",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Eye_toy_Play.jpg"
+  },
+  {
+    "id": 113,
+    "titulo": "FIFA 11",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/FIFA11.jpg"
+  },
+  {
+    "id": 114,
+    "titulo": "Final Fantasy X",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Final_Fantasy_X.jpg"
+  },
+  {
+    "id": 115,
+    "titulo": "Final Fantasy X-2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Final_Fantasy_X2.jpg"
+  },
+  {
+    "id": 116,
+    "titulo": "Final Fantasy XII",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Final_Fantasy_XII.jpg"
+  },
+  {
+    "id": 117,
+    "titulo": "GRU Mi Villano Favorito",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GRU_villano_favorito.jpg"
+  },
+  {
+    "id": 118,
+    "titulo": "Gran Turismo 3",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GT3.jpg"
+  },
+  {
+    "id": 119,
+    "titulo": "Gran Turismo 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GT4.jpg"
+  },
+  {
+    "id": 120,
+    "titulo": "GTA San Andreas",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GTA.jpg"
+  },
+  {
+    "id": 121,
+    "titulo": "Kingdom Hearts",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Kingdom_hearts.jpg"
+  },
+  {
+    "id": 122,
+    "titulo": "LEGO STAR WARS",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/LEGO_STAR_WARS.jpg"
+  },
+  {
+    "id": 123,
+    "titulo": "La leyenda de Spyro",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/La_leyenda_de Spyro.jpg"
+  },
+  {
+    "id": 124,
+    "titulo": "Lego Indiana",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Lego_Indiana.jpg"
+  },
+  {
+    "id": 125,
+    "titulo": "Lego Star Wars 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Lego_Star_Wars2.jpg"
+  },
+  {
+    "id": 126,
+    "titulo": "Locos por el Surf",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Locos_por_surf.jpg"
+  },
+  {
+    "id": 127,
+    "titulo": "MotoGP",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/motoGP.jpg"
+  },
+  {
+    "id": 128,
+    "titulo": "MR_GOLF",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/MR_GOLF.jpg"
+  },
+  {
+    "id": 129,
+    "titulo": "Monstruos S.A.",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Monstruos_SA.jpg"
+  },
+  {
+    "id": 130,
+    "titulo": "Onimusha",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Onimusha.jpg"
+  },
+  {
+    "id": 131,
+    "titulo": "Pro Evolution Soccer 2008",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES2008.jpg"
+  },
+    {
+    "id": 132,
+    "titulo": "Pro Rally 2002",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Pro_rally_2002.jpg"
+  },
+  {
+    "id": 133,
+    "titulo": "MotoGP 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/motoGP4.jpg"
+  },
+  {
+    "id": 134,
+    "titulo": "Rayman Raving Rabbids",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/RAyman_raving_rabbids.jpg"
+  },
+  {
+    "id": 135,
+    "titulo": "Ratatouille",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Ratatouille.jpg"
+  },
+  {
+    "id": 137,
+    "titulo": "Ratchet & Clark El Tamaño importa",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Ratchet_&_Clark_Tamaño_importa.jpg"
+  },
+  {
+    "id": 138,
+    "titulo": "Rayman M",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Rayman_M.jpg"
+  },
+  {
+    "id": 139,
+    "titulo": "Resident Evil 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Resident_Evil4.jpg"
+  },
+  {
+    "id": 140,
+    "titulo": "Resident Evil Code Veronica",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Resident_Evil_code_Veronica.jpg"
+  },
+  {
+    "id": 141,
+    "titulo": "SXR",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SXR.jpg"
+  },
+  {
+    "id": 142,
+    "titulo": "El Señor de los anillos Las dos torres",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Señor_anillos_dos_torres.jpg"
+  },
+  {
+    "id": 143,
+    "titulo": "Snooker 2002",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Snooker_2002.jpg"
+  },
+  {
+    "id": 144,
+    "titulo": "Socom",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom.jpg"
+  },
+  {
+    "id": 145,
+    "titulo": "Socom 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom2.jpg"
+  },
+  {
+    "id": 146,
+    "titulo": "Socom 3",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom3.jpg"
+  },
+  {
+    "id": 147,
+    "titulo": "Socom Combined Assault",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom_Combined_Assault.jpg"
+  },
+  {
+    "id": 148,
+    "titulo": "Sonic raiders",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Sonic_raiders.jpg"
+  },
+  {
+    "id": 149,
+    "titulo": "Speed_racer",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Speed_racer.jpg"
+  },
+  {
+    "id": 150,
+    "titulo": "Star Wars Battlefront",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Star_Wars_Battlefront.jpg"
+  },
+  {
+    "id": 151,
+    "titulo": "Star Wars Battlefront 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Star_Wars_Battlefront2.jpg"
+  },
+  {
+    "id": 152,
+    "titulo": "Star_Wars_episodio_3",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Star_Wars_episodio_3.jpg"
+  },
+  {
+    "id": 153,
+    "titulo": "Super Bust a Move",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Super_Bust_a_Move.jpg"
+  },
+  {
+    "id": 154,
+    "titulo": "Tarzan",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tarzan.jpg"
+  },
+  {
+    "id": 155,
+    "titulo": "Tekken4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tekken4.jpg"
+  },
+  {
+    "id": 156,
+    "titulo": "Tekken_TAG",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tekken_TAG.jpg"
+  },
+  {
+    "id": 157,
+    "titulo": "The Bouncer",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/The_Bouncer.jpg"
+  },
+  {
+    "id": 158,
+    "titulo": "Think Fast",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Think_fast.jpg"
+  },
+  {
+    "id": 159,
+    "titulo": "Toca Racer Driver 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Toca_racer_driver_2.jpg"
+  },
+  {
+    "id": 160,
+    "titulo": "Tomb Raider el Angel de la Oscuridad",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tomb_Raide_Angel_oscuridad.jpg"
+  },
+  {
+    "id": 161,
+    "titulo": "Homerun",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/homerun.jpg"
+  },
+  {
+    "id": 162,
+    "titulo": "Juiced 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/juiced2.jpg"
+  },
+  {
+    "id": 163,
+    "titulo": "Los Sims",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/los_sims.jpg"
+  },
+  {
+    "id": 164,
+    "titulo": "Lotus Challenge",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/lotus_challenge.jpg"
+  },
+
+
+  
+  
+
+  
+  {
+    "id": 201,
+    "titulo": "Call of Duty Modern Warface",
+    "plataforma": "XBOX 360",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/xbox360/call_of_duty_modern.jpg"
+  },
+  {
+    "id": 202,
+    "titulo": "Gears of War",
+    "plataforma": "XBOX 360",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/xbox360/gear_of_war.jpg"
+  },
+  {
+    "id": 203,
+    "titulo": "Kinect Adeventures",
+    "plataforma": "XBOX 360",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/xbox360/Kinect_Adeventures.jpg"
+  },
+
+
+  
+
+  
+
+  {
+    "id": 301,
+    "titulo": "Everybodys Golf World Tour",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Everybodys_golf_world_tour.jpg"
+  },
+  {
+    "id": 302,
+    "titulo": "FEAR",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/FEAR.jpg"
+  },
+  {
+    "id": 303,
+    "titulo": "Final fantasy XIII",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Final_fantasy_XIII.jpg"
+  },
+  {
+    "id": 304,
+    "titulo": "God of War Ascension",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/God_of_war_ascension.jpg"
+  },
+  {
+    "id": 305,
+    "titulo": "God of War Triologia",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/God_off_War_Triologia.jpg"
+  },
+  {
+    "id": 306,
+    "titulo": "Metal Gear Colection VOL 1",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Metal_colection.jpg"
+  },
+  {
+    "id": 307,
+    "titulo": "NBA 2k8",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/NBA_2k8.jpg"
+  },
+  {
+    "id": 308,
+    "titulo": "Resistance",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Resistance.jpg"
+  },
+  {
+    "id": 309,
+    "titulo": "Socom Confrontation",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Socom_confrontation.jpg"
+  },
+  {
+    "id": 310,
+    "titulo": "Bayonetta",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/bayonetta.jpg"
+  },
+  {
+    "id": 311,
+    "titulo": "Blazing Angels",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/blazing_angels.jpg"
+  },
+  {
+    "id": 312,
+    "titulo": "F1 Champ Edition",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/f1_champ_edition.jpg"
+  },
+  {
+    "id": 313,
+    "titulo": "FIFA 10",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/fifa10.jpg"
+  },
+  {
+    "id": 314,
+    "titulo": "Gran Turismo 5",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/gt5.jpg"
+  },
+   {
+    "id": 315,
+    "titulo": "Heavenly Sword",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/heavenly_sword.jpg"
+  }, 
+  {
+    "id": 316,
+    "titulo": "Heavy Rain",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/heavy_rain.jpg"
+  },
+  {
+    "id": 317,
+    "titulo": "House of The Dead Overkill",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/house_of_dead_overkill.jpg"
+  },
+  {
+    "id": 318,
+    "titulo": "killxone 2",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/killxone2.jpg"
+  },
+  {
+    "id": 319,
+    "titulo": "killzone 3",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/killzone3.jpg"
+  },
+  {
+    "id": 320,
+    "titulo": "Lollipop Chainsaw",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/lollipop_chainsaw.jpg"
+  },
+  {
+    "id": 321,
+    "titulo": "Metal Gear 4",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/metal_gear4.jpg"
+  },
+  {
+    "id": 322,
+    "titulo": "Socom Special Forces",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/socom_special_forces.jpg"
+  },
+  {
+    "id": 323,
+    "titulo": "Resistance 2",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/resistance2.jpg"
+  },
+  {
+    "id": 324,
+    "titulo": "Stunman Ignition",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/stunman_ignition.jpg"
+  },
+  {
+    "id": 325,
+    "titulo": "Uncharted",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/uncharted.jpg"
+  },
+  {
+    "id": 326,
+    "titulo": "Uncharted 2",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/uncharted2.jpg"
+  },
+  {
+    "id": 327,
+    "titulo": "Uncharted 3",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/uncharted3.jpg"
+  },
+  {
+    "id": 328,
+    "titulo": "Play Station Move",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Play_station_move.jpg"
+  },
+  {
+    "id": 329,
+    "titulo": "Resistance 3",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/resistance3.jpg"
+  },
+
+  {
+    "id": 330,
+    "titulo": "L.A Noire",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/LANnoire.jpg"
+  },
+
+
+  
+
+
+  
+  {
+    "id": 401,
+    "titulo": "BloodStained",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/BloodStained.JPEG"
+  },
+
+  {
+    "id": 402,
+    "titulo": "F1 2017",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/F1_2017.JPEG"
+  },
+  {
+    "id": 403,
+    "titulo": "Ghost of Tsushima",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Ghost_of_tsushima.JPEG"
+  },
+  {
+    "id": 404,
+    "titulo": "Hades",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Hades.JPEG"
+  },
+  {
+    "id": 405,
+    "titulo": "Star Wars Battlefront",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Star_wars_battlefront.JPEG"
+  },
+  {
+    "id": 406,
+    "titulo": "Starklink",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Starklink.jpg"
+  },
+  {
+    "id": 407,
+    "titulo": "Cyberpunk 2077",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/cyberpunk2077.JPEG"
+  },
+  {
+    "id": 408,
+    "titulo": "Dredge",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/dredge.JPEG"
+  },
+  {
+    "id": 409,
+    "titulo": "Driveclub",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/driveclub.JPEG"
+  },
+  {
+    "id": 410,
+    "titulo": "Ghost Recon Breakpoint",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/ghos_recon_breakpoint.JPEG"
+  },
+  {
+    "id": 411,
+    "titulo": "Gran Turismo 7",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/gt7.JPEG"
+  },
+  {
+    "id": 412,
+    "titulo": "Gran Turismo Sport",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/gt_sport.JPEG"
+  },
+  {
+    "id": 413,
+    "titulo": "Guardianes de la galaxia",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/guardianes_galaxia.JPEG"
+  },
+  {
+    "id": 414,
+    "titulo": "Hollow Knight",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/hollow_knight.JPEG"
+  },
+  {
+    "id": 415,
+    "titulo": "Jedi Fallen order",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/jedi_fallen_order.JPEG"
+  },
+  {
+    "id": 417,
+    "titulo": "The Evil Withim",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/The_Evil_Withim.JPEG"
+  },
+  {
+    "id": 418,
+    "titulo": "The Evil Withim 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/The_Evil_Withim2.JPEG"
+  },
+  {
+    "id": 419,
+    "titulo": "The Last of Us",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/The_last_of_us.JPEG"
+  },
+  {
+    "id": 420,
+    "titulo": "The Last of Us 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/The_last_of_us2.JPEG"
+  },
+  {
+    "id": 421,
+    "titulo": "Lego Marvel",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/lego_marvel.JPEG"
+  },
+  {
+    "id": 422,
+    "titulo": "Uncharted 4",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/uncharted4.JPEG"
+  },
+  {
+    "id": 423,
+    "titulo": "Red Dead Rendemtion",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/red_dead.JPEG"
+  },
+  {
+    "id": 424,
+    "titulo": "God of War",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/god_war.JPEG"
+  },
+  {
+    "id": 425,
+    "titulo": "God of War Ragnarok",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/god_war_ragna.JPEG"
+  },
+  {
+    "id": 426,
+    "titulo": "Titan Fall 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/titanfall2.JPEG"
+  },
+  {
+    "id": 427,
+    "titulo": "Final Fantasy XV",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/ffxv.JPEG"
+  },
+  {
+    "id": 428,
+    "titulo": "NBA 2k15",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/NBA2k15.JPEG"
+  },
+  {
+    "id": 429,
+    "titulo": "SingStar Megahits",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/singstarmega.JPEG"
+  },
+  {
+    "id": 430,
+    "titulo": "Spyro Remake",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/spyroremake.JPEG"
+  },
+  {
+    "id": 431,
+    "titulo": "Soul Calibur VI",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/soulcalibur6.JPEG"
+  },
+  {
+    "id": 432,
+    "titulo": "Metal Gear Survive",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/metal_gear_survive.JPEG"
+  },
+  {
+    "id": 433,
+    "titulo": "MotoGp17",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/motoGp17.JPEG"
+  },
+  {
+    "id": 434,
+    "titulo": "Nier Automata",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/nier_automata.JPEG"
+  },
+  {
+    "id": 435,
+    "titulo": "Nier Replicant",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/nier_replicant.JPEG"
+  },
+  {
+    "id": 436,
+    "titulo": "No Mans Sky",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/no_mans_sky.JPEG"
+  },
+  {
+    "id": 437,
+    "titulo": "Prey",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/prey.JPEG"
+  },
+  {
+    "id": 438,
+    "titulo": "Resident Evil 2 Remake",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil2_remake.JPEG"
+  },
+  {
+    "id": 439,
+    "titulo": "Resident Evil 3 remake",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil3_remake.JPEG"
+  },
+  {
+    "id": 440,
+    "titulo": "Resident Evil 5",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil5.JPEG"
+  },
+  {
+    "id": 441,
+    "titulo": "Resident Evil 6",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil6.JPEG"
+  },
+  {
+    "id": 442,
+    "titulo": "Resident Evil VII",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil_village.JPEG"
+  },
+  {
+    "id": 443,
+    "titulo": "Resident Evil Origins Collection",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evilorigins_collection.JPEG"
+  },
+  {
+    "id": 444,
+    "titulo": "Sifu",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/sifu.JPEG"
+  },
+  {
+    "id": 445,
+    "titulo": "Tormented Souls",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/tormented souls.JPEG"
+  },
+  {
+    "id": 446,
+    "titulo": "Uncharted El legado perdido",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/uncharted_legado_perdido.JPEG"
+  },
+  {
+    "id": 447,
+    "titulo": "Unmetal",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/unmetal.JPEG"
+  },
+  {
+    "id": 448,
+    "titulo": "The Witcher 3",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/witcher3.JPEG"
+  },
+  {
+    "id": 449,
+    "titulo": "Yakuza like a dragon",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/yakuza_like_a_dragon.JPEG"
+  },
+  {
+    "id": 450,
+    "titulo": "Song of Horror",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/song_of_horror.JPEG"
+  },  
+
+  
+
+  
+  
+  {
+    "id": 501,
+    "titulo": "Martha is Dead",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Martha_is_Dead.JPEG"
+  },  
+  {
+    "id": 502,
+    "titulo": "Resident Evil Requiem",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Residen_Evil_Requiem.JPEG"
+  },  
+  {
+    "id": 503,
+    "titulo": "Resident Evil 4 Remake",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Residen_Evil4_Remake.JPEG"
+  },  
+  {
+    "id": 504,
+    "titulo": "Tormented Soul 2",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Tormented_soul2.JPEG"
+  },  
+  {
+    "id": 505,
+    "titulo": "Final Fantasy VII Rebirth",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/FF_VII_Rebirth.JPEG"
+  },  
+  {
+    "id": 506,
+    "titulo": "Ghost of Yotei",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Ghost_of_Yotei.JPEG"
+  },  
+  {
+    "id": 507,
+    "titulo": "YAkuza Like a Dragon Infinite Wealth",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth.JPEG"
+  },  
+  {
+    "id": 508,
+    "titulo": "Final Fantasy XVI",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/FFXVI.JPEG"
+  },  
+  {
+    "id": 509,
+    "titulo": "Final Fantasy VII Remake",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/FFVII_Remake.JPEG"
+  },  
+  {
+    "id": 510,
+    "titulo": "Returnal",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Returnal.JPEG"
+  },  
+  {
+    "id": 511,
+    "titulo": "The Stanley Parable",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/The_Stanley_parable.JPEG"
+  },  
+  {
+    "id": 512,
+    "titulo": "Prince Persia Lost Crown",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Prince_persia_lost_crown.JPEG"
+  },  
+  {
+    "id": 513,
+    "titulo": "Stray",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Stray.JPEG"
+  },  
+  {
+    "id": 514,
+    "titulo": "Horizon Forbidden West",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Horizon_Forbidden_West.JPEG"
+  },  
+  {
+    "id": 515,
+    "titulo": "Hell is US",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Hell_is_US.JPEG"
+  },  
+  {
+    "id": 516,
+    "titulo": "Tomb Raider Remastered",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Tomb_Raider_Remastered.JPEG"
+  },  
+  {
+    "id": 517,
+    "titulo": "Alan Wake 2",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Alan_Wake2.JPEG"
+  },  
+  {
+    "id": 518,
+    "titulo": "Jedi Suvirvor",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Jedi_suvirvor.JPEG",
     "imagenes": [
-      "images/ps1/re2.jpg"
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },  
+  {
+    "id": 519,
+    "titulo": "Expedition 33",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Expedition33.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },  
+  {
+    "id": 520,
+    "titulo": "Suicide Squad",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Suicide_Squad.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },  
+  {
+    "id": 521,
+    "titulo": "Robocop Rogue City",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Robocop_Rogue_city.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },  
+  {
+    "id": 522,
+    "titulo": "Kingdom Come Deliverance 2",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Kingdom_come_deliverance2.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },  
+  {
+    "id": 523,
+    "titulo": "Sea_of_Stars",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Sea_of_Strars.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },  
+  {
+    "id": 525,
+    "titulo": "Resident Evil VILLage",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/resident_evil_village.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
+    ]
+  },   
+  
+  {
+    "id": 524,
+    "titulo": "Soul Reaver Remastered",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL",
+    "portada": "images/ps5/Soul_Reaver_Remastered.JPEG",
+    "imagenes": [
+      "images/ps5/mgs-1.jpg",
+      "images/ps5/mgs-2.jpg",
+      "images/ps5/mgs-3.jpg"
     ]
   }
 ]
