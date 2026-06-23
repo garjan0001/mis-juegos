@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulo": "Metal Gear Solid",
+    "plataforma": "PlayStation",
+    "region": "PAL ESP",
+    "prestadoA": "",
+    "portada": "images/ps1/mgs-1.jpg",
+    "imagenes": [
+      "images/ps1/mgs-1.jpg",
+      "images/ps1/mgs-2.jpg",
+      "images/ps1/mgs-3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Resident Evil 2",
+    "plataforma": "PlayStation",
+    "region": "PAL ESP",
+    "prestadoA": "Juan",
+    "portada": "images/ps1/re2.jpg",
+    "imagenes": [
+      "images/ps1/re2.jpg"
+    ]
+  }
+]
