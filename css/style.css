@@ -143,3 +143,58 @@ input, select{
     border-radius:10px;
     margin-bottom:10px;
 }
+/* =========================
+   CABECERA AVANZADA
+========================= */
+
+.header-layout{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-start;
+    gap:20px;
+}
+
+.filters-panel{
+    display:flex;
+    flex-wrap:wrap;
+    gap:10px;
+    flex:1;
+}
+
+.stats-panel{
+    min-width:220px;
+    background:#222;
+    border-radius:10px;
+    padding:12px;
+    font-size:14px;
+    line-height:1.6;
+    border:1px solid #333;
+}
+
+.stats-panel h3{
+    margin-bottom:8px;
+    color:#4db6ff;
+}
+
+.stats-item{
+    display:flex;
+    justify-content:space-between;
+}
+
+.stats-total{
+    font-weight:bold;
+    color:#00e676;
+}
+
+/* MÓVIL */
+
+@media (max-width:900px){
+
+    .header-layout{
+        flex-direction:column;
+    }
+
+    .stats-panel{
+        width:100%;
+    }
+}
