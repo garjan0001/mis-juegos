@@ -24,12 +24,13 @@
     "region": "PAL ESP",
     "portada": "images/ps1/NHL_2000.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Caja rota, se separa la parte frontal de la posterior. Disco y manual en buen estado",
     "descripcion": "NHL 2000 es un videojuego de simulación de hockey sobre hielo lanzado por EA Sports en 1999 para la consola PlayStation 1 (PS1). Actúa como el sucesor directo de NHL 99, ofreciendo plantillas actualizadas y modos de juego profundos basados en la licencia oficial de la National Hockey League estadounidense.",
     "imagenes": [
       "images/ps1/NHL_2000.jpg",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/NHL_2000-inside-.jpeg",
+      "images/ps1/NHL_2000-back-.jpeg",
+      "images/ps1/NHL_2000-side-.jpeg"
     ]
   },
   {
@@ -40,12 +41,13 @@
     "region": "PAL ESP",
     "portada": "images/ps1/Parasite_Eve_2.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado todo. Manual completo y dos discos correctos",
     "descripcion": "Parasite Eve II es un videojuego de terror y acción RPG lanzado por Squaresoft en 1999 (Japón) y 2000 (Occidente) para la PlayStation 1. Esta secuela directa cambia el enfoque estratégico de la primera entrega por un estilo mucho más cercano al survival horror cinematográfico de la saga Resident Evil.",
     "imagenes": [
       "images/ps1/Parasite_Eve_2.jpg",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/Parasite_Eve_2-back-.jpeg",
+      "images/ps1/Parasite_Eve_2-inside-.jpeg",
+      "images/ps1/Parasite_Eve_2-side-.jpeg"
     ]
   },
   {
@@ -56,12 +58,13 @@
     "region": "PAL ESP",
     "portada": "images/ps1/Time_Crisis.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado todo. Manual completo y disco correcto",
     "descripcion": "Time Crisis es un videojuego de disparos sobre raíles en primera persona lanzado por Namco para la PlayStation 1 en 1997. Es la conversión directa del exitoso juego de arcade de 1995, famoso por revolucionar el género gracias a su sistema dinámico de cobertura y su estricto límite de tiempo.",
     "imagenes": [
       "images/ps1/Time_Crisis.jpg",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/Time_Crisis-inside-.jpeg",
+      "images/ps1/Time_Crisis-back-.jpeg",
+      "images/ps1/Time_Crisis-side-.jpeg"
     ]
   },
   {
@@ -76,8 +79,9 @@
     "descripcion": "Disney's Hércules (oficialmente titulado Disney's Action Game Featuring Hercules) es un videojuego de plataformas lanzado por Disney Interactive en 1997 para la PlayStation 1. Basado fielmente en la película animada del mismo año, el juego destaca por su fiel recreación visual y por ser uno de los títulos más recordados y accesibles de la consola.",
     "imagenes": [
       "images/ps1/Hescules_Disney.jpg",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/Hescules_Disney-inside-.jpeg",
+      "images/ps1/Hescules_Disney-back-.jpeg",
+      "images/ps1/Hescules_Disney-side-.jpeg"
     ]
   },
   {
