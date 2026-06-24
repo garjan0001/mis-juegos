@@ -2671,14 +2671,14 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps4/song_of_horror.JPEG",
+    "portada": "images/ps4/song_of_horror_[front].JPEG",
     "favorito": false,
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/song_of_horror_[front].jpeg",
+      "images/ps4/song_of_horror_[back].jpeg",
+      "images/ps4/song_of_horror_[side].jpeg"
     ]
   },  
 
