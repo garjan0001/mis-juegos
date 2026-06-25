@@ -46,8 +46,7 @@
     "imagenes": [
       "images/ps1/Parasite_Eve_2.jpg",
       "images/ps1/Parasite_Eve_2-back-.jpeg",
-      "images/ps1/Parasite_Eve_2-inside-.jpeg",
-      "images/ps1/Parasite_Eve_2-side-.jpeg"
+      "images/ps1/Parasite_Eve_2-inside-.jpeg"
     ]
   },
   {
@@ -130,8 +129,7 @@
     "imagenes": [
       "images/ps1/Point_Bank.jpg",
       "images/ps1/Point_Bank-inside-.jpeg",
-      "images/ps1/Point_Bank-back-.jpeg",
-      "images/ps1/Point_Bank-side-.jpeg"
+      "images/ps1/Point_Bank-back-.jpeg"
     ]
   },
   {
@@ -163,8 +161,7 @@
     "descripcion": "Final Fantasy VI es un videojuego de rol clásico (RPG) desarrollado y publicado por Squaresoft, lanzado originalmente en 1994 para la consola Super Nintendo (SNES) y adaptado posteriormente a la PlayStation 1 (PS1) en 1999. Es considerado de forma unánime como una de las obras maestras absolutas de la historia de los videojuegos gracias a su madura narrativa, su inolvidable banda sonora compuesta por Nobuo Uematsu y uno de los elencos de personajes más corales del género ",
     "imagenes": [
       "images/ps1/FF_VI.JPEG",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/FF_VI-inside.jpeg"
     ]
   },
   {
@@ -179,8 +176,9 @@
     "descripcion": "Soul Blade (conocido en Japón como Soul Edge) es un videojuego de lucha en 3D desarrollado por Namco y lanzado para la PlayStation 1 en 1996. Este título —adaptado de la recreativa de 1995— es la entrega fundacional de la aclamada saga de lucha armamentística Soulcalibur, convirtiéndose al instante en uno de los mayores hitos técnicos y jugables de la consola.",
     "imagenes": [
       "images/ps1/Soulblade.JPEG",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/Soulblade-inside-.jpeg",
+      "images/ps1/Soulblade-back-.jpeg",
+      "images/ps1/oulblade-side-.jpeg"
     ]
   },
   {
@@ -195,8 +193,10 @@
     "descripcion": "Final Fantasy VII es un legendario videojuego de rol (RPG) desarrollado por Squaresoft y lanzado para la PlayStation 1 en 1997. Fue el título que revolucionó la industria al popularizar los JRPG en Occidente, convirtiéndose en el estándar técnico de su generación y en uno de los juegos más influyentes de la historia.",
     "imagenes": [
       "images/ps1/FFVII.JPEG",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/FFVII-inside1.jpeg",
+      "images/ps1/FFVII-inside2.jpeg",
+      "images/ps1/FFVII-back.jpeg",
+      "images/ps1/FFVII-side.jpeg"
     ]
   },
   {
@@ -211,8 +211,8 @@
     "descripcion": "Air Combat (conocido en Japón como Ace Combat) es un videojuego de simulación de combate aéreo arcade lanzado por Namco en 1995 para la PlayStation 1. Es el título fundacional de la legendaria y longeva franquicia Ace Combat, adaptado directamente de la exitosa máquina recreativa homónima de 1993 para convertirse en uno de los juegos de lanzamiento más importantes de la consola.",
     "imagenes": [
       "images/ps1/AIR_COMBAT.JPEG",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/AIR_COMBAT-inside.jpeg",
+      "images/ps1/AIR_COMBAT-back.jpeg"
     ]
   },
   {
