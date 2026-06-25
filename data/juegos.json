@@ -75,13 +75,13 @@
     "region": "PAL ESP",
     "portada": "images/ps1/Hescules_Disney.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Caja deteriorada con golpes y cierre dañado. Manual y disco en buenas condiciones",
     "descripcion": "Disney's Hércules (oficialmente titulado Disney's Action Game Featuring Hercules) es un videojuego de plataformas lanzado por Disney Interactive en 1997 para la PlayStation 1. Basado fielmente en la película animada del mismo año, el juego destaca por su fiel recreación visual y por ser uno de los títulos más recordados y accesibles de la consola.",
     "imagenes": [
       "images/ps1/Hescules_Disney.jpg",
       "images/ps1/Hescules_Disney-inside-.jpeg",
-      "images/ps1/Hescules_Disney-back-.jpeg",
-      "images/ps1/Hescules_Disney-side-.jpeg"
+      "images/ps1/Hescules_Disney-ack-.jpeg",
+      "images/ps1/Hescules_Disney-side.jpeg"
     ]
   },
   {
@@ -96,8 +96,9 @@
     "descripcion": "Time Crisis: Project Titan es un videojuego de disparos sobre raíles lanzado en 2001 en exclusiva para la PlayStation 1. A diferencia de las entregas numeradas, este título no nació en los salones recreativos, sino que fue desarrollado por Flying Edge y publicado por Namco específicamente para el mercado doméstico, sirviendo como secuela directa del primer juego de PS1.",
     "imagenes": [
       "images/ps1/Time_Crisis_Project_Titan.jpg",
-      "images/ps1/xxxxxxxxxxxx.jpeg",
-      "images/ps1/xxxxxxxxxxxx.jpeg"
+      "images/ps1/Time_Crisis_Project_Titan-inside-.jpeg",
+      "images/ps1/Time_Crisis_Project_Titan-back-.jpeg",
+      "images/ps1/Time_Crisis_Project_Titan-side-.jpeg"
     ]
   },
   {
