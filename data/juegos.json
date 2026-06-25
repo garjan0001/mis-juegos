@@ -1879,22 +1879,6 @@
     ]
   },
 
-  {
-    "id": 330,
-    "titulo": "L.A Noire",
-    "plataforma": "PlayStation 3",
-    "prestadoA": "",
-    "region": "PAL ESP",
-    "portada": "images/ps3/LANnoire.jpg",
-    "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
-    ]
-  },
 
 
   
