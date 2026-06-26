@@ -393,12 +393,11 @@
     "region": "PAL ESP",
     "portada": "images/ps2/CAll_of_Duty_World_at_War.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": " Call of Duty: World at War lanzado en 2008, la mayoría recuerda las versiones de Xbox 360, PS3 o PC. Sin embargo, para la PlayStation 2 se lanzó una versión completamente única y diferente titulada oficialmente Call of Duty: World at War – Final Fronts",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/CAll_of_Duty_World_at_War.jpg",
+      "images/ps2/CAll_of_Duty_World_at_War-back.JPEG"
     ]
   },
   {
@@ -409,12 +408,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Crash_Bandicoot_wrath_cortex.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Crash Bandicoot: The Wrath of Cortex (lanzado como Crash Bandicoot: La venganza de Cortex en español) es un videojuego de plataformas lanzado en 2001 para la PlayStation 2. Fue un título histórico para la franquicia, ya que fue el primer juego principal de la saga que no fue desarrollado por Naughty Dog (sino por Traveller's Tales) y el primero en saltar a una consola de nueva generación.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Crash_Bandicoot_wrath_cortex.jpg",
+      "images/ps2/Crash_Bandicoot_wrath_cortex-inside.JPEG",
+      "images/ps2/Crash_Bandicoot_wrath_cortex-back.JPEG"
     ]
   },
   {
@@ -425,12 +424,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Crash_guerra_coco_maniaco.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Crash: ¡Guerra al Coco-Maníaco! (conocido en América Latina como Crash: Mind over Mutant) es un videojuego de acción, aventura y plataformas lanzado en 2008 para la PlayStation 2. Desarrollado por Radical Entertainment y distribuido por Activision, es la secuela directa de Crash of the Titans y el decimoquinto juego de la franquicia.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Crash_guerra_coco_maniaco.jpg",
+      "images/ps2/Crash_guerra_coco_maniaco-inside.JPEG",
+      "images/ps2/Crash_guerra_coco_maniaco-back.JPEG"
     ]
   },
 
@@ -442,12 +441,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Crazy_taxi.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Crazy Taxi es uno de los juegos de conducción arcade más icónicos de la historia. Desarrollado originalmente por el estudio Hitmaker (Sega) para recreativas y Dreamcast, fue adaptado con un éxito brutal a la PlayStation 2 en el año 2001.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Crazy_taxi.jpg",
+      "images/ps2/Crazy_taxi-inside.JPEG",
+      "images/ps2/Crazy_taxi-back.JPEG"
     ]
   },
   {
