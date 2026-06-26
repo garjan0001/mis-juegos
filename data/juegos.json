@@ -377,12 +377,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/18_ Eigteen_wheeler.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "18 Wheeler: American Pro Trucker es un clásico juego de simulación de conducción de camiones arcade, desarrollado originalmente por Sega AM2 y llevado a la PlayStation 2 en 2001.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/18_ Eigteen_wheeler.jpg",
+      "images/ps2/18_ Eigteen_wheeler-inside.jpeg",
+      "images/ps2/18_ Eigteen_wheeler-back.jpeg"
     ]
   },
   {
@@ -538,12 +538,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Eye_toy_Play.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "caja un poco marcada con daños. interior con la camará",
+    "descripcion": "EyeToy: Play es un videojuego de minijuegos familiares lanzado en 2003 por Sony. Fue el título que estrenó y popularizó la cámara EyeToy, convirtiendo al jugador en el propio mando mucho antes de que existieran la Wii o Kinect",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Eye_toy_Play.jpg",
+      "images/ps2/Eye_toy_Play-side.jpeg",
+      "images/ps2/Eye_toy_Play-back.jpeg"
     ]
   },
   {
@@ -1376,12 +1376,12 @@
     "region": "PAL ESP",
     "portada": "images/xbox360/call_of_duty_modern.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "Videojuego de disparos en primera persona desarrollado por Infinity Ward y lanzado en 2007 para la Xbox 360. Fue el título que abandonó de forma definitiva la temática de la Segunda Guerra Mundial para sumergirse en los conflictos bélicos contemporáneos.",
     "imagenes": [
       "images/xbox360/xxxxxxxxxxxx.jpeg",
-      "images/xbox360/xxxxxxxxxxxx.jpeg",
-      "images/xbox360/xxxxxxxxxxxx.jpeg"
+      "images/xbox360/call_of_duty_modern-inside.JPEG",
+      "images/xbox360/call_of_duty_modern-back.JPEG"
     ]
   },
   {
@@ -1392,12 +1392,12 @@
     "region": "PAL ESP",
     "portada": "images/xbox360/gear_of_war.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "Gears of War es un videojuego de disparos táctico lanzado en 2006 por Epic Games y publicado por Microsoft Game Studios en exclusiva para la Xbox 360. Se convirtió de inmediato en el motor gráfico de la consola (usando el Unreal Engine 3) y en el mayor rival de Halo en el catálogo de Xbox.",
     "imagenes": [
-      "images/xbox360/xxxxxxxxxxxx.jpeg",
-      "images/xbox360/xxxxxxxxxxxx.jpeg",
-      "images/xbox360/xxxxxxxxxxxx.jpeg"
+      "images/xbox360/gear_of_war.jpg",
+      "images/xbox360/gear_of_war-inside.JPEG",
+      "images/xbox360/gear_of_war-back.JPEG"
     ]
   },
   {
@@ -1408,12 +1408,12 @@
     "region": "PAL ESP",
     "portada": "images/xbox360/Kinect_Adeventures.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "Kinect Adventures! es un videojuego de aventuras y deportes lanzado en 2010 por Microsoft Game Studios en exclusiva para la Xbox 360. Fue el título estrella incluido de regalo con cada sensor Kinect, convirtiéndose en el juego más vendido de la historia de la consola con más de 24 millones de copias",
     "imagenes": [
-      "images/xbox360/xxxxxxxxxxxx.jpeg",
-      "images/xbox360/xxxxxxxxxxxx.jpeg",
-      "images/xbox360/xxxxxxxxxxxx.jpeg"
+      "images/xbox360/Kinect_Adeventures.jpg",
+      "images/xbox360/Kinect Adeventures-inside.JPEG",
+      "images/xbox360/Kinect Adeventures-back.JPEG"
     ]
   },
 
