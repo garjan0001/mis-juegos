@@ -361,12 +361,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/187_ride_or_die.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "187 Ride or Die es un videojuego de conducción y combate vehicular desarrollado por Ubisoft Paris y lanzado para la PlayStation 2 en el año 2005. Combina intensas carreras callejeras con tiroteos, sumergiéndose por completo en la estética de las bandas urbanas y la cultura del hip-hop de la costa oeste de Estados Unidos",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/187_ride_or_die.jpg",
+      "images/ps2/187_ride_or_die-inside.jpg",
+      "images/ps2/187_ride_or_die-back.jpg"
     ]
   },
   {
