@@ -144,9 +144,9 @@
     "descripcion": "X-Men: Mutant Academy 2 es un videojuego de lucha en 2.5D desarrollado por Paradox Development y publicado por Activision en septiembre de 2001 para la PlayStation 1. Esta secuela directa superó notablemente al título original al pulir las físicas de combate, expandir de forma masiva el plantel de personajes y añadir mecánicas aéreas más fluidas.",
     "imagenes": [
       "images/ps1/Xmen_2.jpg",
-      "images/ps1/Xmen_2-inside-.jpeg.jpeg",
-      "images/ps1/Xmen_2-back-.jpeg.jpeg",
-      "images/ps1/Xmen_2-side-.jpeg.jpeg"
+      "images/ps1/Xmen_2-inside-.jpeg",
+      "images/ps1/Xmen_2-back-.jpeg",
+      "images/ps1/Xmen_2-side-.jpeg"
     ]
   },
   {
@@ -178,7 +178,7 @@
       "images/ps1/Soulblade.jpeg",
       "images/ps1/Soulblade-inside-.jpeg",
       "images/ps1/Soulblade-back-.jpeg",
-      "images/ps1/oulblade-side-.jpeg"
+      "images/ps1/Soulblade-side-.jpeg"
     ]
   },
   {
@@ -309,9 +309,9 @@
     "descripcion": "Tomb Raider III: Adventures of Lara Croft es un videojuego de acción y aventura lanzado por Eidos Interactive y Core Design en 1998 para la PlayStation 1. Esta tercera entrega destaca por elevar drásticamente la dificultad de los puzles, ofrecer un desarrollo de niveles no lineal y llevar al límite el motor gráfico original de la consola.",
     "imagenes": [
       "images/ps1/Tomb_Raider3.jpeg",
-      "images/ps1/Tomb_Raider3-inside.jpeg",
-      "images/ps1/Tomb_Raider3-back.jpeg",
-      "images/ps1/Tomb_Raider3-side.jpeg"
+      "images/ps1/tombraider3-inside.jpeg",
+      "images/ps1/tombraider3-back.jpeg",
+      "images/ps1/tombraider3-side.jpeg"
     ]
   },
   {
@@ -326,9 +326,9 @@
     "descripcion": "Tomb Raider II: Starring Lara Croft es un aclamado videojuego de acción y aventura lanzado por Eidos Interactive y Core Design en 1997 para la PlayStation 1. Esta secuela directa expandió de forma masiva el éxito del juego original, enfocándose mucho más en el combate contra enemigos humanos, escenarios urbanos abiertos y la introducción de vehículos.",
     "imagenes": [
       "images/ps1/Tomb_Raider2.jpeg",
-      "images/ps1/Tomb_Raider2-inside.jpeg",
-      "images/ps1/Tomb_Raider2-back.jpeg",
-      "images/ps1/Tomb_Raider2-side.jpeg"
+      "images/ps1/tombraider2-inside.jpeg",
+      "images/ps1/tombraider2-back.jpeg",
+      "images/ps1/tombraider2-side.jpeg"
     ]
   },
   {
@@ -337,15 +337,15 @@
     "plataforma": "PlayStation",
     "prestadoA": "",
     "region": "PAL ESP",
-    "portada": "images/ps1/Tomb_Raider.jpeg",
+    "portada": "images/ps1/tombraider.jpeg",
     "favorito": false,
     "estado": "Caja rota en patilla inferior de union frontal. Manual completo y disco correcto",
     "descripcion": "Tomb Raider es un legendario videojuego de acción, aventura y plataformas en 3D desarrollado por Core Design y lanzado por Eidos Interactive en 1996 para la PlayStation 1. Fue el título fundacional de la franquicia y un hito histórico en la industria al popularizar los entornos completamente tridimensionales y consolidar a Lara Croft como uno de los mayores iconos de la cultura pop.",
     "imagenes": [
-      "images/ps1/Tomb_Raider.jpeg",
-      "images/ps1/Tomb_Raider-inside.jpeg",
-      "images/ps1/Tomb_Raider-back.jpeg",
-      "images/ps1/Tomb_Raider-side.jpeg"
+      "images/ps1/tombraider.jpeg",
+      "images/ps1/tombraider.jpeginside.jpeg",
+      "images/ps1/tombraider-back.jpeg",
+      "images/ps1/tombraider-side.jpeg"
     ]
   },
 
