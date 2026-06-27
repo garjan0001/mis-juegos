@@ -457,12 +457,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/DOA2.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Dead or Alive 2 (específicamente lanzado como Dead or Alive 2: Hardcore) es un aclamado videojuego de lucha en 3D lanzado para la PlayStation 2 en el año 2000, desarrollado por Team Ninja y publicado por Tecmo. Es ampliamente considerado uno de los mejores títulos de pelea de su generación, destacando por su espectacular apartado gráfico para la época, su velocidad y su profunda innovación mecánica.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/ps2/DOA2.jpg",
+      "images/ps2/DOA2-back.JPEG",
+      "images/ps2/DOA2-back.JPEG"
     ]
   },
   {
@@ -473,12 +473,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Devil_May_cry.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Devil May Cry es un videojuego de acción y hack and slash lanzado en 2001 para la consola PlayStation 2, desarrollado por Capcom y dirigido por Hideki Kamiya. Originalmente concebido como una versión temprana de Resident Evil 4, el juego cambió de rumbo debido a su enfoque estilizado y dinámico, convirtiéndose en el nacimiento de una de las franquicias más icónicas de la industria.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Devil_May_cry.jpg",
+      "images/ps2/Devil_May_cry-inside.JPEG",
+      "images/ps2/Devil_May_cry-back.JPEG"
     ]
   },
   {
@@ -492,9 +492,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Dogs_life.jpg",
+      "images/ps2/Dogs_life-inside.JPEG",
+      "images/ps2/Dogs_life-back.JPEG"
     ]
   },
   {
