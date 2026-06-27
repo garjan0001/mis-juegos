@@ -3066,6 +3066,23 @@
       "images/ps5/xxxxxxxxxxxx.jpeg"
     ]
   },   
+    {
+    "id": 526,
+    "titulo": "Indiana Jones y el Gran Círculo",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Indiana_Jones_Gran_Círculo.JPEG",
+    "favorito": false,
+    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "imagenes": [
+      "images/ps5/Indiana_Jones_Gran_Círculo.JPEG",
+      "images/ps5/Indiana_Jones_Gran_Círculo.JPEG",
+      "images/ps5/Indiana_Jones_Gran_Círculo.JPEG"
+    ]
+  },  
+
   
   {
     "id": 524,
