@@ -460,7 +460,7 @@
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Dead or Alive 2 (específicamente lanzado como Dead or Alive 2: Hardcore) es un aclamado videojuego de lucha en 3D lanzado para la PlayStation 2 en el año 2000, desarrollado por Team Ninja y publicado por Tecmo. Es ampliamente considerado uno de los mejores títulos de pelea de su generación, destacando por su espectacular apartado gráfico para la época, su velocidad y su profunda innovación mecánica.",
     "imagenes": [
-      "images/ps2/ps2/DOA2.jpg",
+      "images/ps2/DOA2.jpg",
       "images/ps2/DOA2-back.JPEG",
       "images/ps2/DOA2-back.JPEG"
     ]
@@ -508,9 +508,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Evil_Twin.JPEG",
+      "images/ps2/Evil_Twin-inside.JPEG",
+      "images/ps2/Evil_Twin-back.JPEG"
     ]
   },
   {
@@ -620,9 +620,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/gru.JPEG",
+      "images/ps2/gru-inside.JPEG",
+      "images/ps2/gru-back.JPEG"
     ]
   },
   {
@@ -636,9 +636,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/GT3.JPEG.",
+      "images/ps2/GT3-inside.JPEG",
+      "images/ps2/GT3-back.JPEG"
     ]
   },
   {
@@ -652,9 +652,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/GT4.JPEG",
+      "images/ps2/GT4-inside.JPEG",
+      "images/ps2/GT4-back.JPEG"
     ]
   },
   {
@@ -668,9 +668,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/GTA.JPEG",
+      "images/ps2/GTA-inside.JPEG",
+      "images/ps2/GTA-back.JPEG"
     ]
   },
   {
@@ -1004,9 +1004,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Señor_anillos_dos_torres.JPEG",
+      "images/ps2/Señor_anillos_dos_torres-inside.JPEG",
+      "images/ps2/Señor_anillos_dos_torres-back.JPEG"
     ]
   },
   {
@@ -1308,9 +1308,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/homerun.JPEG",
+      "images/ps2/homerun-inside.JPEG",
+      "images/ps2/homerun-back.JPEG"
     ]
   },
   {
