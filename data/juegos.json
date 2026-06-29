@@ -556,9 +556,9 @@
     "estado": "Buen estado, completo con su manual",
     "descripcion": "FIFA 11 para PlayStation 2 es un videojuego de simulación de fútbol lanzado en septiembre de 2010. A diferencia de las versiones para PS3 y Xbox 360, que estrenaron un motor gráfico y de físicas completamente nuevo, la versión de PS2 se mantuvo fiel a la jugabilidad clásica de la sexta generación de consolas, optimizando al máximo el motor de entregas anteriores.",
     "imagenes": [
-      "images/ps2/extermination.JPEG",
-      "images/ps2/extermination-inside.JPEG",
-      "images/ps2/extermination-back.JPEG"
+      "images/ps2/fifa11.JPEG",
+      "images/ps2/fifa11-inside.JPEG",
+      "images/ps2/fifa11-back.JPEG"
     ]
   },
   {
@@ -572,7 +572,7 @@
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Final Fantasy X es un aclamado videojuego de rol clásico (JRPG) lanzado originalmente para PlayStation 2 en el año 2001 en Japón y Estados Unidos, y en 2002 en Europa. Desarrollado y publicado por Square (ahora Square Enix), es considerado uno de los mejores títulos de toda la historia de los videojuegos y un pilar fundamental en el catálogo de la PS2.",
     "imagenes": [
-      "images/ps2/FFX.JPEG",
+      "images/ps2/Final_Fantasy_X.jpg",
       "images/ps2/FFX-inside.JPEG",
       "images/ps2/FFX-back.JPEG"
     ]
@@ -589,7 +589,7 @@
     "descripcion": "Final Fantasy X-2 es un videojuego de rol (JRPG) lanzado para PlayStation 2 en 2003 en Japón y 2004 en Europa. Desarrollado por Square Enix, hizo historia en la franquicia al convertirse en la primera secuela directa de un juego de la saga principal, continuando la historia de Final Fantasy X.",
     "imagenes": [
       "images/ps2/FFX2.JPEG",
-      "images/ps2/FFX2-inside.JPEG",
+      "images/ps2/FFX2-inside.JPEG
       "images/ps2/FFX2-back.JPEG"
     ]
   },
@@ -604,7 +604,7 @@
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Final Fantasy XII es un aclamado videojuego de rol (JRPG) lanzado para PlayStation 2 en 2006 (2007 en Europa), desarrollado y publicado por Square Enix. Dirigido en su mayor parte por Yasumi Matsuno, el juego rompió con múltiples tradiciones de la franquicia, ofreciendo una madura trama de intriga política y un revolucionario sistema de combate en tiempo real.",
     "imagenes": [
-      "images/ps2/Final_Fantasy_XII.jpg",
+      "images/ps2/FFXII.JPEG",
       "images/ps2/FFXII-inside.JPEG",
       "images/ps2/FFXII-back.JPEG"
     ]
@@ -633,8 +633,8 @@
     "region": "PAL ESP",
     "portada": "images/ps2/GT3.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Gran Turismo 3: A-Spec es un aclamado simulador de carreras lanzado para PlayStation 2 en 2001, desarrollado por Polyphony Digital y publicado por Sony. Fue el primer título de la saga en dar el salto a la sexta generación de consolas, convirtiéndose en un gigantesco éxito comercial y técnico, vendiendo casi 15 millones de copias y consolidándose como uno de los pilares fundamentales del catálogo de la PS2.",
     "imagenes": [
       "images/ps2/GT3.JPEG.",
       "images/ps2/GT3-inside.JPEG",
@@ -649,8 +649,8 @@
     "region": "PAL ESP",
     "portada": "images/ps2/GT4.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Gran Turismo 4 es el simulador de conducción definitivo de la PlayStation 2, lanzado entre 2004 y 2005 por Polyphony Digital. Considerado una obra maestra de la ingeniería de software, empujó el hardware de la PS2 al límite absoluto, logrando una hazaña técnica histórica: ser uno de los poquísimos juegos de la consola capaces de reproducirse a una resolución nativa de 1080i (además de 480p) a 60 fotogramas por segundo.",
     "imagenes": [
       "images/ps2/GT4.JPEG",
       "images/ps2/GT4-inside.JPEG",
@@ -665,8 +665,8 @@
     "region": "PAL ESP",
     "portada": "images/ps2/GTA.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Grand Theft Auto: San Andreas es un videojuego de acción y aventura en mundo abierto lanzado en octubre de 2004 en exclusiva temporal para PlayStation 2. Desarrollado por Rockstar North, es considerado de forma unánime el juego definitivo de la PS2, una obra cumbre que rompió récords de ventas y llevó el hardware de la consola al límite de sus capacidades técnicas.",
     "imagenes": [
       "images/ps2/GTA.JPEG",
       "images/ps2/GTA-inside.JPEG",
@@ -681,12 +681,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Kingdom_hearts.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Kingdom Hearts es un aclamado videojuego de rol, acción y aventura (ARPG) lanzado para PlayStation 2 en 2002, desarrollado y publicado por Square (ahora Square Enix) en colaboración con Disney. El juego hizo historia en la industria al lograr un crossover aparentemente imposible: fusionar los mundos y personajes mágicos de las películas de Disney con el estilo, estética y personajes de la saga Final Fantasy.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/kh.JPEG",
+      "images/ps2/kh-inside.JPEG",
+      "images/ps2/kh-back.JPEG"
     ]
   },
   {
@@ -697,12 +697,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/LEGO_STAR_WARS.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Lego Star Wars: The Video Game es un aclamado videojuego de acción, aventura y plataformas lanzado en marzo de 2005 para PlayStation 2, desarrollado por Traveller's Tales y publicado por Eidos Interactive. Fue el título revolucionario que inició la masiva y exitosa fórmula de videojuegos de LEGO, combinando por primera vez una jugabilidad cooperativa familiar con el humor absurdo característico de la marca danesa.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/lego-starwar.JPEG",
+      "images/ps2/lego-starwar-inside.JPEG",
+      "images/ps2/lego-starwar-back.JPEG"
     ]
   },
   {
@@ -713,12 +713,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/La_leyenda_de Spyro.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "La leyenda de Spyro (The Legend of Spyro) es una aclamada trilogía de videojuegos que reinició por completo la historia del famoso dragón morado en PlayStation 2, alejándose del tono infantil y colorido de los juegos originales de PS1 para ofrecer una aventura de acción y fantasía mucho más madura, oscura y épica.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/leyenda_spyro.JPEG",
+      "images/ps2/leyenda_spyro-inside.JPEG",
+      "images/ps2/leyenda_spyro-back.JPEG"
     ]
   },
   {
@@ -729,12 +729,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Lego_Indiana.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Lego Indiana Jones: The Original Adventures es un divertido videojuego de acción, aventura y plataformas lanzado en junio de 2008 para la consola PlayStation 2, desarrollado por Traveller's Tales y publicado por LucasArts. Siguiendo el enorme éxito de la saga Lego Star Wars, este título adaptó por primera vez el universo del famoso arqueólogo al formato de bloques de juguete, manteniendo su característico humor mudo y su jugabilidad cooperativa.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/lego-indi.JPEG",
+      "images/ps2/logo-indi-inside.JPEG",
+      "images/ps2/lego-indi-back.JPEG"
     ]
   },
   {
@@ -746,7 +746,7 @@
     "portada": "images/ps2/Lego_Star_Wars2.jpg",
     "favorito": false,
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Lego Star Wars II: The Original Trilogy es un videojuego de acción, aventura y plataformas lanzado en septiembre de 2006 para PlayStation 2, desarrollado por Traveller's Tales. Tras el rotundo éxito de la primera entrega, esta secuela directa perfeccionó la fórmula de LEGO y se centró por completo en recrear la aclamada trilogía clásica de George Lucas con bloques de juguete y un genial toque de humor mudo.",
     "imagenes": [
       "images/ps2/xxxxxxxxxxxx.jpeg",
       "images/ps2/xxxxxxxxxxxx.jpeg",
