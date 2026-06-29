@@ -601,12 +601,12 @@
     "region": "PAL ESP",
     "portada": "images/ps2/Final_Fantasy_XII.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Final Fantasy XII es un aclamado videojuego de rol (JRPG) lanzado para PlayStation 2 en 2006 (2007 en Europa), desarrollado y publicado por Square Enix. Dirigido en su mayor parte por Yasumi Matsuno, el juego rompió con múltiples tradiciones de la franquicia, ofreciendo una madura trama de intriga política y un revolucionario sistema de combate en tiempo real.",
     "imagenes": [
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg",
-      "images/ps2/xxxxxxxxxxxx.jpeg"
+      "images/ps2/Final_Fantasy_XII.jpg",
+      "images/ps2/FFXII-inside.JPEG",
+      "images/ps2/FFXII-back.JPEG"
     ]
   },
   {
@@ -617,8 +617,8 @@
     "region": "PAL ESP",
     "portada": "images/ps2/GRU_villano_favorito.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Gru, mi villano favorito: El videojuego es una aventura de plataformas y puzles lanzada en septiembre de 2010 para la consola PlayStation 2. Desarrollado por Vicious Cycle Software y publicado por D3 Publisher, coincidió con el estreno de la película original de Illumination Entertainment. Fue uno de los últimos títulos basados en películas animadas en llegar al catálogo de la PS2.",
     "imagenes": [
       "images/ps2/gru.JPEG",
       "images/ps2/gru-inside.JPEG",
