@@ -1885,6 +1885,22 @@
       "images/ps3/xxxxxxxxxxxx.jpeg"
     ]
   },
+    {
+    "id": 330,
+    "titulo": "Gran Turismo 6",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps3/GT6.JPG",
+    "favorito": false,
+    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "imagenes": [
+      "images/ps3/GT6.JPG",
+      "images/ps3/xxxxxxxxxxxx.jpeg",
+      "images/ps3/xxxxxxxxxxxx.jpeg"
+    ]
+  },
 
 
 
