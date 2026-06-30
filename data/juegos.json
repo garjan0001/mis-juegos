@@ -1983,7 +1983,7 @@
     "imagenes": [
       "images/ps4/SW_battle.JPEG",
       "images/ps4/SW_battle-inside.JPEG",
-      "images/ps4/SW_battle-BACK.JPEG"
+      "images/ps4/SW_battle-back.JPEG"
     ]
   },
   {
@@ -2131,11 +2131,11 @@
     "portada": "images/ps4/jedi_fallen_order.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Star Wars Jedi: Fallen Order para PS4 es un videojuego de acción y aventura en tercera persona desarrollado por Respawn Entertainment y publicado por Electronic Arts. La historia se sitúa cronológicamente entre el Episodio III: La venganza de los Sith y el Episodio IV: Una nueva esperanza, justo después de la ejecución de la Orden 66 que destruyó a los Jedi",
     "imagenes": [
       "images/ps4/SW_Jedi_fallen.JPEG",
       "images/ps4/SW_Jedi_fallen-inside.JPEG",
-      "images/ps4/SW_Jedi_fallen-BACK.JPEG"
+      "images/ps4/SW_Jedi_fallen-back.JPEG"
     ]
   },
   {
@@ -2176,12 +2176,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/The_last_of_us.jpeg",
+    "portada": "images/ps4/the_last_us.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "The Last of Us Remastered para PS4 es la versión definitiva y mejorada del aclamado videojuego de acción, aventura y supervivencia desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. El juego destaca por su desgarradora narrativa cinematográfica, personajes profundos y una tensa atmósfera de supervivencia postapocalíptica.",
     "imagenes": [
-      "images/ps4/The_last_of_us.jpeg"
+      "images/ps4/the_last_us.JPG"
     ]
   },
   {
@@ -2190,12 +2190,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/The_last_of_us2.jpeg",
+    "portada": "images/ps4/the_last_us2.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "The Last of Us Parte II para PS4 es una obra maestra de la acción, aventura y supervivencia, desarrollada por Naughty Dog. Ambientado cinco años después del primer juego, destaca por su cruda historia de venganza, un diseño de niveles más vertical y un apartado técnico que exprime al límite la potencia de la consola.",
     "imagenes": [
-      "images/ps4/The_last_of_us2.jpeg"
+      "images/ps4/the_last_us2.JPG"
     ]
   },
   {
@@ -2278,12 +2278,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/titanfall2.jpeg",
+    "portada": "images/ps4/titanfall2.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Titanfall 2 para PS4 es una obra maestra de los videojuegos de acción y disparos en primera persona (FPS) de ambientación de ciencia ficción, desarrollada por Respawn Entertainment y publicada por Electronic Arts. El título es aclamado mundialmente por tener una de las mejores campañas de la generación y por revolucionar la movilidad en los juegos de disparos en primera persona.",
     "imagenes": [
-      "images/ps4/titanfall2.jpeg"
+      "images/ps4/titanfall2.JPG"
     ]
   },
   {
@@ -2644,7 +2644,7 @@
     "imagenes": [
       "images/ps4/song_of_horror-front-.JPEG",
       "images/ps4/song_of_horror-back-.JPEG",
-      "images/ps4/song_of_horror-front-.JPEG"
+      "images/ps4/song_of_horror-side-.JPEG"
     ]
   },  
 
