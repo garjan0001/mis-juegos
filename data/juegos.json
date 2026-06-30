@@ -1513,7 +1513,7 @@
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Metal Gear Solid: The Legacy Collection (2013). Lanzada con motivo del 25.º aniversario de la franquicia, es considerada la antología definitiva de la saga en formato físico. Incluye en dos discos Blu-ray todo el contenido de la HD Collection y añade más juegos clásicos y extras",
     "imagenes": [
-      "images/ps3/Metal_colection.JPEG",
+      "images/ps3/Metal_colection.jpg",
       "images/ps3/Metal_colection-inside1.JPEG",
       "images/ps3/Metal_colection-inside2.JPEG",
       "images/ps3/Metal_colection-back.JPEG"
@@ -1787,7 +1787,7 @@
     "descripcion": "Resistance 2 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) con temática de ciencia ficción militar y horror, desarrollado por Insomniac Games y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2008, expandió notablemente la escala y ambición de la primera entrega, convirtiéndose en uno de los grandes baluartes técnicos de la consola en su ecuador.",
     "imagenes": [
       "images/ps3/Resistance2.JPEG",
-      "images/ps3/Resistance2-inside.JPEG",
+      "images/ps3/Resistance2-insie.JPEG",
       "images/ps3/Resistance2-back.JPEG"
     ]
   },
@@ -1809,7 +1809,7 @@
   },
   {
     "id": 325,
-    "titulo": "Uncharted: El tesoro de Drake",
+    "titulo": "Uncharted El tesoro de Drake",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "region": "PAL ESP",
