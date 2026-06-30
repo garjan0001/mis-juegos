@@ -1496,8 +1496,9 @@
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "God of War: La Trilogía para PlayStation 3 (comercializado en Europa como God of War Trilogy) es un pack recopilatorio lanzado en abril de 2010. Reúne en un solo producto toda la historia principal del guerrero espartano Kratos contra el Olimpo, abarcando las dos primeras entregas remasterizadas procedentes de PlayStation 2 y el cierre de la trilogía original desarrollado de forma nativa para PS3",
     "imagenes": [
-      "images/ps3/God_off_War_Triologia.JPEG",
+      "images/ps3/God_off_War_Triologia.jpeg",
       "images/ps3/God_off_War_Triologia-inside.JPEG",
+      "images/ps3/God_off_War_Triologia-inside2.JPEG",
       "images/ps3/God_off_War_Triologia-back.JPEG"
     ]
   },
@@ -1593,7 +1594,7 @@
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Blazing Angels: Squadrons of WWII para PlayStation 3 es un videojuego de simulación de combate aéreo de estilo arcade desarrollado por Ubisoft Bucarest y publicado por Ubisoft. Lanzado en marzo de 2007 junto con el desembarco de la consola en Europa, el juego traslada a los usuarios a las batallas aéreas más famosas de la Segunda Guerra Mundial.",
     "imagenes": [
-      "images/ps3/blazing_angels.JPEG",
+      "images/ps3/blazing_angels.jpg",
       "images/ps3/blazing_angels-inside.JPEG",
       "images/ps3/blazing_angels-back.JPEG"
     ]
