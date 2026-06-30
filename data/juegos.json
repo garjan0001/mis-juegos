@@ -1915,11 +1915,11 @@
     "portada": "images/ps4/BloodStained.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Bloodstained: Ritual of the Night para PS4 es un RPG de acción y plataformas de desplazamiento lateral (2.5D) con temática de terror gótico. El juego destaca por ser el sucesor espiritual de la mítica saga Castlevania, dirigido por Koji Igarashi, el célebre cocreador de Castlevania: Symphony of the Night.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/BloodStained.JPEG",
+      "images/ps4/BloodStained-inside.JPEG",
+      "images/ps4/BloodStained-back.JPEG"
     ]
   },
 
@@ -1932,11 +1932,11 @@
     "portada": "images/ps4/F1_2017.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "F1 2017 para PS4 es el videojuego oficial de la temporada 2017 del Campeonato Mundial de Fórmula 1, desarrollado por Codemasters. Este título destaca por su excelente equilibrio entre simulación y accesibilidad, y es recordado como uno de los puntos más altos de la franquicia gracias a la inclusión de monoplazas históricos.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/f12017.JPEG",
+      "images/ps4/f12017-inside.JPEG",
+      "images/ps4/f12017-back.JPEG"
     ]
   },
   {
@@ -1948,11 +1948,11 @@
     "portada": "images/ps4/Ghost_of_tsushima.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Ghost of Tsushima para PS4 es un juego de acción, aventura y mundo abierto ambientado en el Japón feudal, desarrollado por Sucker Punch Productions y publicado por Sony Interactive Entertainment. Destaca por su fidelidad visual, su sistema de combate fluido y su atmósfera cinematográfica inspirada en las películas de samuráis de Akira Kurosawa.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/ghost_tsushima.JPEG",
+      "images/ps4/ghost_tsushima-inside.JPEG",
+      "images/ps4/ghost_tsushima-back.JPEG"
     ]
   },
   {
@@ -1963,12 +1963,11 @@
     "region": "PAL ESP",
     "portada": "images/ps4/Hades.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Hades para PS4 es un aclamado videojuego de acción roguelike de exploración de mazmorras (dungeon crawler) con vista isométrica, desarrollado por Supergiant Games. El título destaca por su adictivo sistema de combate, una narrativa profundamente entrelazada con las mecánicas de juego y una dirección artística sobresaliente inspirada en la mitología griega.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Hades.JPEG",
+      "images/ps4/Hades-back.JPEG"
     ]
   },
   {
@@ -1980,11 +1979,11 @@
     "portada": "images/ps4/Star_wars_battlefront.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Star Wars Battlefront para PS4 (lanzado en 2015) es un videojuego de acción y disparos en primera y tercera persona enfocado en el multijugador online, desarrollado por DICE y publicado por Electronic Arts. El título destaca por su impresionante fidelidad gráfica y sonora, logrando recrear la atmósfera de la trilogía original de las películas de Star Wars.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/SW_battle.JPEG",
+      "images/ps4/SW_battle-inside.JPEG",
+      "images/ps4/SW_battle-BACK.JPEG"
     ]
   },
   {
@@ -1996,11 +1995,9 @@
     "portada": "images/ps4/Starklink.jpg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Starlink: Battle for Atlas para PS4 es un videojuego de acción, aventura y exploración espacial en mundo abierto desarrollado por Ubisoft. El juego destaca principalmente por su propuesta de "juguetes que cobran vida" (Toys-to-Life), permitiendo a los jugadores conectar naves de plástico reales a su mando de PS4 para ver cómo se replican instantáneamente en la pantalla.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Starklink.jpg"
     ]
   },
   {
@@ -2011,12 +2008,11 @@
     "region": "PAL ESP",
     "portada": "images/ps4/cyberpunk2077.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Cyberpunk 2077 para PS4 es un RPG de acción y aventura en mundo abierto ambientado en Night City, una megalópolis obsesionada con el poder, las modificaciones corporales y el glamur. Sin embargo, la versión para esta consola tiene limitaciones críticas y definitivas que debes conocer antes de jugarlo.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Cyberounk2077.JPEG",
+      "images/ps4/Cyberounk2077-back.JPEG"
     ]
   },
   {
@@ -2027,12 +2023,11 @@
     "region": "PAL ESP",
     "portada": "images/ps4/dredge.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "DREDGE para PS4 es un aclamado videojuego de aventura y pesca para un solo jugador con una atmósfera de terror cósmico inspirado en la literatura de H.P. Lovecraft, desarrollado por Black Salt Games. En él, capitaneas un pequeño barco de arrastre para explorar un archipiélago misterioso mientras desentierras secretos oscuros ocultos en las profundidades.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Dredge.JPEG",
+      "images/ps4/Dredge-BACK.JPEG"
     ]
   },
   {
@@ -2044,11 +2039,10 @@
     "portada": "images/ps4/driveclub.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Driveclub para PS4 es un videojuego de carreras de corte arcade con elementos de simulación desarrollado por Evolution Studios y publicado por Sony Computer Entertainment. Lanzado en 2014, se convirtió en uno de los referentes gráficos de la consola gracias a su espectacular recreación climática, pero actualmente sufre un estado de descatalogación total.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/DriveClub.JPEG",
+      "images/ps4/DriveClub-back.JPEG"
     ]
   },
   {
@@ -2059,12 +2053,11 @@
     "region": "PAL ESP",
     "portada": "images/ps4/ghos_recon_breakpoint.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Ghost Recon Breakpoint para PS4 es un shooter táctico militar de mundo abierto en tercera persona desarrollado por Ubisoft. Lanzado inicialmente con un enfoque muy divisivo, el juego recibió una profunda reestructuración que lo transformó por completo, ofreciendo hoy en día una de las experiencias de supervivencia militar más completas de la consola.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Ghost_reacon.JPEG",
+      "images/ps4/Ghost_reacon-back.JPEG"
     ]
   },
   {
@@ -2076,11 +2069,11 @@
     "portada": "images/ps4/gt7.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Gran Turismo 7 para PS4 es el simulador de conducción definitivo y la entrega numerada más reciente de la icónica saga de carreras, desarrollada por Polyphony Digital y publicada por Sony Interactive Entertainment. El juego combina la nostalgia de las entregas clásicas con un avanzado motor de simulación física y un profundo homenaje a la cultura automovilística.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/GT7.JPEG",
+      "images/ps4/GT7-inside.JPEG",
+      "images/ps4/GT7-back.JPEG"
     ]
   },
   {
@@ -2092,11 +2085,11 @@
     "portada": "images/ps4/gt_sport.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Gran Turismo Sport para PS4 es una entrega de la aclamada saga de conducción desarrollada por Polyphony Digital. Lanzado originalmente con un enfoque competitivo online amparado por la FIA (Federación Internacional del Automóvil), actualmente es un título completamente descatalogado en formato digital y con sus funciones de red clausuradas.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/GTsport.JPEG",
+      "images/ps4/GTsport-inside.JPEG",
+      "images/ps4/GTsport-back.JPEG"
     ]
   },
   {
@@ -2107,12 +2100,11 @@
     "region": "PAL ESP",
     "portada": "images/ps4/guardianes_galaxia.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Marvel's Guardians of the Galaxy para PS4 es una aventura de acción lineal en tercera persona para un solo jugador, desarrollada por Eidos Montréal y publicada originalmente por Square Enix. A diferencia de otros proyectos cooperativos, este título se centra por completo en una experiencia narrativa clásica, cinematográfica y sin microtransacciones, capturando a la perfección el humor, la música y la esencia de los cómics y películas del grupo.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Guardianes.JPEG",
+      "images/ps4/Guardianes-back.JPEG"
     ]
   },
   {
@@ -2123,17 +2115,16 @@
     "region": "PAL ESP",
     "portada": "images/ps4/hollow_knight.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Hollow Knight para PS4 es una de las obras maestras absolutas del género Metroidvania y la acción en 2D, desarrollada por el estudio independiente Team Cherry. El juego destaca por su bellísimo apartado artístico dibujado a mano, su desafiante nivel de dificultad (influenciado por la saga Dark Souls) y una exploración sumamente gratificante.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Hollow_knight.JPEG",
+      "images/ps4/Hollow_knight-back.JPEG"
     ]
   },
   {
     "id": 415,
-    "titulo": "Jedi Fallen order",
+    "titulo": "Star Wars Jedi Fallen order",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
@@ -2142,41 +2133,41 @@
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/SW_Jedi_fallen.JPEG",
+      "images/ps4/SW_Jedi_fallen-inside.JPEG",
+      "images/ps4/SW_Jedi_fallen-BACK.JPEG"
     ]
   },
   {
     "id": 417,
-    "titulo": "The Evil Withim",
+    "titulo": "The Evil Within",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps4/The_Evil_Withim.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "The Evil Within para PS4 (lanzado en 2014) es un videojuego de terror psicológico y supervivencia (survival horror) en tercera persona, desarrollado por Tango Gameworks y dirigido por Shinji Mikami, el célebre creador de la saga Resident Evil (especialmente de Resident Evil 4). El juego destaca por su atmósfera opresiva, su gestión extrema de recursos y una narrativa surrealista y perturbadora.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/The_evil_whithin.JPEG",
+      "images/ps4/The_evil_whithin-inside.JPEG",
+      "images/ps4/The_evil_whithin-back.JPEG"
     ]
   },
   {
     "id": 418,
-    "titulo": "The Evil Withim 2",
+    "titulo": "The Evil WithiN 2",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps4/The_Evil_Withim2.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "The Evil Within 2 para PS4 (lanzado en 2017) es la secuela directa del aclamado survival horror de Tango Gameworks. Producido por Shinji Mikami y dirigido por John Johanas, este título refina por completo la fórmula original al cambiar los escenarios pasilleros por zonas semiabiertas que premian la exploración táctica, manteniendo una atmósfera de terror psicológico constante.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/The_evil_whithin2.JPEG",
+      "images/ps4/The_evil_whithin2-inside.JPEG",
+      "images/ps4/The_evil_whithin2-back.JPEG"
     ]
   },
   {
@@ -2188,11 +2179,9 @@
     "portada": "images/ps4/The_last_of_us.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "The Last of Us Remastered para PS4 es la versión definitiva y mejorada del aclamado videojuego de acción, aventura y supervivencia desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. El juego destaca por su desgarradora narrativa cinematográfica, personajes profundos y una tensa atmósfera de supervivencia postapocalíptica.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/The_last_of_us.jpeg"
     ]
   },
   {
@@ -2204,11 +2193,9 @@
     "portada": "images/ps4/The_last_of_us2.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "The Last of Us Parte II para PS4 es una obra maestra de la acción, aventura y supervivencia, desarrollada por Naughty Dog. Ambientado cinco años después del primer juego, destaca por su cruda historia de venganza, un diseño de niveles más vertical y un apartado técnico que exprime al límite la potencia de la consola.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/The_last_of_us2.jpeg"
     ]
   },
   {
@@ -2220,11 +2207,11 @@
     "portada": "images/ps4/lego_marvel.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "LEGO Marvel Super Heroes para PS4 (lanzado en 2013) es un divertidísimo videojuego de acción, aventura y plataformas en mundo abierto, desarrollado por TT Games y publicado por Warner Bros. Interactive Entertainment. El juego combina el carismático humor de la franquicia LEGO con el universo de los cómics de Marvel, permitiéndote controlar a una cantidad inmensa de personajes.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Lego_Marvel.JPEG",
+      "images/ps4/Lego_Marvel-inside.JPEG",
+      "images/ps4/Lego_Marvel-back.JPEG"
     ]
   },
   {
@@ -2236,43 +2223,39 @@
     "portada": "images/ps4/uncharted4.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Uncharted 4: El Desenlace del Ladrón para PS4 es una obra maestra de la acción, aventura y exploración en tercera persona, desarrollada por Naughty Dog y publicada por Sony Computer Entertainment. Este título supone el cierre definitivo de la historia del carismático cazatesoros Nathan Drake, destacando por su narrativa madura, sus espectaculares escenas de acción cinematográfica y un apartado gráfico que exprime al máximo el hardware de la consola.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Uncharted4.JPEG",
+      "images/ps4/Uncharted4-inside.JPEG",
+      "images/ps4/Uncharted4-back.JPEG"
     ]
   },
   {
     "id": 423,
-    "titulo": "Red Dead Rendemtion",
+    "titulo": "Red Dead Rendemtion 2",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
     "portada": "images/ps4/red_dead.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Red Dead Redemption 2 para PS4 es una obra maestra de acción, aventura y mundo abierto de ambientación wéstern, desarrollada por Rockstar Games. Es considerado uno de los videojuegos más detallados, realistas y ambiciosos de la historia de la industria, funcionando como una precuela directa de los acontecimientos del primer título.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/red_dead.jpeg"
     ]
   },
   {
     "id": 424,
-    "titulo": "God of War",
+    "titulo": "God of War 2018",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
     "portada": "images/ps4/god_war.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "God of War para PS4 (lanzado en 2018) es una obra maestra de la acción y la aventura en tercera persona, desarrollada por Santa Monica Studio y publicada por Sony Interactive Entertainment. El juego reinventa por completo la icónica franquicia al cambiar la mitología griega por la mitología nórdica, ofreciendo una jugabilidad más táctica y una de las narrativas más profundas de la consola.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/god_war.jpeg"
     ]
   },
   {
@@ -2284,11 +2267,9 @@
     "portada": "images/ps4/god_war_ragna.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "God of War Ragnarök para PS4 es el épico cierre de la saga nórdica de Kratos y Atreus, desarrollado por Santa Monica Studio y publicado por Sony Interactive Entertainment en 2022. El juego expande en todos los sentidos las bases de la entrega de 2018, ofreciendo un combate mucho más vertical, una historia de escala apocalíptica y un rendimiento técnico impecable en la anterior generación.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/god_war_ragna.jpeg"
     ]
   },
   {
@@ -2300,11 +2281,9 @@
     "portada": "images/ps4/titanfall2.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Titanfall 2 para PS4 es una obra maestra de los videojuegos de acción y disparos en primera persona (FPS) de ambientación de ciencia ficción, desarrollada por Respawn Entertainment y publicada por Electronic Arts. El título es aclamado mundialmente por tener una de las mejores campañas de la generación y por revolucionar la movilidad en los juegos de disparos en primera persona.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/titanfall2.jpeg"
     ]
   },
   {
@@ -2316,11 +2295,9 @@
     "portada": "images/ps4/ffxv.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Final Fantasy XV para PS4 es un RPG de acción y mundo abierto desarrollado y publicado por Square Enix. Esta entrega rompió con los turnos clásicos de la franquicia para ofrecer un sistema de combate dinámico en tiempo real, todo bajo una narrativa estructurada como una película de carretera (road movie) de fantasía oscura.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/ffxv.jpeg"
     ]
   },
   {
@@ -2332,12 +2309,9 @@
     "portada": "images/ps4/NBA2k15.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "BA 2K15 para PS4 es un videojuego de simulación de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports. Lanzado a finales de 2014, fue uno de los títulos más importantes al inicio de dicha generación de consolas, destacando por su revolución gráfica y la introducción de mecánicas físicas avanzadas que asentaron las bases modernas de la franquicia.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
-    ]
+      "images/ps4/NBA2k15.jpeg"    ]
   },
   {
     "id": 429,
@@ -2348,27 +2322,23 @@
     "portada": "images/ps4/singstarmega.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "ingStar MegaHits para PS4 es un videojuego de karaoke y fiesta de corte musical, desarrollado por London Studio y publicado por Sony Computer Entertainment. Lanzado a finales de 2014, supuso el debut de la aclamada franquicia de canto en la consola PlayStation 4, adaptándose a las funciones sociales y trayendo consigo un repertorio especialmente enfocado en el mercado hispanohablante.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/singstarmega.jpeg"
     ]
   },
   {
     "id": 430,
-    "titulo": "Spyro Remake",
+    "titulo": "Spyro Reignited Trilogy",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
     "portada": "images/ps4/spyroremake.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Spyro Reignited Trilogy para PS4 es una colección remasterizada desde cero (remake) de las tres primeras aventuras del icónico dragón morado, desarrolladas originalmente por Insomniac Games para la primera PlayStation. Esta nueva versión, creada por el estudio Toys for Bob y publicada por Activision, destaca por su apabullante lavado de cara visual que convierte los escenarios clásicos en auténticas películas de animación digital.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/spyroremake.jpeg"
     ]
   },
   {
@@ -2380,11 +2350,9 @@
     "portada": "images/ps4/soulcalibur6.jpeg",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "descripcion": "Soulcalibur VI para PS4 es un aclamado videojuego de lucha tridimensional basado en armas, desarrollado y publicado por Bandai Namco Entertainment. El título funciona como un reinicio e historia alternativa que revive los acontecimientos del juego original y de Soulcalibur II, ofreciendo combates muy dinámicos y un espectacular creador de personajes.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/soulcalibur6.jpeg"
     ]
   },
   {
@@ -2395,12 +2363,11 @@
     "region": "PAL ESP",
     "portada": "images/ps4/metal_gear_survive.jpeg",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
-    "descripcion": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Metal Gear Survive para PS4 es un videojuego de acción, supervivencia y defensa de torres en tercera persona, desarrollado y publicado por Konami en 2018. Al ser el primer título de la franquicia lanzado tras la marcha de su creador, Hideo Kojima, el juego se aleja por completo del espionaje tradicional para ofrecer una experiencia cooperativa en una realidad alternativa.",
     "imagenes": [
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg",
-      "images/ps4/xxxxxxxxxxxx.jpeg"
+      "images/ps4/Metal_surv.JPEG",
+      "images/ps4/Metal_surv-back.JPEG"
     ]
   },
   {
