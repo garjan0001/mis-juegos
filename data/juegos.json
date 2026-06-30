@@ -1134,7 +1134,7 @@
     "imagenes": [
       "images/ps2/StarWArs_Battlefront.JPEG",
       "images/ps2/StarWArs_Battlefront-inside.JPEG",
-      "images/ps2/StarWArs_Battlefront-back.JPEG"
+      "images/ps2/SW_battle-back.JPEG"
     ]
   },
   {
@@ -1148,9 +1148,9 @@
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Star Wars Battlefront II es un aclamado videojuego de acción y disparos en primera y tercera persona lanzado en octubre de 2005 para la consola PlayStation 2, desarrollado por Pandemic Studios y publicado por LucasArts. Considerado de forma unánime como uno de los mejores juegos de la franquicia y un pilar absoluto del catálogo de la PS2, esta secuela expandió y perfeccionó de forma masiva todas las mecánicas de la primera entrega.",
     "imagenes": [
-      "images/ps2/StarWArs_Battlefront2.JPEG",
-      "images/ps2/StarWArs_Battlefront2-inside.JPEG",
-      "images/ps2/StarWArs_Battlefront2-back.JPEG"
+      "images/ps2/SW_battle.JPEG",
+      "images/ps2/SW_battle-inside.JPEG",
+      "images/ps2/SW_battle-back.JPEG"
     ]
   },
   {
@@ -2073,7 +2073,7 @@
     "imagenes": [
       "images/ps4/GT7.JPEG",
       "images/ps4/GT7-inside.JPEG",
-      "images/ps4/GT7-back.JPEG"
+      "images/ps4/GT-back.JPEG"
     ]
   },
   {
@@ -2236,12 +2236,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/red_dead.jpeg",
+    "portada": "images/ps4/red_dead_revolver2.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Red Dead Redemption 2 para PS4 es una obra maestra de acción, aventura y mundo abierto de ambientación wéstern, desarrollada por Rockstar Games. Es considerado uno de los videojuegos más detallados, realistas y ambiciosos de la historia de la industria, funcionando como una precuela directa de los acontecimientos del primer título.",
     "imagenes": [
-      "images/ps4/red_dead.jpeg"
+      "images/ps4/red_dead_revolver2.JPG"
     ]
   },
   {
@@ -2250,12 +2250,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/god_war.jpeg",
+    "portada": "images/ps4/god_of_war2018.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "God of War para PS4 (lanzado en 2018) es una obra maestra de la acción y la aventura en tercera persona, desarrollada por Santa Monica Studio y publicada por Sony Interactive Entertainment. El juego reinventa por completo la icónica franquicia al cambiar la mitología griega por la mitología nórdica, ofreciendo una jugabilidad más táctica y una de las narrativas más profundas de la consola.",
     "imagenes": [
-      "images/ps4/god_war.jpeg"
+      "images/ps4/god_of_war2018.JPG"
     ]
   },
   {
@@ -2264,12 +2264,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/god_war_ragna.jpeg",
+    "portada": "images/ps4/god_of_war_ragna.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "God of War Ragnarök para PS4 es el épico cierre de la saga nórdica de Kratos y Atreus, desarrollado por Santa Monica Studio y publicado por Sony Interactive Entertainment en 2022. El juego expande en todos los sentidos las bases de la entrega de 2018, ofreciendo un combate mucho más vertical, una historia de escala apocalíptica y un rendimiento técnico impecable en la anterior generación.",
     "imagenes": [
-      "images/ps4/god_war_ragna.jpeg"
+      "images/ps4/god_of_war_ragna.JPG"
     ]
   },
   {
@@ -2292,12 +2292,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/ffxv.jpeg",
+    "portada": "images/ps4/FFXV.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Final Fantasy XV para PS4 es un RPG de acción y mundo abierto desarrollado y publicado por Square Enix. Esta entrega rompió con los turnos clásicos de la franquicia para ofrecer un sistema de combate dinámico en tiempo real, todo bajo una narrativa estructurada como una película de carretera (road movie) de fantasía oscura.",
     "imagenes": [
-      "images/ps4/ffxv.jpeg"
+      "images/ps4/FFXV.JPG"
     ]
   },
   {
@@ -2306,12 +2306,13 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/NBA2k15.jpeg",
+    "portada": "images/ps4/NBA2k15.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "BA 2K15 para PS4 es un videojuego de simulación de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports. Lanzado a finales de 2014, fue uno de los títulos más importantes al inicio de dicha generación de consolas, destacando por su revolución gráfica y la introducción de mecánicas físicas avanzadas que asentaron las bases modernas de la franquicia.",
     "imagenes": [
-      "images/ps4/NBA2k15.jpeg"    ]
+      "images/ps4/NBA2k15.JPG"
+    ]
   },
   {
     "id": 429,
@@ -2319,12 +2320,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/singstarmega.jpeg",
+    "portada": "images/ps4/singstar_megahits.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "ingStar MegaHits para PS4 es un videojuego de karaoke y fiesta de corte musical, desarrollado por London Studio y publicado por Sony Computer Entertainment. Lanzado a finales de 2014, supuso el debut de la aclamada franquicia de canto en la consola PlayStation 4, adaptándose a las funciones sociales y trayendo consigo un repertorio especialmente enfocado en el mercado hispanohablante.",
     "imagenes": [
-      "images/ps4/singstarmega.jpeg"
+      "images/ps4/singstar_megahits.JPG"
     ]
   },
   {
@@ -2333,12 +2334,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/spyroremake.jpeg",
+    "portada": "images/ps4/spyro.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Spyro Reignited Trilogy para PS4 es una colección remasterizada desde cero (remake) de las tres primeras aventuras del icónico dragón morado, desarrolladas originalmente por Insomniac Games para la primera PlayStation. Esta nueva versión, creada por el estudio Toys for Bob y publicada por Activision, destaca por su apabullante lavado de cara visual que convierte los escenarios clásicos en auténticas películas de animación digital.",
     "imagenes": [
-      "images/ps4/spyroremake.jpeg"
+      "images/ps4/spyro.JPG"
     ]
   },
   {
@@ -2347,12 +2348,12 @@
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
-    "portada": "images/ps4/soulcalibur6.jpeg",
+    "portada": "images/ps4/soulcalibur6.JPG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Soulcalibur VI para PS4 es un aclamado videojuego de lucha tridimensional basado en armas, desarrollado y publicado por Bandai Namco Entertainment. El título funciona como un reinicio e historia alternativa que revive los acontecimientos del juego original y de Soulcalibur II, ofreciendo combates muy dinámicos y un espectacular creador de personajes.",
     "imagenes": [
-      "images/ps4/soulcalibur6.jpeg"
+      "images/ps4/soulcalibur6.JPG"
     ]
   },
   {
@@ -2641,9 +2642,9 @@
     "estado": "JUEGO PRECINTADO",
     "descripcion": "Song of Horror para PlayStation 4 es una aventura de terror psicológico y survival horror de corte clásico en tercera persona. Destaca por su sistema de cámaras fijas, controles que rinden homenaje a los grandes referentes de los años 90 (como Resident Evil y Silent Hill), y una inquietante atmósfera inspirada en las obras de H.P. Lovecraft y Edgar Allan Poe.",
     "imagenes": [
-      "images/ps4/song_of_horror-front-.jpeg",
-      "images/ps4/song_of_horror-back-.jpeg",
-      "images/ps4/song_of_horror-side-.jpeg"
+      "images/ps4/song_of_horror-front-.JPEG",
+      "images/ps4/song_of_horror-back-.JPEG",
+      "images/ps4/song_of_horror-front-.JPEG"
     ]
   },  
 
