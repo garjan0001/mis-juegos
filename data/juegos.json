@@ -1429,12 +1429,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/Everybodys_golf_world_tour.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Everybody's Golf: World Tour para PlayStation 3 (conocido en Norteamérica como Hot Shots Golf: Out of Bounds) es un videojuego de golf de estilo arcade desarrollado por Clap Hanz y publicado por Sony Computer Entertainment. Lanzado en marzo de 2008 en Europa, supuso el debut de esta aclamada franquicia en la alta definición.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Everybodys_golf_world_tour.JPEG",
+      "images/ps3/Everybodys_golf_world_tour-inside.JPEG",
+      "images/ps3/Everybodys_golf_world_tour-back.JPEG"
     ]
   },
   {
@@ -1445,12 +1445,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/FEAR.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "F.E.A.R. (First Encounter Assault Recon) para PlayStation 3 es un videojuego de disparos en primera persona (FPS) con fuertes elementos de terror psicológico (survival horror). Publicado para la consola de Sony en abril de 2007, el juego es recordado como una de las mejores mezclas entre la acción táctica al estilo de las películas de John Woo y el terror japonés (como las cintas The Ring o Ju-on).",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/fear.JPEG",
+      "images/ps3/fear-inside.JPEG",
+      "images/ps3/fear-back.JPEG"
     ]
   },
   {
@@ -1461,12 +1461,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/Final_fantasy_XIII.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Final Fantasy XIII para PlayStation 3 es un videojuego de rol (JRPG) desarrollado y publicado por Square Enix. Lanzado en Europa en marzo de 2010, supuso el debut de la emblemática franquicia en la generación de la alta definición, convirtiéndose en uno de los referentes visuales de la consola y en el inicio de la subsaga Fabula Nova Crystallis.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/FFXIII.JPEG",
+      "images/ps3/FFXIII-inside.JPEG",
+      "images/ps3/FFXIII-back.JPEG"
     ]
   },
   {
@@ -1477,12 +1477,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/God_of_war_ascension.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "God of War: Ascension para PlayStation 3 es un videojuego de acción y aventura del género hack and slash desarrollado por Santa Monica Studio y publicado por Sony Computer Entertainment. Lanzado en marzo de 2013, es la séptima entrega de la franquicia y funciona como la primera precuela cronológica de toda la saga griega.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/God_of_war_ascension.JPEG",
+      "images/ps3/God_of_war_ascension-inside.JPEG",
+      "images/ps3/God_of_war_ascension-back.JPEG"
     ]
   },
   {
@@ -1493,12 +1493,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/God_off_War_Triologia.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "God of War: La Trilogía para PlayStation 3 (comercializado en Europa como God of War Trilogy) es un pack recopilatorio lanzado en abril de 2010. Reúne en un solo producto toda la historia principal del guerrero espartano Kratos contra el Olimpo, abarcando las dos primeras entregas remasterizadas procedentes de PlayStation 2 y el cierre de la trilogía original desarrollado de forma nativa para PS3",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/God_off_War_Triologia.JPEG",
+      "images/ps3/God_off_War_Triologia-inside.JPEG",
+      "images/ps3/God_off_War_Triologia-back.JPEG"
     ]
   },
   {
@@ -1512,9 +1512,10 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "Metal Gear Solid: The Legacy Collection (2013). Lanzada con motivo del 25.º aniversario de la franquicia, es considerada la antología definitiva de la saga en formato físico. Incluye en dos discos Blu-ray todo el contenido de la HD Collection y añade más juegos clásicos y extras",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Metal_colection.JPEG",
+      "images/ps3/Metal_colection-inside1.JPEG",
+      "images/ps3/Metal_colection-inside2.JPEG",
+      "images/ps3/Metal_colection-back.JPEG"
     ]
   },
   {
@@ -1528,9 +1529,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "NBA 2K8 para PlayStation 3 es un videojuego de simulación de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports en octubre de 2007, con el base Chris Paul en la portada. Fue una entrega clave de la franquicia al consolidar su liderazgo gráfico y jugable en la generación de PS3.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/NBA2k8.JPEG",
+      "images/ps3/NBA2k8-inside.JPEG",
+      "images/ps3/NBA2k8-back.JPEG"
     ]
   },
   {
@@ -1544,9 +1545,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "Resistance: Fall of Man para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por Insomniac Games y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2006, fue el título de lanzamiento estrella que acompañó a la PlayStation 3 en su llegada al mercado, convirtiéndose de inmediato en un éxito de ventas y en una de las señas de identidad de la consola.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Resistance.JPEG",
+      "images/ps3/Resistance-inside.JPEG",
+      "images/ps3/Resistance-back.JPEG"
     ]
   },
   {
@@ -1557,12 +1558,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/Socom_confrontation.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "SOCOM: U.S. Navy SEALs Confrontation para PlayStation 3 es un videojuego de disparos táctico en tercera persona desarrollado por Slant Six Games y publicado por Sony Computer Entertainment. Lanzado en octubre de 2008, supuso el debut de esta prestigiosa franquicia militar en la alta definición, destacando por una decisión muy arriesgada en su época: fue un título diseñado exclusivamente para el juego multijugador online, prescindiendo por completo de una campaña para un jugador.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Socom_confrontation.JPEG",
+      "images/ps3/Socom_confrontation-inside.JPEG",
+      "images/ps3/Socom_confrontation-back.JPEG"
     ]
   },
   {
@@ -1573,12 +1574,12 @@
     "region": "PAL ESP",
     "portada": "images/ps3/bayonetta.jpg",
     "favorito": false,
-    "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Bayonetta para PlayStation 3 es un videojuego de acción en tercera persona del género hack and slash, desarrollado por PlatinumGames y distribuido por SEGA. Lanzado originalmente a inicios de 2010, fue diseñado por Hideki Kamiya (creador de Devil May Cry), destacando por su jugabilidad frenética, su estética barroca y su carismática y sensual protagonista.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Bayonetta.JPEG",
+      "images/ps3/Bayonetta-inside.JPEG",
+      "images/ps3/Bayonetta-back.JPEG"
     ]
   },
   {
@@ -1784,9 +1785,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "Resistance 2 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) con temática de ciencia ficción militar y horror, desarrollado por Insomniac Games y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2008, expandió notablemente la escala y ambición de la primera entrega, convirtiéndose en uno de los grandes baluartes técnicos de la consola en su ecuador.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Resistance2.JPEG",
+      "images/ps3/Resistance2-inside.JPEG",
+      "images/ps3/Resistance2-back.JPEG"
     ]
   },
   {
@@ -1880,9 +1881,9 @@
     "estado": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "descripcion": "Resistance 3 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por Insomniac Games y publicado por Sony Computer Entertainment en septiembre de 2011. Es el cierre de la trilogía original en la consola y destaca por cambiar radicalmente la escala militar de las entregas anteriores por un tono mucho más íntimo, crudo y de pura supervivencia.",
     "imagenes": [
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg",
-      "images/ps3/xxxxxxxxxxxx.jpeg"
+      "images/ps3/Resistance3.JPEG",
+      "images/ps3/Resistance3-inside.JPEG",
+      "images/ps3/Resistance3-back.JPEG"
     ]
   },
     {
