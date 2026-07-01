@@ -2647,7 +2647,20 @@
       "images/ps4/song_of_horror-side-.JPEG"
     ]
   },  
-
+  {
+    "id": 451,
+    "titulo": "Horizon Zero Dawn",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/horizon_zero.JPG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Song of Horror para PlayStation 4 es una aventura de terror psicológico y survival horror de corte clásico en tercera persona. Destaca por su sistema de cámaras fijas, controles que rinden homenaje a los grandes referentes de los años 90 (como Resident Evil y Silent Hill), y una inquietante atmósfera inspirada en las obras de H.P. Lovecraft y Edgar Allan Poe.",
+    "imagenes": [
+      "images/ps4/horizon_zero.JPG"
+    ]
+  }, 
   
 
   
