@@ -1361,6 +1361,38 @@
       "images/ps2/lotus-back.JPEG"
     ]
   },
+    {
+    "id": 165,
+    "titulo": "SingStar",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SingStar.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SingStar para PlayStation 2 es una aclamada serie de videojuegos de karaoke competitivo lanzada originalmente en 2004. Fue desarrollada por el ya desaparecido London Studio y distribuida directamente por Sony Computer Entertainment. El juego destaca por sustituir los tradicionales karaokes de texto por un sistema interactivo basado en los videoclips oficiales de los artistas",
+    "imagenes": [
+      "images/ps2/SingStar.JPEG",
+      "images/ps2/SingStar-inside.JPEG",
+      "images/ps2/SingStar-back.JPEG"
+    ]
+  },
+    {
+    "id": 166,
+    "titulo": "SingStar Rocks",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SingStarRocks.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SingStar Rocks! es una de las entregas más populares de la saga para PlayStation 2, lanzada originalmente en 2006. Esta edición dejó de lado el pop comercial para enfocarse por completo en el rock, el punk y el metal alternativo.",
+    "imagenes": [
+      "images/ps2/SingStarRocks.JPEG",
+      "images/ps2/SingStarRocks-inside.JPEG",
+      "images/ps2/SingStarRocks-back.JPEG"
+    ]
+  },
 
 
   
@@ -1899,6 +1931,23 @@
       "images/ps3/GT6.JPG"
     ]
   },
+      {
+    "id": 331,
+    "titulo": "SingStar POP 2009",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/SingStarPOP2009.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "SingStar Pop 2009 (conocido internacionalmente como SingStar Pop Edition) es una de las entregas recopilatorias más destacadas de la franquicia. Aunque se diseñó principalmente para aprovechar el potencial técnico de PlayStation 3, Sony también lanzó una versión adaptada para PlayStation 2 en el verano de 2009.",
+    "imagenes": [
+      "images/ps3/SingStarPOP2009.JPEG",
+      "images/ps3/SingStarPOP2009-inside.JPEG",
+      "images/ps3/SingStarPOP2009-back.JPEG"
+      
+    ]
+  },
 
 
 
@@ -1921,8 +1970,7 @@
       "images/ps4/BloodStained-inside.JPEG",
       "images/ps4/BloodStained-back.JPEG"
     ]
-  },
-
+  },  
   {
     "id": 402,
     "titulo": "F1 2017",
