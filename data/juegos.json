@@ -2196,12 +2196,12 @@
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps4/Dredge.JPEG",
+    "portada": "images/ps4/dredge.JPEG",
     "favorito": false,
     "estado": "JUEGO PRECINTADO",
     "descripcion": "DREDGE para PS4 es un aclamado videojuego de aventura y pesca para un solo jugador con una atmósfera de terror cósmico inspirado en la literatura de H.P. Lovecraft, desarrollado por Black Salt Games. En él, capitaneas un pequeño barco de arrastre para explorar un archipiélago misterioso mientras desentierras secretos oscuros ocultos en las profundidades.",
     "imagenes": [
-      "images/ps4/Dredge.JPEG",
+      "images/ps4/dredge.JPEG",
       "images/ps4/Dredge-BACK.JPEG"
     ]
   },
@@ -2212,12 +2212,12 @@
     "prestadoA": "", 
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps4/DriveClub.JPEG",
+    "portada": "images/ps4/driveclub.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Driveclub para PS4 es un videojuego de carreras de corte arcade con elementos de simulación desarrollado por Evolution Studios y publicado por Sony Computer Entertainment. Lanzado en 2014, se convirtió en uno de los referentes gráficos de la consola gracias a su espectacular recreación climática, pero actualmente sufre un estado de descatalogación total.",
     "imagenes": [
-      "images/ps4/DriveClub.JPEG",
+      "images/ps4/driveclub.JPEG",
       "images/ps4/DriveClub-back.JPEG"
     ]
   },
@@ -2244,12 +2244,12 @@
     "prestadoA": "",
     "estado_filtro": "Jugando",
     "region": "PAL ESP",
-    "portada": "images/ps4/GT7.JPEG",
+    "portada": "images/ps4/gt7.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Gran Turismo 7 para PS4 es el simulador de conducción definitivo y la entrega numerada más reciente de la icónica saga de carreras, desarrollada por Polyphony Digital y publicada por Sony Interactive Entertainment. El juego combina la nostalgia de las entregas clásicas con un avanzado motor de simulación física y un profundo homenaje a la cultura automovilística.",
     "imagenes": [
-      "images/ps4/GT7.JPEG",
+      "images/ps4/gt7.JPEG",
       "images/ps4/GT7-inside.JPEG",
       "images/ps4/GT-back.JPEG"
     ]
@@ -2294,12 +2294,12 @@
     "prestadoA": "", 
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps4/Hollow_knight.JPEG",
+    "portada": "images/ps4/hollow_knight.JPEG",
     "favorito": false,
     "estado": "JUEGO PRECINTADO",
     "descripcion": "Hollow Knight para PS4 es una de las obras maestras absolutas del género Metroidvania y la acción en 2D, desarrollada por el estudio independiente Team Cherry. El juego destaca por su bellísimo apartado artístico dibujado a mano, su desafiante nivel de dificultad (influenciado por la saga Dark Souls) y una exploración sumamente gratificante.",
     "imagenes": [
-      "images/ps4/Hollow_knight.JPEG",
+      "images/ps4/hollow_knight.JPEG",
       "images/ps4/Hollow_knight-back.JPEG"
     ]
   },
@@ -2389,12 +2389,12 @@
     "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps4/Lego_Marvel.JPEG",
+    "portada": "images/ps4/lego_marvel.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "LEGO Marvel Super Heroes para PS4 (lanzado en 2013) es un divertidísimo videojuego de acción, aventura y plataformas en mundo abierto, desarrollado por TT Games y publicado por Warner Bros. Interactive Entertainment. El juego combina el carismático humor de la franquicia LEGO con el universo de los cómics de Marvel, permitiéndote controlar a una cantidad inmensa de personajes.",
     "imagenes": [
-      "images/ps4/Lego_Marvel.JPEG",
+      "images/ps4/lego_marvel.JPEG",
       "images/ps4/Lego_Marvel-inside.JPEG",
       "images/ps4/Lego_Marvel-back.JPEG"
     ]
@@ -2406,12 +2406,12 @@
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps4/Uncharted4.JPEG",
+    "portada": "images/ps4/uncharted4.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Uncharted 4: El Desenlace del Ladrón para PS4 es una obra maestra de la acción, aventura y exploración en tercera persona, desarrollada por Naughty Dog y publicada por Sony Computer Entertainment. Este título supone el cierre definitivo de la historia del carismático cazatesoros Nathan Drake, destacando por su narrativa madura, sus espectaculares escenas de acción cinematográfica y un apartado gráfico que exprime al máximo el hardware de la consola.",
     "imagenes": [
-      "images/ps4/Uncharted4.JPEG",
+      "images/ps4/uncharted4.JPEG",
       "images/ps4/Uncharted4-inside.JPEG",
       "images/ps4/Uncharted4-back.JPEG"
     ]
@@ -2582,12 +2582,12 @@
     "prestadoA": "", 
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps4/Nier_automata.JPEG",
+    "portada": "images/ps4/nier_automata.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "NieR: Automata para PS4 es una obra maestra de la acción hack and slash y el RPG de ciencia ficción, desarrollada por PlatinumGames y dirigida por el excéntrico creativo Yoko Taro. El juego es mundialmente aclamado por su fluida jugabilidad, su banda sonora perfecta y una estructura narrativa única que utiliza los videojuegos como medio para explorar la filosofía y la existencia humana.",
     "imagenes": [
-      "images/ps4/Nier_automata.JPEG",
+      "images/ps4/nier_automata.JPEG",
       "images/ps4/Nier_automata-inside.JPEG",
       "images/ps4/Nier_automata-back.JPEG"
     ]
@@ -2631,12 +2631,12 @@
     "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps4/Prey.JPEG",
+    "portada": "images/ps4/prey.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Prey para PS4 (lanzado en 2017) es una obra maestra de la acción, ciencia ficción y simulación inmersiva (immersive sim) en primera persona, desarrollado por Arkane Studios (creadores de Dishonored) y publicado por Bethesda Softworks. El título destaca por otorgar una libertad absoluta al jugador para resolver problemas, una atmósfera de tensión psicológica constante y un magnífico diseño de niveles interconectados.",
     "imagenes": [
-      "images/ps4/Prey.JPEG",
+      "images/ps4/prey.JPEG",
       "images/ps4/Prey-back.JPEG",
       "images/ps4/Prey-inside.JPEG"
     ]
@@ -2744,12 +2744,12 @@
     "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
-    "portada": "images/ps4/SIFU.JPEG",
+    "portada": "images/ps4/sifu.JPEG",
     "favorito": false,
     "estado": "JUEGO PRECINTADO",
     "descripcion": "Sifu para PS4 es un exigente videojuego de acción y artes marciales en tercera persona (brawler/beat 'em up) desarrollado por el estudio independiente francés Sloclap (creadores de Absolver). El juego destaca por su espectacular y técnico sistema de combate basado en el Kung-Fu clásico (estilo Pak Mei) y una original mecánica de envejecimiento ligada a la muerte del protagonista.",
     "imagenes": [
-      "images/ps4/SIFU.JPEG",
+      "images/ps4/sifu.JPEG",
       "images/ps4/SIFU-back.JPEG"
     ]
   },
@@ -2793,12 +2793,12 @@
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps4/UNMETAL.JPEG",
+    "portada": "images/ps4/unmetal.JPEG",
     "favorito": false,
     "estado": "JUEGO PRECINTADO",
     "descripcion": "UnMetal para PS4 es un divertidísimo videojuego de acción, sigilo y aventura en 2D desarrollado por el creador español Francisco Téllez de Meneses (autor de UnEpic). El juego destaca por ser una brillante e hilarante parodia de los primeros Metal Gear de MSX y de los clichés de las películas de acción de los años 80, combinando mecánicas retro muy pulidas con un humor irreverente y absurdo.",
     "imagenes": [
-      "images/ps4/UNMETAL.JPEG",
+      "images/ps4/unmetal.JPEG",
       "images/ps4/UNMETAL-back.JPEG"
     ]
   },
@@ -2889,7 +2889,7 @@
     "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
-    "portada": "images/ps4/RE_Revelations.JPEG",
+    "portada": "images/ps4/RE_Revelations2.JPEG",
     "favorito": false,
     "estado": "JUEGO PRECINTADO",
     "descripcion": "Resident Evil Revelations 2 para PlayStation 4 es un videojuego de survival horror enfocado en la cooperación y el suspenso, que continúa la línea derivada de la saga principal. A diferencia de la primera entrega, este título se diseñó originalmente en un formato episódico de cuatro capítulos y destaca por introducir mecánicas de juego en equipo donde cada personaje tiene un rol único para sobrevivir.",
