@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes" />
+    <title>🎮 Mi Colección de Juegos</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="container">
+        <!-- HEADER -->
+        <header class="header">
+            <h1>🎮 Mi Colección</h1>
+            <p class="subtitle">{{totalJuegos}} juegos · {{plataformas}} plataformas</p>
+        </header>
+
+        <!-- ESTADÍSTICAS (NUEVO DISEÑO COMPACTO) -->
+        <section class="stats-section">
+            <h2>📊 Resumen</h2>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <span class="stat-label">🎮 Total</span>
+                    <span class="stat-value" id="total-juegos">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">✅ Completados</span>
+                    <span class="stat-value" id="completados">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">⏳ Jugando</span>
+                    <span class="stat-value" id="jugando">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">📊 Progreso</span>
+                    <span class="stat-value" id="progreso-medio">0%</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">⏱️ Horas</span>
+                    <span class="stat-value" id="horas-totales">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">🏆 Logros</span>
+                    <span class="stat-value" id="logros-totales">0</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- FILTROS -->
+        <section class="filters-section">
+            <div class="filter-group">
+                <label for="filter-plataforma">📌 Plataforma</label>
+                <select id="filter-plataforma">
+                    <option value="todas">Todas</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-estado">📌 Estado</label>
+                <select id="filter-estado">
+                    <option value="todos">Todos</option>
+                    <option value="Completado">✅ Completado</option>
+                    <option value="Jugando">⏳ Jugando</option>
+                    <option value="Pendiente">📅 Pendiente</option>
+                    <option value="Abandonado">❌ Abandonado</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-busqueda">🔍 Buscar</label>
+                <input type="text" id="filter-busqueda" placeholder="Nombre del juego..." />
+            </div>
+        </section>
+
+        <!-- LISTA DE JUEGOS (TARJETAS) -->
+        <section class="games-section">
+            <h2>🎲 Mis Juegos</h2>
+            <div id="games-container" class="games-grid">
+                <!-- Las tarjetas se generan con JavaScript -->
+                <p class="loading">Cargando juegos...</p>
+            </div>
+        </section>
+
+        <!-- FOOTER -->
+        <footer class="footer">
+            <p>🔄 Actualizado: <span id="fecha-actualizacion">--</span></p>
+            <p>📦 <span id="total-juegos-footer">0</span> juegos en total</p>
+        </footer>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
