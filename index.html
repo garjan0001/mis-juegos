@@ -14,7 +14,7 @@
             <p class="subtitle" id="total-juegos-header">Cargando...</p>
         </header>
 
-        <!-- ESTADÍSTICAS (NUEVO DISEÑO COMPACTO) -->
+        <!-- ESTADÍSTICAS (SOLO BÁSICAS) -->
         <section class="stats-section">
             <h2>📊 Resumen</h2>
             <div class="stats-grid">
@@ -31,16 +31,16 @@
                     <span class="stat-value" id="jugando">0</span>
                 </div>
                 <div class="stat-item">
+                    <span class="stat-label">📅 Pendientes</span>
+                    <span class="stat-value" id="pendientes">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">📤 Prestados</span>
+                    <span class="stat-value" id="prestados">0</span>
+                </div>
+                <div class="stat-item">
                     <span class="stat-label">📊 Progreso</span>
                     <span class="stat-value" id="progreso-medio">0%</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-label">⏱️ Horas</span>
-                    <span class="stat-value" id="horas-totales">0</span>
-                </div>
-                <div class="stat-item">
-                    <span class="stat-label">🏆 Logros</span>
-                    <span class="stat-value" id="logros-totales">0</span>
                 </div>
             </div>
         </section>
@@ -61,6 +61,7 @@
                     <option value="Jugando">⏳ Jugando</option>
                     <option value="Pendiente">📅 Pendiente</option>
                     <option value="Abandonado">❌ Abandonado</option>
+                    <option value="Prestado">📤 Prestado</option>
                 </select>
             </div>
             <div class="filter-group">
@@ -69,7 +70,7 @@
             </div>
         </section>
 
-        <!-- LISTA DE JUEGOS (TARJETAS) -->
+        <!-- LISTA DE JUEGOS (TARJETAS CON IMAGEN Y HOVER) -->
         <section class="games-section">
             <h2>🎲 Mis Juegos</h2>
             <div id="games-container" class="games-grid">
@@ -84,7 +85,16 @@
         </footer>
     </div>
 
-    <!-- ✅ RUTA CORREGIDA (con ./) -->
+    <!-- MODAL PARA FICHA DEL JUEGO -->
+    <div id="modal-overlay" class="modal-overlay" style="display:none;">
+        <div class="modal-content">
+            <button id="modal-cerrar" class="modal-cerrar">✕</button>
+            <div id="modal-body">
+                <!-- Se llena con JavaScript -->
+            </div>
+        </div>
+    </div>
+
     <script src="./js/script.js"></script>
 </body>
 </html>
