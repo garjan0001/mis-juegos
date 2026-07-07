@@ -56,7 +56,16 @@
             <button id="btn-grid" class="view-btn active" onclick="cambiarVista('grid')">📐 Cuadrícula</button>
             <button id="btn-list" class="view-btn" onclick="cambiarVista('list')">📋 Lista</button>
         </div>
-
+        <div class="filter-group">
+            <label for="filter-orden">📋 Ordenar</label>
+            <select id="filter-orden">
+                <option value="titulo">Por título (A-Z)</option>
+                <option value="titulo-desc">Por título (Z-A)</option>
+                <option value="plataforma">Por plataforma</option>
+                <option value="favorito">Favoritos primero</option>
+                <option value="id">Por ID</option>
+            </select>
+        </div>
         <!-- FILTROS (SIEMPRE VISIBLES) -->
         <section class="filters-section">
             <div class="filter-group">
