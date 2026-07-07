@@ -42,6 +42,7 @@ async function cargarJuegos() {
         
         juegos = await response.json();
         console.log('📦 Datos cargados:', juegos.length, 'juegos');
+        console.log('📦 Primer juego:', juegos[0]);
         
         juegosFiltrados = [...juegos];
         
@@ -89,9 +90,9 @@ function filtrarJuegos() {
 
     juegosFiltrados = juegos.filter(juego => {
         const matchPlataforma = plataforma === 'todas' || juego.plataforma === plataforma;
-        const matchEstado = estado === 'todos' || juego.estado === estado;
+        const matchEstado = estado === 'todos' || juego.estado_filtro === estado;
         const matchBusqueda = juego.titulo.toLowerCase().includes(busqueda) ||
-                              (juego.genero && juego.genero.toLowerCase().includes(busqueda));
+                              (juego.descripcion && juego.descripcion.toLowerCase().includes(busqueda));
         return matchPlataforma && matchEstado && matchBusqueda;
     });
 
@@ -101,7 +102,7 @@ function filtrarJuegos() {
 }
 
 // ============================================
-// RENDERIZAR TARJETAS DE JUEGOS (CON IMÁGENES Y HOVER)
+// RENDERIZAR TARJETAS DE JUEGOS (CON PORTADA Y HOVER)
 // ============================================
 function renderizarJuegos() {
     if (juegosFiltrados.length === 0) {
@@ -111,26 +112,19 @@ function renderizarJuegos() {
 
     let html = '';
     juegosFiltrados.forEach((juego, index) => {
-        const progreso = juego.progreso || 0;
-        const estadoClass = getEstadoClass(juego.estado);
-        const esPrestado = juego.estado === 'Prestado';
+        const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
         
-        // Construir rutas de imágenes
-        const nombreImagen = juego.titulo
-            .normalize('NFD')
-            .replace(/[\u0300-\u036f]/g, '')
-            .replace(/[^a-zA-Z0-9]/g, '-')
-            .toLowerCase();
+        // Obtener portada y lista de imágenes
+        const portada = juego.portada || 'images/default.jpg';
+        const imagenes = juego.imagenes || [portada];
         
-        const imgFront = `./images/${nombreImagen}.jpg`;
-        const imgBack = `./images/${nombreImagen}-back.jpg`;
-        
-        // Verificar si existen las imágenes (se mostrarán o no)
-        const hasImages = true; // El CSS maneja el fallback
+        // Primera imagen = portada, segunda = hover (si existe)
+        const imgFront = portada;
+        const imgBack = imagenes.length > 1 ? imagenes[1] : portada;
 
         html += `
             <div class="game-card" data-index="${index}" style="animation-delay: ${Math.min(index * 0.03, 0.5)}s">
-                ${esPrestado ? `<span class="prestado-badge">📤 Prestado</span>` : ''}
+                ${esPrestado ? `<span class="prestado-badge">📤 Prestado a ${escapeHtml(juego.prestadoA)}</span>` : ''}
                 
                 <div class="game-image">
                     <img class="img-front" src="${imgFront}" 
@@ -139,18 +133,13 @@ function renderizarJuegos() {
                     <img class="img-back" src="${imgBack}" 
                          alt="${escapeHtml(juego.titulo)}" 
                          onerror="this.style.display='none'" />
-                    ${!hasImages ? `<div class="no-image">🎮</div>` : ''}
+                    <div class="no-image" style="display:none;">🎮</div>
                 </div>
                 
                 <div class="game-title">${escapeHtml(juego.titulo)}</div>
                 <div class="game-plataforma">🖥️ ${escapeHtml(juego.plataforma || 'Sin especificar')}</div>
-                <span class="game-estado ${estadoClass}">${getEstadoEmoji(juego.estado)} ${escapeHtml(juego.estado || 'Sin estado')}</span>
-                
-                <div class="game-progreso">
-                    <div class="progress-bar">
-                        <div class="progress-fill" style="width: ${progreso}%"></div>
-                    </div>
-                </div>
+                <div class="game-region">🌍 ${escapeHtml(juego.region || 'Sin región')}</div>
+                ${juego.favorito ? '<span class="favorito-badge">⭐ Favorito</span>' : ''}
             </div>
         `;
     });
@@ -171,79 +160,83 @@ function renderizarJuegos() {
 // MODAL - FICHA DETALLADA DEL JUEGO
 // ============================================
 function abrirModal(juego) {
-    const nombreImagen = juego.titulo
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '')
-        .replace(/[^a-zA-Z0-9]/g, '-')
-        .toLowerCase();
-    
-    const imgFront = `./images/${nombreImagen}.jpg`;
-    const esPrestado = juego.estado === 'Prestado';
+    const portada = juego.portada || 'images/default.jpg';
+    const imagenes = juego.imagenes || [portada];
+    const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
     
     let html = `
-        <div class="modal-imagen">
-            <img src="${imgFront}" alt="${escapeHtml(juego.titulo)}" 
+        <div class="modal-imagen-principal">
+            <img src="${portada}" alt="${escapeHtml(juego.titulo)}" 
                  onerror="this.parentElement.innerHTML='<div style=\\'display:flex;align-items:center;justify-content:center;height:100%;background:#1a1a2e;color:#666;font-size:3rem;\\'>🎮</div>'" />
         </div>
+        
         <div class="modal-titulo">${escapeHtml(juego.titulo)}</div>
+        
         <div class="modal-detalle">
             <div class="detalle-item">
                 <span class="label">Plataforma</span>
                 <span class="value">${escapeHtml(juego.plataforma || 'Sin especificar')}</span>
             </div>
             <div class="detalle-item">
-                <span class="label">Estado</span>
-                <span class="value">${getEstadoEmoji(juego.estado)} ${escapeHtml(juego.estado || 'Sin estado')}</span>
+                <span class="label">Región</span>
+                <span class="value">${escapeHtml(juego.region || 'Sin región')}</span>
             </div>
+            ${juego.favorito ? `
             <div class="detalle-item">
-                <span class="label">Progreso</span>
-                <span class="value">${juego.progreso || 0}%</span>
-            </div>
-            <div class="detalle-item">
-                <span class="label">Género</span>
-                <span class="value">${escapeHtml(juego.genero || 'Sin especificar')}</span>
-            </div>
-            ${juego.año ? `
-            <div class="detalle-item">
-                <span class="label">Año</span>
-                <span class="value">${juego.año}</span>
-            </div>
-            ` : ''}
-            ${juego.desarrollador ? `
-            <div class="detalle-item">
-                <span class="label">Desarrollador</span>
-                <span class="value">${escapeHtml(juego.desarrollador)}</span>
+                <span class="label">⭐ Favorito</span>
+                <span class="value">Sí</span>
             </div>
             ` : ''}
         </div>
     `;
     
-    // Añadir información de préstamo si aplica
-    if (esPrestado && juego.prestado_a) {
+    // Estado físico del juego
+    if (juego.estado && juego.estado.trim() !== '') {
         html += `
-            <div class="modal-prestado">
-                <div class="label">📤 Prestado a</div>
-                <div class="value">${escapeHtml(juego.prestado_a)}</div>
-                ${juego.prestado_desde ? `
-                <div style="font-size:0.8rem; color:var(--text-secondary); margin-top:0.2rem;">
-                    Desde: ${juego.prestado_desde}
-                </div>
-                ` : ''}
-                ${juego.prestado_notas ? `
-                <div style="font-size:0.8rem; color:var(--text-secondary); margin-top:0.2rem;">
-                    📝 ${escapeHtml(juego.prestado_notas)}
-                </div>
-                ` : ''}
+            <div class="modal-estado-fisico">
+                <div class="label">📦 Estado físico</div>
+                <div class="value">${escapeHtml(juego.estado)}</div>
             </div>
         `;
     }
     
-    // Añadir notas si existen
-    if (juego.notas) {
+    // Descripción del juego
+    if (juego.descripcion && juego.descripcion.trim() !== '') {
         html += `
-            <div style="margin-top:0.8rem; padding:0.8rem; background:rgba(255,255,255,0.04); border-radius:8px;">
-                <div style="font-size:0.7rem; text-transform:uppercase; color:var(--text-secondary); letter-spacing:0.5px;">📝 Notas</div>
-                <div style="font-size:0.9rem; margin-top:0.2rem;">${escapeHtml(juego.notas)}</div>
+            <div class="modal-descripcion">
+                <div class="label">📝 Descripción</div>
+                <div class="value">${escapeHtml(juego.descripcion)}</div>
+            </div>
+        `;
+    }
+    
+    // Información de préstamo
+    if (esPrestado) {
+        html += `
+            <div class="modal-prestado">
+                <div class="label">📤 Prestado a</div>
+                <div class="value">${escapeHtml(juego.prestadoA)}</div>
+            </div>
+        `;
+    }
+    
+    // Galería de imágenes adicionales (si hay más de 1)
+    if (imagenes.length > 1) {
+        html += `
+            <div class="modal-galera">
+                <div class="label">🖼️ Imágenes</div>
+                <div class="galeria-imagenes">
+        `;
+        imagenes.forEach(img => {
+            html += `
+                <div class="galeria-item">
+                    <img src="${img}" alt="${escapeHtml(juego.titulo)}" 
+                         onerror="this.style.display='none'" />
+                </div>
+            `;
+        });
+        html += `
+                </div>
             </div>
         `;
     }
@@ -268,23 +261,24 @@ document.addEventListener('keydown', function(e) {
 });
 
 // ============================================
-// ESTADÍSTICAS (SOLO BÁSICAS)
+// ESTADÍSTICAS
 // ============================================
 function actualizarEstadisticas() {
     const total = juegosFiltrados.length;
-    const completados = juegosFiltrados.filter(j => j.estado === 'Completado').length;
-    const jugando = juegosFiltrados.filter(j => j.estado === 'Jugando').length;
-    const pendientes = juegosFiltrados.filter(j => j.estado === 'Pendiente').length;
-    const prestados = juegosFiltrados.filter(j => j.estado === 'Prestado').length;
-    const progresoTotal = juegosFiltrados.reduce((sum, j) => sum + (j.progreso || 0), 0);
-    const progresoMedio = total > 0 ? Math.round(progresoTotal / total) : 0;
+    const prestados = juegosFiltrados.filter(j => j.prestadoA && j.prestadoA.trim() !== '').length;
+    const favoritos = juegosFiltrados.filter(j => j.favorito === true).length;
+    
+    // Calcular progreso (si existe en tu JSON, si no, lo omitimos)
+    const juegosConProgreso = juegosFiltrados.filter(j => j.progreso !== undefined);
+    const progresoTotal = juegosConProgreso.reduce((sum, j) => sum + (j.progreso || 0), 0);
+    const progresoMedio = juegosConProgreso.length > 0 ? Math.round(progresoTotal / juegosConProgreso.length) : 0;
 
     totalJuegosEl.textContent = total;
-    completadosEl.textContent = completados;
-    jugandoEl.textContent = jugando;
-    pendientesEl.textContent = pendientes;
+    completadosEl.textContent = juegosFiltrados.filter(j => j.estado_filtro === 'Completado').length;
+    jugandoEl.textContent = juegosFiltrados.filter(j => j.estado_filtro === 'Jugando').length;
+    pendientesEl.textContent = juegosFiltrados.filter(j => j.estado_filtro === 'Pendiente').length;
     prestadosEl.textContent = prestados;
-    progresoMedioEl.textContent = `${progresoMedio}%`;
+    progresoMedioEl.textContent = juegosConProgreso.length > 0 ? `${progresoMedio}%` : '--';
     
     // Actualizar header
     const headerSub = document.getElementById('total-juegos-header');
@@ -314,8 +308,7 @@ function getEstadoClass(estado) {
         'Completado': 'estado-completado',
         'Jugando': 'estado-jugando',
         'Pendiente': 'estado-pendiente',
-        'Abandonado': 'estado-abandonado',
-        'Prestado': 'estado-prestado'
+        'Abandonado': 'estado-abandonado'
     };
     return map[estado] || '';
 }
@@ -325,8 +318,7 @@ function getEstadoEmoji(estado) {
         'Completado': '✅',
         'Jugando': '⏳',
         'Pendiente': '📅',
-        'Abandonado': '❌',
-        'Prestado': '📤'
+        'Abandonado': '❌'
     };
     return map[estado] || '❓';
 }
