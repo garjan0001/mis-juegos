@@ -15,67 +15,37 @@ const filterBusqueda = document.getElementById('filter-busqueda');
 const totalJuegosEl = document.getElementById('total-juegos');
 const completadosEl = document.getElementById('completados');
 const jugandoEl = document.getElementById('jugando');
+const pendientesEl = document.getElementById('pendientes');
+const prestadosEl = document.getElementById('prestados');
 const progresoMedioEl = document.getElementById('progreso-medio');
-const horasTotalesEl = document.getElementById('horas-totales');
-const logrosTotalesEl = document.getElementById('logros-totales');
 const totalFooterEl = document.getElementById('total-juegos-footer');
 const fechaActualizacionEl = document.getElementById('fecha-actualizacion');
 
+// Modal
+const modalOverlay = document.getElementById('modal-overlay');
+const modalBody = document.getElementById('modal-body');
+const modalCerrar = document.getElementById('modal-cerrar');
+
 // ============================================
-// CARGA DE DATOS DESDE JSON (VERSIÓN DEPURADA)
+// CARGA DE DATOS DESDE JSON
 // ============================================
 async function cargarJuegos() {
     console.log('🔄 Iniciando carga de juegos...');
-    
-    // Mostrar mensaje de carga
     container.innerHTML = `<p class="loading">⏳ Cargando juegos...</p>`;
     
     try {
-        // 🔍 PRUEBA 1: Ruta relativa normal
-        console.log('📡 Intentando fetch en: data/juegos.json');
-        const response = await fetch('data/juegos.json');
-        
-        console.log('📊 Status de respuesta:', response.status);
-        console.log('📊 OK?', response.ok);
+        const response = await fetch('./data/juegos.json');
         
         if (!response.ok) {
-            // 🔍 PRUEBA 2: Intentar con ruta absoluta
-            console.log('⚠️ Falló la ruta relativa. Probando con ruta absoluta...');
-            const response2 = await fetch('/mis-juegos/data/juegos.json');
-            
-            if (!response2.ok) {
-                // 🔍 PRUEBA 3: Intentar con ./data
-                console.log('⚠️ Falló la ruta absoluta. Probando con ./data...');
-                const response3 = await fetch('./data/juegos.json');
-                
-                if (!response3.ok) {
-                    throw new Error(`No se pudo cargar el JSON en ninguna ruta. Último status: ${response3.status}`);
-                }
-                
-                console.log('✅ Cargado con ./data/juegos.json');
-                juegos = await response3.json();
-            } else {
-                console.log('✅ Cargado con /mis-juegos/data/juegos.json');
-                juegos = await response2.json();
-            }
-        } else {
-            console.log('✅ Cargado con data/juegos.json');
-            juegos = await response.json();
+            throw new Error(`HTTP error! status: ${response.status}`);
         }
         
-        console.log('📦 Datos cargados:', juegos);
-        console.log('📦 Número de juegos:', juegos.length);
-        
-        if (juegos.length === 0) {
-            throw new Error('El archivo JSON está vacío');
-        }
+        juegos = await response.json();
+        console.log('📦 Datos cargados:', juegos.length, 'juegos');
         
         juegosFiltrados = [...juegos];
         
-        // Poblar filtros
         poblarFiltroPlataformas();
-        
-        // Actualizar todo
         actualizarEstadisticas();
         renderizarJuegos();
         actualizarFooter();
@@ -87,17 +57,8 @@ async function cargarJuegos() {
         container.innerHTML = `
             <p class="loading">❌ No se pudieron cargar los juegos.</p>
             <p class="loading" style="font-size:0.8rem; color:#666; margin-top:1rem;">
-                <strong>Error:</strong> ${error.message}<br/>
-                <span style="font-size:0.7rem; color:#888;">
-                    Revisa la consola (F12) para más detalles.
-                </span>
+                Error: ${error.message}
             </p>
-            <div style="text-align:center; margin-top:1rem; padding:1rem; background:rgba(255,0,0,0.1); border-radius:8px;">
-                <p style="font-size:0.9rem; color:#ff6b6b;">
-                    📁 Asegúrate de que existe el archivo <strong>data/juegos.json</strong><br/>
-                    y que tiene el formato correcto.
-                </p>
-            </div>
         `;
     }
 }
@@ -140,7 +101,7 @@ function filtrarJuegos() {
 }
 
 // ============================================
-// RENDERIZAR TARJETAS DE JUEGOS
+// RENDERIZAR TARJETAS DE JUEGOS (CON IMÁGENES Y HOVER)
 // ============================================
 function renderizarJuegos() {
     if (juegosFiltrados.length === 0) {
@@ -152,49 +113,182 @@ function renderizarJuegos() {
     juegosFiltrados.forEach((juego, index) => {
         const progreso = juego.progreso || 0;
         const estadoClass = getEstadoClass(juego.estado);
-        const horas = juego.horas_jugadas || 0;
-        const logros = juego.logros || 0;
+        const esPrestado = juego.estado === 'Prestado';
+        
+        // Construir rutas de imágenes
+        const nombreImagen = juego.titulo
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '')
+            .replace(/[^a-zA-Z0-9]/g, '-')
+            .toLowerCase();
+        
+        const imgFront = `./images/${nombreImagen}.jpg`;
+        const imgBack = `./images/${nombreImagen}-back.jpg`;
+        
+        // Verificar si existen las imágenes (se mostrarán o no)
+        const hasImages = true; // El CSS maneja el fallback
 
         html += `
-            <div class="game-card" style="animation-delay: ${Math.min(index * 0.03, 0.5)}s">
+            <div class="game-card" data-index="${index}" style="animation-delay: ${Math.min(index * 0.03, 0.5)}s">
+                ${esPrestado ? `<span class="prestado-badge">📤 Prestado</span>` : ''}
+                
+                <div class="game-image">
+                    <img class="img-front" src="${imgFront}" 
+                         alt="${escapeHtml(juego.titulo)}" 
+                         onerror="this.style.display='none'" />
+                    <img class="img-back" src="${imgBack}" 
+                         alt="${escapeHtml(juego.titulo)}" 
+                         onerror="this.style.display='none'" />
+                    ${!hasImages ? `<div class="no-image">🎮</div>` : ''}
+                </div>
+                
                 <div class="game-title">${escapeHtml(juego.titulo)}</div>
                 <div class="game-plataforma">🖥️ ${escapeHtml(juego.plataforma || 'Sin especificar')}</div>
-                <span class="game-estado ${estadoClass}">${escapeHtml(juego.estado || 'Sin estado')}</span>
+                <span class="game-estado ${estadoClass}">${getEstadoEmoji(juego.estado)} ${escapeHtml(juego.estado || 'Sin estado')}</span>
+                
                 <div class="game-progreso">
                     <div class="progress-bar">
                         <div class="progress-fill" style="width: ${progreso}%"></div>
                     </div>
-                </div>
-                <div class="game-metadata">
-                    <span>⏱️ ${horas}h</span>
-                    <span>🏆 ${logros}</span>
-                    <span>${progreso}%</span>
                 </div>
             </div>
         `;
     });
 
     container.innerHTML = html;
+    
+    // Añadir event listeners para abrir el modal
+    document.querySelectorAll('.game-card').forEach(card => {
+        card.addEventListener('click', function() {
+            const index = parseInt(this.dataset.index);
+            const juego = juegosFiltrados[index];
+            if (juego) abrirModal(juego);
+        });
+    });
 }
 
 // ============================================
-// ESTADÍSTICAS
+// MODAL - FICHA DETALLADA DEL JUEGO
+// ============================================
+function abrirModal(juego) {
+    const nombreImagen = juego.titulo
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-zA-Z0-9]/g, '-')
+        .toLowerCase();
+    
+    const imgFront = `./images/${nombreImagen}.jpg`;
+    const esPrestado = juego.estado === 'Prestado';
+    
+    let html = `
+        <div class="modal-imagen">
+            <img src="${imgFront}" alt="${escapeHtml(juego.titulo)}" 
+                 onerror="this.parentElement.innerHTML='<div style=\\'display:flex;align-items:center;justify-content:center;height:100%;background:#1a1a2e;color:#666;font-size:3rem;\\'>🎮</div>'" />
+        </div>
+        <div class="modal-titulo">${escapeHtml(juego.titulo)}</div>
+        <div class="modal-detalle">
+            <div class="detalle-item">
+                <span class="label">Plataforma</span>
+                <span class="value">${escapeHtml(juego.plataforma || 'Sin especificar')}</span>
+            </div>
+            <div class="detalle-item">
+                <span class="label">Estado</span>
+                <span class="value">${getEstadoEmoji(juego.estado)} ${escapeHtml(juego.estado || 'Sin estado')}</span>
+            </div>
+            <div class="detalle-item">
+                <span class="label">Progreso</span>
+                <span class="value">${juego.progreso || 0}%</span>
+            </div>
+            <div class="detalle-item">
+                <span class="label">Género</span>
+                <span class="value">${escapeHtml(juego.genero || 'Sin especificar')}</span>
+            </div>
+            ${juego.año ? `
+            <div class="detalle-item">
+                <span class="label">Año</span>
+                <span class="value">${juego.año}</span>
+            </div>
+            ` : ''}
+            ${juego.desarrollador ? `
+            <div class="detalle-item">
+                <span class="label">Desarrollador</span>
+                <span class="value">${escapeHtml(juego.desarrollador)}</span>
+            </div>
+            ` : ''}
+        </div>
+    `;
+    
+    // Añadir información de préstamo si aplica
+    if (esPrestado && juego.prestado_a) {
+        html += `
+            <div class="modal-prestado">
+                <div class="label">📤 Prestado a</div>
+                <div class="value">${escapeHtml(juego.prestado_a)}</div>
+                ${juego.prestado_desde ? `
+                <div style="font-size:0.8rem; color:var(--text-secondary); margin-top:0.2rem;">
+                    Desde: ${juego.prestado_desde}
+                </div>
+                ` : ''}
+                ${juego.prestado_notas ? `
+                <div style="font-size:0.8rem; color:var(--text-secondary); margin-top:0.2rem;">
+                    📝 ${escapeHtml(juego.prestado_notas)}
+                </div>
+                ` : ''}
+            </div>
+        `;
+    }
+    
+    // Añadir notas si existen
+    if (juego.notas) {
+        html += `
+            <div style="margin-top:0.8rem; padding:0.8rem; background:rgba(255,255,255,0.04); border-radius:8px;">
+                <div style="font-size:0.7rem; text-transform:uppercase; color:var(--text-secondary); letter-spacing:0.5px;">📝 Notas</div>
+                <div style="font-size:0.9rem; margin-top:0.2rem;">${escapeHtml(juego.notas)}</div>
+            </div>
+        `;
+    }
+    
+    modalBody.innerHTML = html;
+    modalOverlay.style.display = 'flex';
+    document.body.style.overflow = 'hidden';
+}
+
+function cerrarModal() {
+    modalOverlay.style.display = 'none';
+    document.body.style.overflow = 'auto';
+}
+
+// Cerrar modal con botón o clic fuera
+modalCerrar.addEventListener('click', cerrarModal);
+modalOverlay.addEventListener('click', function(e) {
+    if (e.target === this) cerrarModal();
+});
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') cerrarModal();
+});
+
+// ============================================
+// ESTADÍSTICAS (SOLO BÁSICAS)
 // ============================================
 function actualizarEstadisticas() {
     const total = juegosFiltrados.length;
     const completados = juegosFiltrados.filter(j => j.estado === 'Completado').length;
     const jugando = juegosFiltrados.filter(j => j.estado === 'Jugando').length;
+    const pendientes = juegosFiltrados.filter(j => j.estado === 'Pendiente').length;
+    const prestados = juegosFiltrados.filter(j => j.estado === 'Prestado').length;
     const progresoTotal = juegosFiltrados.reduce((sum, j) => sum + (j.progreso || 0), 0);
     const progresoMedio = total > 0 ? Math.round(progresoTotal / total) : 0;
-    const horasTotales = juegosFiltrados.reduce((sum, j) => sum + (j.horas_jugadas || 0), 0);
-    const logrosTotales = juegosFiltrados.reduce((sum, j) => sum + (j.logros || 0), 0);
 
     totalJuegosEl.textContent = total;
     completadosEl.textContent = completados;
     jugandoEl.textContent = jugando;
+    pendientesEl.textContent = pendientes;
+    prestadosEl.textContent = prestados;
     progresoMedioEl.textContent = `${progresoMedio}%`;
-    horasTotalesEl.textContent = horasTotales;
-    logrosTotalesEl.textContent = logrosTotales;
+    
+    // Actualizar header
+    const headerSub = document.getElementById('total-juegos-header');
+    if (headerSub) headerSub.textContent = `${total} juegos · ${new Set(juegos.map(j => j.plataforma)).size} plataformas`;
 }
 
 // ============================================
@@ -220,9 +314,21 @@ function getEstadoClass(estado) {
         'Completado': 'estado-completado',
         'Jugando': 'estado-jugando',
         'Pendiente': 'estado-pendiente',
-        'Abandonado': 'estado-abandonado'
+        'Abandonado': 'estado-abandonado',
+        'Prestado': 'estado-prestado'
     };
     return map[estado] || '';
+}
+
+function getEstadoEmoji(estado) {
+    const map = {
+        'Completado': '✅',
+        'Jugando': '⏳',
+        'Pendiente': '📅',
+        'Abandonado': '❌',
+        'Prestado': '📤'
+    };
+    return map[estado] || '❓';
 }
 
 function escapeHtml(text) {
