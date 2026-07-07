@@ -114,9 +114,9 @@ function renderizarJuegos() {
     juegosFiltrados.forEach((juego, index) => {
         const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
         
-        // Obtener portada y lista de imágenes
-        const portada = juego.portada || 'images/default.jpg';
-        const imagenes = juego.imagenes || [portada];
+        // 🔥 CORREGIR RUTAS DE IMÁGENES AUTOMÁTICAMENTE
+        const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
+        const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
         
         // Primera imagen = portada, segunda = hover (si existe)
         const imgFront = portada;
@@ -160,8 +160,9 @@ function renderizarJuegos() {
 // MODAL - FICHA DETALLADA DEL JUEGO
 // ============================================
 function abrirModal(juego) {
-    const portada = juego.portada || 'images/default.jpg';
-    const imagenes = juego.imagenes || [portada];
+    // 🔥 CORREGIR RUTAS DE IMÁGENES EN MODAL
+    const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
+    const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
     const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
     
     let html = `
@@ -268,7 +269,7 @@ function actualizarEstadisticas() {
     const prestados = juegosFiltrados.filter(j => j.prestadoA && j.prestadoA.trim() !== '').length;
     const favoritos = juegosFiltrados.filter(j => j.favorito === true).length;
     
-    // Calcular progreso (si existe en tu JSON, si no, lo omitimos)
+    // Calcular progreso (si existe en tu JSON)
     const juegosConProgreso = juegosFiltrados.filter(j => j.progreso !== undefined);
     const progresoTotal = juegosConProgreso.reduce((sum, j) => sum + (j.progreso || 0), 0);
     const progresoMedio = juegosConProgreso.length > 0 ? Math.round(progresoTotal / juegosConProgreso.length) : 0;
