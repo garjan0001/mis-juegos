@@ -233,11 +233,17 @@ function filtrarJuegos() {
 // ============================================
 // RENDERIZAR TARJETAS DE JUEGOS
 // ============================================
+// ============================================
+// RENDERIZAR TARJETAS DE JUEGOS (CORREGIDO PARA MÓVIL)
+// ============================================
 function renderizarJuegos() {
     if (juegosFiltrados.length === 0) {
         container.innerHTML = `<p class="loading">🔍 No se encontraron juegos con esos filtros</p>`;
         return;
     }
+
+    // Timestamp para evitar caché en móvil
+    const timestamp = new Date().getTime();
 
     let html = '';
     juegosFiltrados.forEach((juego, index) => {
@@ -246,8 +252,11 @@ function renderizarJuegos() {
         const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
         const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
         
-        const imgFront = portada;
-        const imgBack = imagenes.length > 1 ? imagenes[1] : portada;
+        // Añadir timestamp para evitar caché
+        const imgFront = portada + (portada.includes('?') ? '&' : '?') + `t=${timestamp}`;
+        const imgBack = imagenes.length > 1 ? 
+            imagenes[1] + (imagenes[1].includes('?') ? '&' : '?') + `t=${timestamp}` : 
+            imgFront;
 
         let estadoMostrar = '';
         if (esPrestado) {
@@ -275,9 +284,11 @@ function renderizarJuegos() {
                 <div class="game-image">
                     <img class="img-front" src="${imgFront}" 
                          alt="${escapeHtml(juego.titulo)}" 
-                         onerror="this.style.display='none'" />
+                         loading="lazy"
+                         onerror="this.style.display='none'; this.parentElement.querySelector('.no-image').style.display='flex';" />
                     <img class="img-back" src="${imgBack}" 
                          alt="${escapeHtml(juego.titulo)}" 
+                         loading="lazy"
                          onerror="this.style.display='none'" />
                     <div class="no-image" style="display:none;">🎮</div>
                 </div>
@@ -301,6 +312,8 @@ function renderizarJuegos() {
     });
 
     // Actualizar contador de resultados
+    document.getElementById('result-count').textContent = juegosFiltrados.length;
+}    // Actualizar contador de resultados
     document.getElementById('result-count').textContent = juegosFiltrados.length;
 }
 
