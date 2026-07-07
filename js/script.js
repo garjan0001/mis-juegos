@@ -27,7 +27,7 @@ const modalBody = document.getElementById('modal-body');
 const modalCerrar = document.getElementById('modal-cerrar');
 
 // ============================================
-// TOGGLE ESTADÍSTICAS (ocultar/mostrar)
+// TOGGLE ESTADÍSTICAS
 // ============================================
 let estadisticasVisibles = true;
 
@@ -47,14 +47,16 @@ function toggleEstadisticas() {
 }
 
 // ============================================
-// CARGA DE DATOS DESDE JSON
+// CARGA DE DATOS DESDE JSON (SIN CACHÉ)
 // ============================================
 async function cargarJuegos() {
     console.log('🔄 Iniciando carga de juegos...');
     container.innerHTML = `<p class="loading">⏳ Cargando juegos...</p>`;
     
     try {
-        const response = await fetch('./data/juegos.json');
+        // 🔥 AÑADIR TIMESTAMP PARA EVITAR CACHÉ
+        const timestamp = new Date().getTime();
+        const response = await fetch(`./data/juegos.json?t=${timestamp}`);
         
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
@@ -64,7 +66,6 @@ async function cargarJuegos() {
         console.log('📦 Datos cargados:', juegos.length, 'juegos');
         console.log('📦 Primer juego:', juegos[0]);
         
-        // Mostrar un ejemplo de estado_filtro para depurar
         if (juegos.length > 0) {
             console.log('📌 estado_filtro del primer juego:', juegos[0].estado_filtro || 'No tiene');
         }
@@ -90,6 +91,50 @@ async function cargarJuegos() {
 }
 
 // ============================================
+// RECARGAR DATOS MANUALMENTE
+// ============================================
+async function recargarDatos() {
+    const btn = document.getElementById('btn-recargar-datos');
+    if (!btn) return;
+    
+    btn.textContent = '⏳ Cargando...';
+    btn.disabled = true;
+    
+    try {
+        const timestamp = new Date().getTime();
+        const response = await fetch(`./data/juegos.json?t=${timestamp}`);
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        juegos = await response.json();
+        console.log('📦 Datos recargados:', juegos.length, 'juegos');
+        
+        juegosFiltrados = [...juegos];
+        
+        poblarFiltroPlataformas();
+        actualizarEstadisticas();
+        renderizarJuegos();
+        actualizarFooter();
+        
+        btn.textContent = '✅ ¡Actualizado!';
+        setTimeout(() => {
+            btn.textContent = '🔄 Actualizar datos';
+            btn.disabled = false;
+        }, 2000);
+        
+    } catch (error) {
+        console.error('❌ Error recargando:', error);
+        btn.textContent = '❌ Error';
+        setTimeout(() => {
+            btn.textContent = '🔄 Actualizar datos';
+            btn.disabled = false;
+        }, 2000);
+    }
+}
+
+// ============================================
 // POBLAR FILTRO DE PLATAFORMAS
 // ============================================
 function poblarFiltroPlataformas() {
@@ -106,7 +151,7 @@ function poblarFiltroPlataformas() {
 }
 
 // ============================================
-// FILTRAR JUEGOS (CORREGIDO)
+// FILTRAR JUEGOS
 // ============================================
 function filtrarJuegos() {
     const plataforma = filterPlataforma.value;
@@ -114,10 +159,8 @@ function filtrarJuegos() {
     const busqueda = filterBusqueda.value.toLowerCase().trim();
 
     juegosFiltrados = juegos.filter(juego => {
-        // Detectar si el juego está prestado
         const estaPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
         
-        // El estado del juego para el filtro
         let estadoJuego = juego.estado_filtro || '';
         if (estaPrestado && estadoJuego !== 'Prestado') {
             estadoJuego = 'Prestado';
@@ -126,7 +169,7 @@ function filtrarJuegos() {
         const matchPlataforma = plataforma === 'todas' || juego.plataforma === plataforma;
         const matchEstado = estado === 'todos' || estadoJuego === estado;
         
-        // 🔥 BUSCADOR: SOLO TÍTULO (como pides)
+        // 🔥 BUSCADOR: SOLO TÍTULO
         const matchBusqueda = juego.titulo.toLowerCase().includes(busqueda);
         
         return matchPlataforma && matchEstado && matchBusqueda;
@@ -150,14 +193,12 @@ function renderizarJuegos() {
     juegosFiltrados.forEach((juego, index) => {
         const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
         
-        // CORREGIR RUTAS DE IMÁGENES
         const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
         const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
         
         const imgFront = portada;
         const imgBack = imagenes.length > 1 ? imagenes[1] : portada;
 
-        // 🔥 MOSTRAR ESTADO EN TARJETA (corregido)
         let estadoMostrar = '';
         if (esPrestado) {
             estadoMostrar = '📤 Prestado';
@@ -206,14 +247,13 @@ function renderizarJuegos() {
 }
 
 // ============================================
-// MODAL - FICHA DETALLADA (con estado corregido)
+// MODAL
 // ============================================
 function abrirModal(juego) {
     const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
     const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
     const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
     
-    // 🔥 MOSTRAR ESTADO EN MODAL (corregido)
     let estadoMostrar = '';
     if (esPrestado) {
         estadoMostrar = '📤 Prestado';
@@ -287,7 +327,6 @@ function abrirModal(juego) {
         `;
     }
     
-    // Galería con lightbox
     if (imagenes.length > 1) {
         html += `
             <div class="modal-galera">
@@ -314,7 +353,7 @@ function abrirModal(juego) {
 }
 
 // ============================================
-// LIGHTBOX - VER IMAGEN EN GRANDE
+// LIGHTBOX
 // ============================================
 function abrirLightbox(src) {
     const lightbox = document.createElement('div');
@@ -383,11 +422,9 @@ function actualizarEstadisticas() {
     const total = juegosFiltrados.length;
     
     const prestados = juegosFiltrados.filter(j => j.prestadoA && j.prestadoA.trim() !== '').length;
-    
     const completados = juegosFiltrados.filter(j => j.estado_filtro === 'Completado').length;
     const jugando = juegosFiltrados.filter(j => j.estado_filtro === 'Jugando').length;
     const pendientes = juegosFiltrados.filter(j => j.estado_filtro === 'Pendiente').length;
-    const abandonados = juegosFiltrados.filter(j => j.estado_filtro === 'Abandonado').length;
     
     const progresoTotal = juegosFiltrados.reduce((sum, j) => sum + (j.progreso || 0), 0);
     const progresoMedio = total > 0 ? Math.round(progresoTotal / total) : 0;
