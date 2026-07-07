@@ -1,1 +1,3172 @@
+[
+  {
+    "id": 1,
+    "titulo": "Gran Turismo",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Gran-Turismo.jpg",
+    "favorito": false,
+    "estado": "Completo con caja y manual. Caja ligeramente dañada.",
+    "descripcion": "Gran Turismo es el aclamado simulador de carreras de 1997 desarrollado por Polyphony Digital que revolucionó el género en PlayStation 1 al introducir físicas hiperrealistas. Con 178 coches licenciados y 11 circuitos, el juego destaca por su profundo Modo Simulación, donde los jugadores deben obtener carnets de conducir, ganar créditos y tunear vehículos reales para progresar. Es el título más vendido en la historia de la consola original de Sony.",
+    "imagenes": [
+      "images/ps1/Gran-Turismo.jpg",
+      "images/ps1/Gran-Turismo-inside.jpeg",
+      "images/ps1/Gran-Turismo-back.jpeg",
+      "images/ps1/Gran-Turismo-side.jpeg"      
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "NHL 2000",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/NHL_2000.jpg",
+    "favorito": false,
+    "estado": "Caja rota, se separa la parte frontal de la posterior. Disco y manual en buen estado",
+    "descripcion": "NHL 2000 es un videojuego de simulación de hockey sobre hielo lanzado por EA Sports en 1999 para la consola PlayStation 1 (PS1). Actúa como el sucesor directo de NHL 99, ofreciendo plantillas actualizadas y modos de juego profundos basados en la licencia oficial de la National Hockey League estadounidense.",
+    "imagenes": [
+      "images/ps1/NHL_2000.jpg",
+      "images/ps1/NHL_2000-inside-.jpeg",
+      "images/ps1/NHL_2000-back-.jpeg",
+      "images/ps1/NHL_2000-side-.jpeg"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Parasite Eve 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Parasite_Eve_2.jpg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y dos discos correctos",
+    "descripcion": "Parasite Eve II es un videojuego de terror y acción RPG lanzado por Squaresoft en 1999 (Japón) y 2000 (Occidente) para la PlayStation 1. Esta secuela directa cambia el enfoque estratégico de la primera entrega por un estilo mucho más cercano al survival horror cinematográfico de la saga Resident Evil.",
+    "imagenes": [
+      "images/ps1/Parasite_Eve_2.jpg",
+      "images/ps1/Parasite_Eve_2-back-.jpeg",
+      "images/ps1/Parasite_Eve_2-inside-.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Time Crisis",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Time_Crisis.jpg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Time Crisis es un videojuego de disparos sobre raíles en primera persona lanzado por Namco para la PlayStation 1 en 1997. Es la conversión directa del exitoso juego de arcade de 1995, famoso por revolucionar el género gracias a su sistema dinámico de cobertura y su estricto límite de tiempo.",
+    "imagenes": [
+      "images/ps1/Time_Crisis.jpg",
+      "images/ps1/Time_Crisis-inside-.jpeg",
+      "images/ps1/Time_Crisis-back-.jpeg",
+      "images/ps1/Time_Crisis-side-.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Hercules Disney",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Hescules_Disney.jpg",
+    "favorito": false,
+    "estado": "Caja deteriorada con golpes y cierre dañado. Manual y disco en buenas condiciones",
+    "descripcion": "Disney's Hércules (oficialmente titulado Disney's Action Game Featuring Hercules) es un videojuego de plataformas lanzado por Disney Interactive en 1997 para la PlayStation 1. Basado fielmente en la película animada del mismo año, el juego destaca por su fiel recreación visual y por ser uno de los títulos más recordados y accesibles de la consola.",
+    "imagenes": [
+      "images/ps1/Hescules_Disney.jpg",
+      "images/ps1/Hescules_Disney-inside-.jpeg",
+      "images/ps1/Hescules_Disney-ack-.jpeg",
+      "images/ps1/Hescules_Disney-side.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Time Crisis Project Titan",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Time_Crisis_Project_Titan.jpg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Time Crisis: Project Titan es un videojuego de disparos sobre raíles lanzado en 2001 en exclusiva para la PlayStation 1. A diferencia de las entregas numeradas, este título no nació en los salones recreativos, sino que fue desarrollado por Flying Edge y publicado por Namco específicamente para el mercado doméstico, sirviendo como secuela directa del primer juego de PS1.",
+    "imagenes": [
+      "images/ps1/Time_Crisis_Project_Titan.jpg",
+      "images/ps1/Time_Crisis_Project_Titan-inside-.jpeg",
+      "images/ps1/Time_Crisis_Project_Titan-back-.jpeg",
+      "images/ps1/Time_Crisis_Project_Titan-side-.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Spyro 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Spyro_2.jpg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Spyro 2 (conocido en Europa como Spyro 2: Gateway to Glimmer y en Norteamérica como Spyro 2: Ripto's Rage!) es un videojuego de plataformas en 3D desarrollado por Insomniac Games y lanzado para PlayStation 1 en 1999. Esta secuela directa expandió enormemente la fórmula del título original introduciendo una trama mucho más estructurada, minijuegos variados y nuevas habilidades de movimiento.",
+    "imagenes": [
+      "images/ps1/Spyro_2.jpg",
+      "images/ps1/Spyro_2-inside-.jpeg",
+      "images/ps1/Spyro_2-back-.jpeg"
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Point Blank",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Point_Bank.jpg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Point Blank (conocido en Japón como Gun Bullet) es un videojuego de disparos sobre raíles en primera persona lanzado por Namco para la PlayStation 1 en 1998. A diferencia de la seriedad militar de Time Crisis, este título —adaptado de la recreativa de 1994— apuesta por una estética de dibujos animados, un humor absurdo y un formato de minijuegos rápidos apto para toda la familia.",
+    "imagenes": [
+      "images/ps1/Point_Bank.jpg",
+      "images/ps1/Point_Bank-inside-.jpeg",
+      "images/ps1/Point_Bank-back.jpeg"
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Xmen 2 Mutant Academy",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Xmen_2.jpg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "X-Men: Mutant Academy 2 es un videojuego de lucha en 2.5D desarrollado por Paradox Development y publicado por Activision en septiembre de 2001 para la PlayStation 1. Esta secuela directa superó notablemente al título original al pulir las físicas de combate, expandir de forma masiva el plantel de personajes y añadir mecánicas aéreas más fluidas.",
+    "imagenes": [
+      "images/ps1/Xmen_2.jpg",
+      "images/ps1/Xmen_2-inside-.jpeg",
+      "images/ps1/Xmen_2-back-.jpeg",
+      "images/ps1/Xmen_2-side-.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Final Fantasy VI",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FF_VI.jpeg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Final Fantasy VI es un videojuego de rol clásico (RPG) desarrollado y publicado por Squaresoft, lanzado originalmente en 1994 para la consola Super Nintendo (SNES) y adaptado posteriormente a la PlayStation 1 (PS1) en 1999. Es considerado de forma unánime como una de las obras maestras absolutas de la historia de los videojuegos gracias a su madura narrativa, su inolvidable banda sonora compuesta por Nobuo Uematsu y uno de los elencos de personajes más corales del género ",
+    "imagenes": [
+      "images/ps1/FF_VI.jpeg",
+      "images/ps1/FF_VI-inside.jpeg"
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Soulblade",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Soulblade.jpeg",
+    "favorito": false,
+    "estado": "caja rota, se separa de la base. Maual y disco en buen estado",
+    "descripcion": "Soul Blade (conocido en Japón como Soul Edge) es un videojuego de lucha en 3D desarrollado por Namco y lanzado para la PlayStation 1 en 1996. Este título —adaptado de la recreativa de 1995— es la entrega fundacional de la aclamada saga de lucha armamentística Soulcalibur, convirtiéndose al instante en uno de los mayores hitos técnicos y jugables de la consola.",
+    "imagenes": [
+      "images/ps1/Soulblade.jpeg",
+      "images/ps1/Soulblade-inside-.jpeg",
+      "images/ps1/Soulblade-back-.jpeg",
+      "images/ps1/Soulblade-side-.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Final Fantasy VII",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FFVII.jpeg",
+    "favorito": false,
+    "estado": "Buen estado salvo raja en la parte frontal de la caja. Manual completo y disco correcto",
+    "descripcion": "Final Fantasy VII es un legendario videojuego de rol (RPG) desarrollado por Squaresoft y lanzado para la PlayStation 1 en 1997. Fue el título que revolucionó la industria al popularizar los JRPG en Occidente, convirtiéndose en el estándar técnico de su generación y en uno de los juegos más influyentes de la historia.",
+    "imagenes": [
+      "images/ps1/FFVII.jpeg",
+      "images/ps1/FFVII-inside1.jpeg",
+      "images/ps1/FFVII-inside2.jpeg",
+      "images/ps1/FFVII-back.jpeg",
+      "images/ps1/FFVII-side.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "AIR COMBAT",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/AIR_COMBAT.jpeg",
+    "favorito": false,
+    "estado": "Buen estado salvo raja en la parte frontal de la caja. Manual completo y disco correcto",
+    "descripcion": "Air Combat (conocido en Japón como Ace Combat) es un videojuego de simulación de combate aéreo arcade lanzado por Namco en 1995 para la PlayStation 1. Es el título fundacional de la legendaria y longeva franquicia Ace Combat, adaptado directamente de la exitosa máquina recreativa homónima de 1993 para convertirse en uno de los juegos de lanzamiento más importantes de la consola.",
+    "imagenes": [
+      "images/ps1/AIR_COMBAT.jpeg",
+      "images/ps1/AIR_COMBAT-inside.jpeg",
+      "images/ps1/AIR_COMBAT-back.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "TEKKEN 3",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/TEKKEN3.jpeg",
+    "favorito": false,
+    "estado": "caja rota, se separa de la base. Maual y disco en buen estado",
+    "descripcion": "Tekken 3 es un legendario videojuego de lucha en 3D desarrollado por Namco y lanzado para la PlayStation 1 en 1998. Considerado de forma unánime como uno de los mejores videojuegos de la historia y la cumbre gráfica de la consola, esta entrega revolucionó el género gracias a su fluidez técnica, físicas pulidas y una cantidad masiva de contenido adicional exclusivo para la versión doméstica.",
+    "imagenes": [
+      "images/ps1/TEKKEN3.jpeg",
+      "images/ps1/TEKKEN3-inside.jpeg",
+      "images/ps1/TEKKEN3-back.jpeg",
+      "images/ps1/TEKKEN3-side.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "titulo": "Final Fantasy IX",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FFIX.jpeg",
+    "favorito": false,
+    "estado": "Buen estado salvo raja en la parte frontal de la caja. Manual completo y disco correcto",
+    "descripcion": "Final Fantasy IX es un aclamado videojuego de rol (JRPG) desarrollado y publicado por Squaresoft en el año 2000 para la PlayStation 1. Tras el estilo futurista y de ciencia ficción de las dos entregas anteriores, este título nació como un homenaje de despedida a la consola, regresando por la puerta grande a las raíces de la fantasía medieval clásica, los castillos, los caballeros y los cristales mágicos.",
+    "imagenes": [
+      "images/ps1/FFIX.jpeg",
+      "images/ps1/FFIX-inside1.jpeg",
+      "images/ps1/FFIX-inside2.jpeg",
+      "images/ps1/FFIX-back.jpeg",
+      "images/ps1/FFIX-side.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "titulo": "Final Fantasy Anthology",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FF_Anthology.jpeg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Final Fantasy Anthology es un videojuego recopilatorio de rol (JRPG) publicado por Square Electronic Arts en 1999 para la PlayStation 1. Este paquete se lanzó con el objetivo de traer por primera vez a los jugadores occidentales de PlayStation las entregas clásicas de la era de los 16 bits, sirviendo como un puente nostálgico tras el arrollador éxito de Final Fantasy VII.",
+    "imagenes": [
+      "images/ps1/FF_Anthology.jpeg",
+      "images/ps1/FF_Anthology-inside.jpeg",
+      "images/ps1/FF_Anthology-back.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "titulo": "Final Fantasy Origins",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/FF_Origins.jpeg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Final Fantasy Origins es un videojuego recopilatorio de rol (JRPG) desarrollado por Squaresoft y lanzado para la PlayStation 1 en 2002 (Japón) y 2003 (Occidente). Siguiendo la fórmula de Final Fantasy Anthology, este paquete incluye las versiones completamente remasterizadas de los dos primeros títulos de la saga: Final Fantasy I y Final Fantasy II, lanzados originalmente para la consola Famicom/NES a finales de los ochenta.",
+    "imagenes": [
+      "images/ps1/FF_Origins.jpeg",
+      "images/ps1/FF_Origins-inside.jpeg",
+      "images/ps1/FF_Origins-back.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "titulo": "Everybodys Golf 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Everybodys_golf2.jpeg",
+    "favorito": false,
+    "estado": "pequeña raja en la parte frontal de la caja. Manual completo y disco correcto",
+    "descripcion": "Everybody's Golf 2 (conocido en Norteamérica como Hot Shots Golf 2) es un videojuego de simulación de golf de estilo arcade lanzado por Sony Computer Entertainment en 1999 (Japón) y 2000 (Occidente) para la PlayStation 1. Desarrollado por el estudio Clap Hanz, este título se convirtió en uno de los juegos deportivos más adictivos de la consola gracias a su perfecto equilibrio entre accesibilidad y profundidad.",
+    "imagenes": [
+      "images/ps1/Everybodys_golf2.jpeg",
+      "images/ps1/Everybodys_golf2-inside.jpeg"
+    ]
+  },
+  {
+    "id": 19,
+    "titulo": "Tomb Raider 3",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Tomb_Raider3.jpeg",
+    "favorito": false,
+    "estado": "Buen estado todo. Manual completo y disco correcto",
+    "descripcion": "Tomb Raider III: Adventures of Lara Croft es un videojuego de acción y aventura lanzado por Eidos Interactive y Core Design en 1998 para la PlayStation 1. Esta tercera entrega destaca por elevar drásticamente la dificultad de los puzles, ofrecer un desarrollo de niveles no lineal y llevar al límite el motor gráfico original de la consola.",
+    "imagenes": [
+      "images/ps1/Tomb_Raider3.jpeg",
+      "images/ps1/tombraider3-inside.jpeg",
+      "images/ps1/tombraider3-back.jpeg",
+      "images/ps1/tombraider3-side.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "titulo": "Tomb Raider 2",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/Tomb_Raider2.jpeg",
+    "favorito": false,
+    "estado": "Caja rota en patilla inferior de union frontal. Manual completo y disco correcto",
+    "descripcion": "Tomb Raider II: Starring Lara Croft es un aclamado videojuego de acción y aventura lanzado por Eidos Interactive y Core Design en 1997 para la PlayStation 1. Esta secuela directa expandió de forma masiva el éxito del juego original, enfocándose mucho más en el combate contra enemigos humanos, escenarios urbanos abiertos y la introducción de vehículos.",
+    "imagenes": [
+      "images/ps1/Tomb_Raider2.jpeg",
+      "images/ps1/tombraider2-inside.jpeg",
+      "images/ps1/tombraider2-back.jpeg",
+      "images/ps1/tombraider2-side.jpeg"
+    ]
+  },
+  {
+    "id": 21,
+    "titulo": "Tomb Raider",
+    "plataforma": "PlayStation",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps1/tombraider.jpeg",
+    "favorito": false,
+    "estado": "Caja rota en patilla inferior de union frontal. Manual completo y disco correcto",
+    "descripcion": "Tomb Raider es un legendario videojuego de acción, aventura y plataformas en 3D desarrollado por Core Design y lanzado por Eidos Interactive en 1996 para la PlayStation 1. Fue el título fundacional de la franquicia y un hito histórico en la industria al popularizar los entornos completamente tridimensionales y consolidar a Lara Croft como uno de los mayores iconos de la cultura pop.",
+    "imagenes": [
+      "images/ps1/tombraider.jpeg",
+      "images/ps1/tombraider-inside.jpeg",
+      "images/ps1/tombraider-back.jpeg",
+      "images/ps1/tombraider-side.jpeg"
+    ]
+  },
 
+
+
+  
+  
+  {
+    "id": 101,
+    "titulo": "187 Ride or Die",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/187_ride_or_die.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "187 Ride or Die es un videojuego de conducción y combate vehicular desarrollado por Ubisoft Paris y lanzado para la PlayStation 2 en el año 2005. Combina intensas carreras callejeras con tiroteos, sumergiéndose por completo en la estética de las bandas urbanas y la cultura del hip-hop de la costa oeste de Estados Unidos",
+    "imagenes": [
+      "images/ps2/187_ride_or_die.jpg",
+      "images/ps2/187_ride_or_die-inside.JPEG",
+      "images/ps2/187_ride_or_die-back.JPEG"
+    ]
+  },
+  {
+    "id": 102,
+    "titulo": "18 Eigteen Wheeler",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/18_ Eigteen_wheeler.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "18 Wheeler: American Pro Trucker es un clásico juego de simulación de conducción de camiones arcade, desarrollado originalmente por Sega AM2 y llevado a la PlayStation 2 en 2001.",
+    "imagenes": [
+      "images/ps2/18_ Eigteen_wheeler.jpg",
+      "images/ps2/Eigteen_wheeler-inside.jpeg",
+      "images/ps2/Eigteen_wheeler-back.jpeg"
+    ]
+  },
+  {
+    "id": 103,
+    "titulo": "Call of Duty World at War",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/CAll_of_Duty_World_at_War.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": " Call of Duty: World at War lanzado en 2008, la mayoría recuerda las versiones de Xbox 360, PS3 o PC. Sin embargo, para la PlayStation 2 se lanzó una versión completamente única y diferente titulada oficialmente Call of Duty: World at War – Final Fronts",
+    "imagenes": [
+      "images/ps2/CAll_of_Duty_World_at_War.jpg",
+      "images/ps2/CAll_of_Duty_World_at_War-back.JPEG"
+    ]
+  },
+  {
+    "id": 104,
+    "titulo": "Crash Bandicoot Wrath Cortex",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Crash_Bandicoot_wrath_cortex.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Crash Bandicoot: The Wrath of Cortex (lanzado como Crash Bandicoot: La venganza de Cortex en español) es un videojuego de plataformas lanzado en 2001 para la PlayStation 2. Fue un título histórico para la franquicia, ya que fue el primer juego principal de la saga que no fue desarrollado por Naughty Dog (sino por Traveller's Tales) y el primero en saltar a una consola de nueva generación.",
+    "imagenes": [
+      "images/ps2/Crash_Bandicoot_wrath_cortex.jpg",
+      "images/ps2/Crash_Bandicoot_wrath_cortex-inside.JPEG",
+      "images/ps2/Crash_Bandicoot_wrath_cortex-back.JPEG"
+    ]
+  },
+  {
+    "id": 105,
+    "titulo": "Crash Guerra al Coco Maniaco",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Crash_guerra_coco_maniaco.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Crash: ¡Guerra al Coco-Maníaco! (conocido en América Latina como Crash: Mind over Mutant) es un videojuego de acción, aventura y plataformas lanzado en 2008 para la PlayStation 2. Desarrollado por Radical Entertainment y distribuido por Activision, es la secuela directa de Crash of the Titans y el decimoquinto juego de la franquicia.",
+    "imagenes": [
+      "images/ps2/Crash_guerra_coco_maniaco.jpg",
+      "images/ps2/Crash_guerra_coco_maniaco-inside.JPEG",
+      "images/ps2/Crash_guerra_coco_maniaco-back.JPEG"
+    ]
+  },
+
+  {
+    "id": 106,
+    "titulo": "Crazy Taxi",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Crazy_taxi.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Crazy Taxi es uno de los juegos de conducción arcade más icónicos de la historia. Desarrollado originalmente por el estudio Hitmaker (Sega) para recreativas y Dreamcast, fue adaptado con un éxito brutal a la PlayStation 2 en el año 2001.",
+    "imagenes": [
+      "images/ps2/Crazy_taxi.jpg",
+      "images/ps2/Crazy_taxi-inside.JPEG",
+      "images/ps2/Crazy_taxi-back.JPEG"
+    ]
+  },
+  {
+    "id": 107,
+    "titulo": "Dead or Alive 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/DOA2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Dead or Alive 2 (específicamente lanzado como Dead or Alive 2: Hardcore) es un aclamado videojuego de lucha en 3D lanzado para la PlayStation 2 en el año 2000, desarrollado por Team Ninja y publicado por Tecmo. Es ampliamente considerado uno de los mejores títulos de pelea de su generación, destacando por su espectacular apartado gráfico para la época, su velocidad y su profunda innovación mecánica.",
+    "imagenes": [
+      "images/ps2/DOA2.jpg",
+      "images/ps2/DOA2-back.JPEG",
+      "images/ps2/DOA2-back.JPEG"
+    ]
+  },
+  {
+    "id": 108,
+    "titulo": "Devil May Cry",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Devil_May_cry.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Devil May Cry es un videojuego de acción y hack and slash lanzado en 2001 para la consola PlayStation 2, desarrollado por Capcom y dirigido por Hideki Kamiya. Originalmente concebido como una versión temprana de Resident Evil 4, el juego cambió de rumbo debido a su enfoque estilizado y dinámico, convirtiéndose en el nacimiento de una de las franquicias más icónicas de la industria.",
+    "imagenes": [
+      "images/ps2/Devil_May_cry.jpg",
+      "images/ps2/Devil_May_cry-inside.JPEG",
+      "images/ps2/Devil_May_cry-back.JPEG"
+    ]
+  },
+  {
+    "id": 109,
+    "titulo": "Dogs Life",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Dogs_life.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Dog's Life es un videojuego de acción y aventura en mundo abierto lanzado en 2003 para la consola PlayStation 2, desarrollado por Frontier Developments. El juego destaca históricamente por ser un simulador que permite al jugador experimentar la vida e interacciones completas desde la perspectiva de un perro.",
+    "imagenes": [
+      "images/ps2/Dogs_life.jpg",
+      "images/ps2/Dogs_life-INSIDE.JPEG",
+      "images/ps2/Dogs_life-BACK.JPEG"
+    ]
+  },
+  {
+    "id": 110,
+    "titulo": "Evil Twin",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Evil_Twin.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Evil Twin: Cyprien's Chronicles es un videojuego de plataformas, acción y aventura en 3D lanzado para la consola PlayStation 2 en 2002 (también disponible en Dreamcast y PC). Desarrollado por el estudio francés In Utero, destaca por su atmósfera oscura, surrealista y de fantasía gótica, muy en la línea de las obras de Tim Burton o el juego American McGee's Alice.",
+    "imagenes": [
+      "images/ps2/Evil_Twin.JPEG",
+      "images/ps2/Evil_Twin-inside.JPEG",
+      "images/ps2/Evil_Twin-back.JPEG"
+    ]
+  },
+  {
+    "id": 111,
+    "titulo": "Extermination",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Extermination.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Extermination es un videojuego de acción, aventura y survival horror lanzado en 2001 en exclusiva para PlayStation 2. Desarrollado por el estudio Deep Space y publicado por Sony, fue uno de los primeros títulos de terror de la consola, destacando por mezclar la fórmula clásica de Resident Evil con elementos de acción táctica militar y un ambiente gélido similar al de la película The Thing (La Cosa).",
+    "imagenes": [
+      "images/ps2/extermination.JPEG",
+      "images/ps2/extermination-inside.JPEG",
+      "images/ps2/extermination-bacck.JPEG"
+    ]
+  },
+  {
+    "id": 112,
+    "titulo": "Eye Toy Play",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Eye_toy_Play.jpg",
+    "favorito": false,
+    "estado": "caja un poco marcada con daños. interior con la cámara",
+    "descripcion": "EyeToy: Play es un videojuego de minijuegos familiares lanzado en 2003 por Sony. Fue el título que estrenó y popularizó la cámara EyeToy, convirtiendo al jugador en el propio mando mucho antes de que existieran la Wii o Kinect",
+    "imagenes": [
+      "images/ps2/Eye_toy_Play.jpg",
+      "images/ps2/Eye_toy_Play-side.JPEG",
+      "images/ps2/Eye_toy_Play-back.JPEG"
+    ]
+  },
+  {
+    "id": 113,
+    "titulo": "FIFA 11",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/FIFA11.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "FIFA 11 para PlayStation 2 es un videojuego de simulación de fútbol lanzado en septiembre de 2010. A diferencia de las versiones para PS3 y Xbox 360, que estrenaron un motor gráfico y de físicas completamente nuevo, la versión de PS2 se mantuvo fiel a la jugabilidad clásica de la sexta generación de consolas, optimizando al máximo el motor de entregas anteriores.",
+    "imagenes": [
+      "images/ps2/fifa11.JPEG",
+      "images/ps2/fifa11-inside.JPEG",
+      "images/ps2/fifa11-back.JPEG"
+    ]
+  },
+  {
+    "id": 114,
+    "titulo": "Final Fantasy X",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Final_Fantasy_X.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Final Fantasy X es un aclamado videojuego de rol clásico (JRPG) lanzado originalmente para PlayStation 2 en el año 2001 en Japón y Estados Unidos, y en 2002 en Europa. Desarrollado y publicado por Square (ahora Square Enix), es considerado uno de los mejores títulos de toda la historia de los videojuegos y un pilar fundamental en el catálogo de la PS2.",
+    "imagenes": [
+      "images/ps2/Final_Fantasy_X.jpg",
+      "images/ps2/FFX-inside.JPEG",
+      "images/ps2/FFX-back.JPEG"
+    ]
+  },
+  {
+    "id": 115,
+    "titulo": "Final Fantasy X-2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Final_Fantasy_X2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Final Fantasy X-2 es un videojuego de rol (JRPG) lanzado para PlayStation 2 en 2003 en Japón y 2004 en Europa. Desarrollado por Square Enix, hizo historia en la franquicia al convertirse en la primera secuela directa de un juego de la saga principal, continuando la historia de Final Fantasy X.",
+    "imagenes": [
+      "images/ps2/FFX2.JPEG",
+      "images/ps2/FFX2-inside.JPEG",
+      "images/ps2/FFX2-back.JPEG"
+    ]
+  },
+  {
+    "id": 116,
+    "titulo": "Final Fantasy XII",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Final_Fantasy_XII.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Final Fantasy XII es un aclamado videojuego de rol (JRPG) lanzado para PlayStation 2 en 2006 (2007 en Europa), desarrollado y publicado por Square Enix. Dirigido en su mayor parte por Yasumi Matsuno, el juego rompió con múltiples tradiciones de la franquicia, ofreciendo una madura trama de intriga política y un revolucionario sistema de combate en tiempo real.",
+    "imagenes": [
+      "images/ps2/FFXII.JPEG",
+      "images/ps2/FFXII-inside.JPEG",
+      "images/ps2/FFXII-back.JPEG"
+    ]
+  },
+  {
+    "id": 117,
+    "titulo": "GRU Mi Villano Favorito",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GRU_villano_favorito.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Gru, mi villano favorito: El videojuego es una aventura de plataformas y puzles lanzada en septiembre de 2010 para la consola PlayStation 2. Desarrollado por Vicious Cycle Software y publicado por D3 Publisher, coincidió con el estreno de la película original de Illumination Entertainment. Fue uno de los últimos títulos basados en películas animadas en llegar al catálogo de la PS2.",
+    "imagenes": [
+      "images/ps2/gru.JPEG",
+      "images/ps2/gru-inside.JPEG",
+      "images/ps2/gru-back.JPEG"
+    ]
+  },
+  {
+    "id": 118,
+    "titulo": "Gran Turismo 3",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GT3.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Gran Turismo 3: A-Spec es un aclamado simulador de carreras lanzado para PlayStation 2 en 2001, desarrollado por Polyphony Digital y publicado por Sony. Fue el primer título de la saga en dar el salto a la sexta generación de consolas, convirtiéndose en un gigantesco éxito comercial y técnico, vendiendo casi 15 millones de copias y consolidándose como uno de los pilares fundamentales del catálogo de la PS2.",
+    "imagenes": [
+      "images/ps2/GT3.JPEG",
+      "images/ps2/GT3-inside.JPEG",
+      "images/ps2/GT3-back.JPEG"
+    ]
+  },
+  {
+    "id": 119,
+    "titulo": "Gran Turismo 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GT4.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Gran Turismo 4 es el simulador de conducción definitivo de la PlayStation 2, lanzado entre 2004 y 2005 por Polyphony Digital. Considerado una obra maestra de la ingeniería de software, empujó el hardware de la PS2 al límite absoluto, logrando una hazaña técnica histórica: ser uno de los poquísimos juegos de la consola capaces de reproducirse a una resolución nativa de 1080i (además de 480p) a 60 fotogramas por segundo.",
+    "imagenes": [
+      "images/ps2/GT4.JPEG",
+      "images/ps2/GT4-inside.JPEG",
+      "images/ps2/GT4-back.JPEG"
+    ]
+  },
+  {
+    "id": 120,
+    "titulo": "GTA San Andreas",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GTA.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Grand Theft Auto: San Andreas es un videojuego de acción y aventura en mundo abierto lanzado en octubre de 2004 en exclusiva temporal para PlayStation 2. Desarrollado por Rockstar North, es considerado de forma unánime el juego definitivo de la PS2, una obra cumbre que rompió récords de ventas y llevó el hardware de la consola al límite de sus capacidades técnicas.",
+    "imagenes": [
+      "images/ps2/GTA.JPEG",
+      "images/ps2/GTA-inside.JPEG",
+      "images/ps2/GTA-back.JPEG"
+    ]
+  },
+  {
+    "id": 121,
+    "titulo": "Kingdom Hearts",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Kingdom_hearts.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Kingdom Hearts es un aclamado videojuego de rol, acción y aventura (ARPG) lanzado para PlayStation 2 en 2002, desarrollado y publicado por Square (ahora Square Enix) en colaboración con Disney. El juego hizo historia en la industria al lograr un crossover aparentemente imposible: fusionar los mundos y personajes mágicos de las películas de Disney con el estilo, estética y personajes de la saga Final Fantasy.",
+    "imagenes": [
+      "images/ps2/kh.JPEG",
+      "images/ps2/kh-inside.JPEG",
+      "images/ps2/kh-back.JPEG"
+    ]
+  },
+  {
+    "id": 122,
+    "titulo": "LEGO STAR WARS",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/LEGO_STAR_WARS.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Lego Star Wars: The Video Game es un aclamado videojuego de acción, aventura y plataformas lanzado en marzo de 2005 para PlayStation 2, desarrollado por Traveller's Tales y publicado por Eidos Interactive. Fue el título revolucionario que inició la masiva y exitosa fórmula de videojuegos de LEGO, combinando por primera vez una jugabilidad cooperativa familiar con el humor absurdo característico de la marca danesa.",
+    "imagenes": [
+      "images/ps2/lego-starwar.JPEG",
+      "images/ps2/lego-starwar-inside.JPEG",
+      "images/ps2/lego-starwar-back.JPEG"
+    ]
+  },
+  {
+    "id": 123,
+    "titulo": "La leyenda de Spyro",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/La_leyenda_de Spyro.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "La leyenda de Spyro (The Legend of Spyro) es una aclamada trilogía de videojuegos que reinició por completo la historia del famoso dragón morado en PlayStation 2, alejándose del tono infantil y colorido de los juegos originales de PS1 para ofrecer una aventura de acción y fantasía mucho más madura, oscura y épica.",
+    "imagenes": [
+      "images/ps2/leyenda_spyro.JPEG",
+      "images/ps2/leyenda_spyro-inside.JPEG",
+      "images/ps2/leyenda_spyro-back.JPEG"
+    ]
+  },
+  {
+    "id": 124,
+    "titulo": "Lego Indiana",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Lego_Indiana.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Lego Indiana Jones: The Original Adventures es un divertido videojuego de acción, aventura y plataformas lanzado en junio de 2008 para la consola PlayStation 2, desarrollado por Traveller's Tales y publicado por LucasArts. Siguiendo el enorme éxito de la saga Lego Star Wars, este título adaptó por primera vez el universo del famoso arqueólogo al formato de bloques de juguete, manteniendo su característico humor mudo y su jugabilidad cooperativa.",
+    "imagenes": [
+      "images/ps2/lego-indi.JPEG",
+      "images/ps2/logo-indi-inside.JPEG",
+      "images/ps2/lego-indi-back.JPEG"
+    ]
+  },
+  {
+    "id": 125,
+    "titulo": "Lego Star Wars 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Lego_Star_Wars2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Lego Star Wars II: The Original Trilogy es un videojuego de acción, aventura y plataformas lanzado en septiembre de 2006 para PlayStation 2, desarrollado por Traveller's Tales. Tras el rotundo éxito de la primera entrega, esta secuela directa perfeccionó la fórmula de LEGO y se centró por completo en recrear la aclamada trilogía clásica de George Lucas con bloques de juguete y un genial toque de humor mudo.",
+    "imagenes": [
+      "images/ps2/lego-starwar2.JPEG",
+      "images/ps2/lego-starwar2-inside.JPEG",
+      "images/ps2/lego-starwar2-back.JPEG"
+    ]
+  },
+  {
+    "id": 126,
+    "titulo": "Locos por el Surf",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Locos_por_surf.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Locos por el Surf (conocido en inglés como Surf's Up) es un videojuego de deportes extremos y acción arcade lanzado en 2007 para PlayStation 2. Desarrollado por Ubisoft, el juego adapta de forma interactiva y muy fiel los acontecimientos de la película animada de Sony Pictures, ofreciendo una jugabilidad que recuerda directamente a clásicos del skate como Tony Hawk pero adaptada por completo a las olas del mar.",
+    "imagenes": [
+      "images/ps2/locos_surf.JPEG",
+      "images/ps2/locos_surf-inside.JPEG",
+      "images/ps2/locos_surf-back.JPEG"
+    ]
+  },
+  {
+    "id": 127,
+    "titulo": "MotoGP",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/motoGP.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "MotoGP en la consola PlayStation 2 es una aclamada franquicia de simulación y carreras de motociclismo que contó con múltiples entregas icónicas lanzadas a lo largo de la vida de la consola. El desarrollo y legado de la saga en la PS2 se divide principalmente en dos épocas doradas marcadas por los estudios de desarrollo",
+    "imagenes": [
+      "images/ps2/motogp.JPEG",
+      "images/ps2/motogp-inside.JPEG",
+      "images/ps2/motogp-back.JPEG"
+    ]
+  },
+  {
+    "id": 128,
+    "titulo": "MR. GOLF",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/MR_GOLF.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Mr. Golf es un videojuego de simulación de deportes de corte arcade lanzado para la consola PlayStation 2 en abril de 2003, desarrollado y publicado por Midas Interactive Entertainment. El título apostó por una jugabilidad accesible con un simpático elenco de personajes animados, sirviendo como una alternativa directa y más económica a la famosa saga Everybody's Golf.",
+    "imagenes": [
+      "images/ps2/MRGolf.JPEG",
+      "images/ps2/MRGolf-inside.JPEG",
+      "images/ps2/MRGolf-back.JPEG"
+    ]
+  },
+  {
+    "id": 129,
+    "titulo": "Disney Monstruos S.A.",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Monstruos_SA.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Monstruos, S.A.: Isla de los Sustos (conocido en inglés como Monsters, Inc. Scare Island) es un popular videojuego de plataformas y aventura en 3D lanzado para PlayStation 2 en 2002. Desarrollado por Artificial Mind and Movement y publicado por Sony, el juego funciona como una precuela de la aclamada película de Pixar, mostrando el duro entrenamiento por el que pasaron los protagonistas para convertirse en asustadores profesionales.",
+    "imagenes": [
+      "images/ps2/Disney_Monstruos_SA.JPEG",
+      "images/ps2/Disney_Monstruos_SA-inside.JPEG",
+      "images/ps2/Disney_Monstruos_SA-back.JPEG"
+    ]
+  },
+  {
+    "id": 130,
+    "titulo": "Onimusha",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Onimusha.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Onimusha es una de las franquicias más aclamadas de acción, aventura y survival horror de Capcom, la cual brilló con luz propia en la PlayStation 2 a principios de los años 2000. Concebida originalmente como una versión con samuráis de Resident Evil, la saga se convirtió en un pilar de la consola gracias a su espectacular mezcla de historia feudal japonesa, mitología oscura, combates intensos con espadas y un apartado gráfico revolucionario para la época.",
+    "imagenes": [
+      "images/ps2/onimusha.JPEG",
+      "images/ps2/onimusha-inside.JPEG",
+      "images/ps2/onimusha-back.JPEG"
+    ]
+  },
+  {
+    "id": 131,
+    "titulo": "Pro Evolution Soccer 2008",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES2008.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 2008 (oficialmente abreviado como PES 2008 y conocido popularmente en España como el Pro 8) es un aclamado videojuego de simulación de fútbol lanzado para PlayStation 2 en octubre de 2007. Desarrollado por Konami y producido por Shingo Seabass Takatsuka, esta versión fue especialmente alabada porque, a diferencia de las versiones de nueva generación (PS3 y Xbox 360) que sufrieron graves problemas de rendimiento y críticas por su jugabilidad, la versión de PS2 mantuvo el motor clásico pulido al extremo, siendo considerada por muchos el cierre de la verdadera edad de oro de PES.",
+    "imagenes": [
+      "images/ps2/PES2008.JPEG",
+      "images/ps2/PES2008-inside.JPEG",
+      "images/ps2/PES2008-back.JPEG"
+    ]
+  },
+    {
+    "id": 132,
+    "titulo": "Pro Rally 2002",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Pro_rally_2002.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Rally 2002 es un videojuego de simulación de carreras lanzado para PlayStation 2 en marzo de 2002. Desarrollado por Ubisoft Barcelona, el título es la secuela directa del videojuego de PC Pro Rally 2001 y buscó competir en el exigente mercado de los juegos de tramos de tierra liderado por las sagas Colin McRae Rally y WRC.",
+    "imagenes": [
+      "images/ps2/prorally.JPEG",
+      "images/ps2/prorally-inside.JPEG",
+      "images/ps2/prorally-back.JPEG"
+    ]
+  },
+  {
+    "id": 133,
+    "titulo": "MotoGP 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/motoGP4.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "MotoGP 4 es considerado de forma unánime por la crítica y los aficionados como el mejor videojuego de motociclismo de la era de PlayStation 2. Lanzado en septiembre de 2005, fue el último juego de la franquicia desarrollado por la mítica compañía Namco, despidiéndose de la consola con un despliegue masivo de contenido y físicas pulidas al máximo.",
+    "imagenes": [
+      "images/ps2/motogp4.JPEG",
+      "images/ps2/motogp4-inside.JPEG",
+      "images/ps2/motogp4-back.JPEG"
+    ]
+  },
+  {
+    "id": 134,
+    "titulo": "Rayman Raving Rabbids",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/RAyman_raving_rabbids.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Rayman Raving Rabbids (lanzado en España como Rayman Raving Rabbids: ¡Un Ataque Alucinante!) es un alocado videojuego de minijuegos y fiesta (party game) lanzado para PlayStation 2 en diciembre de 2006, desarrollado y publicado por Ubisoft. Este título supuso un punto de inflexión histórico en la industria, ya que introdujo por primera vez al mundo a los Rabbids, unos conejos desquiciados, caóticos y surrealistas que terminaron por robarle el protagonismo al propio Rayman en los años posteriores.",
+    "imagenes": [
+      "images/ps2/rayman_rabbids.JPEG",
+      "images/ps2/rayman_rabbids-inside.JPEG",
+      "images/ps2/rayman_rabbids-back.JPEG"
+    ]
+  },
+  {
+    "id": 135,
+    "titulo": "Disney Ratatouille",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Ratatouille.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Ratatouille es un aclamado videojuego de plataformas, acción y aventura en 3D lanzado en 2007 para la consola PlayStation 2, desarrollado por Heavy Iron Studios y publicado por THQ. El título adapta de forma interactiva y muy fiel los acontecimientos de la película homónima de Disney Pixar, permitiendo al jugador experimentar París desde la diminuta perspectiva de una rata.",
+    "imagenes": [
+      "images/ps2/Disney_Ratatouille.JPEG",
+      "images/ps2/Disney_Ratatouille-inside.JPEG",
+      "images/ps2/Disney_Ratatouille-back.JPEG"
+    ]
+  },
+  {
+    "id": 137,
+    "titulo": "Ratchet & Clark El Tamaño importa",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Ratchet_&_Clark_Tamaño_importa.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Ratchet & Clank: El tamaño importa (Ratchet & Clank: Size Matters) es un videojuego de acción, plataformas y disparos en tercera persona lanzado para PlayStation 2 en marzo de 2008. Desarrollado originalmente por High Impact Games para PSP, el juego recibió esta adaptación para PS2 debido a su enorme éxito, trayendo de vuelta la icónica jugabilidad de combates galácticos y humor satírico a la consola de sobremesa.",
+    "imagenes": [
+      "images/ps2/RC_tamaño.JPEG",
+      "images/ps2/RC_tamaño-inside.JPEG",
+      "images/ps2/RC_tamaño-back.JPEG"
+    ]
+  },
+  {
+    "id": 138,
+    "titulo": "Rayman M",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Rayman_M.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Rayman M (lanzado en Norteamérica como Rayman Arena) es un divertido videojuego multijugador de deportes y acción arcade lanzado para PlayStation 2 en noviembre de 2001, desarrollado y publicado por Ubisoft. El juego expandió el universo de la aclamada saga de plataformas en 3D alejándose de la aventura lineal para centrarse por completo en la competición multijugador local.",
+    "imagenes": [
+      "images/ps2/rayman_M.JPEG",
+      "images/ps2/rayman_M-inside.JPEG",
+      "images/ps2/rayman_M-back.JPEG"
+    ]
+  },
+  {
+    "id": 139,
+    "titulo": "Resident Evil 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Resident_Evil4.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Resident Evil 4 para PlayStation 2 es uno de los hitos más importantes en la historia de la consola, lanzado en octubre de 2005. Tras su debut inicial como exclusivo de GameCube, la versión de PS2 se convirtió en un éxito masivo de ventas mundiales. A pesar de los lógicos recortes gráficos debidos a la diferencia de potencia técnica, el juego revolucionó para siempre el género de acción y aventura al popularizar la perspectiva de cámara sobre el hombro.",
+    "imagenes": [
+      "images/ps2/RE4.JPEG",
+      "images/ps2/RE4-inside.JPEG",
+      "images/ps2/RE4-back.JPEG"
+    ]
+  },
+  {
+    "id": 140,
+    "titulo": "Resident Evil Code Veronica",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Resident_Evil_code_Veronica.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Resident Evil Code: Veronica X es un aclamado videojuego de survival horror lanzado para la consola PlayStation 2 en el año 2001. Desarrollado por Capcom, originalmente debutó en Dreamcast, pero llegó a la PS2 con la letra X añadida al título, indicando una versión extendida y mejorada que incluyó más de 10 minutos de nuevas escenas cinematográficas que profundizan en la historia.",
+    "imagenes": [
+      "images/ps2/REveronica.JPEG",
+      "images/ps2/REveronica-inside.JPEG",
+      "images/ps2/REveronica-back.JPEG"
+    ]
+  },
+  {
+    "id": 141,
+    "titulo": "SXR",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SXR.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SXR: Snow X Racing (también lanzado en Norteamérica bajo la marca Ski-Doo: Snow X Racing) es un videojuego de carreras arcade y deportes extremos lanzado para PlayStation 2 en agosto de 2007. Desarrollado por el estudio sueco Coldwood Interactive, el juego se enfoca por completo en la adrenalina de las carreras de motos de nieve, siguiendo la estela espiritual y mecánicas de títulos acuáticos clásicos como Splashdown o Wave Race.",
+    "imagenes": [
+      "images/ps2/SXR.JPEG",
+      "images/ps2/SXR-inside.JPEG",
+      "images/ps2/SXR-back.JPEG"
+    ]
+  },
+  {
+    "id": 142,
+    "titulo": "El Señor de los anillos Las dos torres",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Señor_anillos_dos_torres.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "El Señor de los Anillos: Las Dos Torres es un aclamado videojuego de acción y hack and slash lanzado para PlayStation 2 en noviembre de 2002, desarrollado por Stormfront Studios y publicado por Electronic Arts (EA). El juego fue un enorme éxito crítico y comercial gracias a que contaba con la licencia oficial de las películas de New Line Cinema, lo que le permitió usar la banda sonora original de Howard Shore, las voces de los actores y los diseños reales de la producción cinematográfica.",
+    "imagenes": [
+      "images/ps2/Señor_anillos_dos_torres.JPEG",
+      "images/ps2/Señor_anillos_dos_torres-inside.JPEG",
+      "images/ps2/Señor_anillos_dos_torres-back.JPEG"
+    ]
+  },
+  {
+    "id": 143,
+    "titulo": "World Championship Snooker 2002",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Snooker_2002.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "World Championship Snooker 2002 es un videojuego de simulación deportiva desarrollado por Blade Interactive y publicado por Codemasters en septiembre de 2001 (con la temporada de 2002) en exclusiva para la consola PlayStation 2. El título destaca por ser uno de los simuladores de billar más realistas de su época, recreando con alta fidelidad las estrictas normas, jugadores oficiales y el ambiente televisivo del circuito profesional de snooker.",
+    "imagenes": [
+      "images/ps2/snooker.JPEG",
+      "images/ps2/snooker-inside.JPEG",
+      "images/ps2/snooker-back.JPEG"
+    ]
+  },
+  {
+    "id": 144,
+    "titulo": "Socom",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SOCOM: U.S. Navy SEALs es una de las franquicias exclusivas más importantes y revolucionarias de PlayStation 2, desarrollada por Zipper Interactive y publicada por Sony a partir de 2002. La saga hizo historia en la industria al convertirse en el principal estandarte para popularizar el juego online en la PS2 a través del adaptador de red, además de ser pionera en el uso de periféricos de reconocimiento de voz.",
+    "imagenes": [
+      "images/ps2/Socom.JPEG",
+      "images/ps2/Socom-inside.JPEG",
+      "images/ps2/Socom-back.JPEG"
+    ]
+  },
+  {
+    "id": 145,
+    "titulo": "Socom 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SOCOM II: U.S. Navy SEALs es un legendario videojuego de acción y disparos táctico militar en tercera persona lanzado para PlayStation 2 en noviembre de 2003 (marzo de 2004 en Europa), desarrollado por Zipper Interactive y publicado por Sony. Es considerado de forma unánime por la comunidad el punto álgido de la franquicia y uno de los mejores videojuegos multijugador en la historia de la PS2, marcando la era dorada del juego online en la sexta generación de consolas.",
+    "imagenes": [
+      "images/ps2/Socom2.JPEG",
+      "images/ps2/Socom2-inside.JPEG",
+      "images/ps2/Socom2-back.JPEG"
+    ]
+  },
+  {
+    "id": 146,
+    "titulo": "Socom 3",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom3.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SOCOM 3: U.S. Navy SEALs es un videojuego de disparos táctico militar en tercera persona lanzado en octubre de 2005 para la consola PlayStation 2, desarrollado por Zipper Interactive y publicado por Sony Computer Entertainment. Esta tercera entrega destacó por llevar al límite absoluto las capacidades técnicas de la PS2, expandiendo de forma masiva tanto la escala de sus escenarios como el número de jugadores simultáneos en su modo online.",
+    "imagenes": [
+      "images/ps2/Socom_3.JPEG",
+      "images/ps2/Socom_3-inside.JPEG",
+      "images/ps2/Socom_3-back.JPEG"
+    ]
+  },
+  {
+    "id": 147,
+    "titulo": "Socom Combined Assault",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Socom_Combined_Assault.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SOCOM: U.S. Navy SEALs Combined Assault es un videojuego de disparos táctico militar en tercera persona lanzado en noviembre de 2006 para la consola PlayStation 2, desarrollado por Zipper Interactive y publicado por Sony. Fue la cuarta y última entrega principal de la aclamada franquicia en la PS2, funcionando como un broche de oro técnico que unificó el motor masivo de SOCOM 3 con un fuerte enfoque cooperativo.",
+    "imagenes": [
+      "images/ps2/Socom_CA.JPEG",
+      "images/ps2/Socom_CA-inside.JPEG",
+      "images/ps2/Socom_CA-back.JPEG"
+    ]
+  },
+  {
+    "id": 148,
+    "titulo": "Sonic raiders",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Sonic_raiders.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Dog's Life es un videojuego de acción y aventura en mundo abierto lanzado en 2003 para la consola PlayStation 2, desarrollado por Frontier Developments. El juego destaca históricamente por ser un simulador que permite al jugador experimentar la vida e interacciones completas desde la perspectiva de un perro.",
+    "imagenes": [
+      "images/ps2/Sonic_riders.JPEG",
+      "images/ps2/Sonic_riders-inside.JPEG",
+      "images/ps2/Sonic_riders-back.JPEG"
+    ]
+  },
+  {
+    "id": 149,
+    "titulo": "Speed Racer",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Speed_racer.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Speed Racer: El videojuego es un frenético título de carreras arcade lanzado para PlayStation 2 en septiembre de 2008, desarrollado por Sidhe Interactive y publicado por Warner Bros. Interactive Entertainment. El juego adapta de forma interactiva la espectacular estética futurista y psicodélica de la película homónima dirigida por las hermanas Wachowski (basada a su vez en el clásico anime Meteoro).",
+    "imagenes": [
+      "images/ps2/Speed_RAcer.JPEG",
+      "images/ps2/Speed_RAcer-inside.JPEG",
+      "images/ps2/Speed_RAcer-back.JPEG"
+    ]
+  },
+  {
+    "id": 150,
+    "titulo": "Star Wars Battlefront",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Star_Wars_Battlefront.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Star Wars Battlefront es un aclamado videojuego de acción y disparos en primera y tercera persona lanzado en septiembre de 2004 para la consola PlayStation 2, desarrollado por Pandemic Studios y publicado por LucasArts. El título revolucionó los juegos de la franquicia al adaptar con maestría la fórmula de batallas masivas multijugador de Battlefield al universo cinematográfico de George Lucas.",
+    "imagenes": [
+      "images/ps2/StarWArs_Battlefront.JPEG",
+      "images/ps2/StarWArs_Battlefront-inside.JPEG",
+      "images/ps2/SW_battle-back.JPEG"
+    ]
+  },
+  {
+    "id": 151,
+    "titulo": "Star Wars Battlefront 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Star_Wars_Battlefront2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Star Wars Battlefront II es un aclamado videojuego de acción y disparos en primera y tercera persona lanzado en octubre de 2005 para la consola PlayStation 2, desarrollado por Pandemic Studios y publicado por LucasArts. Considerado de forma unánime como uno de los mejores juegos de la franquicia y un pilar absoluto del catálogo de la PS2, esta secuela expandió y perfeccionó de forma masiva todas las mecánicas de la primera entrega.",
+    "imagenes": [
+      "images/ps2/StarWArs_Battlefront2.JPEG", 
+      "images/ps2/StarWArs_Battlefront2-inside.JPEG",
+      "images/ps2/StarWArs_Battlefront2-back.JPEG"
+    ]
+  },
+  {
+    "id": 152,
+    "titulo": "Star Wars Episodio 3",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Star_Wars_episodio_3.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Star Wars Episodio III: La Venganza de los Sith es un aclamado videojuego de acción y hack and slash lanzado para PlayStation 2 en mayo de 2005, desarrollado por The Collective y publicado por LucasArts. El juego se estrenó de forma simultánea con la película homónima, destacando por su intenso sistema de combate con sables láser y por incluir escenas cinematográficas reales del film dirigidas por George Lucas.",
+    "imagenes": [
+      "images/ps2/StarWArs_e3.JPEG",
+      "images/ps2/StarWArs_e3-inside.JPEG",
+      "images/ps2/StarWArs_e3-back.JPEG"
+    ]
+  },
+  {
+    "id": 153,
+    "titulo": "Super Bust a Move",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Super_Bust_a_Move.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Super Bust-A-Move (conocido en Japón como Super Puzzle Bobble) es un adictivo videojuego de puzles arcade lanzado para la consola PlayStation 2 en noviembre de 2000 (llegando a Europa en 2001). Desarrollado por Taito y publicado por Acclaim, fue una de las primeras entregas en dar el salto a la sexta generación de consolas, manteniendo la clásica y exitosa fórmula de lanzar burbujas pero renovando por completo el apartado visual y el diseño de los personajes.",
+    "imagenes": [
+      "images/ps2/super_bust.JPEG",
+      "images/ps2/super_bust-inside.JPEG",
+      "images/ps2/super_bust-back.JPEG"
+    ]
+  },
+  {
+    "id": 154,
+    "titulo": "Disney Tarzan",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tarzan.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Disney's Tarzan: Freeride (conocido en Norteamérica como Tarzan: Untamed) es un videojuego de acción y aventura lanzado para PlayStation 2 en noviembre de 2001. Desarrollado por Ubisoft Montreal, este título funciona como una secuela directa de la película animada de 1999, expandiendo la franquicia con una historia completamente nueva que mezcla el plataformeo tradicional con mecánicas inspiradas en los deportes extremos.",
+    "imagenes": [
+      "images/ps2/Disney_tarzan.JPEG",
+      "images/ps2/Disney_tarzan-inisde.JPEG",
+      "images/ps2/Disney_tarzan-back.JPEG"
+    ]
+  },
+  {
+    "id": 155,
+    "titulo": "Tekken 4",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tekken4.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Tekken 4 es un aclamado videojuego de lucha en entornos tridimensionales lanzado para PlayStation 2 en el año 2002, desarrollado y publicado por Namco. Tras el rotundo éxito del spin-off Tekken Tag Tournament, esta entrega numerada supuso el cambio estético y jugable más radical, maduro y experimental en toda la historia de la franquicia.",
+    "imagenes": [
+      "images/ps2/Tekken4.JPEG",
+      "images/ps2/Tekken4-inside.JPEG",
+      "images/ps2/Tekken4-back.JPEG"
+    ]
+  },
+  {
+    "id": 156,
+    "titulo": "Tekken TAG",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tekken_TAG.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Tekken Tag Tournament es un legendario videojuego de lucha lanzado como título de lanzamiento para la PlayStation 2 en el año 2000 (debutando originalmente en recreativas en 1999). Desarrollado por Namco, este spin-off se convirtió en un pilar histórico de la consola y en uno de los juegos de lucha más vendidos y queridos de todos los tiempos, sirviendo como el gran escaparate técnico para demostrar el salto gráfico generacional de la PS2.",
+    "imagenes": [
+      "images/ps2/Tekken_tag.JPEG",
+      "images/ps2/Tekken_tag-inside.JPEG",
+      "images/ps2/Tekken_tag-back.JPEG"
+    ]
+  },
+  {
+    "id": 157,
+    "titulo": "The Bouncer",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/The_Bouncer.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "The Bouncer es un videojuego de acción y combates callejeros (beat 'em up) en entornos tridimensionales lanzado para PlayStation 2 en el año 2001 (debutando a finales de 2000 en Japón). Desarrollado por DreamFactory y co-publicado por Square (ahora Square Enix), fue uno de los títulos de lanzamiento más mediáticos de la consola, diseñado específicamente para lucir el salto gráfico generacional gracias a un apartado técnico cinematográfico fotorrealista para la época y un marcado diseño de personajes a cargo de Tetsuya Nomura (diseñador de Final Fantasy y Kingdom Hearts).",
+    "imagenes": [
+      "images/ps2/the_bouncer.JPEG",
+      "images/ps2/the_bouncer-inside.JPEG",
+      "images/ps2/the_bouncer-back.JPEG"
+    ]
+  },
+  {
+    "id": 158,
+    "titulo": "Disney Think Fast",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Think_fast.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Disney Th!nk Fast (conocido en España como Disney Th!nk Fast: Piensa y Acierta) es un videojuego de puzles, preguntas y respuestas (trivia) tipo concurso de televisión lanzado para PlayStation 2 en noviembre de 2008 (también disponible en Nintendo Wii). Desarrollado por Magenta Software y publicado por Disney Interactive Studios, el título destaca por ofrecer una experiencia familiar interactiva muy similar a la saga Buzz!, pero ambientada en el universo de animación de Disney",
+    "imagenes": [
+      "images/ps2/Disney_think_fast.JPEG",
+      "images/ps2/Disney_think_fast-inside.JPEG",
+      "images/ps2/Disney_think_fast-back.JPEG"
+    ]
+  },
+  {
+    "id": 159,
+    "titulo": "Toca Racer Driver 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Toca_racer_driver_2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "TOCA Race Driver 2: Ultimate Racing Simulator es un aclamado videojuego de conducción que combina elementos de simulación y arcade, lanzado para PlayStation 2 en octubre de 2004 (originalmente debutó en Xbox y PC unos meses antes). Desarrollado y publicado por Codemasters, el juego revolucionó el género en la consola gracias a su enorme cantidad de disciplinas del motor con físicas independientes y por ofrecer un modo campaña con una sólida trama cinematográfica.",
+    "imagenes": [
+      "images/ps2/toca_racer2.JPEG",
+      "images/ps2/toca_racer2-inside.JPEG",
+      "images/ps2/toca_racer2-back.JPEG"
+    ]
+  },
+  {
+    "id": 160,
+    "titulo": "Lara Croft, Tomb Raider el Angel de la Oscuridad",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Tomb_Raide_Angel_oscuridad.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Tomb Raider: El Ángel de la Oscuridad (Tomb Raider: The Angel of Darkness) es un videojuego de acción, aventura y plataformas en 3D lanzado para PlayStation 2 en junio de 2003. Desarrollado por Core Design y publicado por Eidos Interactive, significó el esperadísimo pero accidentado debut de la mítica arqueóloga Lara Croft en la sexta generación de consolas, convirtiéndose en uno de los títulos más controvertidos e históricamente recordados del catálogo de la PS2.",
+    "imagenes": [
+      "images/ps2/LaraCroft_angel.JPEG",
+      "images/ps2/LaraCroft_angel-inside.JPEG",
+      "images/ps2/LaraCroft_angel-back.JPEG"
+    ]
+  },
+  {
+    "id": 161,
+    "titulo": "Homerun",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/homerun.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Homerun es un videojuego de simulación y acción arcade de béisbol lanzado para la consola PlayStation 2 en septiembre de 2003 en Europa. Desarrollado originalmente por la compañía japonesa Magical Company (donde debutó bajo el nombre Magical Sports 2001 Pro Yakyuu) y distribuido en tierras europeas por la conocida editora de bajo coste Phoenix Games, el título se ofreció como una alternativa directa, sencilla y económica para los fanáticos del deporte del bate en un mercado dominado por sagas norteamericanas.",
+    "imagenes": [
+      "images/ps2/homerun.JPEG",
+      "images/ps2/homerun-inside.JPEG",
+      "images/ps2/homerun-back.JPEG"
+    ]
+  },
+  {
+    "id": 162,
+    "titulo": "Juiced 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/juiced2.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Juiced 2: Hot Import Nights es un videojuego de carreras callejeras y tuneo lanzado para PlayStation 2 en septiembre de 2007. Desarrollado por Juice Games y publicado por THQ, el título destaca por capturar la cultura del automovilismo modificado de los años 2000, ambientándose de forma oficial en los famosos espectáculos de tunning reales Hot Import Nights.",
+    "imagenes": [
+      "images/ps2/juiced2.JPEG",
+      "images/ps2/juiced2-inside.JPEG",
+      "images/ps2/juiced2-back.JPEG"
+    ]
+  },
+  {
+    "id": 163,
+    "titulo": "Los Sims",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/los_sims.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "La consola PlayStation 2 recibió una de las mejores y más queridas colecciones de la franquicia Los Sims. A diferencia de las versiones de PC, que eran puramente simuladores de gestión estratégica en vista aérea, los títulos de PS2 se rediseñaron por completo con motores gráficos tridimensionales, control directo del personaje con el joystick y profundos modos historia con misiones.",
+    "imagenes": [
+      "images/ps2/sims.JPEG",
+      "images/ps2/sims-inside.JPEG",
+      "images/ps2/sims-back.JPEG"
+    ]
+  },
+  {
+    "id": 164,
+    "titulo": "Lotus Challenge",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/lotus_challenge.jpg",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Lotus Challenge es un videojuego de carreras y simulación automovilística lanzado para PlayStation 2 en noviembre de 2001. Desarrollado por el estudio británico Kuju Entertainment y publicado por Virgin Interactive, destaca por ser un título con licencia oficial de la mítica marca británica Lotus Cars, permitiendo al jugador pilotar tanto bólidos clásicos históricos como deportivos modernos del fabricante",
+    "imagenes": [
+      "images/ps2/lotus.JPEG",
+      "images/ps2/lotus-inside.JPEG",
+      "images/ps2/lotus-back.JPEG"
+    ]
+  },
+    {
+    "id": 165,
+    "titulo": "SingStar",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SingStar.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SingStar para PlayStation 2 es una aclamada serie de videojuegos de karaoke competitivo lanzada originalmente en 2004. Fue desarrollada por el ya desaparecido London Studio y distribuida directamente por Sony Computer Entertainment. El juego destaca por sustituir los tradicionales karaokes de texto por un sistema interactivo basado en los videoclips oficiales de los artistas",
+    "imagenes": [
+      "images/ps2/SingStar.JPEG",
+      "images/ps2/SingStar-inside.JPEG",
+      "images/ps2/SingStar-back.JPEG"
+    ]
+  },
+    {
+    "id": 166,
+    "titulo": "SingStar Rocks",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SingStarRocks.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "SingStar Rocks! es una de las entregas más populares de la saga para PlayStation 2, lanzada originalmente en 2006. Esta edición dejó de lado el pop comercial para enfocarse por completo en el rock, el punk y el metal alternativo.",
+    "imagenes": [
+      "images/ps2/SingStarRocks.JPEG",
+      "images/ps2/SingStarRocks-inside.JPEG",
+      "images/ps2/SingStarRocks-back.JPEG"
+    ]
+  },
+
+
+  
+  
+
+  
+  {
+    "id": 201,
+    "titulo": "Call of Duty Modern Warface",
+    "plataforma": "XBOX 360",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/xbox360/call_of_duty_modern.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "Videojuego de disparos en primera persona desarrollado por Infinity Ward y lanzado en 2007 para la Xbox 360. Fue el título que abandonó de forma definitiva la temática de la Segunda Guerra Mundial para sumergirse en los conflictos bélicos contemporáneos.",
+    "imagenes": [
+      "images/xbox360/call_of_duty_modern.jpg",
+      "images/xbox360/call_of_duty_modern-inside.JPEG",
+      "images/xbox360/call_of_duty_modern-back.JPEG"
+    ]
+  },
+  {
+    "id": 202,
+    "titulo": "Gears of War",
+    "plataforma": "XBOX 360",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/xbox360/gear_of_war.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "Gears of War es un videojuego de disparos táctico lanzado en 2006 por Epic Games y publicado por Microsoft Game Studios en exclusiva para la Xbox 360. Se convirtió de inmediato en el motor gráfico de la consola (usando el Unreal Engine 3) y en el mayor rival de Halo en el catálogo de Xbox.",
+    "imagenes": [
+      "images/xbox360/gear_of_war.jpg",
+      "images/xbox360/gear_of_war-inside.JPEG",
+      "images/xbox360/gear_of_war-back.JPEG"
+    ]
+  },
+  {
+    "id": 203,
+    "titulo": "Kinect Adeventures",
+    "plataforma": "XBOX 360",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/xbox360/Kinect_Adeventures.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "Kinect Adventures! es un videojuego de aventuras y deportes lanzado en 2010 por Microsoft Game Studios en exclusiva para la Xbox 360. Fue el título estrella incluido de regalo con cada sensor Kinect, convirtiéndose en el juego más vendido de la historia de la consola con más de 24 millones de copias",
+    "imagenes": [
+      "images/xbox360/Kinect_Adeventures.jpg",
+      "images/xbox360/Kinect Adeventures-inside.JPEG",
+      "images/xbox360/Kinect Adeventures-back.JPEG"
+    ]
+  },
+
+
+  
+
+  
+
+  {
+    "id": 301,
+    "titulo": "Everybodys Golf World Tour",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Everybodys_golf_world_tour.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Everybody's Golf: World Tour para PlayStation 3 (conocido en Norteamérica como Hot Shots Golf: Out of Bounds) es un videojuego de golf de estilo arcade desarrollado por Clap Hanz y publicado por Sony Computer Entertainment. Lanzado en marzo de 2008 en Europa, supuso el debut de esta aclamada franquicia en la alta definición.",
+    "imagenes": [
+      "images/ps3/Everybodys_golf_world_tour.JPEG",
+      "images/ps3/Everybodys_golf_world_tour-inside.JPEG",
+      "images/ps3/Everybodys_golf_world_tour-back.JPEG"
+    ]
+  },
+  {
+    "id": 302,
+    "titulo": "FEAR",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/FEAR.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "F.E.A.R. (First Encounter Assault Recon) para PlayStation 3 es un videojuego de disparos en primera persona (FPS) con fuertes elementos de terror psicológico (survival horror). Publicado para la consola de Sony en abril de 2007, el juego es recordado como una de las mejores mezclas entre la acción táctica al estilo de las películas de John Woo y el terror japonés (como las cintas The Ring o Ju-on).",
+    "imagenes": [
+      "images/ps3/fear.JPEG",
+      "images/ps3/fear-inside.JPEG",
+      "images/ps3/fear-back.JPEG"
+    ]
+  },
+  {
+    "id": 303,
+    "titulo": "Final fantasy XIII",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Final_fantasy_XIII.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Final Fantasy XIII para PlayStation 3 es un videojuego de rol (JRPG) desarrollado y publicado por Square Enix. Lanzado en Europa en marzo de 2010, supuso el debut de la emblemática franquicia en la generación de la alta definición, convirtiéndose en uno de los referentes visuales de la consola y en el inicio de la subsaga Fabula Nova Crystallis.",
+    "imagenes": [
+      "images/ps3/FFXIII.JPEG",
+      "images/ps3/FFXIII-inside.JPEG",
+      "images/ps3/FFXIII-back.JPEG"
+    ]
+  },
+  {
+    "id": 304,
+    "titulo": "God of War Ascension",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/God_of_war_ascension.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "God of War: Ascension para PlayStation 3 es un videojuego de acción y aventura del género hack and slash desarrollado por Santa Monica Studio y publicado por Sony Computer Entertainment. Lanzado en marzo de 2013, es la séptima entrega de la franquicia y funciona como la primera precuela cronológica de toda la saga griega.",
+    "imagenes": [
+      "images/ps3/God_of_war_ascension.JPEG",
+      "images/ps3/God_of_war_ascension-inside.JPEG",
+      "images/ps3/God_of_war_ascension-back.JPEG"
+    ]
+  },
+  {
+    "id": 305,
+    "titulo": "God of War Triologia",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/God_off_War_Triologia.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "God of War: La Trilogía para PlayStation 3 (comercializado en Europa como God of War Trilogy) es un pack recopilatorio lanzado en abril de 2010. Reúne en un solo producto toda la historia principal del guerrero espartano Kratos contra el Olimpo, abarcando las dos primeras entregas remasterizadas procedentes de PlayStation 2 y el cierre de la trilogía original desarrollado de forma nativa para PS3",
+    "imagenes": [
+      "images/ps3/God_off_War_Triologia.jpeg",
+      "images/ps3/God_off_War_Triologia-inside.JPEG",
+      "images/ps3/God_off_War_Triologia-inside2.JPEG",
+      "images/ps3/God_off_War_Triologia-back.JPEG"
+    ]
+  },
+  {
+    "id": 306,
+    "titulo": "Metal Gear Solid: The Legacy Collection 2013",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Metal_colection.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Metal Gear Solid: The Legacy Collection (2013). Lanzada con motivo del 25.º aniversario de la franquicia, es considerada la antología definitiva de la saga en formato físico. Incluye en dos discos Blu-ray todo el contenido de la HD Collection y añade más juegos clásicos y extras",
+    "imagenes": [
+      "images/ps3/Metal_colection.jpg",
+      "images/ps3/Metal_colection-inside1.JPEG",
+      "images/ps3/Metal_colection-inside2.JPEG",
+      "images/ps3/Metal_colection-back.JPEG"
+    ]
+  },
+  {
+    "id": 307,
+    "titulo": "NBA 2k8",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/NBA_2k8.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "NBA 2K8 para PlayStation 3 es un videojuego de simulación de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports en octubre de 2007, con el base Chris Paul en la portada. Fue una entrega clave de la franquicia al consolidar su liderazgo gráfico y jugable en la generación de PS3.",
+    "imagenes": [
+      "images/ps3/NBA2k8.JPEG",
+      "images/ps3/NBA2k8-inside.JPEG",
+      "images/ps3/NBA2k8-back.JPEG"
+    ]
+  },
+  {
+    "id": 308,
+    "titulo": "Resistance Fall of Man",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/tance.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Resistance: Fall of Man para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por Insomniac Games y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2006, fue el título de lanzamiento estrella que acompañó a la PlayStation 3 en su llegada al mercado, convirtiéndose de inmediato en un éxito de ventas y en una de las señas de identidad de la consola.",
+    "imagenes": [
+      "images/ps3/Resistance.JPEG",
+      "images/ps3/Resistance-inside.JPEG",
+      "images/ps3/Resistance-back.JPEG"
+    ]
+  },
+  {
+    "id": 309,
+    "titulo": "Socom Confrontation",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Socom_confrontation.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "SOCOM: U.S. Navy SEALs Confrontation para PlayStation 3 es un videojuego de disparos táctico en tercera persona desarrollado por Slant Six Games y publicado por Sony Computer Entertainment. Lanzado en octubre de 2008, supuso el debut de esta prestigiosa franquicia militar en la alta definición, destacando por una decisión muy arriesgada en su época: fue un título diseñado exclusivamente para el juego multijugador online, prescindiendo por completo de una campaña para un jugador.",
+    "imagenes": [
+      "images/ps3/Socom_confrontation.JPEG",
+      "images/ps3/Socom_confrontation-inside.JPEG",
+      "images/ps3/Socom_confrontation-back.JPEG"
+    ]
+  },
+  {
+    "id": 310,
+    "titulo": "Bayonetta",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/bayonetta.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Bayonetta para PlayStation 3 es un videojuego de acción en tercera persona del género hack and slash, desarrollado por PlatinumGames y distribuido por SEGA. Lanzado originalmente a inicios de 2010, fue diseñado por Hideki Kamiya (creador de Devil May Cry), destacando por su jugabilidad frenética, su estética barroca y su carismática y sensual protagonista.",
+    "imagenes": [
+      "images/ps3/Bayonetta.JPEG",
+      "images/ps3/Bayonetta-inside.JPEG",
+      "images/ps3/Bayonetta-back.JPEG"
+    ]
+  },
+  {
+    "id": 311,
+    "titulo": "Blazing Angels",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/blazing_angels.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Blazing Angels: Squadrons of WWII para PlayStation 3 es un videojuego de simulación de combate aéreo de estilo arcade desarrollado por Ubisoft Bucarest y publicado por Ubisoft. Lanzado en marzo de 2007 junto con el desembarco de la consola en Europa, el juego traslada a los usuarios a las batallas aéreas más famosas de la Segunda Guerra Mundial.",
+    "imagenes": [
+      "images/ps3/blazing_angels.jpg",
+      "images/ps3/blazing_angels-inside.JPEG",
+      "images/ps3/blazing_angels-back.JPEG"
+    ]
+  },
+  {
+    "id": 312,
+    "titulo": "F1 Champ Edition",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/f1_champ_edition.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Formula One Championship Edition para PlayStation 3 es un videojuego de simulación de carreras de Fórmula 1 desarrollado por Studio Liverpool y publicado por Sony Computer Entertainment. Lanzado en marzo de 2007 junto con el estreno de la consola en Europa, se convirtió en uno de los títulos más icónicos y recordados por los aficionados al motor, ya que plasma la mítica temporada 2006 de F1.",
+    "imagenes": [
+      "images/ps3/f1champ.JPEG",
+      "images/ps3/f1champ-inside.JPEG",
+      "images/ps3/f1champ-back.JPEG"
+    ]
+  },
+  {
+    "id": 313,
+    "titulo": "FIFA 10",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/fifa10.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "FIFA 10 para PlayStation 3 es un videojuego de simulación de fútbol desarrollado por EA Canada y publicado por EA Sports en octubre de 2009, con Karim Benzema y Xavi Hernández en la portada española. Es considerado uno de los títulos más importantes de la historia de la saga por lograr destronar a su rival directo (Pro Evolution Soccer) gracias a una revolución total en su sistema de juego.",
+    "imagenes": [
+      "images/ps3/FIFA10.JPEG",
+      "images/ps3/FIFA10-inside.JPEG",
+      "images/ps3/FIFA10-back.JPEG"
+    ]
+  },
+  {
+    "id": 314,
+    "titulo": "Gran Turismo 5",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/gt5.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Gran Turismo 5 para PlayStation 3 es un videojuego de simulación de carreras desarrollado por Polyphony Digital y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2010 tras varios años de desarrollo, se convirtió en uno de los mayores éxitos de ventas de la consola y en el simulador de conducción de referencia de su generación.",
+    "imagenes": [
+      "images/ps3/GT5.JPEG",
+      "images/ps3/GT5-inside.JPEG",
+      "images/ps3/GT5-back.JPEG"
+    ]
+  },
+   {
+    "id": 315,
+    "titulo": "Heavenly Sword",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/heavenly_sword.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Heavenly Sword para PlayStation 3 es un videojuego de acción y aventura del género hack and slash desarrollado por Ninja Theory y publicado por Sony Computer Entertainment. Lanzado en septiembre de 2007, fue promocionado en su época como uno de los primeros grandes estandartes visuales y cinematográficos de la consola, destacando por su potente narrativa y su sistema de combate coreográfico.",
+    "imagenes": [
+      "images/ps3/heavenly_sword.JPEG",
+      "images/ps3/heavenly_sword-inside.JPEG",
+      "images/ps3/heavenly_sword-back.JPEG"
+    ]
+  }, 
+  {
+    "id": 316,
+    "titulo": "Heavy Rain",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/heavy_rain.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Heavy Rain para PlayStation 3 es un videojuego de drama interactivo y suspenso psicológico desarrollado por Quantic Dream y publicado por Sony Computer Entertainment. Lanzado en febrero de 2010, el título se convirtió en un referente de la consola por su enfoque puramente cinematográfico, donde las decisiones del jugador moldean por completo el destino de la trama.",
+    "imagenes": [
+      "images/ps3/heavy_rain.JPEG",
+      "images/ps3/heavy_rain-inside.JPEG",
+      "images/ps3/heavy_rain-back.JPEG"
+    ]
+  },
+  {
+    "id": 317,
+    "titulo": "House of The Dead Overkill",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/house_of_dead_overkill.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "The House of the Dead: Overkill - Extended Cut para PlayStation 3 es un videojuego de disparos sobre raíles (rail shooter) desarrollado por Headstrong Games y publicado por SEGA. Lanzado en octubre de 2011, es una versión muy expandida y remasterizada del título original de Wii, diseñada específicamente para aprovechar los gráficos en alta definición y los controles de movimiento de la consola de Sony. El juego destaca por su estética de cine Grindhouse, su humor negro absurdo y su estética de película de terror de serie B de los años 70.",
+    "imagenes": [
+      "images/ps3/house_of_dead_overkill.JPEG",
+      "images/ps3/house_of_dead_overkill-inside.JPEG",
+      "images/ps3/house_of_dead_overkill-back.JPEG"
+    ]
+  },
+  {
+    "id": 318,
+    "titulo": "killzone 2",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/killxone2.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Killzone 2 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por Guerrilla Games y publicado por Sony Computer Entertainment. Lanzado en febrero de 2009, se convirtió en uno de los proyectos más ambiciosos de la consola debido a la enorme expectación que generó su polémico tráiler cinemático de 2005, logrando finalmente convertirse en uno de los techos gráficos y técnicos de su generación.",
+    "imagenes": [
+      "images/ps3/killzone2.JPEG",
+      "images/ps3/killzone2-inside.JPEG",
+      "images/ps3/killzone2-back.JPEG"
+    ]
+  },
+  {
+    "id": 319,
+    "titulo": "killzone 3",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/killzone3.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Killzone 3 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por Guerrilla Games y publicado por Sony Computer Entertainment. Lanzado en febrero de 2011, es la secuela directa de la aclamada segunda entrega y el encargado de cerrar la trilogía principal de la guerra entre la ISA y los Helghast en dicha consola.",
+    "imagenes": [
+      "images/ps3/killzone3.JPEG",
+      "images/ps3/killzone3-inside.JPEG",
+      "images/ps3/killzone3-back.JPEG"
+    ]
+  },
+  {
+    "id": 320,
+    "titulo": "Lollipop Chainsaw",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/lollipop_chainsaw.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Lollipop Chainsaw para PlayStation 3 es un videojuego de acción del género hack and slash desarrollado por Grasshopper Manufacture y publicado por Warner Bros. Interactive Entertainment. Lanzado en junio de 2012, el título es fruto de una colaboración estelar entre el irreverente director de videojuegos Goichi Suda (Suda51) y el famoso cineasta de Hollywood James Gunn (director de Guardianes de la Galaxia), quien coescribió el guion. El juego destaca por su estética pop, su humor negro satírico, su alto contenido gore y su estilo de película de terror adolescente de serie B.",
+    "imagenes": [
+      "images/ps3/lollipop_chainsaw.JPEG",
+      "images/ps3/lollipop_chainsaw-inside.JPEG",
+      "images/ps3/lollipop_chainsaw-back.JPEG"
+    ]
+  },
+  {
+    "id": 321,
+    "titulo": "Metal Gear 4",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/metal_gear4.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Metal Gear Solid 4: Guns of the Patriots para PlayStation 3 es un videojuego de acción, sigilo y espionaje táctico desarrollado por Kojima Productions y publicado por Konami. Lanzado a nivel mundial en junio de 2008, fue diseñado en exclusiva para la consola de Sony por Hideo Kojima, convirtiéndose en el estándar técnico que justificó el potencial del procesador Cell y el formato Blu-ray en los primeros años de la máquina.",
+    "imagenes": [
+      "images/ps3/metal_gear4.JPEG",
+      "images/ps3/metal_gear4-inside.JPEG",
+      "images/ps3/metal_gear4-back.JPEG"
+    ]
+  },
+  {
+    "id": 322,
+    "titulo": "Socom Special Forces",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/socom_special_forces.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "SOCOM: Special Forces para PlayStation 3 (conocido en Norteamérica como SOCOM 4 U.S. Navy SEALs) es un videojuego de disparos táctico en tercera persona desarrollado por Zipper Interactive y publicado por Sony Computer Entertainment. Lanzado en abril de 2011, supuso el regreso de los creadores originales de la franquicia y sirvió como la última entrega principal de esta prestigiosa saga militar.",
+    "imagenes": [
+      "images/ps3/socom_special_forces.JPEG",
+      "images/ps3/socom_special_forces-inside.JPEG",
+      "images/ps3/socom_special_forces-back.JPEG"
+    ]
+  },
+  {
+    "id": 323,
+    "titulo": "Resistance 2",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/tance2.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Resistance 2 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) con temática de ciencia ficción militar y horror, desarrollado por Insomniac Games y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2008, expandió notablemente la escala y ambición de la primera entrega, convirtiéndose en uno de los grandes baluartes técnicos de la consola en su ecuador.",
+    "imagenes": [
+      "images/ps3/Resistance2.JPEG",
+      "images/ps3/Resistance2-insie.JPEG",
+      "images/ps3/Resistance2-back.JPEG"
+    ]
+  },
+  {
+    "id": 324,
+    "titulo": "Stunman Ignition",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/stunman_ignition.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Stuntman: Ignition para PlayStation 3 es un videojuego de conducción y acción desarrollado por Paradigm Entertainment y publicado por THQ. Lanzado en septiembre de 2007, es la secuela del aclamado y exigente juego original de PS2, manteniendo la premisa única de poner al jugador en la piel de un conductor especialista de cine en Hollywood.",
+    "imagenes": [
+      "images/ps3/stunman_ignition.JPEG",
+      "images/ps3/stunman_ignition-inside.JPEG",
+      "images/ps3/stunman_ignition-back.JPEG"
+    ]
+  },
+  {
+    "id": 325,
+    "titulo": "Uncharted El tesoro de Drake",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/uncharted.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Uncharted: El tesoro de Drake para PlayStation 3 es un videojuego de acción y aventura en tercera persona desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. Lanzado en diciembre de 2007, fue el título que dio inicio a una de las franquicias más exitosas y aclamadas de la historia de los videojuegos, convirtiéndose en el primer gran referente técnico propio de la consola.",
+    "imagenes": [
+      "images/ps3/uncharted.JPEG",
+      "images/ps3/uncharted-inside.JPEG",
+      "images/ps3/uncharted-back.JPEG"
+    ]
+  },
+  {
+    "id": 326,
+    "titulo": "Uncharted 2 El reino de los ladores",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/uncharted2.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Uncharted 2: El reino de los ladores para PlayStation 3 (conocido en inglés como Among Thieves) es un videojuego de acción y aventura en tercera persona desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. Lanzado en octubre de 2009, es considerado de forma unánime como uno de los mejores videojuegos de la historia y el techo técnico indiscutible de su generación, ganando más de 200 premios al Juego del Año (GOTY).",
+    "imagenes": [
+      "images/ps3/uncharted2.JPEG",
+      "images/ps3/uncharted2-inside.JPEG",
+      "images/ps3/uncharted2-back.JPEG"
+    ]
+  },
+  {
+    "id": 327,
+    "titulo": "Uncharted 3 La traición de Drake ",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/uncharted3.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Uncharted 3: La traición de Drake para PlayStation 3 (conocido en inglés como Drake's Deception) es un videojuego de acción y aventura en tercera persona desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2011, supuso el espectacular cierre de la trilogía original en la consola, enfocándose en un despliegue visual cinematográfico sin precedentes y en profundizar en los lazos afectivos de sus protagonistas.",
+    "imagenes": [
+      "images/ps3/uncharted3.JPEG",
+      "images/ps3/uncharted3-inside.JPEG",
+      "images/ps3/uncharted3-back.JPEG"
+    ]
+  },
+  {
+    "id": 328,
+    "titulo": "Play Station Move",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Play_station_move.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "PlayStation Move es el sistema de control de movimiento por hardware desarrollado por Sony Computer Entertainment para la consola PlayStation 3 (y compatible posteriormente con PlayStation 4 y PlayStation VR). Lanzado al mercado en septiembre de 2010, se diseñó como la respuesta directa al éxito del mando de la consola Wii de Nintendo, ofreciendo una precisión muy superior gracias al uso de tecnología óptica y sensores internos.",
+    "imagenes": [
+      "images/ps3/Play_station_move.jpg"
+    ]
+  },
+  {
+    "id": 329,
+    "titulo": "Resistance 3",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/resistance3.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Resistance 3 para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por Insomniac Games y publicado por Sony Computer Entertainment en septiembre de 2011. Es el cierre de la trilogía original en la consola y destaca por cambiar radicalmente la escala militar de las entregas anteriores por un tono mucho más íntimo, crudo y de pura supervivencia.",
+    "imagenes": [
+      "images/ps3/Resistance3.JPEG",
+      "images/ps3/Resistance3-inside.JPEG",
+      "images/ps3/Resistance3-back.JPEG"
+    ]
+  },
+    {
+    "id": 330,
+    "titulo": "Gran Turismo 6",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps3/GT6.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Gran Turismo 6 para PlayStation 3 es un videojuego de simulación de carreras desarrollado por Polyphony Digital y publicado por Sony Computer Entertainment. Lanzado en diciembre de 2013, coincidió en el tiempo con la llegada de PlayStation 4, lo que lo convirtió en el gran canto de cisne de la saga en la PS3, puliendo la base de su predecesor y exprimiendo el hardware de la consola hasta su límite absoluto.",
+    "imagenes": [
+      "images/ps3/GT6.JPG"
+    ]
+  },
+      {
+    "id": 331,
+    "titulo": "SingStar POP 2009",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps3/SingStarPOP2009.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "SingStar Pop 2009 (conocido internacionalmente como SingStar Pop Edition) es una de las entregas recopilatorias más destacadas de la franquicia. Aunque se diseñó principalmente para aprovechar el potencial técnico de PlayStation 3, Sony también lanzó una versión adaptada para PlayStation 2 en el verano de 2009.",
+    "imagenes": [
+      "images/ps3/SingStarPOP2009.JPEG",
+      "images/ps3/SingStarPOP2009-inside.JPEG",
+      "images/ps3/SingStarPOP2009-back.JPEG"
+      
+    ]
+  },
+
+
+
+  
+
+
+  
+  {
+    "id": 401,
+    "titulo": "BloodStained",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/BloodStained.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Bloodstained: Ritual of the Night para PS4 es un RPG de acción y plataformas de desplazamiento lateral (2.5D) con temática de terror gótico. El juego destaca por ser el sucesor espiritual de la mítica saga Castlevania, dirigido por Koji Igarashi, el célebre cocreador de Castlevania: Symphony of the Night.",
+    "imagenes": [
+      "images/ps4/BloodStained.JPEG",
+      "images/ps4/BloodStained-inside.JPEG",
+      "images/ps4/BloodStained-back.JPEG"
+    ]
+  },  
+  {
+    "id": 402,
+    "titulo": "F1 2017",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/F1_2017.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "F1 2017 para PS4 es el videojuego oficial de la temporada 2017 del Campeonato Mundial de Fórmula 1, desarrollado por Codemasters. Este título destaca por su excelente equilibrio entre simulación y accesibilidad, y es recordado como uno de los puntos más altos de la franquicia gracias a la inclusión de monoplazas históricos.",
+    "imagenes": [
+      "images/ps4/f12017.JPEG",
+      "images/ps4/f12017-inside.JPEG",
+      "images/ps4/f12017-back.JPEG"
+    ]
+  },
+  {
+    "id": 403,
+    "titulo": "Ghost of Tsushima",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Ghost_of_tsushima.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Ghost of Tsushima para PS4 es un juego de acción, aventura y mundo abierto ambientado en el Japón feudal, desarrollado por Sucker Punch Productions y publicado por Sony Interactive Entertainment. Destaca por su fidelidad visual, su sistema de combate fluido y su atmósfera cinematográfica inspirada en las películas de samuráis de Akira Kurosawa.",
+    "imagenes": [
+      "images/ps4/ghost_tsushima.JPEG",
+      "images/ps4/ghost_tsushima-inside.JPEG",
+      "images/ps4/ghost_tsushima-back.JPEG"
+    ]
+  },
+  {
+    "id": 404,
+    "titulo": "Hades",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Hades.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Hades para PS4 es un aclamado videojuego de acción roguelike de exploración de mazmorras (dungeon crawler) con vista isométrica, desarrollado por Supergiant Games. El título destaca por su adictivo sistema de combate, una narrativa profundamente entrelazada con las mecánicas de juego y una dirección artística sobresaliente inspirada en la mitología griega.",
+    "imagenes": [
+      "images/ps4/Hades.JPEG",
+      "images/ps4/Hades-back.JPEG"
+    ]
+  },
+  {
+    "id": 405,
+    "titulo": "Star Wars Battlefront",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Star_wars_battlefront.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Star Wars Battlefront para PS4 (lanzado en 2015) es un videojuego de acción y disparos en primera y tercera persona enfocado en el multijugador online, desarrollado por DICE y publicado por Electronic Arts. El título destaca por su impresionante fidelidad gráfica y sonora, logrando recrear la atmósfera de la trilogía original de las películas de Star Wars.",
+    "imagenes": [
+      "images/ps4/SW_battle.JPEG",
+      "images/ps4/SW_battle-inside.JPEG",
+      "images/ps4/SW_battle-back.JPEG"
+    ]
+  },
+  {
+    "id": 406,
+    "titulo": "Starklink",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/Starklink.jpg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Starlink: Battle for Atlas para PS4 es un videojuego de acción, aventura y exploración espacial en mundo abierto desarrollado por Ubisoft. El juego destaca principalmente por su propuesta de juguetes que cobran vida (Toys-to-Life), permitiendo a los jugadores conectar naves de plástico reales a su mando de PS4 para ver cómo se replican instantáneamente en la pantalla.",
+    "imagenes": [
+      "images/ps4/Starklink.jpg"
+    ]
+  },
+  {
+    "id": 407,
+    "titulo": "Cyberpunk 2077",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/cyberpunk2077.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Cyberpunk 2077 para PS4 es un RPG de acción y aventura en mundo abierto ambientado en Night City, una megalópolis obsesionada con el poder, las modificaciones corporales y el glamur. Sin embargo, la versión para esta consola tiene limitaciones críticas y definitivas que debes conocer antes de jugarlo.",
+    "imagenes": [
+      "images/ps4/Cyberounk2077.JPEG",
+      "images/ps4/Cyberounk2077-back.JPEG"
+    ]
+  },
+  {
+    "id": 408,
+    "titulo": "Dredge",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/dredge.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "DREDGE para PS4 es un aclamado videojuego de aventura y pesca para un solo jugador con una atmósfera de terror cósmico inspirado en la literatura de H.P. Lovecraft, desarrollado por Black Salt Games. En él, capitaneas un pequeño barco de arrastre para explorar un archipiélago misterioso mientras desentierras secretos oscuros ocultos en las profundidades.",
+    "imagenes": [
+      "images/ps4/Dredge.JPEG",
+      "images/ps4/Dredge-BACK.JPEG"
+    ]
+  },
+  {
+    "id": 409,
+    "titulo": "Driveclub",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/driveclub.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Driveclub para PS4 es un videojuego de carreras de corte arcade con elementos de simulación desarrollado por Evolution Studios y publicado por Sony Computer Entertainment. Lanzado en 2014, se convirtió en uno de los referentes gráficos de la consola gracias a su espectacular recreación climática, pero actualmente sufre un estado de descatalogación total.",
+    "imagenes": [
+      "images/ps4/DriveClub.JPEG",
+      "images/ps4/DriveClub-back.JPEG"
+    ]
+  },
+  {
+    "id": 410,
+    "titulo": "Ghost Recon Breakpoint",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/ghos_recon_breakpoint.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Ghost Recon Breakpoint para PS4 es un shooter táctico militar de mundo abierto en tercera persona desarrollado por Ubisoft. Lanzado inicialmente con un enfoque muy divisivo, el juego recibió una profunda reestructuración que lo transformó por completo, ofreciendo hoy en día una de las experiencias de supervivencia militar más completas de la consola.",
+    "imagenes": [
+      "images/ps4/Ghost_reacon.JPEG",
+      "images/ps4/Ghost_reacon-back.JPEG"
+    ]
+  },
+  {
+    "id": 411,
+    "titulo": "Gran Turismo 7",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/gt7.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Gran Turismo 7 para PS4 es el simulador de conducción definitivo y la entrega numerada más reciente de la icónica saga de carreras, desarrollada por Polyphony Digital y publicada por Sony Interactive Entertainment. El juego combina la nostalgia de las entregas clásicas con un avanzado motor de simulación física y un profundo homenaje a la cultura automovilística.",
+    "imagenes": [
+      "images/ps4/GT7.JPEG",
+      "images/ps4/GT7-inside.JPEG",
+      "images/ps4/GT-back.JPEG"
+    ]
+  },
+  {
+    "id": 412,
+    "titulo": "Gran Turismo Sport",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/gt_sport.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Gran Turismo Sport para PS4 es una entrega de la aclamada saga de conducción desarrollada por Polyphony Digital. Lanzado originalmente con un enfoque competitivo online amparado por la FIA (Federación Internacional del Automóvil), actualmente es un título completamente descatalogado en formato digital y con sus funciones de red clausuradas.",
+    "imagenes": [
+      "images/ps4/GTsport.JPEG",
+      "images/ps4/GTsport-inside.JPEG",
+      "images/ps4/GTsport-back.JPEG"
+    ]
+  },
+  {
+    "id": 413,
+    "titulo": "Guardianes de la galaxia",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/guardianes_galaxia.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Marvel's Guardians of the Galaxy para PS4 es una aventura de acción lineal en tercera persona para un solo jugador, desarrollada por Eidos Montréal y publicada originalmente por Square Enix. A diferencia de otros proyectos cooperativos, este título se centra por completo en una experiencia narrativa clásica, cinematográfica y sin microtransacciones, capturando a la perfección el humor, la música y la esencia de los cómics y películas del grupo.",
+    "imagenes": [
+      "images/ps4/Guardianes.JPEG",
+      "images/ps4/Guardianes-back.JPEG"
+    ]
+  },
+  {
+    "id": 414,
+    "titulo": "Hollow Knight",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/hollow_knight.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Hollow Knight para PS4 es una de las obras maestras absolutas del género Metroidvania y la acción en 2D, desarrollada por el estudio independiente Team Cherry. El juego destaca por su bellísimo apartado artístico dibujado a mano, su desafiante nivel de dificultad (influenciado por la saga Dark Souls) y una exploración sumamente gratificante.",
+    "imagenes": [
+      "images/ps4/Hollow_knight.JPEG",
+      "images/ps4/Hollow_knight-back.JPEG"
+    ]
+  },
+  {
+    "id": 415,
+    "titulo": "Star Wars Jedi Fallen order",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/jedi_fallen_order.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Star Wars Jedi: Fallen Order para PS4 es un videojuego de acción y aventura en tercera persona desarrollado por Respawn Entertainment y publicado por Electronic Arts. La historia se sitúa cronológicamente entre el Episodio III: La venganza de los Sith y el Episodio IV: Una nueva esperanza, justo después de la ejecución de la Orden 66 que destruyó a los Jedi",
+    "imagenes": [
+      "images/ps4/SW_Jedi_fallen.JPEG",
+      "images/ps4/SW_Jedi_fallen-inside.JPEG",
+      "images/ps4/SW_Jedi_fallen-back.JPEG"
+    ]
+  },
+  {
+    "id": 417,
+    "titulo": "The Evil Within",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/The_Evil_Withim.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "The Evil Within para PS4 (lanzado en 2014) es un videojuego de terror psicológico y supervivencia (survival horror) en tercera persona, desarrollado por Tango Gameworks y dirigido por Shinji Mikami, el célebre creador de la saga Resident Evil (especialmente de Resident Evil 4). El juego destaca por su atmósfera opresiva, su gestión extrema de recursos y una narrativa surrealista y perturbadora.",
+    "imagenes": [
+      "images/ps4/The_evil_whithin.JPEG",
+      "images/ps4/The_evil_whithin-inside.JPEG",
+      "images/ps4/The_evil_whithin-back.JPEG"
+    ]
+  },
+  {
+    "id": 418,
+    "titulo": "The Evil WithiN 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/The_Evil_Withim2.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "The Evil Within 2 para PS4 (lanzado en 2017) es la secuela directa del aclamado survival horror de Tango Gameworks. Producido por Shinji Mikami y dirigido por John Johanas, este título refina por completo la fórmula original al cambiar los escenarios pasilleros por zonas semiabiertas que premian la exploración táctica, manteniendo una atmósfera de terror psicológico constante.",
+    "imagenes": [
+      "images/ps4/The_evil_whithin2.JPEG",
+      "images/ps4/The_evil_whithin2-inside.JPEG",
+      "images/ps4/The_evil_whithin2-back.JPEG"
+    ]
+  },
+  {
+    "id": 419,
+    "titulo": "The Last of Us",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/the_last_us.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "The Last of Us Remastered para PS4 es la versión definitiva y mejorada del aclamado videojuego de acción, aventura y supervivencia desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. El juego destaca por su desgarradora narrativa cinematográfica, personajes profundos y una tensa atmósfera de supervivencia postapocalíptica.",
+    "imagenes": [
+      "images/ps4/the_last_us.JPG"
+    ]
+  },
+  {
+    "id": 420,
+    "titulo": "The Last of Us 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/the_last_us2.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "The Last of Us Parte II para PS4 es una obra maestra de la acción, aventura y supervivencia, desarrollada por Naughty Dog. Ambientado cinco años después del primer juego, destaca por su cruda historia de venganza, un diseño de niveles más vertical y un apartado técnico que exprime al límite la potencia de la consola.",
+    "imagenes": [
+      "images/ps4/the_last_us2.JPG"
+    ]
+  },
+  {
+    "id": 421,
+    "titulo": "Lego Marvel",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/lego_marvel.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "LEGO Marvel Super Heroes para PS4 (lanzado en 2013) es un divertidísimo videojuego de acción, aventura y plataformas en mundo abierto, desarrollado por TT Games y publicado por Warner Bros. Interactive Entertainment. El juego combina el carismático humor de la franquicia LEGO con el universo de los cómics de Marvel, permitiéndote controlar a una cantidad inmensa de personajes.",
+    "imagenes": [
+      "images/ps4/Lego_Marvel.JPEG",
+      "images/ps4/Lego_Marvel-inside.JPEG",
+      "images/ps4/Lego_Marvel-back.JPEG"
+    ]
+  },
+  {
+    "id": 422,
+    "titulo": "Uncharted 4",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/uncharted4.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Uncharted 4: El Desenlace del Ladrón para PS4 es una obra maestra de la acción, aventura y exploración en tercera persona, desarrollada por Naughty Dog y publicada por Sony Computer Entertainment. Este título supone el cierre definitivo de la historia del carismático cazatesoros Nathan Drake, destacando por su narrativa madura, sus espectaculares escenas de acción cinematográfica y un apartado gráfico que exprime al máximo el hardware de la consola.",
+    "imagenes": [
+      "images/ps4/Uncharted4.JPEG",
+      "images/ps4/Uncharted4-inside.JPEG",
+      "images/ps4/Uncharted4-back.JPEG"
+    ]
+  },
+  {
+    "id": 423,
+    "titulo": "Red Dead Rendemtion 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/red_dead_revolver2.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Red Dead Redemption 2 para PS4 es una obra maestra de acción, aventura y mundo abierto de ambientación wéstern, desarrollada por Rockstar Games. Es considerado uno de los videojuegos más detallados, realistas y ambiciosos de la historia de la industria, funcionando como una precuela directa de los acontecimientos del primer título.",
+    "imagenes": [
+      "images/ps4/red_dead_revolver2.JPG"
+    ]
+  },
+  {
+    "id": 424,
+    "titulo": "God of War 2018",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/god_of_war2018.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "God of War para PS4 (lanzado en 2018) es una obra maestra de la acción y la aventura en tercera persona, desarrollada por Santa Monica Studio y publicada por Sony Interactive Entertainment. El juego reinventa por completo la icónica franquicia al cambiar la mitología griega por la mitología nórdica, ofreciendo una jugabilidad más táctica y una de las narrativas más profundas de la consola.",
+    "imagenes": [
+      "images/ps4/god_of_war2018.JPG"
+    ]
+  },
+  {
+    "id": 425,
+    "titulo": "God of War Ragnarok",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/god_of_war_ragna.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "God of War Ragnarök para PS4 es el épico cierre de la saga nórdica de Kratos y Atreus, desarrollado por Santa Monica Studio y publicado por Sony Interactive Entertainment en 2022. El juego expande en todos los sentidos las bases de la entrega de 2018, ofreciendo un combate mucho más vertical, una historia de escala apocalíptica y un rendimiento técnico impecable en la anterior generación.",
+    "imagenes": [
+      "images/ps4/god_of_war_ragna.JPG"
+    ]
+  },
+  {
+    "id": 426,
+    "titulo": "Titan Fall 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/titanfall2.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Titanfall 2 para PS4 es una obra maestra de los videojuegos de acción y disparos en primera persona (FPS) de ambientación de ciencia ficción, desarrollada por Respawn Entertainment y publicada por Electronic Arts. El título es aclamado mundialmente por tener una de las mejores campañas de la generación y por revolucionar la movilidad en los juegos de disparos en primera persona.",
+    "imagenes": [
+      "images/ps4/titanfall2.JPG"
+    ]
+  },
+  {
+    "id": 427,
+    "titulo": "Final Fantasy XV",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/FFXV.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Final Fantasy XV para PS4 es un RPG de acción y mundo abierto desarrollado y publicado por Square Enix. Esta entrega rompió con los turnos clásicos de la franquicia para ofrecer un sistema de combate dinámico en tiempo real, todo bajo una narrativa estructurada como una película de carretera (road movie) de fantasía oscura.",
+    "imagenes": [
+      "images/ps4/FFXV.JPG"
+    ]
+  },
+  {
+    "id": 428,
+    "titulo": "NBA 2k15",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/NBA2k15.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "BA 2K15 para PS4 es un videojuego de simulación de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports. Lanzado a finales de 2014, fue uno de los títulos más importantes al inicio de dicha generación de consolas, destacando por su revolución gráfica y la introducción de mecánicas físicas avanzadas que asentaron las bases modernas de la franquicia.",
+    "imagenes": [
+      "images/ps4/NBA2k15.JPG"
+    ]
+  },
+  {
+    "id": 429,
+    "titulo": "SingStar Megahits",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/singstar_megahits.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "ingStar MegaHits para PS4 es un videojuego de karaoke y fiesta de corte musical, desarrollado por London Studio y publicado por Sony Computer Entertainment. Lanzado a finales de 2014, supuso el debut de la aclamada franquicia de canto en la consola PlayStation 4, adaptándose a las funciones sociales y trayendo consigo un repertorio especialmente enfocado en el mercado hispanohablante.",
+    "imagenes": [
+      "images/ps4/singstar_megahits.JPG"
+    ]
+  },
+  {
+    "id": 430,
+    "titulo": "Spyro Reignited Trilogy",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/spyro.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Spyro Reignited Trilogy para PS4 es una colección remasterizada desde cero (remake) de las tres primeras aventuras del icónico dragón morado, desarrolladas originalmente por Insomniac Games para la primera PlayStation. Esta nueva versión, creada por el estudio Toys for Bob y publicada por Activision, destaca por su apabullante lavado de cara visual que convierte los escenarios clásicos en auténticas películas de animación digital.",
+    "imagenes": [
+      "images/ps4/spyro.JPG"
+    ]
+  },
+  {
+    "id": 431,
+    "titulo": "Soul Calibur VI",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/soulcalibur6.JPG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Soulcalibur VI para PS4 es un aclamado videojuego de lucha tridimensional basado en armas, desarrollado y publicado por Bandai Namco Entertainment. El título funciona como un reinicio e historia alternativa que revive los acontecimientos del juego original y de Soulcalibur II, ofreciendo combates muy dinámicos y un espectacular creador de personajes.",
+    "imagenes": [
+      "images/ps4/soulcalibur6.JPG"
+    ]
+  },
+  {
+    "id": 432,
+    "titulo": "Metal Gear Survive",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/metal_gear_survive.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Metal Gear Survive para PS4 es un videojuego de acción, supervivencia y defensa de torres en tercera persona, desarrollado y publicado por Konami en 2018. Al ser el primer título de la franquicia lanzado tras la marcha de su creador, Hideo Kojima, el juego se aleja por completo del espionaje tradicional para ofrecer una experiencia cooperativa en una realidad alternativa.",
+    "imagenes": [
+      "images/ps4/Metal_surv.JPEG",
+      "images/ps4/Metal_surv-back.JPEG"
+    ]
+  },
+  {
+    "id": 433,
+    "titulo": "MotoGp17",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/motoGp17.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "MotoGP 17 para PS4 es el videojuego oficial de la temporada 2017 del Campeonato Mundial de Motociclismo, desarrollado por el estudio italiano Milestone. Este título es recordado por los entusiastas del motor por ser el primero de la franquicia en alcanzar un rendimiento de simulación competitivo fluido en consolas y por su innovador modo de gestión de escuderías.",
+    "imagenes": [
+      "images/ps4/motoGp17.JPEG",
+      "images/ps4/motoGp17-inside.JPEG",
+      "images/ps4/motoGp17-back.JPEG"
+    ]
+  },
+  {
+    "id": 434,
+    "titulo": "Nier Automata",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/nier_automata.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "NieR: Automata para PS4 es una obra maestra de la acción hack and slash y el RPG de ciencia ficción, desarrollada por PlatinumGames y dirigida por el excéntrico creativo Yoko Taro. El juego es mundialmente aclamado por su fluida jugabilidad, su banda sonora perfecta y una estructura narrativa única que utiliza los videojuegos como medio para explorar la filosofía y la existencia humana.",
+    "imagenes": [
+      "images/ps4/Nier_automata.JPEG",
+      "images/ps4/Nier_automata-inside.JPEG",
+      "images/ps4/Nier_automata-back.JPEG"
+    ]
+  },
+  {
+    "id": 435,
+    "titulo": "Nier Replicant",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/nier_replicant.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "NieR Replicant ver.1.22474487139... para PS4 es una versión reconstruida y mejorada (remake/remaster profundo) del juego original de 2010 lanzado en Japón. Funciona como la precuela directa de NieR: Automata y cuenta con el mismo equipo creativo: desarrollado por Toylogic, supervisado por PlatinumGames y dirigido por Yoko Taro. El título destaca por actualizar por completo su tosco sistema de combate original para adaptarlo a los estándares fluidos de su secuela.",
+    "imagenes": [
+      "images/ps4/Nier-REp.JPEG",
+      "images/ps4/Nier-REp-back.JPEG"
+    ]
+  },
+  {
+    "id": 436,
+    "titulo": "No Mans Sky",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/no_mans_sky.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "No Man's Sky para PS4 es un videojuego de supervivencia, exploración y ciencia ficción en mundo abierto, desarrollado por el estudio independiente Hello Games. Lanzado originalmente en 2016 envuelto en una gran polémica por la falta de contenidos prometidos, el juego ha protagonizado una de las redenciones más grandes de la historia de los videojuegos, recibiendo decenas de actualizaciones masivas totalmente gratuitas que lo han convertido en un título colosal y de culto.",
+    "imagenes": [
+      "images/ps4/No_man_sky.JPEG",
+      "images/ps4/No_man_sky-inside.JPEG"
+    ]
+  },
+  {
+    "id": 437,
+    "titulo": "Prey",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/prey.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Prey para PS4 (lanzado en 2017) es una obra maestra de la acción, ciencia ficción y simulación inmersiva (immersive sim) en primera persona, desarrollado por Arkane Studios (creadores de Dishonored) y publicado por Bethesda Softworks. El título destaca por otorgar una libertad absoluta al jugador para resolver problemas, una atmósfera de tensión psicológica constante y un magnífico diseño de niveles interconectados.",
+    "imagenes": [
+      "images/ps4/Prey.JPEG",
+      "images/ps4/Prey-back.JPEG",
+      "images/ps4/Prey-inside.JPEG"
+    ]
+  },
+  {
+    "id": 438,
+    "titulo": "Resident Evil 2 Remake",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil2_remake.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil 2 para PS4 (lanzado en 2019) es una obra maestra del survival horror y una reconstrucción total (remake) del mítico juego de 1998. Desarrollado por Capcom, el título sustituye los fondos fijos y controles de tanque originales por una perspectiva moderna en tercera persona sobre el hombro, redefiniendo el miedo con una atmósfera claustrofóbica y una gestión de recursos extrema.",
+    "imagenes": [
+      "images/ps4/RE2_remake.JPEG",
+      "images/ps4/RE2_remake-back.JPEG"
+    ]
+  },
+  {
+    "id": 439,
+    "titulo": "Resident Evil 3 remake",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil3_remake.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil 3 para PS4 (lanzado en 2020) es la reconstrucción total (remake) del clásico de 1999, Resident Evil 3: Nemesis. Desarrollado por Capcom con el motor gráfico RE Engine, el juego ofrece una experiencia de acción y survival horror en tercera persona mucho más frenética y orientada al combate que su predecesor, recreando el caótico colapso de Raccoon City.",
+    "imagenes": [
+      "images/ps4/RE_remake.JPEG",
+      "images/ps4/RE_remake-back.JPEG"
+    ]
+  },
+  {
+    "id": 440,
+    "titulo": "Resident Evil 5",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil5.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil 5 para PS4 es una versión remasterizada en alta definición del aclamado videojuego de acción y survival horror cooperativo lanzado originalmente en la generación anterior. Esta edición para PlayStation 4 recopila todo el contenido descargable creado para el juego y mejora significativamente el rendimiento técnico para ofrecer combates mucho más fluidos.",
+    "imagenes": [
+      "images/ps4/RE5.JPEG",
+      "images/ps4/RE5-back.JPEG"
+    ]
+  },
+  {
+    "id": 441,
+    "titulo": "Resident Evil 6",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil6.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil 6 para PS4 es una versión remasterizada en alta definición del título que llevó la franquicia a su punto máximo de acción cinematográfica a escala global. Desarrollado por Capcom, esta edición para PlayStation 4 recopila todo el contenido descargable previo, mejora drásticamente el rendimiento técnico y organiza su gigantesca trama en cuatro campañas entrelazadas.",
+    "imagenes": [
+      "images/ps4/RE6.JPEG",
+      "images/ps4/RE6-back.JPEG"
+    ]
+  },
+  {
+    "id": 442,
+    "titulo": "Resident Evil VII",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evil_village.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil 7: Biohazard para PS4 (lanzado en 2017) es el aclamado título que revolucionó y salvó la franquicia, abandonando la acción de las entregas anteriores para regresar al survival horror más puro y terrorífico con una perspectiva en primera persona. Desarrollado con el motor RE Engine, es considerado uno de los juegos más perturbadores y tensos de la consola.",
+    "imagenes": [
+      "images/ps4/RE7.JPEG",
+      "images/ps4/RE7-back.JPEG"
+    ]
+  },
+  {
+    "id": 443,
+    "titulo": "Resident Evil Origins Collection",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/resident_evilorigins_collection.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil Origins Collection para PS4 es un fantástico recopilatorio físico y digital que reúne las dos precuelas de la saga remasterizadas en alta definición: Resident Evil HD Remaster y Resident Evil 0 (Zero) HD Remaster. Desarrollado por Capcom, este paquete está diseñado para revivir los pilares del survival horror más puro y clásico con gráficos actualizados.",
+    "imagenes": [
+      "images/ps4/RE_origi.JPEG",
+      "images/ps4/RE_origi-back.JPEG"
+    ]
+  },
+  {
+    "id": 444,
+    "titulo": "Sifu",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/sifu.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Sifu para PS4 es un exigente videojuego de acción y artes marciales en tercera persona (brawler/beat 'em up) desarrollado por el estudio independiente francés Sloclap (creadores de Absolver). El juego destaca por su espectacular y técnico sistema de combate basado en el Kung-Fu clásico (estilo Pak Mei) y una original mecánica de envejecimiento ligada a la muerte del protagonista.",
+    "imagenes": [
+      "images/ps4/SIFU.JPEG",
+      "images/ps4/SIFU-back.JPEG"
+    ]
+  },
+  {
+    "id": 445,
+    "titulo": "Tormented Souls",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/tormented souls.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Tormented Souls para PS4 es un aclamado videojuego de terror y supervivencia (survival horror) clásico en tercera persona, desarrollado por los estudios chilenos Dual Effect y Abstract Digital, y publicado por PQube [1]. El título es un homenaje directo a las raíces de los años 90 de franquicias como Resident Evil, Silent Hill y Alone in the Dark, rescatando mecánicas de la vieja escuela que se creían extintas en la industria moderna.",
+    "imagenes": [
+      "images/ps4/Tormented_souls.JPEG",
+      "images/ps4/Tormented_souls-back.JPEG"
+    ]
+  },
+  {
+    "id": 446,
+    "titulo": "Uncharted El legado perdido",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/uncharted_legado_perdido.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Uncharted: El Legado Perdido (The Lost Legacy) para PS4 es una aventura de acción, exploración y disparos en tercera persona desarrollada por Naughty Dog y publicada por Sony Interactive Entertainment. Nacido originalmente como un contenido descargable (DLC) para Uncharted 4, creció tanto en escala que se convirtió en un juego independiente (spin-off) completo y autoconclusivo que no requiere el juego original para funcionar.",
+    "imagenes": [
+      "images/ps4/Uncharted_legacy.JPEG",
+      "images/ps4/Uncharted_legacy-inside.JPEG",
+      "images/ps4/Uncharted_legacy-back.JPEG"
+    ]
+  },
+  {
+    "id": 447,
+    "titulo": "Unmetal",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/unmetal.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "UnMetal para PS4 es un divertidísimo videojuego de acción, sigilo y aventura en 2D desarrollado por el creador español Francisco Téllez de Meneses (autor de UnEpic). El juego destaca por ser una brillante e hilarante parodia de los primeros Metal Gear de MSX y de los clichés de las películas de acción de los años 80, combinando mecánicas retro muy pulidas con un humor irreverente y absurdo.",
+    "imagenes": [
+      "images/ps4/UNMETAL.JPEG",
+      "images/ps4/UNMETAL-back.JPEG"
+    ]
+  },
+  {
+    "id": 448,
+    "titulo": "The Witcher 3",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/witcher3.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "The Witcher 3: Wild Hunt para PS4 es una de las obras maestras absolutas de los RPG de acción y mundo abierto de fantasía oscura, desarrollada por el estudio polaco CD Projekt RED. Basado en las novelas de Andrzej Sapkowski, el juego es aclamado mundialmente por la madurez de su narrativa, sus misiones secundarias con dilemas morales grises y un universo gigantesco rebosante de folclore y secretos.",
+    "imagenes": [
+      "images/ps4/The_witcher3.JPEG",
+      "images/ps4/The_witcher3-inside.JPEG",
+      "images/ps4/The_witcher3-back.JPEG"
+    ]
+  },
+  {
+    "id": 449,
+    "titulo": "Yakuza like a dragon",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/yakuza_like_a_dragon.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Yakuza: Like a Dragon para PS4 es una magistral reinvención de la aclamada saga de SEGA, desarrollada por Ryu Ga Gotoku Studio. Lanzado en 2020, el juego marca un punto de inflexión radical al sustituir los combates tradicionales de acción callejera (beat 'em up) por un sistema de rol por turnos (RPG japonés), introduciendo además a un carismático y totalmente nuevo protagonista.",
+    "imagenes": [
+      "images/ps4/Yakuza_like_dragon.JPEG",
+      "images/ps4/Yakuza_like_dragon-back.JPEG"
+    ]
+  },
+  {
+    "id": 450,
+    "titulo": "Song of Horror",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/song_of_horror-front-.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Song of Horror para PlayStation 4 es una aventura de terror psicológico y survival horror de corte clásico en tercera persona. Destaca por su sistema de cámaras fijas, controles que rinden homenaje a los grandes referentes de los años 90 (como Resident Evil y Silent Hill), y una inquietante atmósfera inspirada en las obras de H.P. Lovecraft y Edgar Allan Poe.",
+    "imagenes": [
+      "images/ps4/song_of_horror-front-.JPEG",
+      "images/ps4/song_of_horror-back-.JPEG",
+      "images/ps4/song_of_horror-side-.JPEG"
+    ]
+  },  
+  {
+    "id": 451,
+    "titulo": "Horizon Zero Dawn",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "Jose H Vane",
+    "region": "PAL ESP",
+    "portada": "images/ps4/horizon_zero.JPG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Horizon Zero Dawn para PlayStation 4 es un aclamado videojuego de acción, aventura y rol de mundo abierto (RPG) desarrollado por Guerrilla Games. El título destaca por fusionar de manera única un entorno prehistórico y tribal con tecnología futurista avanzada, donde la humanidad ha dejado de ser la especie dominante.",
+    "imagenes": [
+      "images/ps4/horizon_zero.JPG"
+    ]
+  }, 
+  {
+    "id": 452,
+    "titulo": "Resident Evil Revelations",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/RE_Revelations.JPEG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil Revelations para PlayStation 4 es un videojuego de survival horror en tercera persona lanzado originalmente en consolas portátiles y remasterizado en alta definición para PS4. Esta entrega destaca por retornar a las raíces clásicas de la saga, equilibrando la atmósfera de terror claustrofóbico, la exploración y la gestión de recursos con la acción moderna de los títulos contemporáneos.",
+    "imagenes": [
+      "images/ps4/RE_Revelations.JPEG",
+      "images/ps4/RE_Revelations-back.JPEG"
+    ]
+  }, 
+    {
+    "id": 453,
+    "titulo": "Resident Evil Revelations 2",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps4/RE_Revelations.JPEG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil Revelations 2 para PlayStation 4 es un videojuego de survival horror enfocado en la cooperación y el suspenso, que continúa la línea derivada de la saga principal. A diferencia de la primera entrega, este título se diseñó originalmente en un formato episódico de cuatro capítulos y destaca por introducir mecánicas de juego en equipo donde cada personaje tiene un rol único para sobrevivir.",
+    "imagenes": [
+      "images/ps4/RE_Revelations2.JPEG",
+      "images/ps4/RE_Revelations2-back.JPEG"
+    ]
+  }, 
+
+  
+
+
+
+  
+  {
+    "id": 501,
+    "titulo": "Martha is Dead",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Martha_is_Dead.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Martha is Dead para PlayStation 5 es un oscuro thriller psicológico en primera persona que combina el misterio, el drama histórico y elementos de terror perturbador. Desarrollado por el estudio italiano LKA, el juego destaca por su profunda narrativa, su ambientación fotorrealista y una atmósfera de constante angustia emocional.",
+    "imagenes": [
+      "images/ps5/Martha_is_Dead.JPEG",
+      "images/ps5/Martha_is_Dead-inside.JPEG",
+      "images/ps5/Martha_is_Dead-back.JPEG"
+    ]
+  },  
+  {
+    "id": 502,
+    "titulo": "Resident Evil Requiem",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Residen_Evil_Requiem.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil Requiem es la novena entrega principal de la aclamada saga de Capcom, lanzada mundialmente el 27 de febrero de 2026. El videojuego marca un hito importante al celebrar el 30.º aniversario de la franquicia y supone el regreso de la saga a los alrededores de la mítica Raccoon City.",
+    "imagenes": [
+      "images/ps5/Residen_Evil_Requiem.JPEG",
+      "images/ps5/Residen_Evil_Requiem-back.JPEG"
+    ]
+  },  
+  {
+    "id": 503,
+    "titulo": "Resident Evil 4 Remake",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Residen_Evil4_Remake.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Resident Evil 4 Remake para PlayStation 5 es la reinvención total del legendario clásico de terror y acción de Capcom, lanzado originalmente en 2005. Desarrollado desde cero con el motor RE Engine, esta versión actualiza los gráficos, la narrativa y los controles mecánicos para adaptarlos a los estándares modernos sin perder la esencia que revolucionó el género.",
+    "imagenes": [
+      "images/ps5/Residen_Evil4_Remake.JPEG",
+      "images/ps5/Residen_Evil4_Remake-inside.JPEG",
+      "images/ps5/Residen_Evil4_Remake-back.JPEG"
+    ]
+  },  
+  {
+    "id": 504,
+    "titulo": "Tormented Soul 2",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Tormented_soul2.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Tormented Souls 2 para PlayStation 5 es un survival horror puro de corte clásico lanzado el 23 de octubre de 2025. Desarrollado por el estudio chileno Dual Effect, el juego funciona como una carta de amor a los referentes de los años 90 como Resident Evil, Silent Hill y Alone in the Dark, manteniendo las cámaras fijas y la gestión estricta de recursos.",
+    "imagenes": [
+      "images/ps5/Tormented_soul2.JPEG",
+      "images/ps5/Tormented_soul2-inside.JPEG",
+      "images/ps5/Tormented_soul2-back.JPEG"
+    ]
+  },  
+  {
+    "id": 505,
+    "titulo": "Final Fantasy VII Rebirth",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/FF_VII_Rebirth.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Final Fantasy VII Rebirth para PlayStation 5 es el segundo capítulo del ambicioso proyecto de remake de la mítica séptima entrega de Square Enix. Lanzado originalmente el 29 de febrero de 2024, el juego expande radicalmente las bases de su predecesor (Remake) al sacar al grupo protagonista de la industrial ciudad de Midgar para descubrir un gigantesco mundo exterior repleto de vida, zonas abiertas y combates tácticos de alta intensidad.",
+    "imagenes": [
+      "images/ps5/FF_VII_Rebirth.JPEG",
+      "images/ps5/FF_VII_Rebirth-inside.JPEG",
+      "images/ps5/FF_VII_Rebirth-back.JPEG"
+    ]
+  },  
+  {
+    "id": 506,
+    "titulo": "Ghost of Yotei",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Ghost_of_Yotei.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Ghost of Yōtei para PlayStation 5 es la secuela independiente y espiritual del exitoso Ghost of Tsushima, desarrollada por Sucker Punch Productions y lanzada el 2 de octubre de 2025. El juego traslada la fórmula de acción, sigilo y mundo abierto a una nueva era histórica y región de Japón, apostando por una narrativa más íntima y cruda enfocada en la retribución personal.",
+    "imagenes": [
+      "images/ps5/Ghost_of_Yotei.JPEG",
+      "images/ps5/Ghost_of_Yotei-inside.JPEG",
+      "images/ps5/Ghost_of_Yotei-back.JPEG"
+    ]
+  },  
+  {
+    "id": 507,
+    "titulo": "YAkuza Like a Dragon Infinite Wealth",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Like a Dragon: Infinite Wealth (originalmente conocido como Yakuza 8) para PlayStation 5 es el culmen de la saga de rol y aventura de SEGA y Ryu Ga Gotoku Studio, lanzado el 26 de enero de 2024. Esta entrega destaca por ser la más grande y ambiciosa de toda la franquicia, trasladando por primera vez la acción fuera de Japón para ofrecer una gigantesca y disparatada aventura tropical.",
+    "imagenes": [
+      "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth.JPEG",
+      "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth-inside.JPEG",
+      "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealthback.JPEG"
+    ]
+  },  
+  {
+    "id": 508,
+    "titulo": "Final Fantasy XVI",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/FFXVI.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Final Fantasy XVI para PlayStation 5 es una oscura y madura entrega de rol y acción (ARPG) de Square Enix dirigida por Naoki Yoshida (productor de FFXIV). El juego abandona por completo los combates por turnos tradicionales y adopta una ambientación de fantasía medieval cruda inspirada en el conflicto político de obras como Juego de Tronos.",
+    "imagenes": [
+      "images/ps5/FFXVI.JPEG",
+      "images/ps5/FFXVI-inside.JPEG",
+      "images/ps5/FFXVI-back.JPEG"
+    ]
+  },  
+  {
+    "id": 509,
+    "titulo": "Final Fantasy VII Remake",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/FFVII_Remake.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Final Fantasy VII Remake para PlayStation 5 (bajo la versión mejorada llamada Intergrade) es la reinvención de la primera parte del legendario RPG de 1997. Lanzado originalmente en PS4 y adaptado con mejoras drásticas a PS5 el 10 de junio de 2021, el juego revive la icónica etapa inicial de la historia centrándose exclusivamente en la metrópolis industrial de Midgar.",
+    "imagenes": [
+      "images/ps5/FFVII_Remake.JPEG",
+      "images/ps5/FFVII_Remake-back.JPEG"
+    ]
+  },  
+  {
+    "id": 510,
+    "titulo": "Returnal",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Returnal.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Returnal para PlayStation 5 es un aclamado e intenso shooter en tercera persona con estructura roguelike y ambientación de ciencia ficción oscura, desarrollado por Housemarque y lanzado en abril de 2021. Diseñado exclusivamente para aprovechar el hardware de PS5, destaca por su dificultad implacable, su narrativa fragmentada y una jugabilidad hiperactiva de estilo bullet hell (lluvia de balas).",
+    "imagenes": [
+      "images/ps5/Returnal.JPEG",
+      "images/ps5/Returnal-inside.JPEG",
+      "images/ps5/Returnal-back.JPEG"
+    ]
+  },  
+  {
+    "id": 511,
+    "titulo": "The Stanley Parable",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/The_Stanley_parable.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "The Stanley Parable: Ultra Deluxe para PlayStation 5 es una reimaginación masiva y expandida del aclamado juego indie de culto de 2013. Desarrollado por Crows Crows Crows, este título no es un videojuego convencional, sino una experiencia narrativa satírica e interactiva en primera persona que rompe constantemente la cuarta pared para burlarse de los clichés y las reglas del propio diseño de videojuegos.",
+    "imagenes": [
+      "images/ps5/The_Stanley_parable.JPEG",
+      "images/ps5/The_Stanley_parable-back.JPEG"
+    ]
+  },  
+  {
+    "id": 512,
+    "titulo": "Prince Persia Lost Crown",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Prince_persia_lost_crown.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Prince of Persia: The Lost Crown para PlayStation 5 es el aclamado regreso de la mítica franquicia de Ubisoft, estructurado como un dinámico y desafiante Metroidvania en 2.5D. Lanzado el 18 de enero de 2024 y desarrollado por el veterano estudio Ubisoft Montpellier (creadores de Rayman Legends), el juego reimagina la saga combinando un combate acrobático profundo, plataformas de alta precisión y mitología persa.",
+    "imagenes": [
+      "images/ps5/Prince_persia_lost_crown.JPEG",
+      "images/ps5/Prince_persia_lost_crown-back.JPEG"
+    ]
+  },  
+  {
+    "id": 513,
+    "titulo": "Stray",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Stray.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Stray para PlayStation 5 es una aclamada aventura de ciencia ficción en tercera persona protagonizada por un gato callejero, desarrollada por BlueTwelve Studio y distribuida por Annapurna Interactive. El juego se convirtió en un fenómeno global al combinar mecánicas felinas realistas con una atmósfera ciberpunk melancólica y misteriosa.",
+    "imagenes": [
+      "images/ps5/Stray.JPEG",
+      "images/ps5/Stray-back.JPEG"
+    ]
+  },  
+  {
+    "id": 514,
+    "titulo": "Horizon Forbidden West",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Horizon_Forbidden_West.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Horizon Forbidden West para PlayStation 5 es una espectacular aventura de acción y rol en mundo abierto desarrollada por Guerrilla Games y lanzada originalmente en febrero de 2022. Como secuela directa de Horizon Zero Dawn, el juego lleva la exploración y el combate estratégico contra máquinas a un nivel técnico y narrativo sobresaliente, convirtiéndose en uno de los grandes baluartes visuales de la consola.",
+    "imagenes": [
+      "images/ps5/Horizon_Forbidden_West.JPEG",
+      "images/ps5/Horizon_Forbidden_West-back.JPEG"
+    ]
+  },  
+  {
+    "id": 515,
+    "titulo": "Hell is US",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Hell_is_US.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Hell is Us para PlayStation 5 es un exigente videojuego de acción y aventura en tercera persona desarrollado por Rogue Factor y publicado por Nacon el 4 de septiembre de 2025. Dirigido por Jonathan Jacques-Belletête (conocido por su trabajo en Deus Ex), el título destaca radicalmente en el mercado por su filosofía de diseño de la vieja escuela, la cual rechaza por completo guiar de forma automática al jugador.",
+    "imagenes": [
+      "images/ps5/Hell_is_US.JPEG",
+      "images/ps5/Hell_is_US-back.JPEG"
+    ]
+  },  
+  {
+    "id": 516,
+    "titulo": "Tomb Raider Remastered",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Tomb_Raider_Remastered.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Tomb Raider I-III Remastered Starring Lara Croft para PlayStation 5 es la recopilación y modernización definitiva de las tres primeras aventuras poligonales de la saga, lanzada originalmente en febrero de 2024. Desarrollada por Aspyr y Crystal Dynamics, esta colección recupera los títulos fundacionales de los años 90 (Tomb Raider, Tomb Raider II y Tomb Raider III) adaptándolos al hardware actual sin alterar el diseño de niveles exacto ni las intrincadas físicas de puzles y plataformas que hicieron famosa a Lara Croft.",
+    "imagenes": [
+      "images/ps5/Tomb_Raider_Remastered.JPEG",
+      "images/ps5/Tomb_Raider_Remastered-side.JPEG",
+      "images/ps5/Tomb_Raider_Remastered-back.JPEG"
+    ]
+  },  
+  {
+    "id": 517,
+    "titulo": "Alan Wake 2",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Alan_Wake2.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Alan Wake 2 para PlayStation 5 es una obra maestra del survival horror psicológico y narrativo, desarrollada por Remedy Entertainment y distribuida por Epic Games. Lanzado originalmente en octubre de 2023, el título rompe con la acción y suspense del juego original para ofrecer una experiencia puramente terrorífica, lúgubre y madura que conecta de forma directa con el universo compartido de la desarrolladora (unido a Control).",
+    "imagenes": [
+      "images/ps5/Alan_Wake2.JPEG",
+      "images/ps5/Alan_Wake2-inside.JPEG",
+      "images/ps5/Alan_Wake2-back.JPEG"
+    ]
+  },  
+  {
+    "id": 518,
+    "titulo": "Jedi Suvirvor",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Jedi_suvirvor.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Star Wars Jedi: Survivor para PlayStation 5 es una aclamada aventura de acción y exploración en tercera persona desarrollada por Respawn Entertainment y publicada por Electronic Arts. Como secuela directa de Jedi: Fallen Order, el juego expande de forma masiva la fórmula de combates con espada láser, plataformeo y mecánicas de estilo Metroidvania, consolidándose como una de las mejores experiencias individuales del universo Star Wars.",
+    "imagenes": [
+      "images/ps5/Jedi_suvirvor.JPEG",
+      "images/ps5/Jedi_suvirvor-insie.JPEG",
+      "images/ps5/Jedi_suvirvor-back.JPEG"
+    ]
+  },  
+  {
+    "id": 519,
+    "titulo": "Expedition 33",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Expedition33.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Clair Obscur: Expedition 33 para PlayStation 5 es un revolucionario y aclamado videojuego de rol (RPG) desarrollado por el estudio francés Sandfall Interactive y publicado por Kepler Interactive. Lanzado el 24 de abril de 2025, el título se convirtió en un hito histórico de la industria al coronarse como el Game of the Year (GOTY) de 2025, destacando por su deslumbrante apartado visual en Unreal Engine 5 y una sobrecogedora banda sonora.",
+    "imagenes": [
+      "images/ps5/Expedition33.JPEG",
+      "images/ps5/Expedition33-inside.JPEG",
+      "images/ps5/Expedition33-back.JPEG"
+    ]
+  },  
+  {
+    "id": 520,
+    "titulo": "Suicide Squad",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Suicide_Squad.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Suicide Squad: Kill the Justice League para PlayStation 5 es un shooter en tercera persona y acción de mundo abierto enfocado en el juego cooperativo, desarrollado por Rocksteady Studios (los aclamados creadores de la trilogía Batman: Arkham) y lanzado el 2 de febrero de 2024. Ambientado dentro del mismo universo de Arkhamverse, el título rompe con las aventuras individuales oscuras del Caballero Oscuro para ofrecer una colorida y frenética experiencia de disparos estructurada originalmente como un juego como servicio.",
+    "imagenes": [
+      "images/ps5/Suicide_Squad.JPEG",
+      "images/ps5/Suicide_Squad-insie.JPEG",
+      "images/ps5/Suicide_Squad-back.JPEG"
+    ]
+  },  
+  {
+    "id": 521,
+    "titulo": "Robocop Rogue City",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Robocop_Rogue_city.jpeg",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "🇺🇸 RoboCop: Rogue City para PlayStation 5 es un excelente shooter en primera persona (FPS) y aventura desarrollado por Teyon y publicado por Nacon en noviembre de 2023. El juego destaca por ser una de las adaptaciones más fieles y respetuosas de una licencia cinematográfica, funcionando como una carta de amor a la película original de 1987 dirigida por Paul Verhoeven",
+    "imagenes": [
+      "images/ps5/Robocop_Rogue_city.JPEG",
+      "images/ps5/Robocop_Rogue_city-inside.JPEG",
+      "images/ps5/Robocop_Rogue_city-back.JPEG"
+    ]
+  },  
+  {
+    "id": 522,
+    "titulo": "Kingdom Come Deliverance 2",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Kingdom_come_deliverance2.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Kingdom Come: Deliverance II para PlayStation 5 es el RPG de simulación y acción histórica definitivo, lanzado mundialmente el 4 de febrero de 2025. Desarrollado por Warhorse Studios y publicado por Deep Silver, el título funciona como secuela directa de la aclamada obra de 2018. Al igual que su predecesor, rechaza por completo los elementos de fantasía (magia, dragones o monstruos) para ofrecer una inmersión hiperrealista y cruda en la Europa medieval.",
+    "imagenes": [
+      "images/ps5/Kingdom_come_deliverance2.JPEG",
+      "images/ps5/Kingdom_come_deliverance2-back.JPEG"
+    ]
+  },  
+  {
+    "id": 523,
+    "titulo": "Sea_of_Stars",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Sea_of_Strars.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Sea of Stars para PlayStation 5 es un aclamado videojuego de rol (RPG) por turnos de corte clásico, desarrollado y autopublicado por Sabotage Studio (creadores de The Messenger). Lanzado originalmente en agosto de 2023, el título funciona como una precuela espiritual de su anterior obra y está diseñado como una carta de amor absoluta a los grandes referentes de los años 90, especialmente a Chrono Trigger, Super Mario RPG e Illusion of Gaia.",
+    "imagenes": [
+      "images/ps5/Sea_of_Strars.JPEG",
+      "images/ps5/Sea_of_Strars-back.JPEG"
+    ]
+  },  
+  {
+    "id": 525,
+    "titulo": "Resident Evil VILLage",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/resident_evil_village.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Resident Evil Village (también conocido como Resident Evil 8) para PlayStation 5 es una aclamada aventura de survival horror y acción que continúa directamente la trágica historia de Ethan Winters. Desarrollado con el motor RE Engine y lanzado originalmente en mayo de 2021, el juego mezcla la opresión terrorífica de los escenarios góticos con la acción intensa e inspirada en el legendario Resident Evil 4.",
+    "imagenes": [
+      "images/ps5/resident_evil_village.JPEG",
+      "images/ps5/resident_evil_village-back.JPEG"
+    ]
+  },   
+  {
+    "id": 526,
+    "titulo": "Indiana Jones y el Gran Círculo",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Indiana_Jones_Gran_Círculo.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Indiana Jones y el Gran Círculo para PlayStation 5 es una brillante aventura cinematográfica de acción y exploración en primera persona, lanzada en la consola de Sony el 17 de abril de 2025. Desarrollado por MachineGames (los creadores de los últimos Wolfenstein) en colaboración con Lucasfilm Games y producido por Todd Howard, el videojuego captura a la perfección la esencia de la trilogía clásica cinematográfica.",
+    "imagenes": [
+      "images/ps5/Indiana_Jones_Gran_Circulo.JPEG",
+      "images/ps5/Indiana_Jones_Gran_CIrculo-inside.JPEG",
+      "images/ps5/Indiana_Jones_Gran_Circulo-back.JPEG"
+    ]
+  },
+  {
+    "id": 527,
+    "titulo": "The Thaumaturge",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL ESP",
+    "portada": "images/ps5/The_Thaumaturge.JPEG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "The Thaumaturge es un juego de rol (RPG) isométrico ambientado en la Varsovia de 1905, bajo el dominio del Imperio Ruso. Controlas a Wiktor Szulski, un taumaturgo con habilidades místicas. Puede ver y controlar seres mágicos llamados Salutors. El juego mezcla historia, ocultismo, investigación policial y combate estratégico por turnos.",
+    "imagenes": [
+      "images/ps5/The_Thaumaturge.JPEG",
+      "images/ps5/The_Thaumaturge.JPEG"
+    ]
+  },
+
+
+
+  
+  {
+    "id": 524,
+    "titulo": "Soul Reaver Remastered",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "region": "PAL",
+    "portada": "images/ps5/Soul_Reaver_Remastered.jpeg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Legacy of Kain: Soul Reaver 1 & 2 Remastered para PlayStation 5 es la recopilación y modernización definitiva de los dos aclamados clásicos de acción y aventura gótica desarrollados originalmente por Crystal Dynamics. Lanzada digitalmente el 10 de diciembre de 2024 (y en formato físico a mediados de 2025) a cargo del estudio especializado Aspyr, esta colección celebra el 25.º aniversario de la franquicia, reviviendo una de las narrativas más profundas, oscuras y mejor escritas de la historia de los videojuegos.",
+    "imagenes": [
+      "images/ps5/Soul_Reaver_Remastered.JPEG",
+      "images/ps5/Soul_Reaver_Remastered-back.JPEG"
+    ]
+  }
+]
