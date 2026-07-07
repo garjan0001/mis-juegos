@@ -81,7 +81,7 @@ function poblarFiltroPlataformas() {
 }
 
 // ============================================
-// FILTRAR JUEGOS
+// FILTRAR JUEGOS (CORREGIDO: PRESTADOS)
 // ============================================
 function filtrarJuegos() {
     const plataforma = filterPlataforma.value;
@@ -89,8 +89,18 @@ function filtrarJuegos() {
     const busqueda = filterBusqueda.value.toLowerCase().trim();
 
     juegosFiltrados = juegos.filter(juego => {
+        // 🔥 NUEVO: Detectar si el juego está prestado
+        const estaPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
+        
+        // 🔥 NUEVO: El estado del juego para el filtro
+        let estadoJuego = juego.estado_filtro || '';
+        if (estaPrestado && estadoJuego !== 'Prestado') {
+            // Si está prestado, lo añadimos como estado "Prestado" para el filtro
+            estadoJuego = 'Prestado';
+        }
+        
         const matchPlataforma = plataforma === 'todas' || juego.plataforma === plataforma;
-        const matchEstado = estado === 'todos' || juego.estado_filtro === estado;
+        const matchEstado = estado === 'todos' || estadoJuego === estado;
         const matchBusqueda = juego.titulo.toLowerCase().includes(busqueda) ||
                               (juego.descripcion && juego.descripcion.toLowerCase().includes(busqueda));
         return matchPlataforma && matchEstado && matchBusqueda;
@@ -102,7 +112,7 @@ function filtrarJuegos() {
 }
 
 // ============================================
-// RENDERIZAR TARJETAS DE JUEGOS (CON PORTADA Y HOVER)
+// RENDERIZAR TARJETAS DE JUEGOS
 // ============================================
 function renderizarJuegos() {
     if (juegosFiltrados.length === 0) {
@@ -114,17 +124,22 @@ function renderizarJuegos() {
     juegosFiltrados.forEach((juego, index) => {
         const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
         
-        // 🔥 CORREGIR RUTAS DE IMÁGENES AUTOMÁTICAMENTE
+        // CORREGIR RUTAS DE IMÁGENES
         const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
         const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
         
-        // Primera imagen = portada, segunda = hover (si existe)
         const imgFront = portada;
         const imgBack = imagenes.length > 1 ? imagenes[1] : portada;
 
+        // Determinar estado para mostrar en la tarjeta
+        let estadoMostrar = juego.estado_filtro || 'Sin estado';
+        if (esPrestado) {
+            estadoMostrar = '📤 Prestado';
+        }
+
         html += `
             <div class="game-card" data-index="${index}" style="animation-delay: ${Math.min(index * 0.03, 0.5)}s">
-                ${esPrestado ? `<span class="prestado-badge">📤 Prestado a ${escapeHtml(juego.prestadoA)}</span>` : ''}
+                ${esPrestado ? `<span class="prestado-badge">📤 ${escapeHtml(juego.prestadoA)}</span>` : ''}
                 
                 <div class="game-image">
                     <img class="img-front" src="${imgFront}" 
@@ -139,14 +154,14 @@ function renderizarJuegos() {
                 <div class="game-title">${escapeHtml(juego.titulo)}</div>
                 <div class="game-plataforma">🖥️ ${escapeHtml(juego.plataforma || 'Sin especificar')}</div>
                 <div class="game-region">🌍 ${escapeHtml(juego.region || 'Sin región')}</div>
-                ${juego.favorito ? '<span class="favorito-badge">⭐ Favorito</span>' : ''}
+                <div class="game-estado">${estadoMostrar}</div>
+                ${juego.favorito ? '<span class="favorito-badge">⭐</span>' : ''}
             </div>
         `;
     });
 
     container.innerHTML = html;
     
-    // Añadir event listeners para abrir el modal
     document.querySelectorAll('.game-card').forEach(card => {
         card.addEventListener('click', function() {
             const index = parseInt(this.dataset.index);
@@ -157,18 +172,18 @@ function renderizarJuegos() {
 }
 
 // ============================================
-// MODAL - FICHA DETALLADA DEL JUEGO
+// MODAL - FICHA DETALLADA (CON LIGHTBOX)
 // ============================================
 function abrirModal(juego) {
-    // 🔥 CORREGIR RUTAS DE IMÁGENES EN MODAL
     const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
     const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
     const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
     
     let html = `
-        <div class="modal-imagen-principal">
+        <div class="modal-imagen-principal" onclick="abrirLightbox('${portada}')">
             <img src="${portada}" alt="${escapeHtml(juego.titulo)}" 
                  onerror="this.parentElement.innerHTML='<div style=\\'display:flex;align-items:center;justify-content:center;height:100%;background:#1a1a2e;color:#666;font-size:3rem;\\'>🎮</div>'" />
+            <div class="modal-zoom-hint">🔍 Click para ampliar</div>
         </div>
         
         <div class="modal-titulo">${escapeHtml(juego.titulo)}</div>
@@ -182,6 +197,12 @@ function abrirModal(juego) {
                 <span class="label">Región</span>
                 <span class="value">${escapeHtml(juego.region || 'Sin región')}</span>
             </div>
+            ${juego.estado_filtro ? `
+            <div class="detalle-item">
+                <span class="label">Estado</span>
+                <span class="value">${escapeHtml(juego.estado_filtro)}</span>
+            </div>
+            ` : ''}
             ${juego.favorito ? `
             <div class="detalle-item">
                 <span class="label">⭐ Favorito</span>
@@ -191,7 +212,6 @@ function abrirModal(juego) {
         </div>
     `;
     
-    // Estado físico del juego
     if (juego.estado && juego.estado.trim() !== '') {
         html += `
             <div class="modal-estado-fisico">
@@ -201,7 +221,6 @@ function abrirModal(juego) {
         `;
     }
     
-    // Descripción del juego
     if (juego.descripcion && juego.descripcion.trim() !== '') {
         html += `
             <div class="modal-descripcion">
@@ -211,7 +230,6 @@ function abrirModal(juego) {
         `;
     }
     
-    // Información de préstamo
     if (esPrestado) {
         html += `
             <div class="modal-prestado">
@@ -221,16 +239,16 @@ function abrirModal(juego) {
         `;
     }
     
-    // Galería de imágenes adicionales (si hay más de 1)
+    // Galería con lightbox
     if (imagenes.length > 1) {
         html += `
             <div class="modal-galera">
-                <div class="label">🖼️ Imágenes</div>
+                <div class="label">🖼️ Imágenes (click para ampliar)</div>
                 <div class="galeria-imagenes">
         `;
         imagenes.forEach(img => {
             html += `
-                <div class="galeria-item">
+                <div class="galeria-item" onclick="abrirLightbox('${img}')">
                     <img src="${img}" alt="${escapeHtml(juego.titulo)}" 
                          onerror="this.style.display='none'" />
                 </div>
@@ -247,12 +265,64 @@ function abrirModal(juego) {
     document.body.style.overflow = 'hidden';
 }
 
+// ============================================
+// LIGHTBOX - VER IMAGEN EN GRANDE
+// ============================================
+function abrirLightbox(src) {
+    // Crear overlay de lightbox
+    const lightbox = document.createElement('div');
+    lightbox.style.cssText = `
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.95);
+        z-index: 2000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        padding: 2rem;
+    `;
+    
+    const img = document.createElement('img');
+    img.src = src;
+    img.style.cssText = `
+        max-width: 90%;
+        max-height: 90%;
+        object-fit: contain;
+        border-radius: 8px;
+        box-shadow: 0 0 60px rgba(0,0,0,0.8);
+    `;
+    
+    lightbox.appendChild(img);
+    document.body.appendChild(lightbox);
+    document.body.style.overflow = 'hidden';
+    
+    // Cerrar al hacer clic
+    lightbox.addEventListener('click', function() {
+        this.remove();
+        document.body.style.overflow = 'auto';
+    });
+    
+    // Cerrar con ESC
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            const lb = document.querySelector('div[style*="z-index: 2000"]');
+            if (lb) {
+                lb.remove();
+                document.body.style.overflow = 'auto';
+            }
+        }
+    });
+}
+
 function cerrarModal() {
     modalOverlay.style.display = 'none';
     document.body.style.overflow = 'auto';
 }
 
-// Cerrar modal con botón o clic fuera
 modalCerrar.addEventListener('click', cerrarModal);
 modalOverlay.addEventListener('click', function(e) {
     if (e.target === this) cerrarModal();
@@ -266,22 +336,26 @@ document.addEventListener('keydown', function(e) {
 // ============================================
 function actualizarEstadisticas() {
     const total = juegosFiltrados.length;
-    const prestados = juegosFiltrados.filter(j => j.prestadoA && j.prestadoA.trim() !== '').length;
-    const favoritos = juegosFiltrados.filter(j => j.favorito === true).length;
     
-    // Calcular progreso (si existe en tu JSON)
-    const juegosConProgreso = juegosFiltrados.filter(j => j.progreso !== undefined);
-    const progresoTotal = juegosConProgreso.reduce((sum, j) => sum + (j.progreso || 0), 0);
-    const progresoMedio = juegosConProgreso.length > 0 ? Math.round(progresoTotal / juegosConProgreso.length) : 0;
+    // 🔥 Contar prestados correctamente
+    const prestados = juegosFiltrados.filter(j => j.prestadoA && j.prestadoA.trim() !== '').length;
+    
+    // 🔥 Contar por estado_filtro
+    const completados = juegosFiltrados.filter(j => j.estado_filtro === 'Completado').length;
+    const jugando = juegosFiltrados.filter(j => j.estado_filtro === 'Jugando').length;
+    const pendientes = juegosFiltrados.filter(j => j.estado_filtro === 'Pendiente').length;
+    const abandonados = juegosFiltrados.filter(j => j.estado_filtro === 'Abandonado').length;
+    
+    const progresoTotal = juegosFiltrados.reduce((sum, j) => sum + (j.progreso || 0), 0);
+    const progresoMedio = total > 0 ? Math.round(progresoTotal / total) : 0;
 
     totalJuegosEl.textContent = total;
-    completadosEl.textContent = juegosFiltrados.filter(j => j.estado_filtro === 'Completado').length;
-    jugandoEl.textContent = juegosFiltrados.filter(j => j.estado_filtro === 'Jugando').length;
-    pendientesEl.textContent = juegosFiltrados.filter(j => j.estado_filtro === 'Pendiente').length;
+    completadosEl.textContent = completados;
+    jugandoEl.textContent = jugando;
+    pendientesEl.textContent = pendientes;
     prestadosEl.textContent = prestados;
-    progresoMedioEl.textContent = juegosConProgreso.length > 0 ? `${progresoMedio}%` : '--';
+    progresoMedioEl.textContent = total > 0 ? `${progresoMedio}%` : '--';
     
-    // Actualizar header
     const headerSub = document.getElementById('total-juegos-header');
     if (headerSub) headerSub.textContent = `${total} juegos · ${new Set(juegos.map(j => j.plataforma)).size} plataformas`;
 }
@@ -304,26 +378,6 @@ function actualizarFooter() {
 // ============================================
 // UTILIDADES
 // ============================================
-function getEstadoClass(estado) {
-    const map = {
-        'Completado': 'estado-completado',
-        'Jugando': 'estado-jugando',
-        'Pendiente': 'estado-pendiente',
-        'Abandonado': 'estado-abandonado'
-    };
-    return map[estado] || '';
-}
-
-function getEstadoEmoji(estado) {
-    const map = {
-        'Completado': '✅',
-        'Jugando': '⏳',
-        'Pendiente': '📅',
-        'Abandonado': '❌'
-    };
-    return map[estado] || '❓';
-}
-
 function escapeHtml(text) {
     if (!text) return '';
     const div = document.createElement('div');
