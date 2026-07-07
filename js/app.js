@@ -22,19 +22,54 @@ const totalFooterEl = document.getElementById('total-juegos-footer');
 const fechaActualizacionEl = document.getElementById('fecha-actualizacion');
 
 // ============================================
-// CARGA DE DATOS DESDE JSON (VERSIÓN LOCAL)
+// CARGA DE DATOS DESDE JSON (VERSIÓN DEPURADA)
 // ============================================
 async function cargarJuegos() {
+    console.log('🔄 Iniciando carga de juegos...');
+    
+    // Mostrar mensaje de carga
+    container.innerHTML = `<p class="loading">⏳ Cargando juegos...</p>`;
+    
     try {
-        // Usamos importación dinámica para archivos locales
+        // 🔍 PRUEBA 1: Ruta relativa normal
+        console.log('📡 Intentando fetch en: data/juegos.json');
         const response = await fetch('data/juegos.json');
         
+        console.log('📊 Status de respuesta:', response.status);
+        console.log('📊 OK?', response.ok);
+        
         if (!response.ok) {
-            // Si falla, intentamos cargar como módulo JS
-            throw new Error(`HTTP error! status: ${response.status}`);
+            // 🔍 PRUEBA 2: Intentar con ruta absoluta
+            console.log('⚠️ Falló la ruta relativa. Probando con ruta absoluta...');
+            const response2 = await fetch('/mis-juegos/data/juegos.json');
+            
+            if (!response2.ok) {
+                // 🔍 PRUEBA 3: Intentar con ./data
+                console.log('⚠️ Falló la ruta absoluta. Probando con ./data...');
+                const response3 = await fetch('./data/juegos.json');
+                
+                if (!response3.ok) {
+                    throw new Error(`No se pudo cargar el JSON en ninguna ruta. Último status: ${response3.status}`);
+                }
+                
+                console.log('✅ Cargado con ./data/juegos.json');
+                juegos = await response3.json();
+            } else {
+                console.log('✅ Cargado con /mis-juegos/data/juegos.json');
+                juegos = await response2.json();
+            }
+        } else {
+            console.log('✅ Cargado con data/juegos.json');
+            juegos = await response.json();
         }
         
-        juegos = await response.json();
+        console.log('📦 Datos cargados:', juegos);
+        console.log('📦 Número de juegos:', juegos.length);
+        
+        if (juegos.length === 0) {
+            throw new Error('El archivo JSON está vacío');
+        }
+        
         juegosFiltrados = [...juegos];
         
         // Poblar filtros
@@ -45,33 +80,25 @@ async function cargarJuegos() {
         renderizarJuegos();
         actualizarFooter();
         
-    } catch (error) {
-        console.error('Error cargando juegos:', error);
+        console.log('✅ Todo cargado correctamente');
         
-        // INTENTAR CARGAR COMO MÓDULO JS (fallback)
-        try {
-            const module = await import('../data/juegos.json', { assert: { type: 'json' } });
-            juegos = module.default;
-            juegosFiltrados = [...juegos];
-            
-            poblarFiltroPlataformas();
-            actualizarEstadisticas();
-            renderizarJuegos();
-            actualizarFooter();
-            
-        } catch (fallbackError) {
-            console.error('Error en fallback:', fallbackError);
-            container.innerHTML = `
-                <p class="loading">❌ No se pudieron cargar los juegos.</p>
-                <p class="loading" style="font-size:0.8rem; color:#666;">
-                    Si estás viendo esto localmente, prueba a usar 
-                    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" 
-                       target="_blank" style="color:var(--accent);">
-                       Live Server
-                    </a> de VS Code o GitHub Pages.
+    } catch (error) {
+        console.error('❌ Error cargando juegos:', error);
+        container.innerHTML = `
+            <p class="loading">❌ No se pudieron cargar los juegos.</p>
+            <p class="loading" style="font-size:0.8rem; color:#666; margin-top:1rem;">
+                <strong>Error:</strong> ${error.message}<br/>
+                <span style="font-size:0.7rem; color:#888;">
+                    Revisa la consola (F12) para más detalles.
+                </span>
+            </p>
+            <div style="text-align:center; margin-top:1rem; padding:1rem; background:rgba(255,0,0,0.1); border-radius:8px;">
+                <p style="font-size:0.9rem; color:#ff6b6b;">
+                    📁 Asegúrate de que existe el archivo <strong>data/juegos.json</strong><br/>
+                    y que tiene el formato correcto.
                 </p>
-            `;
-        }
+            </div>
+        `;
     }
 }
 
