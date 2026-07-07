@@ -624,3 +624,38 @@ body {
     color: var(--text-secondary);
     margin-top: -0.1rem;
 }
+/* ===== BOTÓN TOGGLE ESTADÍSTICAS ===== */
+.btn-toggle-stats {
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    color: var(--text-secondary);
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.btn-toggle-stats:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--accent);
+    color: var(--text-primary);
+}
+
+/* ===== ESTADO EN TARJETA ===== */
+.game-card .game-estado {
+    font-size: 0.7rem;
+    padding: 0.15rem 0.5rem;
+    border-radius: 20px;
+    display: inline-block;
+    width: fit-content;
+    background: rgba(255, 255, 255, 0.06);
+    color: var(--text-secondary);
+    margin-top: 0.1rem;
+}
+
+/* Colores por estado (opcional) */
+.game-card .game-estado:contains("✅ Completado") {
+    background: rgba(0, 200, 80, 0.15);
+    color: #4cdf8b;
+}
