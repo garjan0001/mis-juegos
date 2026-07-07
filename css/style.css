@@ -838,11 +838,10 @@ body {
         gap: 1.5rem;
     }
 }
+
 /* ============================================
    ARREGLO PARA MÓVIL: IMÁGENES SIEMPRE VISIBLES
    ============================================ */
-
-/* En móvil, la imagen trasera nunca se muestra */
 @media (max-width: 768px) {
     .game-card .game-image .img-back {
         display: none !important;
@@ -859,20 +858,17 @@ body {
         min-height: 120px;
     }
     
-    /* Asegurar que la imagen frontal se vea siempre */
     .game-card .game-image img {
         position: relative !important;
         display: block !important;
     }
     
-    /* Forzar que las imágenes ocupen todo el contenedor */
     .game-card .game-image .img-front {
         width: 100% !important;
         height: 100% !important;
         object-fit: cover !important;
     }
     
-    /* Eliminar el efecto hover en móvil */
     .game-card:hover .game-image .img-front {
         opacity: 1 !important;
     }
@@ -880,52 +876,23 @@ body {
     .game-card:hover .game-image .img-back {
         opacity: 0 !important;
     }
-}
-
-/* ============================================
-   MEJORA: IMÁGENES CON CARGA PROGRESIVA
-   ============================================ */
-
-.game-card .game-image img {
-    transition: opacity 0.3s ease;
-    background: var(--bg-primary);
-}
-
-/* Placeholder mientras carga la imagen */
-.game-card .game-image img:not([src]) {
-    opacity: 0;
-}
-
-/* Imagen cargada */
-.game-card .game-image img[src] {
-    opacity: 1;
-}
-
-/* ============================================
-   FALLBACK CUANDO NO HAY IMAGEN
-   ============================================ */
-
-.game-card .game-image .no-image {
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-    background: var(--bg-card-hover);
-    color: var(--text-secondary);
-    font-size: 2.5rem;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 0;
-}
-
-/* Si la imagen falla, mostrar el fallback */
-.game-card .game-image img[style*="display: none"] + .no-image {
-    display: flex !important;
-}
-
-/* Ocultar no-image por defecto */
-.game-card .game-image .no-image {
-    display: none !important;
+    
+    .game-card .game-image .no-image {
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100%;
+        background: var(--bg-card-hover);
+        color: var(--text-secondary);
+        font-size: 2.5rem;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 0;
+    }
+    
+    .game-card .game-image img[style*="display: none"] + .no-image {
+        display: flex !important;
+    }
 }
