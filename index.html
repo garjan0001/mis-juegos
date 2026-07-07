@@ -12,14 +12,15 @@
         <header class="header">
             <h1>🎮 Mi Colección</h1>
             <p class="subtitle" id="total-juegos-header">Cargando...</p>
+            <div class="header-actions">
+                <button id="btn-recargar-datos" class="btn-recargar" onclick="recargarDatos()">
+                    🔄 Actualizar
+                </button>
+                <button id="toggle-stats-btn" class="btn-toggle-stats" onclick="toggleEstadisticas()">
+                    📊 Ocultar estadísticas
+                </button>
+            </div>
         </header>
-
-        <!-- BOTÓN PARA OCULTAR/MOSTRAR ESTADÍSTICAS -->
-        <div style="text-align: right; margin: 0.5rem 0;">
-            <button id="toggle-stats-btn" class="btn-toggle-stats" onclick="toggleEstadisticas()">
-                📊 Ocultar estadísticas
-            </button>
-        </div>
 
         <!-- ESTADÍSTICAS -->
         <section class="stats-section">
@@ -50,23 +51,41 @@
                     <span class="stat-value" id="progreso-medio">0%</span>
                 </div>
             </div>
+            
+            <!-- GRÁFICOS DE BARRAS (mejora) -->
+            <div class="stats-bars">
+                <div class="stat-bar">
+                    <span class="stat-bar-label">✅ Completados</span>
+                    <div class="stat-bar-track">
+                        <div class="stat-bar-fill bar-completados" id="bar-completados" style="width: 0%"></div>
+                    </div>
+                    <span class="stat-bar-value" id="bar-completados-text">0</span>
+                </div>
+                <div class="stat-bar">
+                    <span class="stat-bar-label">⏳ Jugando</span>
+                    <div class="stat-bar-track">
+                        <div class="stat-bar-fill bar-jugando" id="bar-jugando" style="width: 0%"></div>
+                    </div>
+                    <span class="stat-bar-value" id="bar-jugando-text">0</span>
+                </div>
+                <div class="stat-bar">
+                    <span class="stat-bar-label">📅 Pendientes</span>
+                    <div class="stat-bar-track">
+                        <div class="stat-bar-fill bar-pendientes" id="bar-pendientes" style="width: 0%"></div>
+                    </div>
+                    <span class="stat-bar-value" id="bar-pendientes-text">0</span>
+                </div>
+                <div class="stat-bar">
+                    <span class="stat-bar-label">📤 Prestados</span>
+                    <div class="stat-bar-track">
+                        <div class="stat-bar-fill bar-prestados" id="bar-prestados" style="width: 0%"></div>
+                    </div>
+                    <span class="stat-bar-value" id="bar-prestados-text">0</span>
+                </div>
+            </div>
         </section>
 
-        <div class="view-toggle">
-            <button id="btn-grid" class="view-btn active" onclick="cambiarVista('grid')">📐 Cuadrícula</button>
-            <button id="btn-list" class="view-btn" onclick="cambiarVista('list')">📋 Lista</button>
-        </div>
-        <div class="filter-group">
-            <label for="filter-orden">📋 Ordenar</label>
-            <select id="filter-orden">
-                <option value="titulo">Por título (A-Z)</option>
-                <option value="titulo-desc">Por título (Z-A)</option>
-                <option value="plataforma">Por plataforma</option>
-                <option value="favorito">Favoritos primero</option>
-                <option value="id">Por ID</option>
-            </select>
-        </div>
-        <!-- FILTROS (SIEMPRE VISIBLES) -->
+        <!-- FILTROS -->
         <section class="filters-section">
             <div class="filter-group">
                 <label for="filter-plataforma">📌 Plataforma</label>
@@ -86,14 +105,31 @@
                 </select>
             </div>
             <div class="filter-group">
-                <label for="filter-busqueda">🔍 Buscar</label>
+                <label for="filter-orden">📋 Ordenar</label>
+                <select id="filter-orden">
+                    <option value="titulo">Por título (A-Z)</option>
+                    <option value="titulo-desc">Por título (Z-A)</option>
+                    <option value="plataforma">Por plataforma</option>
+                    <option value="favorito">Favoritos primero</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="filter-busqueda">🔍 Buscar <span class="shortcut-hint">(Ctrl+K)</span></label>
                 <input type="text" id="filter-busqueda" placeholder="Nombre del juego..." />
             </div>
         </section>
 
+        <!-- VISTA Y CONTADOR DE RESULTADOS -->
+        <div class="toolbar">
+            <div class="view-toggle">
+                <button id="btn-grid" class="view-btn active" onclick="cambiarVista('grid')">📐</button>
+                <button id="btn-list" class="view-btn" onclick="cambiarVista('list')">📋</button>
+            </div>
+            <div class="result-count">Mostrando <span id="result-count">0</span> juegos</div>
+        </div>
+
         <!-- LISTA DE JUEGOS -->
         <section class="games-section">
-            <h2>🎲 Mis Juegos</h2>
             <div id="games-container" class="games-grid">
                 <p class="loading">⏳ Cargando juegos...</p>
             </div>
@@ -101,6 +137,11 @@
 
         <!-- FOOTER -->
         <footer class="footer">
+            <div class="footer-actions">
+                <button onclick="exportarDatos()" class="btn-footer">💾 Exportar JSON</button>
+                <button onclick="document.getElementById('import-json').click()" class="btn-footer">📂 Importar JSON</button>
+                <input type="file" id="import-json" accept=".json" style="display:none" onchange="importarDatos(event)" />
+            </div>
             <p>🔄 Actualizado: <span id="fecha-actualizacion">--</span></p>
             <p>📦 <span id="total-juegos-footer">0</span> juegos en total</p>
         </footer>
@@ -112,6 +153,11 @@
             <button id="modal-cerrar" class="modal-cerrar">✕</button>
             <div id="modal-body">
                 <!-- Se llena con JavaScript -->
+            </div>
+            <!-- Navegación entre juegos en el modal -->
+            <div class="modal-nav">
+                <button id="modal-prev" class="modal-nav-btn">◀</button>
+                <button id="modal-next" class="modal-nav-btn">▶</button>
             </div>
         </div>
     </div>
