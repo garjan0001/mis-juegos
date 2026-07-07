@@ -22,12 +22,18 @@ const totalFooterEl = document.getElementById('total-juegos-footer');
 const fechaActualizacionEl = document.getElementById('fecha-actualizacion');
 
 // ============================================
-// CARGA DE DATOS DESDE JSON
+// CARGA DE DATOS DESDE JSON (VERSIÓN LOCAL)
 // ============================================
 async function cargarJuegos() {
     try {
+        // Usamos importación dinámica para archivos locales
         const response = await fetch('data/juegos.json');
-        if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
+        
+        if (!response.ok) {
+            // Si falla, intentamos cargar como módulo JS
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
         juegos = await response.json();
         juegosFiltrados = [...juegos];
         
@@ -41,7 +47,31 @@ async function cargarJuegos() {
         
     } catch (error) {
         console.error('Error cargando juegos:', error);
-        container.innerHTML = `<p class="loading">❌ Error al cargar los datos. Revisa la consola.</p>`;
+        
+        // INTENTAR CARGAR COMO MÓDULO JS (fallback)
+        try {
+            const module = await import('../data/juegos.json', { assert: { type: 'json' } });
+            juegos = module.default;
+            juegosFiltrados = [...juegos];
+            
+            poblarFiltroPlataformas();
+            actualizarEstadisticas();
+            renderizarJuegos();
+            actualizarFooter();
+            
+        } catch (fallbackError) {
+            console.error('Error en fallback:', fallbackError);
+            container.innerHTML = `
+                <p class="loading">❌ No se pudieron cargar los juegos.</p>
+                <p class="loading" style="font-size:0.8rem; color:#666;">
+                    Si estás viendo esto localmente, prueba a usar 
+                    <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" 
+                       target="_blank" style="color:var(--accent);">
+                       Live Server
+                    </a> de VS Code o GitHub Pages.
+                </p>
+            `;
+        }
     }
 }
 
