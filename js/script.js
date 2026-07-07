@@ -491,3 +491,23 @@ function cambiarVista(vista) {
         document.getElementById('btn-grid').classList.remove('active');
     }
 }
+function filtrarJuegos() {
+    // ... filtros existentes ...
+    
+    // ORDENAR
+    const orden = document.getElementById('filter-orden').value;
+    juegosFiltrados.sort((a, b) => {
+        switch(orden) {
+            case 'titulo': return a.titulo.localeCompare(b.titulo);
+            case 'titulo-desc': return b.titulo.localeCompare(a.titulo);
+            case 'plataforma': return (a.plataforma || '').localeCompare(b.plataforma || '');
+            case 'favorito': return (b.favorito ? 1 : 0) - (a.favorito ? 1 : 0);
+            case 'id': return (a.id || 0) - (b.id || 0);
+            default: return 0;
+        }
+    });
+
+    renderizarJuegos();
+    actualizarEstadisticas();
+    actualizarFooter();
+}
