@@ -27,6 +27,26 @@ const modalBody = document.getElementById('modal-body');
 const modalCerrar = document.getElementById('modal-cerrar');
 
 // ============================================
+// TOGGLE ESTADÍSTICAS (ocultar/mostrar)
+// ============================================
+let estadisticasVisibles = true;
+
+function toggleEstadisticas() {
+    const statsSection = document.querySelector('.stats-section');
+    const toggleBtn = document.getElementById('toggle-stats-btn');
+    
+    if (estadisticasVisibles) {
+        statsSection.style.display = 'none';
+        toggleBtn.textContent = '📊 Mostrar estadísticas';
+        estadisticasVisibles = false;
+    } else {
+        statsSection.style.display = 'block';
+        toggleBtn.textContent = '📊 Ocultar estadísticas';
+        estadisticasVisibles = true;
+    }
+}
+
+// ============================================
 // CARGA DE DATOS DESDE JSON
 // ============================================
 async function cargarJuegos() {
@@ -43,6 +63,11 @@ async function cargarJuegos() {
         juegos = await response.json();
         console.log('📦 Datos cargados:', juegos.length, 'juegos');
         console.log('📦 Primer juego:', juegos[0]);
+        
+        // Mostrar un ejemplo de estado_filtro para depurar
+        if (juegos.length > 0) {
+            console.log('📌 estado_filtro del primer juego:', juegos[0].estado_filtro || 'No tiene');
+        }
         
         juegosFiltrados = [...juegos];
         
@@ -81,7 +106,7 @@ function poblarFiltroPlataformas() {
 }
 
 // ============================================
-// FILTRAR JUEGOS (CORREGIDO: PRESTADOS)
+// FILTRAR JUEGOS (CORREGIDO)
 // ============================================
 function filtrarJuegos() {
     const plataforma = filterPlataforma.value;
@@ -89,20 +114,21 @@ function filtrarJuegos() {
     const busqueda = filterBusqueda.value.toLowerCase().trim();
 
     juegosFiltrados = juegos.filter(juego => {
-        // 🔥 NUEVO: Detectar si el juego está prestado
+        // Detectar si el juego está prestado
         const estaPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
         
-        // 🔥 NUEVO: El estado del juego para el filtro
+        // El estado del juego para el filtro
         let estadoJuego = juego.estado_filtro || '';
         if (estaPrestado && estadoJuego !== 'Prestado') {
-            // Si está prestado, lo añadimos como estado "Prestado" para el filtro
             estadoJuego = 'Prestado';
         }
         
         const matchPlataforma = plataforma === 'todas' || juego.plataforma === plataforma;
         const matchEstado = estado === 'todos' || estadoJuego === estado;
-        const matchBusqueda = juego.titulo.toLowerCase().includes(busqueda) ||
-                              (juego.descripcion && juego.descripcion.toLowerCase().includes(busqueda));
+        
+        // 🔥 BUSCADOR: SOLO TÍTULO (como pides)
+        const matchBusqueda = juego.titulo.toLowerCase().includes(busqueda);
+        
         return matchPlataforma && matchEstado && matchBusqueda;
     });
 
@@ -131,10 +157,18 @@ function renderizarJuegos() {
         const imgFront = portada;
         const imgBack = imagenes.length > 1 ? imagenes[1] : portada;
 
-        // Determinar estado para mostrar en la tarjeta
-        let estadoMostrar = juego.estado_filtro || 'Sin estado';
+        // 🔥 MOSTRAR ESTADO EN TARJETA (corregido)
+        let estadoMostrar = '';
         if (esPrestado) {
             estadoMostrar = '📤 Prestado';
+        } else if (juego.estado_filtro) {
+            const estadoMap = {
+                'Completado': '✅ Completado',
+                'Jugando': '⏳ Jugando',
+                'Pendiente': '📅 Pendiente',
+                'Abandonado': '❌ Abandonado'
+            };
+            estadoMostrar = estadoMap[juego.estado_filtro] || juego.estado_filtro;
         }
 
         html += `
@@ -154,7 +188,7 @@ function renderizarJuegos() {
                 <div class="game-title">${escapeHtml(juego.titulo)}</div>
                 <div class="game-plataforma">🖥️ ${escapeHtml(juego.plataforma || 'Sin especificar')}</div>
                 <div class="game-region">🌍 ${escapeHtml(juego.region || 'Sin región')}</div>
-                <div class="game-estado">${estadoMostrar}</div>
+                ${estadoMostrar ? `<div class="game-estado">${estadoMostrar}</div>` : ''}
                 ${juego.favorito ? '<span class="favorito-badge">⭐</span>' : ''}
             </div>
         `;
@@ -172,12 +206,26 @@ function renderizarJuegos() {
 }
 
 // ============================================
-// MODAL - FICHA DETALLADA (CON LIGHTBOX)
+// MODAL - FICHA DETALLADA (con estado corregido)
 // ============================================
 function abrirModal(juego) {
     const portada = juego.portada ? juego.portada.replace(/^\.?\//, './') : 'images/default.jpg';
     const imagenes = juego.imagenes ? juego.imagenes.map(img => img.replace(/^\.?\//, './')) : [portada];
     const esPrestado = juego.prestadoA && juego.prestadoA.trim() !== '';
+    
+    // 🔥 MOSTRAR ESTADO EN MODAL (corregido)
+    let estadoMostrar = '';
+    if (esPrestado) {
+        estadoMostrar = '📤 Prestado';
+    } else if (juego.estado_filtro) {
+        const estadoMap = {
+            'Completado': '✅ Completado',
+            'Jugando': '⏳ Jugando',
+            'Pendiente': '📅 Pendiente',
+            'Abandonado': '❌ Abandonado'
+        };
+        estadoMostrar = estadoMap[juego.estado_filtro] || juego.estado_filtro;
+    }
     
     let html = `
         <div class="modal-imagen-principal" onclick="abrirLightbox('${portada}')">
@@ -197,10 +245,10 @@ function abrirModal(juego) {
                 <span class="label">Región</span>
                 <span class="value">${escapeHtml(juego.region || 'Sin región')}</span>
             </div>
-            ${juego.estado_filtro ? `
+            ${estadoMostrar ? `
             <div class="detalle-item">
                 <span class="label">Estado</span>
-                <span class="value">${escapeHtml(juego.estado_filtro)}</span>
+                <span class="value">${estadoMostrar}</span>
             </div>
             ` : ''}
             ${juego.favorito ? `
@@ -269,7 +317,6 @@ function abrirModal(juego) {
 // LIGHTBOX - VER IMAGEN EN GRANDE
 // ============================================
 function abrirLightbox(src) {
-    // Crear overlay de lightbox
     const lightbox = document.createElement('div');
     lightbox.style.cssText = `
         position: fixed;
@@ -300,13 +347,11 @@ function abrirLightbox(src) {
     document.body.appendChild(lightbox);
     document.body.style.overflow = 'hidden';
     
-    // Cerrar al hacer clic
     lightbox.addEventListener('click', function() {
         this.remove();
         document.body.style.overflow = 'auto';
     });
     
-    // Cerrar con ESC
     document.addEventListener('keydown', function(e) {
         if (e.key === 'Escape') {
             const lb = document.querySelector('div[style*="z-index: 2000"]');
@@ -337,10 +382,8 @@ document.addEventListener('keydown', function(e) {
 function actualizarEstadisticas() {
     const total = juegosFiltrados.length;
     
-    // 🔥 Contar prestados correctamente
     const prestados = juegosFiltrados.filter(j => j.prestadoA && j.prestadoA.trim() !== '').length;
     
-    // 🔥 Contar por estado_filtro
     const completados = juegosFiltrados.filter(j => j.estado_filtro === 'Completado').length;
     const jugando = juegosFiltrados.filter(j => j.estado_filtro === 'Jugando').length;
     const pendientes = juegosFiltrados.filter(j => j.estado_filtro === 'Pendiente').length;
