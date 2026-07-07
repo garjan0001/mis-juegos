@@ -476,3 +476,18 @@ filterBusqueda.addEventListener('input', filtrarJuegos);
 // INICIO
 // ============================================
 document.addEventListener('DOMContentLoaded', cargarJuegos);
+let vistaActual = 'grid';
+
+function cambiarVista(vista) {
+    vistaActual = vista;
+    const container = document.getElementById('games-container');
+    if (vista === 'grid') {
+        container.className = 'games-grid';
+        document.getElementById('btn-grid').classList.add('active');
+        document.getElementById('btn-list').classList.remove('active');
+    } else {
+        container.className = 'games-list';
+        document.getElementById('btn-list').classList.add('active');
+        document.getElementById('btn-grid').classList.remove('active');
+    }
+}
