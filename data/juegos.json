@@ -3326,13 +3326,13 @@
     "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
-    "portada": "images/ps5/The_Thaumaturge.JPEG",
+    "portada": "images/ps5/TheThauma.JPEG",
     "favorito": false,
     "estado": "JUEGO PRECINTADO",
     "descripcion": "The Thaumaturge es un juego de rol (RPG) isométrico ambientado en la Varsovia de 1905, bajo el dominio del Imperio Ruso. Controlas a Wiktor Szulski, un taumaturgo con habilidades místicas. Puede ver y controlar seres mágicos llamados Salutors. El juego mezcla historia, ocultismo, investigación policial y combate estratégico por turnos.",
     "imagenes": [
-      "images/ps5/The_Thaumaturge.JPEG",
-      "images/ps5/The_Thaumaturge-back.JPEG"
+      "images/ps5/TheThauma.JPEG",
+      "images/ps5/TheThauma-back.JPEG"
     ]
   },
 
