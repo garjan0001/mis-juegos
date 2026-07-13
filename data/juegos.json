@@ -2035,7 +2035,7 @@
       "images/ps3/Resistance3-back.JPEG"
     ]
   },
-    {
+  {
     "id": 330,
     "titulo": "Gran Turismo 6",
     "plataforma": "PlayStation 3",
@@ -2049,7 +2049,7 @@
       "images/ps3/GT6.JPG"
     ]
   },
-      {
+  {
     "id": 331,
     "titulo": "SingStar POP 2009",
     "plataforma": "PlayStation 3",
@@ -2067,8 +2067,25 @@
       
     ]
   },
+  {
+    "id": 332,
+    "titulo": "Red Dead Rendemtion",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps3/RedDeadRendemtion.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "SingStar Pop 2009 (conocido internacionalmente como SingStar Pop Edition) es una de las entregas recopilatorias más destacadas de la franquicia. Aunque se diseñó principalmente para aprovechar el potencial técnico de PlayStation 3, Sony también lanzó una versión adaptada para PlayStation 2 en el verano de 2009.",
+    "imagenes": [
+      "images/ps3/RedDeadRendemtion.JPEG",
+      "images/ps3/RedDeadRendemtion-inside.JPEG",
+      "images/ps3/RedDeadRendemtion-back.JPEG"
+    ]
+  },
 
-
+  
 
   
 
