@@ -2084,7 +2084,23 @@
       "images/ps3/RedDeadRendemtion-back.JPEG"
     ]
   },
-
+  {
+    "id": 333,
+    "titulo": "LA Noire",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/LANoire.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "L.A. Noire para PlayStation 3 es un videojuego de acción y aventura detectivesca que te sumerge en una recreación perfecta de Los Ángeles a finales de la década de 1940, combinando la caza de criminales con el clásico cine negro de Hollywood.",
+    "imagenes": [
+      "images/ps3/LANoire.JPEG",
+      "images/ps3/LANoire-inside.JPEG",
+      "images/ps3/LANoire-back.JPEG"
+    ]
+  },
   
 
   
