@@ -2101,7 +2101,23 @@
       "images/ps3/LANoire-back.JPEG"
     ]
   },
-  
+  {
+    "id": 334,
+    "titulo": "Sleeping Dogs",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/sleepingdogs.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Sleeping Dogs para PlayStation 3 es un videojuego de acción y aventura de mundo abierto ambientado en las vibrantes y peligrosas calles de Hong Kong. El jugador asume el papel de Wei Shen, un policía encubierto que regresa de Estados Unidos para infiltrarse y destruir desde adentro a una de las organizaciones criminales más temidas del mundo: las Tríadas Sun On Yee.",
+    "imagenes": [
+      "images/ps3/sleepingdogs.JPEG",
+      "images/ps3/sleepingdogs-inside.JPEG",
+      "images/ps3/sleepingdogs-back.JPEG"
+    ]
+  },
 
   
 
