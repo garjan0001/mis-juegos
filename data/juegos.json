@@ -3384,7 +3384,39 @@
       "images/ps5/TheThauma-back.JPEG"
     ]
   },
+  {
+    "id": 528,
+    "titulo": "Skull and Bones",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Skull_and_Bones.jpg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Skull and Bones para PlayStation 5 es un videojuego de acción y rol de temática pirata en mundo abierto desarrollado por Ubisoft. El juego te sumerge en una aventura náutica ambientada en una versión de fantasía histórica del Océano Índico durante la Edad de Oro de la piratería",
+    "imagenes": [
+      "images/ps5/Skull_and_Bones.jpg",
+      "images/ps5/Skull_and_Bones-back.jpg"
+    ]
+  },
 
+  {
+    "id": 529,
+    "titulo": "The Lord Of The Rings Gollum",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps5/The_Lord_Of_The_Rings_Gollum.jpg",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "The Lord of the Rings: Gollum es un videojuego de acción y aventura enfocado en el sigilo y las plataformas, desarrollado por Daedalic Entertainment y lanzado en mayo de 2023. El título narra la historia de Sméagol/Gollum de forma paralela a los hechos iniciales de La Comunidad del Anillo, mostrando su perspectiva mientras busca desesperadamente recuperar su "tesoro".",
+    "imagenes": [
+      "images/ps5/The_Lord_Of_The_Rings_Gollum.jpg",
+      "images/ps5/The_Lord_Of_The_Rings_Gollum-back.jpg"
+    ]
+  },
 
 
   
