@@ -2118,9 +2118,94 @@
       "images/ps3/sleepingdogs-back.JPEG"
     ]
   },
+  {
+    "id": 335,
+    "titulo": "Singularity",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Singularity.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Singularity para PlayStation 3 es un videojuego de disparos en primera persona (FPS) y ciencia ficción con tintes de terror psicológico lanzado en 2010, desarrollado por Raven Software y publicado por Activision. El juego destaca principalmente por su atmósfera opresiva y su mecánica central: la manipulación del tiempo como arma y herramienta para resolver acertijos.",
+    "imagenes": [
+      "images/ps3/Singularity.JPEG",
+      "images/ps3/Singularity-inside.JPEG",
+      "images/ps3/Singularity-back.JPEG"
+    ]
+  },
+  {
+    "id": 336,
+    "titulo": "Syndicate",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/Syndicate.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Syndicate para PlayStation 3 es un videojuego de disparos en primera persona (FPS) con una fuerte estética cyberpunk y de ciencia ficción futurista. Lanzado en 2012, fue desarrollado por Starbreeze Studios (creadores de The Darkness) y distribuido por Electronic Arts. El juego es un reinicio en primera persona de la clásica franquicia de estrategia táctica homónima de los años 90. Destaca por sus combates frenéticos y la capacidad de hackear los implantes neuronales de los enemigos en tiempo real.",
+    "imagenes": [
+      "images/ps3/Syndicate.JPEG",
+      "images/ps3/Syndicate-inside.JPEG",
+      "images/ps3/Syndicate-back.JPEG"
+    ]
+  },
+  {
+    "id": 337,
+    "titulo": "Mirror's Edge",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/MirrorsEdge.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Mirrors Edge para PlayStation 3 es un videojuego de acción y aventura en primera persona lanzado en 2008, desarrollado por EA DICE y publicado por Electronic Arts. El juego revolucionó el género al centrarse en el parkour y las acrobacias físicas, trasladando el movimiento fluido de los juegos de plataformas a una perspectiva directa en primera persona.",
+    "imagenes": [
+      "images/ps3/MirrorsEdge.JPEG",
+      "images/ps3/MirrorsEdge-inside.JPEG",
+      "images/ps3/MirrorsEdge-back.JPEG"
+    ]
+  },
+  {
+    "id": 337,
+    "titulo": "Mass Effect 2",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/MassEffect2.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Mass Effect 2 para PlayStation 3 es un videojuego de rol de acción (ARPG) y ciencia ficción lanzado para esta plataforma en 2011 (un año después de su debut en otras plataformas), desarrollado por BioWare y publicado por Electronic Arts. Es ampliamente considerado uno de los mejores videojuegos de la historia gracias a su perfecta fusión de combates de disparos en tercera persona con coberturas, una narrativa madura y un profundo desarrollo de personajes.",
+    "imagenes": [
+      "images/ps3/MassEffect2.JPEG",
+      "images/ps3/MassEffect2-inside.JPEG",
+      "images/ps3/MassEffect2-back.JPEG"
+    ]
+  },
+  {
+    "id": 338,
+    "titulo": "Call of Duty: Black Ops",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/CallDutyBlackOps.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Call of Duty Black Ops para PlayStation 3 es un videojuego de disparos en primera persona (FPS) de temática bélica y espionaje lanzado en 2010, desarrollado por Treyarch y publicado por Activision. Es la séptima entrega principal de la franquicia y supuso un hito histórico de ventas en la consola. El juego se desmarca de los anteriores títulos al adentrarse de lleno en la narrativa de la Guerra Fría y la guerra psicológica",
+    "imagenes": [
+      "images/ps3/CallDutyBlackOps.JPEG",
+      "images/ps3/CallDutyBlackOps-inside.JPEG",
+      "images/ps3/CallDutyBlackOps-back.JPEG"
+    ]
+  },
+
 
   
-
 
   
   {
