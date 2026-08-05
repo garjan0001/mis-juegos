@@ -2203,6 +2203,23 @@
       "images/ps3/CallDutyBlackOps-back.JPEG"
     ]
   },
+  {
+    "id": 339,
+    "titulo": "Enemy Front",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/EnemyFront.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con si manual y disco correcto",
+    "descripcion": "Enemy Front para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por CI Games y distribuido por Bandai Namco. Ambientado en la Segunda Guerra Mundial, el título destaca por ofrecer una perspectiva poco común al centrarse en las operaciones de las fuerzas de resistencia europeas en lugar de los ejércitos aliados tradicionales.",
+    "imagenes": [
+      "images/ps3/EnemyFront.JPEG",
+      "images/ps3/EnemyFront-inside.JPEG",
+      "images/ps3/EnemyFront-back.JPEG"
+    ]
+  },
 
 
   
