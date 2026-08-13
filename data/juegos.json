@@ -2039,7 +2039,7 @@
     "id": 330,
     "titulo": "Gran Turismo 6",
     "plataforma": "PlayStation 3",
-    "prestadoA": "Jose H Vane",
+    "prestadoA": "",
     "region": "PAL ESP",
     "portada": "images/ps3/GT6.JPG",
     "favorito": false,
@@ -2212,7 +2212,7 @@
     "region": "PAL ESP",
     "portada": "images/ps3/EnemyFront.JPEG",
     "favorito": false,
-    "estado": "Buen estado general, con si manual y disco correcto",
+    "estado": "Buen estado general, con su manual y disco correcto",
     "descripcion": "Enemy Front para PlayStation 3 es un videojuego de disparos en primera persona (FPS) desarrollado por CI Games y distribuido por Bandai Namco. Ambientado en la Segunda Guerra Mundial, el título destaca por ofrecer una perspectiva poco común al centrarse en las operaciones de las fuerzas de resistencia europeas en lugar de los ejércitos aliados tradicionales.",
     "imagenes": [
       "images/ps3/EnemyFront.JPEG",
@@ -2220,9 +2220,62 @@
       "images/ps3/EnemyFront-back.JPEG"
     ]
   },
+  {
+    "id": 340,
+    "titulo": "La Tierra Media: Sombras de Mordor",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/SombrasMordOr.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con su manual y disco correcto",
+    "descripcion": "La Tierra Media: Sombras de Mordor para PlayStation 3 es la precuela de Sombras de Guerra y narra los orígenes de la venganza del montaraz Talion y el espectro Celebrimbor. Sin embargo, la versión de PS3 es ampliamente conocida en la comunidad de videojuegos por ser un port con severas limitaciones técnicas debido a que el hardware de la consola de anterior generación no lograba procesar el juego de manera óptima.",
+    "imagenes": [
+      "images/ps3/SombrasMordOr.JPEG",
+      "images/ps3/SombrasMordOr-inside.JPEG",
+      "images/ps3/SombrasMordOr-back.JPEG"
+    ]
+  },
+  {
+    "id": 341,
+    "titulo": "Dead Space",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps3/DeadSpace.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con su manual y disco correcto",
+    "descripcion": "Dead Space para PlayStation 3 es un aclamado videojuego de terror de supervivencia (survival horror) y disparos en tercera persona ambientado en el espacio profundo. Lanzado originalmente en 2008, desarrollado por Visceral Games y distribuido por Electronic Arts, el título pone al jugador en los zapatos de Isaac Clarke, un ingeniero de sistemas enviado a reparar la masiva nave minera USG Ishimura. Al llegar, descubre que la tripulación ha sido brutalmente masacrada por unas criaturas mutantes e implacables llamadas Necromorfos, desatadas tras el desentierro de un misterioso artefacto alienígena conocido como la Efigie.",
+    "imagenes": [
+      "images/ps3/DeadSpace.JPEG",
+      "images/ps3/DeadSpace-inside.JPEG",
+      "images/ps3/DeadSpace-back.JPEG"
+    ]
+  },
+  {
+    "id": 342,
+    "titulo": "Hunted: The Demon's Forge",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/hunted.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con su manual y disco correcto",
+    "descripcion": "Hunted: The Demon's Forge para PlayStation 3 es un videojuego de acción y aventura en tercera persona enfocado en el combate cooperativo. Desarrollado por inXile Entertainment y distribuido por Bethesda Softworks en 2011, el juego destaca por fusionar elementos de la fantasía medieval oscura con mecánicas de disparos tácticos y hack and slash. La trama sigue a dos mercenarios, Caddoc y E'lara, quienes aceptan una misión para descubrir el paradero de civiles secuestrados, lo que los lleva a desentrañar los siniestros secretos de la Forja del Demonio en el caótico mundo de Kala Moor.",
+    "imagenes": [
+      "images/ps3/hunted.JPEG",
+      "images/ps3/hunted-inside.JPEG",
+      "images/ps3/hunted-back.JPEG"
+    ]
+  },
+
 
 
   
+
 
   
   {
@@ -3047,6 +3100,23 @@
     "imagenes": [
       "images/ps4/RE_Revelations2.JPEG",
       "images/ps4/RE_Revelations2-back.JPEG"
+    ]
+  }, 
+  {
+    "id": 454,
+    "titulo": "La Tierra Media: Sombras de Guerra",
+    "plataforma": "PlayStation 4",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps4/SombrasGuerra.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, incluye su manual y disco en buen estado",
+    "descripcion": "La Tierra Media: Sombras de Guerra para PS4 es un videojuego de rol de acción en tercera persona y mundo abierto ambientado en el universo de El Señor de los Anillos de J.R.R. Tolkien. Desarrollado por Monolith Productions y distribuido por Warner Bros, es la secuela directa del aclamado Sombras de Mordor. En esta entrega, la historia continúa con el montaraz Talion y el espectro elfo Celebrimbor, quienes forjan un nuevo Anillo de Poder para infiltrarse tras las líneas enemigas, reclutar un ejército de orcos y volver a todo Mordor en contra del Señor Oscuro, Sauron. Sistema Némesis Evolucionado: Esta mecánica genera enemigos y seguidores únicos de forma procedural. Los capitanes orcos recuerdan cada enfrentamiento previo, desarrollando rencores, cicatrices y personalidades dinámicas según tus decisiones en batalla",
+    "imagenes": [
+      "images/ps4/SombrasGuerra.JPEG",
+      "images/ps4/SombrasGuerra-inside.JPEG",      
+      "images/ps4/SombrasGuerra-back.JPEG"
     ]
   }, 
 
