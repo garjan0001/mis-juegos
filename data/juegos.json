@@ -3572,7 +3572,6 @@
       "images/ps5/Skull_and_Bones-back.jpg"
     ]
   },
-
   {
     "id": 529,
     "titulo": "The Lord Of The Rings Gollum",
@@ -3589,6 +3588,23 @@
       "images/ps5/The_Lord_Of_The_Rings_Gollum-back.jpg"
     ]
   },
+  {
+    "id": 530,
+    "titulo": "PRAGMATA",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps5/PRAGMATA.JPEG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "Pragmata es una aventura de acción, estrategia y ciencia ficción narrativa en tercera persona desarrollada por Capcom. Tras una larga espera, el juego se lanzó oficialmente el 17 de abril de 2026 para la PlayStation 5 (así como para PC, Xbox Series X/S y Nintendo Switch 2). Argumento y Ambientación: El juego está ambientado en un futuro cercano dentro de una gélida y solitaria estación de investigación lunar. En esta instalación, la humanidad investigaba un nuevo mineral llamado Fibraluna, el cual permitía replicar cualquier objeto mediante impresión 3D.Tras un repentino accidente y un terremoto lunar que deja la base incomunicada, los robots e inteligencias artificiales de la estación (controladas por una IA hostil llamada IDUS) se vuelven corruptas y letales. El jugador toma el control de Hugh Williams, un astronauta superviviente, quien junto a Diana, una misteriosa niña androide de tecnología avanzada (una pragmata), deberán cooperar para defenderse y encontrar la forma de regresar con vida a la Tierra",
+    "imagenes": [
+      "images/ps5/PRAGMATA.JPEG",
+      "images/ps5/PRAGMATA-back.JPEG"
+    ]
+  },
+
 
 
   
