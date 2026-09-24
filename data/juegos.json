@@ -3604,8 +3604,22 @@
       "images/ps5/PRAGMATA-back.JPEG"
     ]
   },
-
-
+  {
+    "id": 531,
+    "titulo": "TAPE: Unveil the Memories",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps5/TAPE.JPEG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "TAPE: Unveil the Memories es un videojuego español de terror psicológico y misterio en primera persona ambientado en la Galicia de los años 90. Desarrollado por el estudio madrileño BlackChiliGoat Studio a través de la iniciativa PlayStation Talents, el juego se encuentra disponible para PlayStation 5 tanto en formato digital como en ediciones físicas. Argumento Principal En el juego encarnas a Iria, una joven que recibe una misteriosa cinta de vídeo VHS de su padre desaparecido, un famoso director de cine de terror de serie B. A partir de este mensaje, Iria se adentra en los recuerdos de su pasado en el pueblo ficticio de Antumbria para descubrir los oscuros secretos de su familia.",
+    "imagenes": [
+      "images/ps5/TAPE.JPEG",
+      "images/ps5/TAPE-back.JPEG"
+    ]
+  },
 
   
   {
