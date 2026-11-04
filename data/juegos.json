@@ -3620,7 +3620,22 @@
       "images/ps5/TAPE-back.JPEG"
     ]
   },
-
+  {
+    "id": 532,
+    "titulo": "Stellar Blade",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps5/Stellar_Blade.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con su manual y disco correcto",
+    "descripcion": "Stellar Blade es un videojuego de acción y aventura del tipo hack and slash con elementos de RPG, desarrollado por el estudio coreano Shift Up y publicado en exclusiva para la consola PlayStation 5 el 26 de abril de 2024. La propuesta destaca por su espectacular apartado técnico, combates fluidos a alta velocidad y una marcada ambientación de ciencia ficción postapocalíptica.",
+    "imagenes": [
+      "images/ps5/Stellar_Blade.JPEG",
+      "images/ps5/Stellar_Blade-back.JPEG"
+    ]
+  },
   
   {
     "id": 524,
