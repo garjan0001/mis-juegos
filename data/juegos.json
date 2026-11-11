@@ -1479,7 +1479,279 @@
       "images/ps2/SingStarRocks-back.JPEG"
     ]
   },
-
+    {
+    "id": 167,
+    "titulo": "BUZZ",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/BUZZ.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Buzz! es una popular franquicia de videojuegos de tipo concurso (trivia) y fiesta (party game) desarrollada originalmente para PlayStation 2 a partir de 2005. Su objetivo es recrear la experiencia de un programa de televisión en el salón de casa para jugar en grupo.",
+    "imagenes": [
+      "images/ps2/BUZZ.JPEG",
+      "images/ps2/BUZZ-inside.JPEG",
+      "images/ps2/BUZZ-back.JPEG"
+    ]
+  },
+    {
+    "id": 168,
+    "titulo": "FIFA 08",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps2/FIFA08.JPEG",
+    "favorito": false,
+    "estado": "PRECITANDO",
+    "descripcion": "FIFA 08 es un videojuego de simulación de fútbol desarrollado por EA Canada y publicado por EA Sports en septiembre de 2007 para la temporada 2007-2008. Supuso un punto de inflexión en la franquicia al estrenar la saga en PlayStation 3 y Nintendo Wii, además de lanzarse en PS2, Xbox 360, PC, PSP y Nintendo DS.",
+    "imagenes": [
+      "images/ps2/FIFA08.JPEG",
+      "images/ps2/FIFA08-back.JPEG"
+    ]
+  },
+    {
+    "id": 169,
+    "titulo": "FIFA 13",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/BUZZ.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "FIFA 13 en PlayStation 2 es una edición Legacy (legado) lanzada por EA Sports en septiembre de 2012 para la temporada 2012-2013. Aunque comparte portada y actualización de plantillas con las versiones mayores, mantiene intacto el motor gráfico y jugable de la generación clásica de PS2.",
+    "imagenes": [
+      "images/ps2/FIFA13.JPEG",
+      "images/ps2/FIFA13-inside.JPEG",
+      "images/ps2/FIFA13-back.JPEG"
+    ]
+  },
+    {
+    "id": 170,
+    "titulo": "God of War II",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/GOW2.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "God of War II es un videojuego de acción, aventura y hack and slash desarrollado por Santa Monica Studio y publicado por Sony Computer Entertainment en 2007 para PlayStation 2. Es la secuela directa del título de 2005 y está considerado uno de los juegos que llevó al límite el potencial técnico de la consola.",
+    "imagenes": [
+      "images/ps2/GOW2.JPEG",
+      "images/ps2/GOW2-inside.JPEG",
+      "images/ps2/GOW2-back.JPEG"
+    ]
+  },
+    {
+    "id": 171,
+    "titulo": "Medal of Honor Rising Sun",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/MOHrising.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Medal of Honor: Rising Sun es un videojuego de disparos en primera persona (FPS) bélico desarrollado por EA Los Angeles y publicado por Electronic Arts en noviembre de 2003 para PlayStation 2 (además de Xbox y GameCube). Es la quinta entrega de la franquicia y la primera en trasladar la acción de la Segunda Guerra Mundial al Frente del Pacífico.",
+    "imagenes": [
+      "images/ps2/MOHrising.JPEG",
+      "images/ps2/MOHrising-inside.JPEG",
+      "images/ps2/MOHrising-back.JPEG"
+    ]
+  },
+    {
+    "id": 172,
+    "titulo": "Pro Evolution Soccer 2014",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES_2014.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 2014 (PES 2014) es un videojuego de simulación de fútbol desarrollado y publicado por Konami en septiembre de 2013 para la temporada 2013-2014. Representó una entrega histórica por dos motivos: estrenó el motor gráfico Fox Engine en consolas de sobremesa y PC, y fue el último videojuego oficial lanzado para PlayStation 2 en Europa y en todo el mundo.",
+    "imagenes": [
+      "images/ps2/PES_2014.JPEG",
+      "images/ps2/PES_2014-inside.JPEG",
+      "images/ps2/PES_2014-back.JPEG"
+    ]
+  },
+    {
+    "id": 173,
+    "titulo": "Pro Evolution Soccer 5",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES5.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 5 (PES 5) conocido como World Soccer: Winning Eleven 9 en Japón y Norteamérica— es un videojuego de simulación de fútbol desarrollado y publicado por Konami en octubre de 2005 para PlayStation 2, PC, Xbox y, por primera vez en la franquicia, para PSP. Está considerado por muchos veteranos como la entrega más pura, realista y exigente de la época dorada de la saga en PS2.",
+    "imagenes": [
+      "images/ps2/PES5.JPEG",
+      "images/ps2/PES5-inside.JPEG",
+      "images/ps2/PES5-back.JPEG"
+    ]
+  },
+    {
+    "id": 174,
+    "titulo": "Pro Evolution Soccer 6",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES6.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 6 (PES 6) lanzado en Japón como Winning Eleven 10 es un videojuego de simulación de fútbol desarrollado y publicado por Konami en octubre de 2006 para PlayStation 2, PC, Xbox 360, PSP y Nintendo DS. Es considerado de forma casi unánime como el punto culminante de la franquicia y el mejor juego de fútbol de la generación de PS2.",
+    "imagenes": [
+      "images/ps2/PES6.JPEG",
+      "images/ps2/PES6-inside.JPEG",
+      "images/ps2/PES6-back.JPEG"
+    ]
+  },
+    {
+    "id": 175,
+    "titulo": "Pro Evolution Soccer 2009",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES2009.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 2009 (PES 2009) es un videojuego de simulación de fútbol desarrollado y publicado por Konami en octubre de 2008 para PlayStation 2, PlayStation 3, Xbox 360, PC, PSP y Wii. Fue una entrega clave en la transición de la saga al estrenar dos grandes pilares de la franquicia: la licencia oficial de la UEFA Champions League y el modo Ser una Leyenda (Become a Legend).",
+    "imagenes": [
+      "images/ps2/PES2009.JPEG",
+      "images/ps2/PES2009-inside.JPEG",
+      "images/ps2/PES2009-back.JPEG"
+    ]
+  },
+    {
+    "id": 176,
+    "titulo": "Pro Evolution Soccer 2010",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES2010.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 2010 (PES 2010) es un videojuego de simulación de fútbol desarrollado y publicado por Konami en octubre de 2009 para PlayStation 2, PlayStation 3, Xbox 360, PC, PSP y Wii. Supuso un paso adelante respecto a su predecesor al sumar la UEFA Europa League a la Champions League, renovar su apartado gráfico en nueva generación e introducir un sistema táctico mediante cartas de habilidad.",
+    "imagenes": [
+      "images/ps2/PES2010.JPEG",
+      "images/ps2/PES2010-inside.JPEG",
+      "images/ps2/PES2010-back.JPEG"
+    ]
+  },
+    {
+    "id": 177,
+    "titulo": "Pro Evolution Soccer 2011",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/PES2011.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Pro Evolution Soccer 2011 (PES 2011) en PlayStation 2 es un videojuego de simulación de fútbol desarrollado y publicado por Konami en octubre de 2010 para la temporada 2010-2011. Aunque conserva el motor gráfico y jugable clásico de la consola, destaca por estrenar la licencia oficial de la Copa Santander Libertadores, convirtiéndose en una de las entregas favoritas de los fans de PS2.",
+    "imagenes": [
+      "images/ps2/PES2011.JPEG",
+      "images/ps2/PES2011-inside.JPEG",
+      "images/ps2/PES2011-back.JPEG"
+    ]
+  },
+    {
+    "id": 178,
+    "titulo": "Red Dead Revolver",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/RedDeadRevolver.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Red Dead Revolver es un videojuego de acción y disparos en tercera persona (shooter) ambientado en el Salvaje Oeste, desarrollado por Rockstar San Diego y publicado por Rockstar Games en 2004 para PlayStation 2 y Xbox. Es el título que dio origen a la exitosa franquicia Red Dead antes del lanzamiento de Red Dead Redemption.",
+    "imagenes": [
+      "images/ps2/RedDeadRevolver.JPEG",
+      "images/ps2/RedDeadRevolver-inside.JPEG",
+      "images/ps2/RedDeadRevolver-back.JPEG"
+    ]
+  },
+    {
+    "id": 179,
+    "titulo": "Roland Garros 2005",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/Roland_garros_2005.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Roland Garros 2005: Powered by Smash Court Tennis es un videojuego de simulación de tenis desarrollado por Namco y publicado exclusivamente en Europa en mayo de 2005 para PlayStation 2. Se trata de una edición especial basada en el aclamado Smash Court Tennis Pro Tournament 2, pero centrada en la licencia oficial del Grand Slam parisino.",
+    "imagenes": [
+      "images/ps2/Roland_garros_2005.JPEG",
+      "images/ps2/Roland_garros_2005-inside.JPEG",
+      "images/ps2/Roland_garros_2005-back.JPEG"
+    ]
+  },
+    {
+    "id": 180,
+    "titulo": "Smash Court Tennis Pro Tournament 2",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/SMART_TENNIS.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "Smash Court Tennis (conocida originalmente en Japón como Family Tennis en NES y Smash Court en recreativas y PlayStation) es una veterana franquicia de videojuegos de tenis desarrollada y publicada por Namco (actual Bandai Namco). Aunque nació en los años 90 con un enfoque arcade y colorido, alcanzó su mayor popularidad en PlayStation 2 al evolucionar hacia una simulación técnica y realista.",
+    "imagenes": [
+      "images/ps2/SMART_TENNIS.JPEG",
+      "images/ps2/SMART_TENNIS-inside.JPEG",
+      "images/ps2/SMART_TENNIS-back.JPEG"
+    ]
+  },
+    {
+    "id": 181,
+    "titulo": "Return to Castle Wolfenstein: Operation Resurrection",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/wolfestein.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "En PlayStation 2, la franquicia estuvo representada por Return to Castle Wolfenstein: Operation Resurrection, un videojuego de disparos en primera persona (FPS) desarrollado por Raster Productions (sobre la base original de Gray Matter e id Software) y publicado por Activision en junio de 2003. Es la adaptación para consola del aclamado reinicio de la saga lanzado en PC en 2001, añadiendo niveles exclusivos y ajustes pensados para el mando de PS2.",
+    "imagenes": [
+      "images/ps2/wolfestein.JPEG",
+      "images/ps2/wolfestein-inside.JPEG",
+      "images/ps2/wolfestein-back.JPEG"
+    ]
+  },
+    {
+    "id": 182,
+    "titulo": "WWII: Soldier",
+    "plataforma": "PlayStation 2",
+    "prestadoA": "", 
+      "estado_filtro": "Completado",
+    "region": "PAL ESP",
+    "portada": "images/ps2/WWIIsolider.JPEG",
+    "favorito": false,
+    "estado": "Buen estado, completo con su manual",
+    "descripcion": "WWII: Soldier es un videojuego de disparos en primera persona (FPS) y sigilo desarrollado por Atomic Planet Entertainment y publicado por Midas Interactive Entertainment en noviembre de 2005 exclusivamente para PlayStation 2 (relanzado posteriormente en formato digital para PS3 en 2012). Se trata de un título de presupuesto reducido (budget game) ambientado en una misión de rescate tras las líneas enemigas durante la Segunda Guerra Mundial.",
+    "imagenes": [
+      "images/ps2/WWIIsolider.JPEG",
+      "images/ps2/WWIIsolider-inside.JPEG",
+      "images/ps2/WWIIsolider-back.JPEG"
+    ]
+  },
+  
+  
 
   
   
