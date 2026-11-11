@@ -282,6 +282,15 @@ function renderizarJuegos() {
                 <div class="game-plataforma">🖥️ ${escapeHtml(juego.plataforma || 'Sin especificar')}</div>
                 <div class="game-region">🌍 ${escapeHtml(juego.region || 'Sin región')}</div>
                 ${estadoMostrar ? `<div class="game-estado">${estadoMostrar}</div>` : ''}
+                
+                <!-- NUEVO: Enlace para buscar ventas finalizadas en eBay España -->
+                <a href="https://www.ebay.es/sch/i.html?_nkw=${encodeURIComponent(juego.titulo + ' ' + (juego.plataforma || ''))}&LH_Sold=1&LH_Complete=1" 
+                   target="_blank" 
+                   rel="noopener noreferrer" 
+                   class="btn-precio"
+                   onclick="event.stopPropagation();">
+                   🏷️ Ver precio en eBay
+                </a>
             </div>
         `;
     });
