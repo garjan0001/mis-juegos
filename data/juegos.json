@@ -2543,7 +2543,23 @@
       "images/ps3/hunted-back.JPEG"
     ]
   },
-
+  {
+    "id": 343,
+    "titulo": "GTA 5",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/gta5.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con su manual y disco correcto",
+    "descripcion": "Grand Theft Auto V (GTA V) es un videojuego de acción y aventura en mundo abierto desarrollado por Rockstar North y lanzado originalmente para PS3 en septiembre de 2013. Historia y ambientación: La acción transcurre en la ficticia ciudad de Los Santos y sus alrededores en el condado de Blaine (inspirados en Los Ángeles y el sur de California). Por primera vez en la saga, la trama gira en torno a tres protagonistas jugables cuyas vidas se entrelazan mientras planean y ejecutan una serie de arriesgados atracos",
+    "imagenes": [
+      "images/ps3/gta5.JPEG",
+      "images/ps3/gta5-inside.JPEG",
+      "images/ps3/gta5-back.JPEG"
+    ]
+  },
 
 
   
