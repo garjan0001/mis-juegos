@@ -3908,6 +3908,26 @@
       "images/ps5/Stellar_Blade-back.JPEG"
     ]
   },
+  {
+    "id": 533,
+    "titulo": "Castlevania Belmonts Curse Midnight Edition",
+    "plataforma": "PlayStation 5",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps5/castlevania.JPEG",
+    "favorito": false,
+    "estado": "JUEGO PRECINTADO",
+    "descripcion": "videojuego de acción y exploración en 2D (Metroidvania) desarrollado por Evil Empire y Motion Twin, y publicado por KONAMI para PS5 el 15 de octubre de 2026.
+
+Historia y ambientación
+
+La trama transcurre en París en el año 1499, exactamente 23 años después de los eventos de Castlevania III: Dracula Curse. Cuando la ciudad es atacada por criaturas infernales, Trevor Belmont y su hija Rose Belmont acuden a combatirlas. Tras separarse de su padre, Rose toma el protagonismo armada con el legendario látigo sagrado Vampire Killer mientras intenta controlar una maldición de Drácula en su brazo y desentraña una oscura conspiración.",
+    "imagenes": [
+      "images/ps5/castlevania.JPEG",
+      "images/ps5/castlevania-back.JPEG"
+    ]
+  },
   
   {
     "id": 524,
