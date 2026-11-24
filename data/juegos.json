@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "Gran Turismo",
     "plataforma": "PlayStation",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps1/Gran-Turismo.jpg",
@@ -14,8 +14,9 @@
       "images/ps1/Gran-Turismo.jpg",
       "images/ps1/Gran-Turismo-inside.jpeg",
       "images/ps1/Gran-Turismo-back.jpeg",
-      "images/ps1/Gran-Turismo-side.jpeg"      
-    ]
+      "images/ps1/Gran-Turismo-side.jpeg"
+    ],
+    "precio": 10.62
   },
   {
     "id": 2,
@@ -33,7 +34,8 @@
       "images/ps1/NHL_2000-inside-.jpeg",
       "images/ps1/NHL_2000-back-.jpeg",
       "images/ps1/NHL_2000-side-.jpeg"
-    ]
+    ],
+    "precio": 3.89
   },
   {
     "id": 3,
@@ -50,7 +52,8 @@
       "images/ps1/Parasite_Eve_2.jpg",
       "images/ps1/Parasite_Eve_2-back-.jpeg",
       "images/ps1/Parasite_Eve_2-inside-.jpeg"
-    ]
+    ],
+    "precio": 61.81
   },
   {
     "id": 4,
@@ -68,7 +71,8 @@
       "images/ps1/Time_Crisis-inside-.jpeg",
       "images/ps1/Time_Crisis-back-.jpeg",
       "images/ps1/Time_Crisis-side-.jpeg"
-    ]
+    ],
+    "precio": 8.27
   },
   {
     "id": 5,
@@ -86,7 +90,8 @@
       "images/ps1/Hescules_Disney-inside-.jpeg",
       "images/ps1/Hescules_Disney-ack-.jpeg",
       "images/ps1/Hescules_Disney-side.jpeg"
-    ]
+    ],
+    "precio": 26.94
   },
   {
     "id": 6,
@@ -104,7 +109,8 @@
       "images/ps1/Time_Crisis_Project_Titan-inside-.jpeg",
       "images/ps1/Time_Crisis_Project_Titan-back-.jpeg",
       "images/ps1/Time_Crisis_Project_Titan-side-.jpeg"
-    ]
+    ],
+    "precio": 13.12
   },
   {
     "id": 7,
@@ -121,7 +127,8 @@
       "images/ps1/Spyro_2.jpg",
       "images/ps1/Spyro_2-inside-.jpeg",
       "images/ps1/Spyro_2-back-.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 8,
@@ -138,7 +145,8 @@
       "images/ps1/Point_Bank.jpg",
       "images/ps1/Point_Bank-inside-.jpeg",
       "images/ps1/Point_Bank-back.jpeg"
-    ]
+    ],
+    "precio": 26.7
   },
   {
     "id": 9,
@@ -156,7 +164,8 @@
       "images/ps1/Xmen_2-inside-.jpeg",
       "images/ps1/Xmen_2-back-.jpeg",
       "images/ps1/Xmen_2-side-.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 10,
@@ -172,7 +181,8 @@
     "imagenes": [
       "images/ps1/FF_VI.jpeg",
       "images/ps1/FF_VI-inside.jpeg"
-    ]
+    ],
+    "precio": 25.63
   },
   {
     "id": 11,
@@ -190,7 +200,8 @@
       "images/ps1/Soulblade-inside-.jpeg",
       "images/ps1/Soulblade-back-.jpeg",
       "images/ps1/Soulblade-side-.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 12,
@@ -209,7 +220,8 @@
       "images/ps1/FFVII-inside2.jpeg",
       "images/ps1/FFVII-back.jpeg",
       "images/ps1/FFVII-side.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 13,
@@ -226,7 +238,8 @@
       "images/ps1/AIR_COMBAT.jpeg",
       "images/ps1/AIR_COMBAT-inside.jpeg",
       "images/ps1/AIR_COMBAT-back.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 14,
@@ -244,7 +257,8 @@
       "images/ps1/TEKKEN3-inside.jpeg",
       "images/ps1/TEKKEN3-back.jpeg",
       "images/ps1/TEKKEN3-side.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 15,
@@ -263,7 +277,8 @@
       "images/ps1/FFIX-inside2.jpeg",
       "images/ps1/FFIX-back.jpeg",
       "images/ps1/FFIX-side.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 16,
@@ -280,7 +295,8 @@
       "images/ps1/FF_Anthology.jpeg",
       "images/ps1/FF_Anthology-inside.jpeg",
       "images/ps1/FF_Anthology-back.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 17,
@@ -297,7 +313,8 @@
       "images/ps1/FF_Origins.jpeg",
       "images/ps1/FF_Origins-inside.jpeg",
       "images/ps1/FF_Origins-back.jpeg"
-    ]
+    ],
+    "precio": 43.35
   },
   {
     "id": 18,
@@ -313,7 +330,8 @@
     "imagenes": [
       "images/ps1/Everybodys_golf2.jpeg",
       "images/ps1/Everybodys_golf2-inside.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 19,
@@ -331,7 +349,8 @@
       "images/ps1/tombraider3-inside.jpeg",
       "images/ps1/tombraider3-back.jpeg",
       "images/ps1/tombraider3-side.jpeg"
-    ]
+    ],
+    "precio": 8.34
   },
   {
     "id": 20,
@@ -349,7 +368,8 @@
       "images/ps1/tombraider2-inside.jpeg",
       "images/ps1/tombraider2-back.jpeg",
       "images/ps1/tombraider2-side.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 21,
@@ -367,13 +387,9 @@
       "images/ps1/tombraider-inside.jpeg",
       "images/ps1/tombraider-back.jpeg",
       "images/ps1/tombraider-side.jpeg"
-    ]
+    ],
+    "precio": 10.64
   },
-
-
-
-  
-  
   {
     "id": 101,
     "titulo": "187 Ride or Die",
@@ -389,7 +405,8 @@
       "images/ps2/187_ride_or_die.jpg",
       "images/ps2/187_ride_or_die-inside.JPEG",
       "images/ps2/187_ride_or_die-back.JPEG"
-    ]
+    ],
+    "precio": 7.73
   },
   {
     "id": 102,
@@ -406,7 +423,8 @@
       "images/ps2/18_ Eigteen_wheeler.jpg",
       "images/ps2/Eigteen_wheeler-inside.jpeg",
       "images/ps2/Eigteen_wheeler-back.jpeg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 103,
@@ -422,7 +440,8 @@
     "imagenes": [
       "images/ps2/CAll_of_Duty_World_at_War.jpg",
       "images/ps2/CAll_of_Duty_World_at_War-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 104,
@@ -439,13 +458,14 @@
       "images/ps2/Crash_Bandicoot_wrath_cortex.jpg",
       "images/ps2/Crash_Bandicoot_wrath_cortex-inside.JPEG",
       "images/ps2/Crash_Bandicoot_wrath_cortex-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 105,
     "titulo": "Crash Guerra al Coco Maniaco",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Crash_guerra_coco_maniaco.jpg",
@@ -456,9 +476,9 @@
       "images/ps2/Crash_guerra_coco_maniaco.jpg",
       "images/ps2/Crash_guerra_coco_maniaco-inside.JPEG",
       "images/ps2/Crash_guerra_coco_maniaco-back.JPEG"
-    ]
+    ],
+    "precio": 22.9
   },
-
   {
     "id": 106,
     "titulo": "Crazy Taxi",
@@ -474,7 +494,8 @@
       "images/ps2/Crazy_taxi.jpg",
       "images/ps2/Crazy_taxi-inside.JPEG",
       "images/ps2/Crazy_taxi-back.JPEG"
-    ]
+    ],
+    "precio": 9.16
   },
   {
     "id": 107,
@@ -491,7 +512,8 @@
       "images/ps2/DOA2.jpg",
       "images/ps2/DOA2-back.JPEG",
       "images/ps2/DOA2-back.JPEG"
-    ]
+    ],
+    "precio": 13.54
   },
   {
     "id": 108,
@@ -508,7 +530,8 @@
       "images/ps2/Devil_May_cry.jpg",
       "images/ps2/Devil_May_cry-inside.JPEG",
       "images/ps2/Devil_May_cry-back.JPEG"
-    ]
+    ],
+    "precio": 14.94
   },
   {
     "id": 109,
@@ -525,7 +548,8 @@
       "images/ps2/Dogs_life.jpg",
       "images/ps2/Dogs_life-INSIDE.JPEG",
       "images/ps2/Dogs_life-BACK.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 110,
@@ -542,7 +566,8 @@
       "images/ps2/Evil_Twin.JPEG",
       "images/ps2/Evil_Twin-inside.JPEG",
       "images/ps2/Evil_Twin-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 111,
@@ -559,7 +584,8 @@
       "images/ps2/extermination.JPEG",
       "images/ps2/extermination-inside.JPEG",
       "images/ps2/extermination-bacck.JPEG"
-    ]
+    ],
+    "precio": 9.26
   },
   {
     "id": 112,
@@ -576,7 +602,8 @@
       "images/ps2/Eye_toy_Play.jpg",
       "images/ps2/Eye_toy_Play-side.JPEG",
       "images/ps2/Eye_toy_Play-back.JPEG"
-    ]
+    ],
+    "precio": 3.05
   },
   {
     "id": 113,
@@ -593,7 +620,8 @@
       "images/ps2/fifa11.JPEG",
       "images/ps2/fifa11-inside.JPEG",
       "images/ps2/fifa11-back.JPEG"
-    ]
+    ],
+    "precio": 7.99
   },
   {
     "id": 114,
@@ -610,7 +638,8 @@
       "images/ps2/Final_Fantasy_X.jpg",
       "images/ps2/FFX-inside.JPEG",
       "images/ps2/FFX-back.JPEG"
-    ]
+    ],
+    "precio": 8.65
   },
   {
     "id": 115,
@@ -627,7 +656,8 @@
       "images/ps2/FFX2.JPEG",
       "images/ps2/FFX2-inside.JPEG",
       "images/ps2/FFX2-back.JPEG"
-    ]
+    ],
+    "precio": 4.5
   },
   {
     "id": 116,
@@ -644,7 +674,8 @@
       "images/ps2/FFXII.JPEG",
       "images/ps2/FFXII-inside.JPEG",
       "images/ps2/FFXII-back.JPEG"
-    ]
+    ],
+    "precio": 5.11
   },
   {
     "id": 117,
@@ -661,7 +692,8 @@
       "images/ps2/gru.JPEG",
       "images/ps2/gru-inside.JPEG",
       "images/ps2/gru-back.JPEG"
-    ]
+    ],
+    "precio": 48.12
   },
   {
     "id": 118,
@@ -678,7 +710,8 @@
       "images/ps2/GT3.JPEG",
       "images/ps2/GT3-inside.JPEG",
       "images/ps2/GT3-back.JPEG"
-    ]
+    ],
+    "precio": 5.85
   },
   {
     "id": 119,
@@ -695,7 +728,8 @@
       "images/ps2/GT4.JPEG",
       "images/ps2/GT4-inside.JPEG",
       "images/ps2/GT4-back.JPEG"
-    ]
+    ],
+    "precio": 7.36
   },
   {
     "id": 120,
@@ -712,7 +746,8 @@
       "images/ps2/GTA.JPEG",
       "images/ps2/GTA-inside.JPEG",
       "images/ps2/GTA-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 121,
@@ -729,13 +764,14 @@
       "images/ps2/kh.JPEG",
       "images/ps2/kh-inside.JPEG",
       "images/ps2/kh-back.JPEG"
-    ]
+    ],
+    "precio": 15.99
   },
   {
     "id": 122,
     "titulo": "LEGO STAR WARS",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/LEGO_STAR_WARS.jpg",
@@ -746,7 +782,8 @@
       "images/ps2/lego-starwar.JPEG",
       "images/ps2/lego-starwar-inside.JPEG",
       "images/ps2/lego-starwar-back.JPEG"
-    ]
+    ],
+    "precio": 6.51
   },
   {
     "id": 123,
@@ -763,7 +800,8 @@
       "images/ps2/leyenda_spyro.JPEG",
       "images/ps2/leyenda_spyro-inside.JPEG",
       "images/ps2/leyenda_spyro-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 124,
@@ -780,13 +818,14 @@
       "images/ps2/lego-indi.JPEG",
       "images/ps2/logo-indi-inside.JPEG",
       "images/ps2/lego-indi-back.JPEG"
-    ]
+    ],
+    "precio": 5.91
   },
   {
     "id": 125,
     "titulo": "Lego Star Wars 2",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/Lego_Star_Wars2.jpg",
@@ -797,7 +836,8 @@
       "images/ps2/lego-starwar2.JPEG",
       "images/ps2/lego-starwar2-inside.JPEG",
       "images/ps2/lego-starwar2-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 126,
@@ -814,7 +854,8 @@
       "images/ps2/locos_surf.JPEG",
       "images/ps2/locos_surf-inside.JPEG",
       "images/ps2/locos_surf-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 127,
@@ -831,7 +872,8 @@
       "images/ps2/motogp.JPEG",
       "images/ps2/motogp-inside.JPEG",
       "images/ps2/motogp-back.JPEG"
-    ]
+    ],
+    "precio": 4.76
   },
   {
     "id": 128,
@@ -848,7 +890,8 @@
       "images/ps2/MRGolf.JPEG",
       "images/ps2/MRGolf-inside.JPEG",
       "images/ps2/MRGolf-back.JPEG"
-    ]
+    ],
+    "precio": 3.8
   },
   {
     "id": 129,
@@ -865,7 +908,8 @@
       "images/ps2/Disney_Monstruos_SA.JPEG",
       "images/ps2/Disney_Monstruos_SA-inside.JPEG",
       "images/ps2/Disney_Monstruos_SA-back.JPEG"
-    ]
+    ],
+    "precio": 11.62
   },
   {
     "id": 130,
@@ -882,7 +926,8 @@
       "images/ps2/onimusha.JPEG",
       "images/ps2/onimusha-inside.JPEG",
       "images/ps2/onimusha-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 131,
@@ -899,14 +944,15 @@
       "images/ps2/PES2008.JPEG",
       "images/ps2/PES2008-inside.JPEG",
       "images/ps2/PES2008-back.JPEG"
-    ]
+    ],
+    "precio": 3.16
   },
-    {
+  {
     "id": 132,
     "titulo": "Pro Rally 2002",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
-      "estado_filtro": "Completado",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Pro_rally_2002.jpg",
     "favorito": false,
@@ -916,7 +962,8 @@
       "images/ps2/prorally.JPEG",
       "images/ps2/prorally-inside.JPEG",
       "images/ps2/prorally-back.JPEG"
-    ]
+    ],
+    "precio": 6.44
   },
   {
     "id": 133,
@@ -933,7 +980,8 @@
       "images/ps2/motogp4.JPEG",
       "images/ps2/motogp4-inside.JPEG",
       "images/ps2/motogp4-back.JPEG"
-    ]
+    ],
+    "precio": 5.0
   },
   {
     "id": 134,
@@ -950,7 +998,8 @@
       "images/ps2/rayman_rabbids.JPEG",
       "images/ps2/rayman_rabbids-inside.JPEG",
       "images/ps2/rayman_rabbids-back.JPEG"
-    ]
+    ],
+    "precio": 6.12
   },
   {
     "id": 135,
@@ -967,7 +1016,8 @@
       "images/ps2/Disney_Ratatouille.JPEG",
       "images/ps2/Disney_Ratatouille-inside.JPEG",
       "images/ps2/Disney_Ratatouille-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 137,
@@ -984,7 +1034,8 @@
       "images/ps2/RC_tamaño.JPEG",
       "images/ps2/RC_tamaño-inside.JPEG",
       "images/ps2/RC_tamaño-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 138,
@@ -1001,13 +1052,14 @@
       "images/ps2/rayman_M.JPEG",
       "images/ps2/rayman_M-inside.JPEG",
       "images/ps2/rayman_M-back.JPEG"
-    ]
+    ],
+    "precio": 3.65
   },
   {
     "id": 139,
     "titulo": "Resident Evil 4",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Resident_Evil4.jpg",
@@ -1018,7 +1070,8 @@
       "images/ps2/RE4.JPEG",
       "images/ps2/RE4-inside.JPEG",
       "images/ps2/RE4-back.JPEG"
-    ]
+    ],
+    "precio": 24.51
   },
   {
     "id": 140,
@@ -1035,7 +1088,8 @@
       "images/ps2/REveronica.JPEG",
       "images/ps2/REveronica-inside.JPEG",
       "images/ps2/REveronica-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 141,
@@ -1052,7 +1106,8 @@
       "images/ps2/SXR.JPEG",
       "images/ps2/SXR-inside.JPEG",
       "images/ps2/SXR-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 142,
@@ -1069,7 +1124,8 @@
       "images/ps2/Señor_anillos_dos_torres.JPEG",
       "images/ps2/Señor_anillos_dos_torres-inside.JPEG",
       "images/ps2/Señor_anillos_dos_torres-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 143,
@@ -1086,7 +1142,8 @@
       "images/ps2/snooker.JPEG",
       "images/ps2/snooker-inside.JPEG",
       "images/ps2/snooker-back.JPEG"
-    ]
+    ],
+    "precio": 6.14
   },
   {
     "id": 144,
@@ -1103,7 +1160,8 @@
       "images/ps2/Socom.JPEG",
       "images/ps2/Socom-inside.JPEG",
       "images/ps2/Socom-back.JPEG"
-    ]
+    ],
+    "precio": 9.43
   },
   {
     "id": 145,
@@ -1120,7 +1178,8 @@
       "images/ps2/Socom2.JPEG",
       "images/ps2/Socom2-inside.JPEG",
       "images/ps2/Socom2-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 146,
@@ -1137,13 +1196,14 @@
       "images/ps2/Socom_3.JPEG",
       "images/ps2/Socom_3-inside.JPEG",
       "images/ps2/Socom_3-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 147,
     "titulo": "Socom Combined Assault",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Socom_Combined_Assault.jpg",
@@ -1154,7 +1214,8 @@
       "images/ps2/Socom_CA.JPEG",
       "images/ps2/Socom_CA-inside.JPEG",
       "images/ps2/Socom_CA-back.JPEG"
-    ]
+    ],
+    "precio": 7.87
   },
   {
     "id": 148,
@@ -1171,13 +1232,14 @@
       "images/ps2/Sonic_riders.JPEG",
       "images/ps2/Sonic_riders-inside.JPEG",
       "images/ps2/Sonic_riders-back.JPEG"
-    ]
+    ],
+    "precio": 9.6
   },
   {
     "id": 149,
     "titulo": "Speed Racer",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps2/Speed_racer.jpg",
@@ -1188,13 +1250,14 @@
       "images/ps2/Speed_RAcer.JPEG",
       "images/ps2/Speed_RAcer-inside.JPEG",
       "images/ps2/Speed_RAcer-back.JPEG"
-    ]
+    ],
+    "precio": 14.21
   },
   {
     "id": 150,
     "titulo": "Star Wars Battlefront",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Star_Wars_Battlefront.jpg",
@@ -1205,13 +1268,14 @@
       "images/ps2/StarWArs_Battlefront.JPEG",
       "images/ps2/StarWArs_Battlefront-inside.JPEG",
       "images/ps2/SW_battle-back.JPEG"
-    ]
+    ],
+    "precio": 10.53
   },
   {
     "id": 151,
     "titulo": "Star Wars Battlefront 2",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Star_Wars_Battlefront2.jpg",
@@ -1219,16 +1283,17 @@
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Star Wars Battlefront II es un aclamado videojuego de acción y disparos en primera y tercera persona lanzado en octubre de 2005 para la consola PlayStation 2, desarrollado por Pandemic Studios y publicado por LucasArts. Considerado de forma unánime como uno de los mejores juegos de la franquicia y un pilar absoluto del catálogo de la PS2, esta secuela expandió y perfeccionó de forma masiva todas las mecánicas de la primera entrega.",
     "imagenes": [
-      "images/ps2/StarWArs_Battlefront2.JPEG", 
+      "images/ps2/StarWArs_Battlefront2.JPEG",
       "images/ps2/StarWArs_Battlefront2-inside.JPEG",
       "images/ps2/StarWArs_Battlefront2-back.JPEG"
-    ]
+    ],
+    "precio": 9.4
   },
   {
     "id": 152,
     "titulo": "Star Wars Episodio 3",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Star_Wars_episodio_3.jpg",
@@ -1239,13 +1304,14 @@
       "images/ps2/StarWArs_e3.JPEG",
       "images/ps2/StarWArs_e3-inside.JPEG",
       "images/ps2/StarWArs_e3-back.JPEG"
-    ]
+    ],
+    "precio": 14.56
   },
   {
     "id": 153,
     "titulo": "Super Bust a Move",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Super_Bust_a_Move.jpg",
@@ -1256,13 +1322,14 @@
       "images/ps2/super_bust.JPEG",
       "images/ps2/super_bust-inside.JPEG",
       "images/ps2/super_bust-back.JPEG"
-    ]
+    ],
+    "precio": 6.94
   },
   {
     "id": 154,
     "titulo": "Disney Tarzan",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/Tarzan.jpg",
@@ -1273,13 +1340,14 @@
       "images/ps2/Disney_tarzan.JPEG",
       "images/ps2/Disney_tarzan-inisde.JPEG",
       "images/ps2/Disney_tarzan-back.JPEG"
-    ]
+    ],
+    "precio": 12.21
   },
   {
     "id": 155,
     "titulo": "Tekken 4",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Tekken4.jpg",
@@ -1290,13 +1358,14 @@
       "images/ps2/Tekken4.JPEG",
       "images/ps2/Tekken4-inside.JPEG",
       "images/ps2/Tekken4-back.JPEG"
-    ]
+    ],
+    "precio": 10.94
   },
   {
     "id": 156,
     "titulo": "Tekken TAG",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Tekken_TAG.jpg",
@@ -1307,13 +1376,14 @@
       "images/ps2/Tekken_tag.JPEG",
       "images/ps2/Tekken_tag-inside.JPEG",
       "images/ps2/Tekken_tag-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 157,
     "titulo": "The Bouncer",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/The_Bouncer.jpg",
@@ -1324,13 +1394,14 @@
       "images/ps2/the_bouncer.JPEG",
       "images/ps2/the_bouncer-inside.JPEG",
       "images/ps2/the_bouncer-back.JPEG"
-    ]
+    ],
+    "precio": 15.84
   },
   {
     "id": 158,
     "titulo": "Disney Think Fast",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/Think_fast.jpg",
@@ -1341,13 +1412,14 @@
       "images/ps2/Disney_think_fast.JPEG",
       "images/ps2/Disney_think_fast-inside.JPEG",
       "images/ps2/Disney_think_fast-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 159,
     "titulo": "Toca Racer Driver 2",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Toca_racer_driver_2.jpg",
@@ -1358,13 +1430,14 @@
       "images/ps2/toca_racer2.JPEG",
       "images/ps2/toca_racer2-inside.JPEG",
       "images/ps2/toca_racer2-back.JPEG"
-    ]
+    ],
+    "precio": 4.95
   },
   {
     "id": 160,
     "titulo": "Lara Croft, Tomb Raider el Angel de la Oscuridad",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps2/Tomb_Raide_Angel_oscuridad.jpg",
@@ -1375,13 +1448,14 @@
       "images/ps2/LaraCroft_angel.JPEG",
       "images/ps2/LaraCroft_angel-inside.JPEG",
       "images/ps2/LaraCroft_angel-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 161,
     "titulo": "Homerun",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/homerun.jpg",
@@ -1392,13 +1466,14 @@
       "images/ps2/homerun.JPEG",
       "images/ps2/homerun-inside.JPEG",
       "images/ps2/homerun-back.JPEG"
-    ]
+    ],
+    "precio": 4.83
   },
   {
     "id": 162,
     "titulo": "Juiced 2",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/juiced2.jpg",
@@ -1409,7 +1484,8 @@
       "images/ps2/juiced2.JPEG",
       "images/ps2/juiced2-inside.JPEG",
       "images/ps2/juiced2-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 163,
@@ -1426,13 +1502,14 @@
       "images/ps2/sims.JPEG",
       "images/ps2/sims-inside.JPEG",
       "images/ps2/sims-back.JPEG"
-    ]
+    ],
+    "precio": 6.54
   },
   {
     "id": 164,
     "titulo": "Lotus Challenge",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps2/lotus_challenge.jpg",
@@ -1443,14 +1520,15 @@
       "images/ps2/lotus.JPEG",
       "images/ps2/lotus-inside.JPEG",
       "images/ps2/lotus-back.JPEG"
-    ]
+    ],
+    "precio": 6.48
   },
-    {
+  {
     "id": 165,
     "titulo": "SingStar",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/SingStar.JPEG",
     "favorito": false,
@@ -1460,14 +1538,15 @@
       "images/ps2/SingStar.JPEG",
       "images/ps2/SingStar-inside.JPEG",
       "images/ps2/SingStar-back.JPEG"
-    ]
+    ],
+    "precio": 10.47
   },
-    {
+  {
     "id": 166,
     "titulo": "SingStar Rocks",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/SingStarRocks.JPEG",
     "favorito": false,
@@ -1477,14 +1556,15 @@
       "images/ps2/SingStarRocks.JPEG",
       "images/ps2/SingStarRocks-inside.JPEG",
       "images/ps2/SingStarRocks-back.JPEG"
-    ]
+    ],
+    "precio": 5.24
   },
-    {
+  {
     "id": 167,
     "titulo": "BUZZ",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/BUZZ.JPEG",
     "favorito": false,
@@ -1494,14 +1574,15 @@
       "images/ps2/BUZZ.JPEG",
       "images/ps2/BUZZ-inside.JPEG",
       "images/ps2/BUZZ-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
-    {
+  {
     "id": 168,
     "titulo": "FIFA 08",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Pendiente",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps2/FIFA08.JPEG",
     "favorito": false,
@@ -1510,14 +1591,15 @@
     "imagenes": [
       "images/ps2/FIFA08.JPEG",
       "images/ps2/FIFA08-back.JPEG"
-    ]
+    ],
+    "precio": 3.78
   },
-    {
+  {
     "id": 169,
     "titulo": "FIFA 13",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/FIFA13.JPEG",
     "favorito": false,
@@ -1527,14 +1609,15 @@
       "images/ps2/FIFA13.JPEG",
       "images/ps2/FIFA13-inside.JPEG",
       "images/ps2/FIFA13-back.JPEG"
-    ]
+    ],
+    "precio": 16.66
   },
-    {
+  {
     "id": 170,
     "titulo": "God of War II",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/GOW2.JPEG",
     "favorito": false,
@@ -1544,14 +1627,15 @@
       "images/ps2/GOW2.JPEG",
       "images/ps2/GOW2-inside.JPEG",
       "images/ps2/GOW2-back.JPEG"
-    ]
+    ],
+    "precio": 19.34
   },
-    {
+  {
     "id": 171,
     "titulo": "Medal of Honor Rising Sun",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/MOHrising.JPEG",
     "favorito": false,
@@ -1561,14 +1645,15 @@
       "images/ps2/MOHrising.JPEG",
       "images/ps2/MOHrising-inside.JPEG",
       "images/ps2/MOHrising-back.JPEG"
-    ]
+    ],
+    "precio": 3.05
   },
-    {
+  {
     "id": 172,
     "titulo": "Pro Evolution Soccer 2014",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/PES_2014.JPEG",
     "favorito": false,
@@ -1578,14 +1663,15 @@
       "images/ps2/PES_2014.JPEG",
       "images/ps2/PES_2014-inside.JPEG",
       "images/ps2/PES_2014-back.JPEG"
-    ]
+    ],
+    "precio": 93.32
   },
-    {
+  {
     "id": 173,
     "titulo": "Pro Evolution Soccer 5",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/PES5.JPEG",
     "favorito": false,
@@ -1595,14 +1681,15 @@
       "images/ps2/PES5.JPEG",
       "images/ps2/PES5-inside.JPEG",
       "images/ps2/PES5-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
-    {
+  {
     "id": 174,
     "titulo": "Pro Evolution Soccer 6",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/PES6.JPEG",
     "favorito": false,
@@ -1612,14 +1699,15 @@
       "images/ps2/PES6.JPEG",
       "images/ps2/PES6-inside.JPEG",
       "images/ps2/PES6-back.JPEG"
-    ]
+    ],
+    "precio": 10.26
   },
-    {
+  {
     "id": 175,
     "titulo": "Pro Evolution Soccer 2009",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/PES2009.JPEG",
     "favorito": false,
@@ -1629,14 +1717,15 @@
       "images/ps2/PES2009.JPEG",
       "images/ps2/PES2009-inside.JPEG",
       "images/ps2/PES2009-back.JPEG"
-    ]
+    ],
+    "precio": 6.33
   },
-    {
+  {
     "id": 176,
     "titulo": "Pro Evolution Soccer 2010",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/PES2010.JPEG",
     "favorito": false,
@@ -1646,14 +1735,15 @@
       "images/ps2/PES2010.JPEG",
       "images/ps2/PES2010-inside.JPEG",
       "images/ps2/PES2010-back.JPEG"
-    ]
+    ],
+    "precio": 7.49
   },
-    {
+  {
     "id": 177,
     "titulo": "Pro Evolution Soccer 2011",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/PES2011.JPEG",
     "favorito": false,
@@ -1663,14 +1753,15 @@
       "images/ps2/PES2011.JPEG",
       "images/ps2/PES2011-inside.JPEG",
       "images/ps2/PES2011-back.JPEG"
-    ]
+    ],
+    "precio": 15.97
   },
-    {
+  {
     "id": 178,
     "titulo": "Red Dead Revolver",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/RedDeadRevolver.JPEG",
     "favorito": false,
@@ -1680,14 +1771,15 @@
       "images/ps2/RedDeadRevolver.JPEG",
       "images/ps2/RedDeadRevolver-inside.JPEG",
       "images/ps2/RedDeadRevolver-back.JPEG"
-    ]
+    ],
+    "precio": 18.23
   },
-    {
+  {
     "id": 179,
     "titulo": "Roland Garros 2005",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/Roland_garros_2005.JPEG",
     "favorito": false,
@@ -1697,14 +1789,15 @@
       "images/ps2/Roland_garros_2005.JPEG",
       "images/ps2/Roland_garros_2005-inside.JPEG",
       "images/ps2/Roland_garros_2005-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
-    {
+  {
     "id": 180,
     "titulo": "Smash Court Tennis Pro Tournament 2",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/SMART_TENNIS.JPEG",
     "favorito": false,
@@ -1714,14 +1807,15 @@
       "images/ps2/SMART_TENNIS.JPEG",
       "images/ps2/SMART_TENNIS-inside.JPEG",
       "images/ps2/SMART_TENNIS-back.JPEG"
-    ]
+    ],
+    "precio": 5.26
   },
-    {
+  {
     "id": 181,
     "titulo": "Return to Castle Wolfenstein: Operation Resurrection",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/wolfestein.JPEG",
     "favorito": false,
@@ -1731,14 +1825,15 @@
       "images/ps2/wolfestein.JPEG",
       "images/ps2/wolfestein-inside.JPEG",
       "images/ps2/wolfestein-back.JPEG"
-    ]
+    ],
+    "precio": 15.98
   },
-    {
+  {
     "id": 182,
     "titulo": "WWII: Soldier",
     "plataforma": "PlayStation 2",
-    "prestadoA": "", 
-      "estado_filtro": "Completado",
+    "prestadoA": "",
+    "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps2/WWIIsolider.JPEG",
     "favorito": false,
@@ -1748,20 +1843,14 @@
       "images/ps2/WWIIsolider.JPEG",
       "images/ps2/WWIIsolider-inside.JPEG",
       "images/ps2/WWIIsolider-back.JPEG"
-    ]
+    ],
+    "precio": 4.36
   },
-  
-  
-
-  
-  
-
-  
   {
     "id": 201,
     "titulo": "Call of Duty Modern Warface",
     "plataforma": "XBOX 360",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/xbox360/call_of_duty_modern.jpg",
@@ -1772,13 +1861,14 @@
       "images/xbox360/call_of_duty_modern.jpg",
       "images/xbox360/call_of_duty_modern-inside.JPEG",
       "images/xbox360/call_of_duty_modern-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 202,
     "titulo": "Gears of War",
     "plataforma": "XBOX 360",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/xbox360/gear_of_war.jpg",
@@ -1789,7 +1879,8 @@
       "images/xbox360/gear_of_war.jpg",
       "images/xbox360/gear_of_war-inside.JPEG",
       "images/xbox360/gear_of_war-back.JPEG"
-    ]
+    ],
+    "precio": 8.91
   },
   {
     "id": 203,
@@ -1806,19 +1897,14 @@
       "images/xbox360/Kinect_Adeventures.jpg",
       "images/xbox360/Kinect Adeventures-inside.JPEG",
       "images/xbox360/Kinect Adeventures-back.JPEG"
-    ]
+    ],
+    "precio": 2.63
   },
-
-
-  
-
-  
-
   {
     "id": 301,
     "titulo": "Everybodys Golf World Tour",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps3/Everybodys_golf_world_tour.jpg",
@@ -1829,7 +1915,8 @@
       "images/ps3/Everybodys_golf_world_tour.JPEG",
       "images/ps3/Everybodys_golf_world_tour-inside.JPEG",
       "images/ps3/Everybodys_golf_world_tour-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 302,
@@ -1846,7 +1933,8 @@
       "images/ps3/fear.JPEG",
       "images/ps3/fear-inside.JPEG",
       "images/ps3/fear-back.JPEG"
-    ]
+    ],
+    "precio": 18.53
   },
   {
     "id": 303,
@@ -1863,7 +1951,8 @@
       "images/ps3/FFXIII.JPEG",
       "images/ps3/FFXIII-inside.JPEG",
       "images/ps3/FFXIII-back.JPEG"
-    ]
+    ],
+    "precio": 4.76
   },
   {
     "id": 304,
@@ -1880,7 +1969,8 @@
       "images/ps3/God_of_war_ascension.JPEG",
       "images/ps3/God_of_war_ascension-inside.JPEG",
       "images/ps3/God_of_war_ascension-back.JPEG"
-    ]
+    ],
+    "precio": 18.51
   },
   {
     "id": 305,
@@ -1898,7 +1988,8 @@
       "images/ps3/God_off_War_Triologia-inside.JPEG",
       "images/ps3/God_off_War_Triologia-inside2.JPEG",
       "images/ps3/God_off_War_Triologia-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 306,
@@ -1916,7 +2007,8 @@
       "images/ps3/Metal_colection-inside1.JPEG",
       "images/ps3/Metal_colection-inside2.JPEG",
       "images/ps3/Metal_colection-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 307,
@@ -1933,7 +2025,8 @@
       "images/ps3/NBA2k8.JPEG",
       "images/ps3/NBA2k8-inside.JPEG",
       "images/ps3/NBA2k8-back.JPEG"
-    ]
+    ],
+    "precio": 4.71
   },
   {
     "id": 308,
@@ -1950,13 +2043,14 @@
       "images/ps3/Resistance.JPEG",
       "images/ps3/Resistance-inside.JPEG",
       "images/ps3/Resistance-back.JPEG"
-    ]
+    ],
+    "precio": 6.34
   },
   {
     "id": 309,
     "titulo": "Socom Confrontation",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/Socom_confrontation.jpg",
@@ -1967,13 +2061,14 @@
       "images/ps3/Socom_confrontation.JPEG",
       "images/ps3/Socom_confrontation-inside.JPEG",
       "images/ps3/Socom_confrontation-back.JPEG"
-    ]
+    ],
+    "precio": 3.81
   },
   {
     "id": 310,
     "titulo": "Bayonetta",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/bayonetta.jpg",
@@ -1984,13 +2079,14 @@
       "images/ps3/Bayonetta.JPEG",
       "images/ps3/Bayonetta-inside.JPEG",
       "images/ps3/Bayonetta-back.JPEG"
-    ]
+    ],
+    "precio": 8.24
   },
   {
     "id": 311,
     "titulo": "Blazing Angels",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps3/blazing_angels.jpg",
@@ -2001,13 +2097,14 @@
       "images/ps3/blazing_angels.jpg",
       "images/ps3/blazing_angels-inside.JPEG",
       "images/ps3/blazing_angels-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 312,
     "titulo": "F1 Champ Edition",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps3/f1_champ_edition.jpg",
@@ -2018,7 +2115,8 @@
       "images/ps3/f1champ.JPEG",
       "images/ps3/f1champ-inside.JPEG",
       "images/ps3/f1champ-back.JPEG"
-    ]
+    ],
+    "precio": 6.08
   },
   {
     "id": 313,
@@ -2035,13 +2133,14 @@
       "images/ps3/FIFA10.JPEG",
       "images/ps3/FIFA10-inside.JPEG",
       "images/ps3/FIFA10-back.JPEG"
-    ]
+    ],
+    "precio": 3.3
   },
   {
     "id": 314,
     "titulo": "Gran Turismo 5",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/gt5.jpg",
@@ -2052,14 +2151,15 @@
       "images/ps3/GT5.JPEG",
       "images/ps3/GT5-inside.JPEG",
       "images/ps3/GT5-back.JPEG"
-    ]
+    ],
+    "precio": 4.25
   },
-   {
+  {
     "id": 315,
     "titulo": "Heavenly Sword",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
-     "estado_filtro": "Pendiente",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps3/heavenly_sword.jpg",
     "favorito": false,
@@ -2069,13 +2169,14 @@
       "images/ps3/heavenly_sword.JPEG",
       "images/ps3/heavenly_sword-inside.JPEG",
       "images/ps3/heavenly_sword-back.JPEG"
-    ]
-  }, 
+    ],
+    "precio": 16.82
+  },
   {
     "id": 316,
     "titulo": "Heavy Rain",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/heavy_rain.jpg",
@@ -2086,13 +2187,14 @@
       "images/ps3/heavy_rain.JPEG",
       "images/ps3/heavy_rain-inside.JPEG",
       "images/ps3/heavy_rain-back.JPEG"
-    ]
+    ],
+    "precio": 6.59
   },
   {
     "id": 317,
     "titulo": "House of The Dead Overkill",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/house_of_dead_overkill.jpg",
@@ -2103,13 +2205,14 @@
       "images/ps3/house_of_dead_overkill.JPEG",
       "images/ps3/house_of_dead_overkill-inside.JPEG",
       "images/ps3/house_of_dead_overkill-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 318,
     "titulo": "killzone 2",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/killxone2.jpg",
@@ -2120,7 +2223,8 @@
       "images/ps3/killzone2.JPEG",
       "images/ps3/killzone2-inside.JPEG",
       "images/ps3/killzone2-back.JPEG"
-    ]
+    ],
+    "precio": 6.68
   },
   {
     "id": 319,
@@ -2137,13 +2241,14 @@
       "images/ps3/killzone3.JPEG",
       "images/ps3/killzone3-inside.JPEG",
       "images/ps3/killzone3-back.JPEG"
-    ]
+    ],
+    "precio": 5.91
   },
   {
     "id": 320,
     "titulo": "Lollipop Chainsaw",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps3/lollipop_chainsaw.jpg",
@@ -2154,7 +2259,8 @@
       "images/ps3/lollipop_chainsaw.JPEG",
       "images/ps3/lollipop_chainsaw-inside.JPEG",
       "images/ps3/lollipop_chainsaw-back.JPEG"
-    ]
+    ],
+    "precio": 66.29
   },
   {
     "id": 321,
@@ -2171,7 +2277,8 @@
       "images/ps3/metal_gear4.JPEG",
       "images/ps3/metal_gear4-inside.JPEG",
       "images/ps3/metal_gear4-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 322,
@@ -2188,7 +2295,8 @@
       "images/ps3/socom_special_forces.JPEG",
       "images/ps3/socom_special_forces-inside.JPEG",
       "images/ps3/socom_special_forces-back.JPEG"
-    ]
+    ],
+    "precio": 8.89
   },
   {
     "id": 323,
@@ -2205,7 +2313,8 @@
       "images/ps3/Resistance2.JPEG",
       "images/ps3/Resistance2-insie.JPEG",
       "images/ps3/Resistance2-back.JPEG"
-    ]
+    ],
+    "precio": 6.3
   },
   {
     "id": 324,
@@ -2222,7 +2331,8 @@
       "images/ps3/stunman_ignition.JPEG",
       "images/ps3/stunman_ignition-inside.JPEG",
       "images/ps3/stunman_ignition-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 325,
@@ -2239,13 +2349,14 @@
       "images/ps3/uncharted.JPEG",
       "images/ps3/uncharted-inside.JPEG",
       "images/ps3/uncharted-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 326,
     "titulo": "Uncharted 2 El reino de los ladores",
     "plataforma": "PlayStation 3",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps3/uncharted2.jpg",
@@ -2256,7 +2367,8 @@
       "images/ps3/uncharted2.JPEG",
       "images/ps3/uncharted2-inside.JPEG",
       "images/ps3/uncharted2-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 327,
@@ -2273,7 +2385,8 @@
       "images/ps3/uncharted3.JPEG",
       "images/ps3/uncharted3-inside.JPEG",
       "images/ps3/uncharted3-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 328,
@@ -2288,7 +2401,8 @@
     "descripcion": "PlayStation Move es el sistema de control de movimiento por hardware desarrollado por Sony Computer Entertainment para la consola PlayStation 3 (y compatible posteriormente con PlayStation 4 y PlayStation VR). Lanzado al mercado en septiembre de 2010, se diseñó como la respuesta directa al éxito del mando de la consola Wii de Nintendo, ofreciendo una precisión muy superior gracias al uso de tecnología óptica y sensores internos.",
     "imagenes": [
       "images/ps3/Play_station_move.jpg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 329,
@@ -2305,7 +2419,8 @@
       "images/ps3/Resistance3.JPEG",
       "images/ps3/Resistance3-inside.JPEG",
       "images/ps3/Resistance3-back.JPEG"
-    ]
+    ],
+    "precio": 18.55
   },
   {
     "id": 330,
@@ -2319,7 +2434,8 @@
     "descripcion": "Gran Turismo 6 para PlayStation 3 es un videojuego de simulación de carreras desarrollado por Polyphony Digital y publicado por Sony Computer Entertainment. Lanzado en diciembre de 2013, coincidió en el tiempo con la llegada de PlayStation 4, lo que lo convirtió en el gran canto de cisne de la saga en la PS3, puliendo la base de su predecesor y exprimiendo el hardware de la consola hasta su límite absoluto.",
     "imagenes": [
       "images/ps3/GT6.JPG"
-    ]
+    ],
+    "precio": 8.8
   },
   {
     "id": 331,
@@ -2336,8 +2452,8 @@
       "images/ps3/SingStarPOP2009.JPEG",
       "images/ps3/SingStarPOP2009-inside.JPEG",
       "images/ps3/SingStarPOP2009-back.JPEG"
-      
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 332,
@@ -2354,7 +2470,8 @@
       "images/ps3/RedDeadRendemtion.JPEG",
       "images/ps3/RedDeadRendemtion-inside.JPEG",
       "images/ps3/RedDeadRendemtion-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 333,
@@ -2371,7 +2488,8 @@
       "images/ps3/LANoire.JPEG",
       "images/ps3/LANoire-inside.JPEG",
       "images/ps3/LANoire-back.JPEG"
-    ]
+    ],
+    "precio": 4.69
   },
   {
     "id": 334,
@@ -2388,7 +2506,8 @@
       "images/ps3/sleepingdogs.JPEG",
       "images/ps3/sleepingdogs-inside.JPEG",
       "images/ps3/sleepingdogs-back.JPEG"
-    ]
+    ],
+    "precio": 5.4
   },
   {
     "id": 335,
@@ -2405,7 +2524,8 @@
       "images/ps3/Singularity.JPEG",
       "images/ps3/Singularity-inside.JPEG",
       "images/ps3/Singularity-back.JPEG"
-    ]
+    ],
+    "precio": 13.05
   },
   {
     "id": 336,
@@ -2422,7 +2542,8 @@
       "images/ps3/Syndicate.JPEG",
       "images/ps3/Syndicate-inside.JPEG",
       "images/ps3/Syndicate-back.JPEG"
-    ]
+    ],
+    "precio": 8.11
   },
   {
     "id": 337,
@@ -2439,7 +2560,8 @@
       "images/ps3/MirrorsEdge.JPEG",
       "images/ps3/MirrorsEdge-inside.JPEG",
       "images/ps3/MirrorsEdge-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 337,
@@ -2456,7 +2578,8 @@
       "images/ps3/MassEffect2.JPEG",
       "images/ps3/MassEffect2-inside.JPEG",
       "images/ps3/MassEffect2-back.JPEG"
-    ]
+    ],
+    "precio": 5.25
   },
   {
     "id": 338,
@@ -2473,7 +2596,8 @@
       "images/ps3/CallDutyBlackOps.JPEG",
       "images/ps3/CallDutyBlackOps-inside.JPEG",
       "images/ps3/CallDutyBlackOps-back.JPEG"
-    ]
+    ],
+    "precio": 4.83
   },
   {
     "id": 339,
@@ -2490,7 +2614,8 @@
       "images/ps3/EnemyFront.JPEG",
       "images/ps3/EnemyFront-inside.JPEG",
       "images/ps3/EnemyFront-back.JPEG"
-    ]
+    ],
+    "precio": 10.78
   },
   {
     "id": 340,
@@ -2507,7 +2632,8 @@
       "images/ps3/SombrasMordOr.JPEG",
       "images/ps3/SombrasMordOr-inside.JPEG",
       "images/ps3/SombrasMordOr-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 341,
@@ -2524,7 +2650,8 @@
       "images/ps3/DeadSpace.JPEG",
       "images/ps3/DeadSpace-inside.JPEG",
       "images/ps3/DeadSpace-back.JPEG"
-    ]
+    ],
+    "precio": 9.72
   },
   {
     "id": 342,
@@ -2541,7 +2668,8 @@
       "images/ps3/hunted.JPEG",
       "images/ps3/hunted-inside.JPEG",
       "images/ps3/hunted-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 343,
@@ -2558,14 +2686,9 @@
       "images/ps3/gta5.JPEG",
       "images/ps3/gta5-inside.JPEG",
       "images/ps3/gta5-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
-
-
-  
-
-
-  
   {
     "id": 401,
     "titulo": "BloodStained",
@@ -2581,8 +2704,9 @@
       "images/ps4/BloodStained.JPEG",
       "images/ps4/BloodStained-inside.JPEG",
       "images/ps4/BloodStained-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 402,
     "titulo": "F1 2017",
@@ -2598,7 +2722,8 @@
       "images/ps4/f12017.JPEG",
       "images/ps4/f12017-inside.JPEG",
       "images/ps4/f12017-back.JPEG"
-    ]
+    ],
+    "precio": 7.59
   },
   {
     "id": 403,
@@ -2615,7 +2740,8 @@
       "images/ps4/ghost_tsushima.JPEG",
       "images/ps4/ghost_tsushima-inside.JPEG",
       "images/ps4/ghost_tsushima-back.JPEG"
-    ]
+    ],
+    "precio": 16.69
   },
   {
     "id": 404,
@@ -2631,7 +2757,8 @@
     "imagenes": [
       "images/ps4/Hades.JPEG",
       "images/ps4/Hades-back.JPEG"
-    ]
+    ],
+    "precio": 11.84
   },
   {
     "id": 405,
@@ -2648,13 +2775,14 @@
       "images/ps4/SW_battle.JPEG",
       "images/ps4/SW_battle-inside.JPEG",
       "images/ps4/SW_battle-back.JPEG"
-    ]
+    ],
+    "precio": 6.64
   },
   {
     "id": 406,
     "titulo": "Starklink",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps4/Starklink.jpg",
@@ -2663,7 +2791,8 @@
     "descripcion": "Starlink: Battle for Atlas para PS4 es un videojuego de acción, aventura y exploración espacial en mundo abierto desarrollado por Ubisoft. El juego destaca principalmente por su propuesta de juguetes que cobran vida (Toys-to-Life), permitiendo a los jugadores conectar naves de plástico reales a su mando de PS4 para ver cómo se replican instantáneamente en la pantalla.",
     "imagenes": [
       "images/ps4/Starklink.jpg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 407,
@@ -2679,7 +2808,8 @@
     "imagenes": [
       "images/ps4/Cyberounk2077.JPEG",
       "images/ps4/Cyberounk2077-back.JPEG"
-    ]
+    ],
+    "precio": 15.35
   },
   {
     "id": 408,
@@ -2695,13 +2825,14 @@
     "imagenes": [
       "images/ps4/dredge.JPEG",
       "images/ps4/Dredge-BACK.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 409,
     "titulo": "Driveclub",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps4/driveclub.JPEG",
@@ -2711,13 +2842,14 @@
     "imagenes": [
       "images/ps4/driveclub.JPEG",
       "images/ps4/DriveClub-back.JPEG"
-    ]
+    ],
+    "precio": 6.5
   },
   {
     "id": 410,
     "titulo": "Ghost Recon Breakpoint",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps4/Ghost_reacon.JPEG",
@@ -2727,7 +2859,8 @@
     "imagenes": [
       "images/ps4/Ghost_reacon.JPEG",
       "images/ps4/Ghost_reacon-back.JPEG"
-    ]
+    ],
+    "precio": 8.37
   },
   {
     "id": 411,
@@ -2744,13 +2877,14 @@
       "images/ps4/gt7.JPEG",
       "images/ps4/GT7-inside.JPEG",
       "images/ps4/GT-back.JPEG"
-    ]
+    ],
+    "precio": 27.02
   },
   {
     "id": 412,
     "titulo": "Gran Turismo Sport",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/GTsport.JPEG",
@@ -2761,13 +2895,14 @@
       "images/ps4/GTsport.JPEG",
       "images/ps4/GTsport-inside.JPEG",
       "images/ps4/GTsport-back.JPEG"
-    ]
+    ],
+    "precio": 6.2
   },
   {
     "id": 413,
     "titulo": "Guardianes de la galaxia",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/Guardianes.JPEG",
@@ -2777,13 +2912,14 @@
     "imagenes": [
       "images/ps4/Guardianes.JPEG",
       "images/ps4/Guardianes-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 414,
     "titulo": "Hollow Knight",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
     "portada": "images/ps4/hollow_knight.JPEG",
@@ -2793,13 +2929,14 @@
     "imagenes": [
       "images/ps4/hollow_knight.JPEG",
       "images/ps4/Hollow_knight-back.JPEG"
-    ]
+    ],
+    "precio": 23.45
   },
   {
     "id": 415,
     "titulo": "Star Wars Jedi Fallen order",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/SW_Jedi_fallen.JPEG",
@@ -2810,7 +2947,8 @@
       "images/ps4/SW_Jedi_fallen.JPEG",
       "images/ps4/SW_Jedi_fallen-inside.JPEG",
       "images/ps4/SW_Jedi_fallen-back.JPEG"
-    ]
+    ],
+    "precio": 4.66
   },
   {
     "id": 417,
@@ -2827,13 +2965,14 @@
       "images/ps4/The_evil_whithin.JPEG",
       "images/ps4/The_evil_whithin-inside.JPEG",
       "images/ps4/The_evil_whithin-back.JPEG"
-    ]
+    ],
+    "precio": 10.21
   },
   {
     "id": 418,
     "titulo": "The Evil WithiN 2",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps4/The_evil_whithin2.JPEG",
@@ -2844,7 +2983,8 @@
       "images/ps4/The_evil_whithin2.JPEG",
       "images/ps4/The_evil_whithin2-inside.JPEG",
       "images/ps4/The_evil_whithin2-back.JPEG"
-    ]
+    ],
+    "precio": 9.49
   },
   {
     "id": 419,
@@ -2858,7 +2998,8 @@
     "descripcion": "The Last of Us Remastered para PS4 es la versión definitiva y mejorada del aclamado videojuego de acción, aventura y supervivencia desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. El juego destaca por su desgarradora narrativa cinematográfica, personajes profundos y una tensa atmósfera de supervivencia postapocalíptica.",
     "imagenes": [
       "images/ps4/the_last_us.JPG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 420,
@@ -2872,7 +3013,8 @@
     "descripcion": "The Last of Us Parte II para PS4 es una obra maestra de la acción, aventura y supervivencia, desarrollada por Naughty Dog. Ambientado cinco años después del primer juego, destaca por su cruda historia de venganza, un diseño de niveles más vertical y un apartado técnico que exprime al límite la potencia de la consola.",
     "imagenes": [
       "images/ps4/the_last_us2.JPG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 421,
@@ -2889,7 +3031,8 @@
       "images/ps4/lego_marvel.JPEG",
       "images/ps4/Lego_Marvel-inside.JPEG",
       "images/ps4/Lego_Marvel-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 422,
@@ -2906,7 +3049,8 @@
       "images/ps4/uncharted4.JPEG",
       "images/ps4/Uncharted4-inside.JPEG",
       "images/ps4/Uncharted4-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 423,
@@ -2920,7 +3064,8 @@
     "descripcion": "Red Dead Redemption 2 para PS4 es una obra maestra de acción, aventura y mundo abierto de ambientación wéstern, desarrollada por Rockstar Games. Es considerado uno de los videojuegos más detallados, realistas y ambiciosos de la historia de la industria, funcionando como una precuela directa de los acontecimientos del primer título.",
     "imagenes": [
       "images/ps4/red_dead_revolver2.JPG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 424,
@@ -2934,7 +3079,8 @@
     "descripcion": "God of War para PS4 (lanzado en 2018) es una obra maestra de la acción y la aventura en tercera persona, desarrollada por Santa Monica Studio y publicada por Sony Interactive Entertainment. El juego reinventa por completo la icónica franquicia al cambiar la mitología griega por la mitología nórdica, ofreciendo una jugabilidad más táctica y una de las narrativas más profundas de la consola.",
     "imagenes": [
       "images/ps4/god_of_war2018.JPG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 425,
@@ -2948,7 +3094,8 @@
     "descripcion": "God of War Ragnarök para PS4 es el épico cierre de la saga nórdica de Kratos y Atreus, desarrollado por Santa Monica Studio y publicado por Sony Interactive Entertainment en 2022. El juego expande en todos los sentidos las bases de la entrega de 2018, ofreciendo un combate mucho más vertical, una historia de escala apocalíptica y un rendimiento técnico impecable en la anterior generación.",
     "imagenes": [
       "images/ps4/god_of_war_ragna.JPG"
-    ]
+    ],
+    "precio": 22.47
   },
   {
     "id": 426,
@@ -2962,7 +3109,8 @@
     "descripcion": "Titanfall 2 para PS4 es una obra maestra de los videojuegos de acción y disparos en primera persona (FPS) de ambientación de ciencia ficción, desarrollada por Respawn Entertainment y publicada por Electronic Arts. El título es aclamado mundialmente por tener una de las mejores campañas de la generación y por revolucionar la movilidad en los juegos de disparos en primera persona.",
     "imagenes": [
       "images/ps4/titanfall2.JPG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 427,
@@ -2976,7 +3124,8 @@
     "descripcion": "Final Fantasy XV para PS4 es un RPG de acción y mundo abierto desarrollado y publicado por Square Enix. Esta entrega rompió con los turnos clásicos de la franquicia para ofrecer un sistema de combate dinámico en tiempo real, todo bajo una narrativa estructurada como una película de carretera (road movie) de fantasía oscura.",
     "imagenes": [
       "images/ps4/FFXV.JPG"
-    ]
+    ],
+    "precio": 9.48
   },
   {
     "id": 428,
@@ -2990,7 +3139,8 @@
     "descripcion": "BA 2K15 para PS4 es un videojuego de simulación de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports. Lanzado a finales de 2014, fue uno de los títulos más importantes al inicio de dicha generación de consolas, destacando por su revolución gráfica y la introducción de mecánicas físicas avanzadas que asentaron las bases modernas de la franquicia.",
     "imagenes": [
       "images/ps4/NBA2k15.JPG"
-    ]
+    ],
+    "precio": 5.04
   },
   {
     "id": 429,
@@ -3004,7 +3154,8 @@
     "descripcion": "ingStar MegaHits para PS4 es un videojuego de karaoke y fiesta de corte musical, desarrollado por London Studio y publicado por Sony Computer Entertainment. Lanzado a finales de 2014, supuso el debut de la aclamada franquicia de canto en la consola PlayStation 4, adaptándose a las funciones sociales y trayendo consigo un repertorio especialmente enfocado en el mercado hispanohablante.",
     "imagenes": [
       "images/ps4/singstar_megahits.JPG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 430,
@@ -3018,7 +3169,8 @@
     "descripcion": "Spyro Reignited Trilogy para PS4 es una colección remasterizada desde cero (remake) de las tres primeras aventuras del icónico dragón morado, desarrolladas originalmente por Insomniac Games para la primera PlayStation. Esta nueva versión, creada por el estudio Toys for Bob y publicada por Activision, destaca por su apabullante lavado de cara visual que convierte los escenarios clásicos en auténticas películas de animación digital.",
     "imagenes": [
       "images/ps4/spyro.JPG"
-    ]
+    ],
+    "precio": 14.86
   },
   {
     "id": 431,
@@ -3032,7 +3184,8 @@
     "descripcion": "Soulcalibur VI para PS4 es un aclamado videojuego de lucha tridimensional basado en armas, desarrollado y publicado por Bandai Namco Entertainment. El título funciona como un reinicio e historia alternativa que revive los acontecimientos del juego original y de Soulcalibur II, ofreciendo combates muy dinámicos y un espectacular creador de personajes.",
     "imagenes": [
       "images/ps4/soulcalibur6.JPG"
-    ]
+    ],
+    "precio": 9.67
   },
   {
     "id": 432,
@@ -3048,7 +3201,8 @@
     "imagenes": [
       "images/ps4/Metal_surv.JPEG",
       "images/ps4/Metal_surv-back.JPEG"
-    ]
+    ],
+    "precio": 7.99
   },
   {
     "id": 433,
@@ -3065,13 +3219,14 @@
       "images/ps4/motoGp17.JPEG",
       "images/ps4/motoGp17-inside.JPEG",
       "images/ps4/motoGp17-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 434,
     "titulo": "Nier Automata",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/nier_automata.JPEG",
@@ -3082,7 +3237,8 @@
       "images/ps4/nier_automata.JPEG",
       "images/ps4/Nier_automata-inside.JPEG",
       "images/ps4/Nier_automata-back.JPEG"
-    ]
+    ],
+    "precio": 10.89
   },
   {
     "id": 435,
@@ -3098,7 +3254,8 @@
     "imagenes": [
       "images/ps4/Nier-REp.JPEG",
       "images/ps4/Nier-REp-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 436,
@@ -3114,7 +3271,8 @@
     "imagenes": [
       "images/ps4/No_man_sky.JPEG",
       "images/ps4/No_man_sky-inside.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 437,
@@ -3131,7 +3289,8 @@
       "images/ps4/prey.JPEG",
       "images/ps4/Prey-back.JPEG",
       "images/ps4/Prey-inside.JPEG"
-    ]
+    ],
+    "precio": 10.97
   },
   {
     "id": 438,
@@ -3147,13 +3306,14 @@
     "imagenes": [
       "images/ps4/RE2_remake.JPEG",
       "images/ps4/RE2_remake-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 439,
     "titulo": "Resident Evil 3 remake",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/RE_remake.JPEG",
@@ -3163,13 +3323,14 @@
     "imagenes": [
       "images/ps4/RE_remake.JPEG",
       "images/ps4/RE_remake-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 440,
     "titulo": "Resident Evil 5",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/RE5.JPEG",
@@ -3179,13 +3340,14 @@
     "imagenes": [
       "images/ps4/RE5.JPEG",
       "images/ps4/RE5-back.JPEG"
-    ]
+    ],
+    "precio": 14.89
   },
   {
     "id": 441,
     "titulo": "Resident Evil 6",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps4/RE6.JPEG",
@@ -3195,13 +3357,14 @@
     "imagenes": [
       "images/ps4/RE6.JPEG",
       "images/ps4/RE6-back.JPEG"
-    ]
+    ],
+    "precio": 13.36
   },
   {
     "id": 442,
     "titulo": "Resident Evil VII",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/RE7.JPEG",
@@ -3211,13 +3374,14 @@
     "imagenes": [
       "images/ps4/RE7.JPEG",
       "images/ps4/RE7-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 443,
     "titulo": "Resident Evil Origins Collection",
     "plataforma": "PlayStation 4",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps4/RE_origi.JPEG",
@@ -3227,7 +3391,8 @@
     "imagenes": [
       "images/ps4/RE_origi.JPEG",
       "images/ps4/RE_origi-back.JPEG"
-    ]
+    ],
+    "precio": 15.24
   },
   {
     "id": 444,
@@ -3243,7 +3408,8 @@
     "imagenes": [
       "images/ps4/sifu.JPEG",
       "images/ps4/SIFU-back.JPEG"
-    ]
+    ],
+    "precio": 20.13
   },
   {
     "id": 445,
@@ -3259,7 +3425,8 @@
     "imagenes": [
       "images/ps4/Tormented_souls.JPEG",
       "images/ps4/Tormented_souls-back.JPEG"
-    ]
+    ],
+    "precio": 11.18
   },
   {
     "id": 446,
@@ -3276,7 +3443,8 @@
       "images/ps4/Uncharted_legacy.JPEG",
       "images/ps4/Uncharted_legacy-inside.JPEG",
       "images/ps4/Uncharted_legacy-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 447,
@@ -3292,7 +3460,8 @@
     "imagenes": [
       "images/ps4/unmetal.JPEG",
       "images/ps4/UNMETAL-back.JPEG"
-    ]
+    ],
+    "precio": 37.97
   },
   {
     "id": 448,
@@ -3309,7 +3478,8 @@
       "images/ps4/The_witcher3.JPEG",
       "images/ps4/The_witcher3-inside.JPEG",
       "images/ps4/The_witcher3-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 449,
@@ -3325,7 +3495,8 @@
     "imagenes": [
       "images/ps4/Yakuza_like_dragon.JPEG",
       "images/ps4/Yakuza_like_dragon-back.JPEG"
-    ]
+    ],
+    "precio": 12.05
   },
   {
     "id": 450,
@@ -3342,8 +3513,9 @@
       "images/ps4/song_of_horror-front-.JPEG",
       "images/ps4/song_of_horror-back-.JPEG",
       "images/ps4/song_of_horror-side-.JPEG"
-    ]
-  },  
+    ],
+    "precio": 70.79
+  },
   {
     "id": 451,
     "titulo": "Horizon Zero Dawn",
@@ -3356,8 +3528,9 @@
     "descripcion": "Horizon Zero Dawn para PlayStation 4 es un aclamado videojuego de acción, aventura y rol de mundo abierto (RPG) desarrollado por Guerrilla Games. El título destaca por fusionar de manera única un entorno prehistórico y tribal con tecnología futurista avanzada, donde la humanidad ha dejado de ser la especie dominante.",
     "imagenes": [
       "images/ps4/horizon_zero.JPG"
-    ]
-  }, 
+    ],
+    "precio": 6.09
+  },
   {
     "id": 452,
     "titulo": "Resident Evil Revelations",
@@ -3372,9 +3545,10 @@
     "imagenes": [
       "images/ps4/RE_Revelations.JPEG",
       "images/ps4/RE_Revelations-back.JPEG"
-    ]
-  }, 
-    {
+    ],
+    "precio": 18.42
+  },
+  {
     "id": 453,
     "titulo": "Resident Evil Revelations 2",
     "plataforma": "PlayStation 4",
@@ -3388,8 +3562,9 @@
     "imagenes": [
       "images/ps4/RE_Revelations2.JPEG",
       "images/ps4/RE_Revelations2-back.JPEG"
-    ]
-  }, 
+    ],
+    "precio": 13.05
+  },
   {
     "id": 454,
     "titulo": "La Tierra Media: Sombras de Guerra",
@@ -3403,16 +3578,11 @@
     "descripcion": "La Tierra Media: Sombras de Guerra para PS4 es un videojuego de rol de acción en tercera persona y mundo abierto ambientado en el universo de El Señor de los Anillos de J.R.R. Tolkien. Desarrollado por Monolith Productions y distribuido por Warner Bros, es la secuela directa del aclamado Sombras de Mordor. En esta entrega, la historia continúa con el montaraz Talion y el espectro elfo Celebrimbor, quienes forjan un nuevo Anillo de Poder para infiltrarse tras las líneas enemigas, reclutar un ejército de orcos y volver a todo Mordor en contra del Señor Oscuro, Sauron. Sistema Némesis Evolucionado: Esta mecánica genera enemigos y seguidores únicos de forma procedural. Los capitanes orcos recuerdan cada enfrentamiento previo, desarrollando rencores, cicatrices y personalidades dinámicas según tus decisiones en batalla",
     "imagenes": [
       "images/ps4/SombrasGuerra.JPEG",
-      "images/ps4/SombrasGuerra-inside.JPEG",      
+      "images/ps4/SombrasGuerra-inside.JPEG",
       "images/ps4/SombrasGuerra-back.JPEG"
-    ]
-  }, 
-
-  
-
-
-
-  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 501,
     "titulo": "Martha is Dead",
@@ -3428,8 +3598,9 @@
       "images/ps5/Martha_is_Dead.JPEG",
       "images/ps5/Martha_is_Dead-inside.JPEG",
       "images/ps5/Martha_is_Dead-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 15.52
+  },
   {
     "id": 502,
     "titulo": "Resident Evil Requiem",
@@ -3444,8 +3615,9 @@
     "imagenes": [
       "images/ps5/Residen_Evil_Requiem.JPEG",
       "images/ps5/Residen_Evil_Requiem-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 54.11
+  },
   {
     "id": 503,
     "titulo": "Resident Evil 4 Remake",
@@ -3461,8 +3633,9 @@
       "images/ps5/Residen_Evil4_Remake.JPEG",
       "images/ps5/Residen_Evil4_Remake-inside.JPEG",
       "images/ps5/Residen_Evil4_Remake-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 16.67
+  },
   {
     "id": 504,
     "titulo": "Tormented Soul 2",
@@ -3478,8 +3651,9 @@
       "images/ps5/Tormented_soul2.JPEG",
       "images/ps5/Tormented_soul2-inside.JPEG",
       "images/ps5/Tormented_soul2-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 505,
     "titulo": "Final Fantasy VII Rebirth",
@@ -3495,8 +3669,9 @@
       "images/ps5/FF_VII_Rebirth.JPEG",
       "images/ps5/FF_VII_Rebirth-inside.JPEG",
       "images/ps5/FF_VII_Rebirth-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 30.27
+  },
   {
     "id": 506,
     "titulo": "Ghost of Yotei",
@@ -3512,8 +3687,9 @@
       "images/ps5/Ghost_of_Yotei.JPEG",
       "images/ps5/Ghost_of_Yotei-inside.JPEG",
       "images/ps5/Ghost_of_Yotei-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 40.47
+  },
   {
     "id": 507,
     "titulo": "YAkuza Like a Dragon Infinite Wealth",
@@ -3529,8 +3705,9 @@
       "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth.JPEG",
       "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth-inside.JPEG",
       "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealthback.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 508,
     "titulo": "Final Fantasy XVI",
@@ -3546,8 +3723,9 @@
       "images/ps5/FFXVI.JPEG",
       "images/ps5/FFXVI-inside.JPEG",
       "images/ps5/FFXVI-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 14.68
+  },
   {
     "id": 509,
     "titulo": "Final Fantasy VII Remake",
@@ -3562,8 +3740,9 @@
     "imagenes": [
       "images/ps5/FFVII_Remake.JPEG",
       "images/ps5/FFVII_Remake-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 510,
     "titulo": "Returnal",
@@ -3579,8 +3758,9 @@
       "images/ps5/Returnal.JPEG",
       "images/ps5/Returnal-inside.JPEG",
       "images/ps5/Returnal-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 18.77
+  },
   {
     "id": 511,
     "titulo": "The Stanley Parable",
@@ -3595,8 +3775,9 @@
     "imagenes": [
       "images/ps5/The_Stanley_parable.JPEG",
       "images/ps5/The_Stanley_parable-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 512,
     "titulo": "Prince Persia Lost Crown",
@@ -3611,8 +3792,9 @@
     "imagenes": [
       "images/ps5/Prince_persia_lost_crown.JPEG",
       "images/ps5/Prince_persia_lost_crown-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 513,
     "titulo": "Stray",
@@ -3627,8 +3809,9 @@
     "imagenes": [
       "images/ps5/Stray.JPEG",
       "images/ps5/Stray-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 20.9
+  },
   {
     "id": 514,
     "titulo": "Horizon Forbidden West",
@@ -3643,8 +3826,9 @@
     "imagenes": [
       "images/ps5/Horizon_Forbidden_West.JPEG",
       "images/ps5/Horizon_Forbidden_West-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 18.63
+  },
   {
     "id": 515,
     "titulo": "Hell is US",
@@ -3659,13 +3843,14 @@
     "imagenes": [
       "images/ps5/Hell_is_US.JPEG",
       "images/ps5/Hell_is_US-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 15.78
+  },
   {
     "id": 516,
     "titulo": "Tomb Raider Remastered",
     "plataforma": "PlayStation 5",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Jugando",
     "region": "PAL ESP",
     "portada": "images/ps5/Tomb_Raider_Remastered.JPEG",
@@ -3676,13 +3861,14 @@
       "images/ps5/Tomb_Raider_Remastered.JPEG",
       "images/ps5/Tomb_Raider_Remastered-side.JPEG",
       "images/ps5/Tomb_Raider_Remastered-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 517,
     "titulo": "Alan Wake 2",
     "plataforma": "PlayStation 5",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Jugando",
     "region": "PAL ESP",
     "portada": "images/ps5/Alan_Wake2.JPEG",
@@ -3693,8 +3879,9 @@
       "images/ps5/Alan_Wake2.JPEG",
       "images/ps5/Alan_Wake2-inside.JPEG",
       "images/ps5/Alan_Wake2-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 518,
     "titulo": "Jedi Suvirvor",
@@ -3710,13 +3897,14 @@
       "images/ps5/Jedi_suvirvor.JPEG",
       "images/ps5/Jedi_suvirvor-insie.JPEG",
       "images/ps5/Jedi_suvirvor-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 519,
     "titulo": "Expedition 33",
     "plataforma": "PlayStation 5",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
     "portada": "images/ps5/Expedition33.JPEG",
@@ -3727,8 +3915,9 @@
       "images/ps5/Expedition33.JPEG",
       "images/ps5/Expedition33-inside.JPEG",
       "images/ps5/Expedition33-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 520,
     "titulo": "Suicide Squad",
@@ -3744,8 +3933,9 @@
       "images/ps5/Suicide_Squad.JPEG",
       "images/ps5/Suicide_Squad-insie.JPEG",
       "images/ps5/Suicide_Squad-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 0.0
+  },
   {
     "id": 521,
     "titulo": "Robocop Rogue City",
@@ -3761,8 +3951,9 @@
       "images/ps5/Robocop_Rogue_city.JPEG",
       "images/ps5/Robocop_Rogue_city-inside.JPEG",
       "images/ps5/Robocop_Rogue_city-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 13.12
+  },
   {
     "id": 522,
     "titulo": "Kingdom Come Deliverance 2",
@@ -3777,8 +3968,9 @@
     "imagenes": [
       "images/ps5/Kingdom_come_deliverance2.JPEG",
       "images/ps5/Kingdom_come_deliverance2-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 20.08
+  },
   {
     "id": 523,
     "titulo": "Sea_of_Stars",
@@ -3793,8 +3985,9 @@
     "imagenes": [
       "images/ps5/Sea_of_Strars.JPEG",
       "images/ps5/Sea_of_Strars-back.JPEG"
-    ]
-  },  
+    ],
+    "precio": 28.44
+  },
   {
     "id": 525,
     "titulo": "Resident Evil VILLage",
@@ -3809,13 +4002,14 @@
     "imagenes": [
       "images/ps5/resident_evil_village.JPEG",
       "images/ps5/resident_evil_village-back.JPEG"
-    ]
-  },   
+    ],
+    "precio": 15.48
+  },
   {
     "id": 526,
-    "titulo": "Indiana Jones y el Gran Círculo", 
+    "titulo": "Indiana Jones y el Gran Círculo",
     "plataforma": "PlayStation 5",
-    "prestadoA": "", 
+    "prestadoA": "",
     "estado_filtro": "Pendiente",
     "region": "PAL ESP",
     "portada": "images/ps5/Indiana_Jones_Gran_Circulo.JPEG",
@@ -3826,7 +4020,8 @@
       "images/ps5/Indiana_Jones_Gran_Circulo.JPEG",
       "images/ps5/Indiana_Jones_Gran_CIrculo-inside.JPEG",
       "images/ps5/Indiana_Jones_Gran_Circulo-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 527,
@@ -3842,7 +4037,8 @@
     "imagenes": [
       "images/ps5/TheThauma.JPEG",
       "images/ps5/TheThauma-back.JPEG"
-    ]
+    ],
+    "precio": 18.16
   },
   {
     "id": 528,
@@ -3858,7 +4054,8 @@
     "imagenes": [
       "images/ps5/Skull_and_Bones.jpg",
       "images/ps5/Skull_and_Bones-back.jpg"
-    ]
+    ],
+    "precio": 8.34
   },
   {
     "id": 529,
@@ -3874,7 +4071,8 @@
     "imagenes": [
       "images/ps5/The_Lord_Of_The_Rings_Gollum.jpg",
       "images/ps5/The_Lord_Of_The_Rings_Gollum-back.jpg"
-    ]
+    ],
+    "precio": 0.0
   },
   {
     "id": 530,
@@ -3890,7 +4088,8 @@
     "imagenes": [
       "images/ps5/PRAGMATA.JPEG",
       "images/ps5/PRAGMATA-back.JPEG"
-    ]
+    ],
+    "precio": 42.98
   },
   {
     "id": 531,
@@ -3906,7 +4105,8 @@
     "imagenes": [
       "images/ps5/TAPE.JPEG",
       "images/ps5/TAPE-back.JPEG"
-    ]
+    ],
+    "precio": 21.82
   },
   {
     "id": 532,
@@ -3922,7 +4122,8 @@
     "imagenes": [
       "images/ps5/Stellar_Blade.JPEG",
       "images/ps5/Stellar_Blade-back.JPEG"
-    ]
+    ],
+    "precio": 37.76
   },
   {
     "id": 533,
@@ -3938,9 +4139,9 @@
     "imagenes": [
       "images/ps5/castlevania.JPEG",
       "images/ps5/castlevania-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   },
-  
   {
     "id": 524,
     "titulo": "Soul Reaver Remastered",
@@ -3955,6 +4156,7 @@
     "imagenes": [
       "images/ps5/Soul_Reaver_Remastered.JPEG",
       "images/ps5/Soul_Reaver_Remastered-back.JPEG"
-    ]
+    ],
+    "precio": 0.0
   }
 ]
