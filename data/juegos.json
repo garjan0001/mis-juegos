@@ -3638,7 +3638,7 @@
   },
   {
     "id": 504,
-    "titulo": "Tormented Soul 2",
+    "titulo": "Tormented Souls II",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -3652,7 +3652,7 @@
       "images/ps5/Tormented_soul2-inside.JPEG",
       "images/ps5/Tormented_soul2-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 22.0
   },
   {
     "id": 505,
@@ -3692,7 +3692,7 @@
   },
   {
     "id": 507,
-    "titulo": "YAkuza Like a Dragon Infinite Wealth",
+    "titulo": "Like A Dragon: Infinite Wealth",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Jugando",
@@ -3706,7 +3706,7 @@
       "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealth-inside.JPEG",
       "images/ps5/YAkuza_Like_a_Dragon_Infinite_Wealthback.JPEG"
     ],
-    "precio": 0.0
+    "precio": 17.0
   },
   {
     "id": 508,
@@ -3728,7 +3728,7 @@
   },
   {
     "id": 509,
-    "titulo": "Final Fantasy VII Remake",
+    "titulo": "Final Fantasy VII Remake Intergrade",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3741,7 +3741,7 @@
       "images/ps5/FFVII_Remake.JPEG",
       "images/ps5/FFVII_Remake-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 22.0
   },
   {
     "id": 510,
@@ -3763,7 +3763,7 @@
   },
   {
     "id": 511,
-    "titulo": "The Stanley Parable",
+    "titulo": "The Stanley Parable Ultra Deluxe",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3776,11 +3776,11 @@
       "images/ps5/The_Stanley_parable.JPEG",
       "images/ps5/The_Stanley_parable-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 40.0
   },
   {
     "id": 512,
-    "titulo": "Prince Persia Lost Crown",
+    "titulo": "Prince Of Persia: The Lost Crown",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -3793,7 +3793,7 @@
       "images/ps5/Prince_persia_lost_crown.JPEG",
       "images/ps5/Prince_persia_lost_crown-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 11.0
   },
   {
     "id": 513,
@@ -3848,7 +3848,7 @@
   },
   {
     "id": 516,
-    "titulo": "Tomb Raider Remastered",
+    "titulo": "Tomb Raider I-III Remastered [Deluxe Edition]",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Jugando",
@@ -3862,11 +3862,11 @@
       "images/ps5/Tomb_Raider_Remastered-side.JPEG",
       "images/ps5/Tomb_Raider_Remastered-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 40.0
   },
   {
     "id": 517,
-    "titulo": "Alan Wake 2",
+    "titulo": "Alan Wake II: Deluxe Edition",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Jugando",
@@ -3880,11 +3880,11 @@
       "images/ps5/Alan_Wake2-inside.JPEG",
       "images/ps5/Alan_Wake2-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 25.0
   },
   {
     "id": 518,
-    "titulo": "Jedi Suvirvor",
+    "titulo": "Star Wars Jedi: Survivor",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Jugando",
@@ -3898,11 +3898,11 @@
       "images/ps5/Jedi_suvirvor-insie.JPEG",
       "images/ps5/Jedi_suvirvor-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 12.0
   },
   {
     "id": 519,
-    "titulo": "Expedition 33",
+    "titulo": "Clair Obscur: Expedition 33",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3916,11 +3916,11 @@
       "images/ps5/Expedition33-inside.JPEG",
       "images/ps5/Expedition33-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 26.0
   },
   {
     "id": 520,
-    "titulo": "Suicide Squad",
+    "titulo": "Suicide Squad: Kill The Justice League",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -3934,7 +3934,7 @@
       "images/ps5/Suicide_Squad-insie.JPEG",
       "images/ps5/Suicide_Squad-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 521,
@@ -4007,7 +4007,7 @@
   },
   {
     "id": 526,
-    "titulo": "Indiana Jones y el Gran Círculo",
+    "titulo": "Indiana Jones And The Great Circle",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -4021,7 +4021,7 @@
       "images/ps5/Indiana_Jones_Gran_CIrculo-inside.JPEG",
       "images/ps5/Indiana_Jones_Gran_Circulo-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 60.0
   },
   {
     "id": 527,
@@ -4059,7 +4059,7 @@
   },
   {
     "id": 529,
-    "titulo": "The Lord Of The Rings Gollum",
+    "titulo": "Lord of the Rings: Gollum",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -4072,7 +4072,7 @@
       "images/ps5/The_Lord_Of_The_Rings_Gollum.jpg",
       "images/ps5/The_Lord_Of_The_Rings_Gollum-back.jpg"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 530,
@@ -4127,7 +4127,7 @@
   },
   {
     "id": 533,
-    "titulo": "Castlevania Belmonts Curse Midnight Edition",
+    "titulo": "Castlevania: Belmont's Curse: Midnight Edition [Night One]",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -4140,11 +4140,11 @@
       "images/ps5/castlevania.JPEG",
       "images/ps5/castlevania-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 25.0
   },
   {
     "id": 524,
-    "titulo": "Soul Reaver Remastered",
+    "titulo": "Legacy Of Kain Soul Reaver 1 & 2 Remastered [Deluxe Edition]",
     "plataforma": "PlayStation 5",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -4157,6 +4157,6 @@
       "images/ps5/Soul_Reaver_Remastered.JPEG",
       "images/ps5/Soul_Reaver_Remastered-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 35.0
   }
 ]
