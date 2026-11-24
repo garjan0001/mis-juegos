@@ -424,7 +424,7 @@
       "images/ps2/Eigteen_wheeler-inside.jpeg",
       "images/ps2/Eigteen_wheeler-back.jpeg"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 103,
@@ -441,7 +441,7 @@
       "images/ps2/CAll_of_Duty_World_at_War.jpg",
       "images/ps2/CAll_of_Duty_World_at_War-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 104,
@@ -459,7 +459,7 @@
       "images/ps2/Crash_Bandicoot_wrath_cortex-inside.JPEG",
       "images/ps2/Crash_Bandicoot_wrath_cortex-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 105,
@@ -549,7 +549,7 @@
       "images/ps2/Dogs_life-INSIDE.JPEG",
       "images/ps2/Dogs_life-BACK.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 110,
@@ -567,7 +567,7 @@
       "images/ps2/Evil_Twin-inside.JPEG",
       "images/ps2/Evil_Twin-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 111,
@@ -747,7 +747,7 @@
       "images/ps2/GTA-inside.JPEG",
       "images/ps2/GTA-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 20.0
   },
   {
     "id": 121,
@@ -801,7 +801,7 @@
       "images/ps2/leyenda_spyro-inside.JPEG",
       "images/ps2/leyenda_spyro-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 124,
@@ -837,7 +837,7 @@
       "images/ps2/lego-starwar2-inside.JPEG",
       "images/ps2/lego-starwar2-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 126,
@@ -927,7 +927,7 @@
       "images/ps2/onimusha-inside.JPEG",
       "images/ps2/onimusha-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 131,
@@ -1017,7 +1017,7 @@
       "images/ps2/Disney_Ratatouille-inside.JPEG",
       "images/ps2/Disney_Ratatouille-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 137,
@@ -1035,7 +1035,7 @@
       "images/ps2/RC_tamaño-inside.JPEG",
       "images/ps2/RC_tamaño-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 30.0
   },
   {
     "id": 138,
@@ -1089,7 +1089,7 @@
       "images/ps2/REveronica-inside.JPEG",
       "images/ps2/REveronica-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 141,
@@ -1107,7 +1107,7 @@
       "images/ps2/SXR-inside.JPEG",
       "images/ps2/SXR-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 142,
@@ -1125,7 +1125,7 @@
       "images/ps2/Señor_anillos_dos_torres-inside.JPEG",
       "images/ps2/Señor_anillos_dos_torres-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 143,
@@ -1179,7 +1179,7 @@
       "images/ps2/Socom2-inside.JPEG",
       "images/ps2/Socom2-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 146,
@@ -1197,7 +1197,7 @@
       "images/ps2/Socom_3-inside.JPEG",
       "images/ps2/Socom_3-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 147,
@@ -1377,7 +1377,7 @@
       "images/ps2/Tekken_tag-inside.JPEG",
       "images/ps2/Tekken_tag-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 7.0
   },
   {
     "id": 157,
@@ -1413,7 +1413,7 @@
       "images/ps2/Disney_think_fast-inside.JPEG",
       "images/ps2/Disney_think_fast-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 159,
@@ -1449,7 +1449,7 @@
       "images/ps2/LaraCroft_angel-inside.JPEG",
       "images/ps2/LaraCroft_angel-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 8.0
   },
   {
     "id": 161,
@@ -1485,7 +1485,7 @@
       "images/ps2/juiced2-inside.JPEG",
       "images/ps2/juiced2-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 163,
@@ -1575,7 +1575,7 @@
       "images/ps2/BUZZ-inside.JPEG",
       "images/ps2/BUZZ-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 168,
@@ -1682,7 +1682,7 @@
       "images/ps2/PES5-inside.JPEG",
       "images/ps2/PES5-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 174,
@@ -1790,7 +1790,7 @@
       "images/ps2/Roland_garros_2005-inside.JPEG",
       "images/ps2/Roland_garros_2005-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 3.0
   },
   {
     "id": 180,
