@@ -221,7 +221,7 @@
       "images/ps1/FFVII-back.jpeg",
       "images/ps1/FFVII-side.jpeg"
     ],
-    "precio": 0.0
+    "precio": 30.0
   },
   {
     "id": 13,
@@ -239,7 +239,7 @@
       "images/ps1/AIR_COMBAT-inside.jpeg",
       "images/ps1/AIR_COMBAT-back.jpeg"
     ],
-    "precio": 0.0
+    "precio": 40.0
   },
   {
     "id": 14,
@@ -258,7 +258,7 @@
       "images/ps1/TEKKEN3-back.jpeg",
       "images/ps1/TEKKEN3-side.jpeg"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 15,
@@ -278,7 +278,7 @@
       "images/ps1/FFIX-back.jpeg",
       "images/ps1/FFIX-side.jpeg"
     ],
-    "precio": 0.0
+    "precio": 50.0
   },
   {
     "id": 16,
@@ -296,7 +296,7 @@
       "images/ps1/FF_Anthology-inside.jpeg",
       "images/ps1/FF_Anthology-back.jpeg"
     ],
-    "precio": 0.0
+    "precio": 70.0
   },
   {
     "id": 17,
@@ -331,7 +331,7 @@
       "images/ps1/Everybodys_golf2.jpeg",
       "images/ps1/Everybodys_golf2-inside.jpeg"
     ],
-    "precio": 0.0
+    "precio": 20.0
   },
   {
     "id": 19,
@@ -369,7 +369,7 @@
       "images/ps1/tombraider2-back.jpeg",
       "images/ps1/tombraider2-side.jpeg"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 21,
