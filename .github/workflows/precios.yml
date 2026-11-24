@@ -1,0 +1,35 @@
+name: Actualizar precios de la colección
+
+on:
+  schedule:
+    # Se ejecuta cada lunes a las 04:00 UTC
+    - cron: '0 4 * * 1'
+  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar-precios:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Ejecutar script de precios
+        run: python actualizar_precios.py
+
+      - name: Guardar cambios en juegos.json
+        run: |
+          git config --local user.email "github-actions[bot]@://github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/juegos.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Actualización automática de precios" && git push)
