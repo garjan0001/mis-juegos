@@ -463,7 +463,7 @@
   },
   {
     "id": 105,
-    "titulo": "Crash Guerra al Coco Maniaco",
+    "titulo": "Crash Mind Over Mutant",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -733,7 +733,7 @@
   },
   {
     "id": 120,
-    "titulo": "GTA San Andreas",
+    "titulo": "Grand Theft Auto San Andreas",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -805,12 +805,12 @@
   },
   {
     "id": 124,
-    "titulo": "Lego Indiana",
+    "titulo": "LEGO Indiana Jones: The Original Adventures",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps2/Lego_Indiana.jpg",
+    "portada": "images/ps2/lego-indi.JPEG",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Lego Indiana Jones: The Original Adventures es un divertido videojuego de acción, aventura y plataformas lanzado en junio de 2008 para la consola PlayStation 2, desarrollado por Traveller's Tales y publicado por LucasArts. Siguiendo el enorme éxito de la saga Lego Star Wars, este título adaptó por primera vez el universo del famoso arqueólogo al formato de bloques de juguete, manteniendo su característico humor mudo y su jugabilidad cooperativa.",
@@ -855,7 +855,7 @@
       "images/ps2/locos_surf-inside.JPEG",
       "images/ps2/locos_surf-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 127,
@@ -972,7 +972,7 @@
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps2/motoGP4.jpg",
+    "portada": "images/ps2/motogp4.JPEG",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "MotoGP 4 es considerado de forma unánime por la crítica y los aficionados como el mejor videojuego de motociclismo de la era de PlayStation 2. Lanzado en septiembre de 2005, fue el último juego de la franquicia desarrollado por la mítica compañía Namco, despidiéndose de la consola con un despliegue masivo de contenido y físicas pulidas al máximo.",
@@ -1147,7 +1147,7 @@
   },
   {
     "id": 144,
-    "titulo": "Socom",
+    "titulo": "SOCOM US Navy Seals",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1165,7 +1165,7 @@
   },
   {
     "id": 145,
-    "titulo": "Socom 2",
+    "titulo": "SOCOM II US Navy Seals",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1183,7 +1183,7 @@
   },
   {
     "id": 146,
-    "titulo": "Socom 3",
+    "titulo": "SOCOM 3 US Navy Seals",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 147,
-    "titulo": "Socom Combined Assault",
+    "titulo": "SOCOM US Navy Seals Combined Assault",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1309,12 +1309,12 @@
   },
   {
     "id": 153,
-    "titulo": "Super Bust a Move",
+    "titulo": "Super Bust-a-Move",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps2/Super_Bust_a_Move.jpg",
+    "portada": "images/ps2/super_bust.JPEG",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Super Bust-A-Move (conocido en Japón como Super Puzzle Bobble) es un adictivo videojuego de puzles arcade lanzado para la consola PlayStation 2 en noviembre de 2000 (llegando a Europa en 2001). Desarrollado por Taito y publicado por Acclaim, fue una de las primeras entregas en dar el salto a la sexta generación de consolas, manteniendo la clásica y exitosa fórmula de lanzar burbujas pero renovando por completo el apartado visual y el diseño de los personajes.",
@@ -1327,12 +1327,12 @@
   },
   {
     "id": 154,
-    "titulo": "Disney Tarzan",
+    "titulo": "Tarzan Untamed",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps2/Tarzan.jpg",
+    "portada": "images/ps2/Disney_tarzan.JPEG",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Disney's Tarzan: Freeride (conocido en Norteamérica como Tarzan: Untamed) es un videojuego de acción y aventura lanzado para PlayStation 2 en noviembre de 2001. Desarrollado por Ubisoft Montreal, este título funciona como una secuela directa de la película animada de 1999, expandiendo la franquicia con una historia completamente nueva que mezcla el plataformeo tradicional con mecánicas inspiradas en los deportes extremos.",
@@ -1435,7 +1435,7 @@
   },
   {
     "id": 160,
-    "titulo": "Lara Croft, Tomb Raider el Angel de la Oscuridad",
+    "titulo": "Tomb Raider Angel of Darkness",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 167,
-    "titulo": "BUZZ",
+    "titulo": "Buzz Das Mega-Quiz",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1776,7 +1776,7 @@
   },
   {
     "id": 179,
-    "titulo": "Roland Garros 2005",
+    "titulo": "Roland Garros Paris 2005",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
