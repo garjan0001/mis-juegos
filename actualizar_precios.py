@@ -90,6 +90,9 @@ def generar_variantes_slug(titulo):
         'god-of-war-ii': 'god-of-war-2',
         'god-of-war-triologia': 'god-of-war-trilogy',
         'f1-champ-edition': 'formula-one-championship-edition',
+        'Final Fantasy VII': 'Final Fantasy 7',
+        'Final Fantasy IX': 'Final Fantasy 9',
+        'TEKKEN 3': 'TEKKEN III',
         'blazing-angels': 'blazing-angels-squadrons-of-wwii'
     }
     for k, v in REEMPLAZOS_COMUNES.items():
