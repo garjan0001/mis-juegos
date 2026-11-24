@@ -1902,7 +1902,7 @@
   },
   {
     "id": 301,
-    "titulo": "Everybodys Golf World Tour",
+    "titulo": "Everybody's Golf: World Tour",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -1974,7 +1974,7 @@
   },
   {
     "id": 305,
-    "titulo": "God of War Triologia",
+    "titulo": "God of War Collection",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1989,11 +1989,11 @@
       "images/ps3/God_off_War_Triologia-inside2.JPEG",
       "images/ps3/God_off_War_Triologia-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 30.0
   },
   {
     "id": 306,
-    "titulo": "Metal Gear Solid: The Legacy Collection 2013",
+    "titulo": "Metal Gear Solid: The Legacy Collection",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2084,7 +2084,7 @@
   },
   {
     "id": 311,
-    "titulo": "Blazing Angels",
+    "titulo": "Blazing Angels Squadrons of WWII",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -2098,7 +2098,7 @@
       "images/ps3/blazing_angels-inside.JPEG",
       "images/ps3/blazing_angels-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 312,
@@ -2192,7 +2192,7 @@
   },
   {
     "id": 317,
-    "titulo": "House of The Dead Overkill",
+    "titulo": "The House Of The Dead Overkill Extended Cut",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2206,7 +2206,7 @@
       "images/ps3/house_of_dead_overkill-inside.JPEG",
       "images/ps3/house_of_dead_overkill-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 20.0
   },
   {
     "id": 318,
@@ -2264,7 +2264,7 @@
   },
   {
     "id": 321,
-    "titulo": "Metal Gear 4",
+    "titulo": "Metal Gear Solid 4 Guns of the Patriots",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2278,7 +2278,7 @@
       "images/ps3/metal_gear4-inside.JPEG",
       "images/ps3/metal_gear4-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 322,
@@ -2318,7 +2318,7 @@
   },
   {
     "id": 324,
-    "titulo": "Stunman Ignition",
+    "titulo": "Stuntman Ignition",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -2332,11 +2332,11 @@
       "images/ps3/stunman_ignition-inside.JPEG",
       "images/ps3/stunman_ignition-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 6.0
   },
   {
     "id": 325,
-    "titulo": "Uncharted El tesoro de Drake",
+    "titulo": "Uncharted Drake's Fortune",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2350,16 +2350,16 @@
       "images/ps3/uncharted-inside.JPEG",
       "images/ps3/uncharted-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 6.0
   },
   {
     "id": 326,
-    "titulo": "Uncharted 2 El reino de los ladores",
+    "titulo": "Uncharted 2: Among Thieves",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps3/uncharted2.jpg",
+    "portada": "images/ps3/uncharted2.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Uncharted 2: El reino de los ladores para PlayStation 3 (conocido en inglés como Among Thieves) es un videojuego de acción y aventura en tercera persona desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. Lanzado en octubre de 2009, es considerado de forma unánime como uno de los mejores videojuegos de la historia y el techo técnico indiscutible de su generación, ganando más de 200 premios al Juego del Año (GOTY).",
@@ -2368,16 +2368,16 @@
       "images/ps3/uncharted2-inside.JPEG",
       "images/ps3/uncharted2-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 6.0
   },
   {
     "id": 327,
-    "titulo": "Uncharted 3 La traición de Drake ",
+    "titulo": "Uncharted 3: Drake's Deception",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps3/uncharted3.jpg",
+    "portada": "images/ps3/uncharted3.JPEG",
     "favorito": false,
     "estado": "Buen estado general, con si manual y disco correcto",
     "descripcion": "Uncharted 3: La traición de Drake para PlayStation 3 (conocido en inglés como Drake's Deception) es un videojuego de acción y aventura en tercera persona desarrollado por Naughty Dog y publicado por Sony Computer Entertainment. Lanzado en noviembre de 2011, supuso el espectacular cierre de la trilogía original en la consola, enfocándose en un despliegue visual cinematográfico sin precedentes y en profundizar en los lazos afectivos de sus protagonistas.",
@@ -2386,7 +2386,7 @@
       "images/ps3/uncharted3-inside.JPEG",
       "images/ps3/uncharted3-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 6.0
   },
   {
     "id": 328,
@@ -2402,7 +2402,7 @@
     "imagenes": [
       "images/ps3/Play_station_move.jpg"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 329,
@@ -2439,7 +2439,7 @@
   },
   {
     "id": 331,
-    "titulo": "SingStar POP 2009",
+    "titulo": "SingStar Pop Edition",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2453,11 +2453,11 @@
       "images/ps3/SingStarPOP2009-inside.JPEG",
       "images/ps3/SingStarPOP2009-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 332,
-    "titulo": "Red Dead Rendemtion",
+    "titulo": "Red Dead Redemption",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2471,7 +2471,7 @@
       "images/ps3/RedDeadRendemtion-inside.JPEG",
       "images/ps3/RedDeadRendemtion-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 333,
@@ -2561,7 +2561,7 @@
       "images/ps3/MirrorsEdge-inside.JPEG",
       "images/ps3/MirrorsEdge-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 337,
@@ -2619,7 +2619,7 @@
   },
   {
     "id": 340,
-    "titulo": "La Tierra Media: Sombras de Mordor",
+    "titulo": "Middle Earth: Shadow of Mordor",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -2633,7 +2633,7 @@
       "images/ps3/SombrasMordOr-inside.JPEG",
       "images/ps3/SombrasMordOr-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 8.0
   },
   {
     "id": 341,
@@ -2673,7 +2673,7 @@
   },
   {
     "id": 343,
-    "titulo": "GTA 5",
+    "titulo": "Grand Theft Auto V",
     "plataforma": "PlayStation 3",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -2687,7 +2687,7 @@
       "images/ps3/gta5-inside.JPEG",
       "images/ps3/gta5-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 401,
