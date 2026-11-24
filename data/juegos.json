@@ -2691,7 +2691,7 @@
   },
   {
     "id": 401,
-    "titulo": "BloodStained",
+    "titulo": "Bloodstained: Ritual of the Night",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -2705,7 +2705,7 @@
       "images/ps4/BloodStained-inside.JPEG",
       "images/ps4/BloodStained-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 12.0
   },
   {
     "id": 402,
@@ -2780,7 +2780,7 @@
   },
   {
     "id": 406,
-    "titulo": "Starklink",
+    "titulo": "Starlink: Battle for Atlas [Starter Pack]",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -2792,7 +2792,7 @@
     "imagenes": [
       "images/ps4/Starklink.jpg"
     ],
-    "precio": 0.0
+    "precio": 20.0
   },
   {
     "id": 407,
@@ -2813,7 +2813,7 @@
   },
   {
     "id": 408,
-    "titulo": "Dredge",
+    "titulo": "Dredge: Deluxe Edition",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2900,7 +2900,7 @@
   },
   {
     "id": 413,
-    "titulo": "Guardianes de la galaxia",
+    "titulo": "Marvel's Guardians of the Galaxy",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -2913,7 +2913,7 @@
       "images/ps4/Guardianes.JPEG",
       "images/ps4/Guardianes-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 414,
@@ -2988,7 +2988,7 @@
   },
   {
     "id": 419,
-    "titulo": "The Last of Us",
+    "titulo": "The Last of Us Remastered",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
@@ -2999,11 +2999,11 @@
     "imagenes": [
       "images/ps4/the_last_us.JPG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 420,
-    "titulo": "The Last of Us 2",
+    "titulo": "The Last of Us Part II",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
@@ -3014,11 +3014,11 @@
     "imagenes": [
       "images/ps4/the_last_us2.JPG"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 421,
-    "titulo": "Lego Marvel",
+    "titulo": "LEGO Marvel Super Heroes",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -3032,11 +3032,11 @@
       "images/ps4/Lego_Marvel-inside.JPEG",
       "images/ps4/Lego_Marvel-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 6.0
   },
   {
     "id": 422,
-    "titulo": "Uncharted 4",
+    "titulo": "Uncharted 4 A Thief's End",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3050,11 +3050,11 @@
       "images/ps4/Uncharted4-inside.JPEG",
       "images/ps4/Uncharted4-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 9.0
   },
   {
     "id": 423,
-    "titulo": "Red Dead Rendemtion 2",
+    "titulo": "Red Dead Redemption 2",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
@@ -3065,11 +3065,11 @@
     "imagenes": [
       "images/ps4/red_dead_revolver2.JPG"
     ],
-    "precio": 0.0
+    "precio": 13.0
   },
   {
     "id": 424,
-    "titulo": "God of War 2018",
+    "titulo": "God of War",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
@@ -3080,7 +3080,7 @@
     "imagenes": [
       "images/ps4/god_of_war2018.JPG"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 425,
@@ -3099,7 +3099,7 @@
   },
   {
     "id": 426,
-    "titulo": "Titan Fall 2",
+    "titulo": "Titanfall 2",
     "plataforma": "PlayStation 4",
     "prestadoA": "Jose H Vane",
     "region": "PAL ESP",
@@ -3110,7 +3110,7 @@
     "imagenes": [
       "images/ps4/titanfall2.JPG"
     ],
-    "precio": 0.0
+    "precio": 7.0
   },
   {
     "id": 427,
@@ -3155,7 +3155,7 @@
     "imagenes": [
       "images/ps4/singstar_megahits.JPG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 430,
@@ -3206,7 +3206,7 @@
   },
   {
     "id": 433,
-    "titulo": "MotoGp17",
+    "titulo": "MotoGP 17",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -3220,7 +3220,7 @@
       "images/ps4/motoGp17-inside.JPEG",
       "images/ps4/motoGp17-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 5.0
   },
   {
     "id": 434,
@@ -3242,7 +3242,7 @@
   },
   {
     "id": 435,
-    "titulo": "Nier Replicant",
+    "titulo": "NieR Replicant Ver.1.22474487139",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3255,11 +3255,11 @@
       "images/ps4/Nier-REp.JPEG",
       "images/ps4/Nier-REp-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 20.0
   },
   {
     "id": 436,
-    "titulo": "No Mans Sky",
+    "titulo": "No Man's Sky",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -3272,7 +3272,7 @@
       "images/ps4/No_man_sky.JPEG",
       "images/ps4/No_man_sky-inside.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 437,
@@ -3294,7 +3294,7 @@
   },
   {
     "id": 438,
-    "titulo": "Resident Evil 2 Remake",
+    "titulo": "Resident Evil 2",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3307,11 +3307,11 @@
       "images/ps4/RE2_remake.JPEG",
       "images/ps4/RE2_remake-back.JPEG"
     ],
-    "precio": 0.0
+    "precio":10.0
   },
   {
     "id": 439,
-    "titulo": "Resident Evil 3 remake",
+    "titulo": "Resident Evil 3",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3324,7 +3324,7 @@
       "images/ps4/RE_remake.JPEG",
       "images/ps4/RE_remake-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 15.0
   },
   {
     "id": 440,
@@ -3362,7 +3362,7 @@
   },
   {
     "id": 442,
-    "titulo": "Resident Evil VII",
+    "titulo": "Resident Evil 7 Biohazard",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3375,7 +3375,7 @@
       "images/ps4/RE7.JPEG",
       "images/ps4/RE7-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 11.0
   },
   {
     "id": 443,
@@ -3430,7 +3430,7 @@
   },
   {
     "id": 446,
-    "titulo": "Uncharted El legado perdido",
+    "titulo": "Uncharted: The Lost Legacy",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -3444,7 +3444,7 @@
       "images/ps4/Uncharted_legacy-inside.JPEG",
       "images/ps4/Uncharted_legacy-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 10.0
   },
   {
     "id": 447,
@@ -3465,7 +3465,7 @@
   },
   {
     "id": 448,
-    "titulo": "The Witcher 3",
+    "titulo": "Witcher 3: Wild Hunt",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -3479,7 +3479,7 @@
       "images/ps4/The_witcher3-inside.JPEG",
       "images/ps4/The_witcher3-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 12.0
   },
   {
     "id": 449,
@@ -3567,7 +3567,7 @@
   },
   {
     "id": 454,
-    "titulo": "La Tierra Media: Sombras de Guerra",
+    "titulo": "Middle Earth: Shadow of War",
     "plataforma": "PlayStation 4",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -3581,7 +3581,7 @@
       "images/ps4/SombrasGuerra-inside.JPEG",
       "images/ps4/SombrasGuerra-back.JPEG"
     ],
-    "precio": 0.0
+    "precio": 9.0
   },
   {
     "id": 501,
