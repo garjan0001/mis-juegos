@@ -538,6 +538,45 @@ function actualizarEstadisticas() {
     barJugandoText.textContent = jugando;
     barPendientesText.textContent = pendientes;
     barPrestadosText.textContent = prestados;
+
+    // 1. Suma total (ya lo tienes, asegúrate de que quede así)
+    const valorTotal = juegosFiltrados.reduce((sum, j) => sum + (parseFloat(j.precio) || 0), 0);
+    const valorTotalEl = document.getElementById('valor-total');
+    if (valorTotalEl) {
+        valorTotalEl.textContent = valorTotal.toLocaleString('es-ES', {
+            style: 'currency',
+            currency: 'EUR'
+        });
+    }
+    
+    // 2. Podio dinámico de los 3 juegos más valiosos
+    const podioEl = document.getElementById('podio-juegos');
+    if (podioEl) {
+        const top3 = [...juegosFiltrados]
+            .filter(j => (parseFloat(j.precio) || 0) > 0)
+            .sort((a, b) => (parseFloat(b.precio) || 0) - (parseFloat(a.precio) || 0))
+            .slice(0, 3);
+    
+        const medallas = ['🥇', '🥈', '🥉'];
+    
+        if (top3.length === 0) {
+            podioEl.innerHTML = '<li class="podio-vacio">Sin precios registrados</li>';
+        } else {
+            podioEl.innerHTML = top3.map((juego, idx) => {
+                const precioFormateado = (parseFloat(juego.precio) || 0).toLocaleString('es-ES', {
+                    style: 'currency',
+                    currency: 'EUR'
+                });
+                return `
+                    <li class="podio-item">
+                        <span class="podio-titulo">${medallas[idx]} <strong>${juego.titulo}</strong> <small>(${juego.plataforma})</small></span>
+                        <span class="podio-precio">${precioFormateado}</span>
+                    </li>
+                `;
+            }).join('');
+        }
+    }
+
     
     const headerSub = document.getElementById('total-juegos-header');
     if (headerSub) headerSub.textContent = `${total} juegos · ${new Set(juegos.map(j => j.plataforma)).size} plataformas`;
