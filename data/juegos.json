@@ -128,7 +128,7 @@
       "images/ps1/Spyro_2-inside-.jpeg",
       "images/ps1/Spyro_2-back-.jpeg"
     ],
-    "precio": 0.0
+    "precio": 30.0
   },
   {
     "id": 8,
@@ -165,7 +165,7 @@
       "images/ps1/Xmen_2-back-.jpeg",
       "images/ps1/Xmen_2-side-.jpeg"
     ],
-    "precio": 0.0
+    "precio": 20.0
   },
   {
     "id": 10,
