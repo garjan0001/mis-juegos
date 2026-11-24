@@ -410,7 +410,7 @@
   },
   {
     "id": 102,
-    "titulo": "18 Eigteen Wheeler",
+    "titulo": "18 Wheeler American Pro Trucker",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -428,7 +428,7 @@
   },
   {
     "id": 103,
-    "titulo": "Call of Duty World at War",
+    "titulo": "Call of Duty World at War Final Fronts",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -445,7 +445,7 @@
   },
   {
     "id": 104,
-    "titulo": "Crash Bandicoot Wrath Cortex",
+    "titulo": "Crash Bandicoot The Wrath of Cortex",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -535,7 +535,7 @@
   },
   {
     "id": 109,
-    "titulo": "Dogs Life",
+    "titulo": "Dog's Life",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -553,7 +553,7 @@
   },
   {
     "id": 110,
-    "titulo": "Evil Twin",
+    "titulo": "Evil Twin: Cyprien's Chronicles",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Pendiente",
@@ -679,7 +679,7 @@
   },
   {
     "id": 117,
-    "titulo": "GRU Mi Villano Favorito",
+    "titulo": "Despicable Me",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -787,12 +787,12 @@
   },
   {
     "id": 123,
-    "titulo": "La leyenda de Spyro",
+    "titulo": "Legend of Spyro: Dawn of the Dragon",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps2/La_leyenda_de Spyro.jpg",
+    "portada": "images/ps2/leyenda_spyro.jpg",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "La leyenda de Spyro (The Legend of Spyro) es una aclamada trilogía de videojuegos que reinició por completo la historia del famoso dragón morado en PlayStation 2, alejándose del tono infantil y colorido de los juegos originales de PS1 para ofrecer una aventura de acción y fantasía mucho más madura, oscura y épica.",
@@ -823,7 +823,7 @@
   },
   {
     "id": 125,
-    "titulo": "Lego Star Wars 2",
+    "titulo": "LEGO Star Wars II Original Trilogy",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -841,12 +841,12 @@
   },
   {
     "id": 126,
-    "titulo": "Locos por el Surf",
+    "titulo": "Surf's Up",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
     "region": "PAL ESP",
-    "portada": "images/ps2/Locos_por_surf.jpg",
+    "portada": "images/ps2/locos_surf.jpg",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "Locos por el Surf (conocido en inglés como Surf's Up) es un videojuego de deportes extremos y acción arcade lanzado en 2007 para PlayStation 2. Desarrollado por Ubisoft, el juego adapta de forma interactiva y muy fiel los acontecimientos de la película animada de Sony Pictures, ofreciendo una jugabilidad que recuerda directamente a clásicos del skate como Tony Hawk pero adaptada por completo a las olas del mar.",
@@ -864,7 +864,7 @@
     "prestadoA": "",
     "estado_filtro": "Completado",
     "region": "PAL ESP",
-    "portada": "images/ps2/motoGP.jpg",
+    "portada": "images/ps2/motogp.jpg",
     "favorito": false,
     "estado": "Buen estado, completo con su manual",
     "descripcion": "MotoGP en la consola PlayStation 2 es una aclamada franquicia de simulación y carreras de motociclismo que contó con múltiples entregas icónicas lanzadas a lo largo de la vida de la consola. El desarrollo y legado de la saga en la PS2 se divide principalmente en dos épocas doradas marcadas por los estudios de desarrollo",
@@ -895,7 +895,7 @@
   },
   {
     "id": 129,
-    "titulo": "Disney Monstruos S.A.",
+    "titulo": "Monsters Inc",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 137,
-    "titulo": "Ratchet & Clark El Tamaño importa",
+    "titulo": "Ratchet & Clank: Size Matters",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": 141,
-    "titulo": "SXR",
+    "titulo": "SXR Snow X Racing",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Abandonado",
@@ -1111,7 +1111,7 @@
   },
   {
     "id": 142,
-    "titulo": "El Señor de los anillos Las dos torres",
+    "titulo": "Lord of the Rings Two Towers",
     "plataforma": "PlayStation 2",
     "prestadoA": "",
     "estado_filtro": "Completado",
@@ -1161,7 +1161,7 @@
       "images/ps2/Socom-inside.JPEG",
       "images/ps2/Socom-back.JPEG"
     ],
-    "precio": 9.43
+    "precio": 900.43
   },
   {
     "id": 145,
