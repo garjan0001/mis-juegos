@@ -201,7 +201,7 @@
       "images/ps1/Soulblade-back-.jpeg",
       "images/ps1/Soulblade-side-.jpeg"
     ],
-    "precio": 0.0
+    "precio": 23.0
   },
   {
     "id": 12,
@@ -221,7 +221,7 @@
       "images/ps1/FFVII-back.jpeg",
       "images/ps1/FFVII-side.jpeg"
     ],
-    "precio": 30.0
+    "precio": 25.27
   },
   {
     "id": 13,
@@ -239,7 +239,7 @@
       "images/ps1/AIR_COMBAT-inside.jpeg",
       "images/ps1/AIR_COMBAT-back.jpeg"
     ],
-    "precio": 40.0
+    "precio": 5.55
   },
   {
     "id": 14,
@@ -258,7 +258,7 @@
       "images/ps1/TEKKEN3-back.jpeg",
       "images/ps1/TEKKEN3-side.jpeg"
     ],
-    "precio": 15.0
+    "precio": 23.22
   },
   {
     "id": 15,
@@ -278,7 +278,7 @@
       "images/ps1/FFIX-back.jpeg",
       "images/ps1/FFIX-side.jpeg"
     ],
-    "precio": 50.0
+    "precio": 24.85
   },
   {
     "id": 16,
@@ -296,7 +296,7 @@
       "images/ps1/FF_Anthology-inside.jpeg",
       "images/ps1/FF_Anthology-back.jpeg"
     ],
-    "precio": 70.0
+    "precio": 28.34
   },
   {
     "id": 17,
@@ -495,7 +495,7 @@
       "images/ps2/Crazy_taxi-inside.JPEG",
       "images/ps2/Crazy_taxi-back.JPEG"
     ],
-    "precio": 9.16
+    "precio": 11.96
   },
   {
     "id": 107,
@@ -531,7 +531,7 @@
       "images/ps2/Devil_May_cry-inside.JPEG",
       "images/ps2/Devil_May_cry-back.JPEG"
     ],
-    "precio": 14.94
+    "precio": 11.63
   },
   {
     "id": 109,
@@ -747,7 +747,7 @@
       "images/ps2/GTA-inside.JPEG",
       "images/ps2/GTA-back.JPEG"
     ],
-    "precio": 20.0
+    "precio": 17.12
   },
   {
     "id": 121,
@@ -927,7 +927,7 @@
       "images/ps2/onimusha-inside.JPEG",
       "images/ps2/onimusha-back.JPEG"
     ],
-    "precio": 5.0
+    "precio": 12.14
   },
   {
     "id": 131,
@@ -945,7 +945,7 @@
       "images/ps2/PES2008-inside.JPEG",
       "images/ps2/PES2008-back.JPEG"
     ],
-    "precio": 3.16
+    "precio": 22.95
   },
   {
     "id": 132,
@@ -1017,7 +1017,7 @@
       "images/ps2/Disney_Ratatouille-inside.JPEG",
       "images/ps2/Disney_Ratatouille-back.JPEG"
     ],
-    "precio": 10.0
+    "precio": 8.92
   },
   {
     "id": 137,
@@ -1089,7 +1089,7 @@
       "images/ps2/REveronica-inside.JPEG",
       "images/ps2/REveronica-back.JPEG"
     ],
-    "precio": 10.0
+    "precio": 20.21
   },
   {
     "id": 141,
@@ -1269,7 +1269,7 @@
       "images/ps2/StarWArs_Battlefront-inside.JPEG",
       "images/ps2/SW_battle-back.JPEG"
     ],
-    "precio": 10.53
+    "precio": 10.88
   },
   {
     "id": 151,
@@ -1305,7 +1305,7 @@
       "images/ps2/StarWArs_e3-inside.JPEG",
       "images/ps2/StarWArs_e3-back.JPEG"
     ],
-    "precio": 14.56
+    "precio": 9.1
   },
   {
     "id": 153,
@@ -1413,7 +1413,7 @@
       "images/ps2/Disney_think_fast-inside.JPEG",
       "images/ps2/Disney_think_fast-back.JPEG"
     ],
-    "precio": 5.0
+    "precio": 10.73
   },
   {
     "id": 159,
@@ -1431,7 +1431,7 @@
       "images/ps2/toca_racer2-inside.JPEG",
       "images/ps2/toca_racer2-back.JPEG"
     ],
-    "precio": 4.95
+    "precio": 12.12
   },
   {
     "id": 160,
@@ -1485,7 +1485,7 @@
       "images/ps2/juiced2-inside.JPEG",
       "images/ps2/juiced2-back.JPEG"
     ],
-    "precio": 10.0
+    "precio": 6.29
   },
   {
     "id": 163,
@@ -1682,7 +1682,7 @@
       "images/ps2/PES5-inside.JPEG",
       "images/ps2/PES5-back.JPEG"
     ],
-    "precio": 5.0
+    "precio": 5.69
   },
   {
     "id": 174,
@@ -2044,7 +2044,7 @@
       "images/ps3/Resistance-inside.JPEG",
       "images/ps3/Resistance-back.JPEG"
     ],
-    "precio": 6.34
+    "precio": 8.47
   },
   {
     "id": 309,
@@ -2188,7 +2188,7 @@
       "images/ps3/heavy_rain-inside.JPEG",
       "images/ps3/heavy_rain-back.JPEG"
     ],
-    "precio": 6.59
+    "precio": 6.92
   },
   {
     "id": 317,
@@ -2776,7 +2776,7 @@
       "images/ps4/SW_battle-inside.JPEG",
       "images/ps4/SW_battle-back.JPEG"
     ],
-    "precio": 6.64
+    "precio": 4.1
   },
   {
     "id": 406,
@@ -3529,7 +3529,7 @@
     "imagenes": [
       "images/ps4/horizon_zero.JPG"
     ],
-    "precio": 6.09
+    "precio": 7.82
   },
   {
     "id": 452,
