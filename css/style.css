@@ -938,3 +938,44 @@ body {
 .btn-wallapop:hover {
     background-color: rgba(18, 209, 142, 0.3);
 }
+.stat-podio {
+    grid-column: span 2; /* Ocupa el ancho de 2 tarjetas en la cuadrícula */
+    text-align: left;
+}
+
+.podio-lista {
+    list-style: none;
+    padding: 0;
+    margin: 8px 0 0 0;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.podio-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    padding: 4px 8px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.podio-titulo small {
+    opacity: 0.75;
+    font-size: 0.8em;
+}
+
+.podio-precio {
+    font-weight: 700;
+    color: #4ade80;
+    white-space: nowrap;
+    margin-left: 10px;
+}
+
+@media (max-width: 600px) {
+    .stat-podio {
+        grid-column: span 1;
+    }
+}
