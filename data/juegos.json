@@ -424,7 +424,7 @@
       "images/ps2/Eigteen_wheeler-inside.jpeg",
       "images/ps2/Eigteen_wheeler-back.jpeg"
     ],
-    "precio": 9.15
+    "precio": 5.57
   },
   {
     "id": 103,
@@ -639,7 +639,7 @@
       "images/ps2/FFX-inside.JPEG",
       "images/ps2/FFX-back.JPEG"
     ],
-    "precio": 11.95
+    "precio": 8.76
   },
   {
     "id": 115,
@@ -999,7 +999,7 @@
       "images/ps2/rayman_rabbids-inside.JPEG",
       "images/ps2/rayman_rabbids-back.JPEG"
     ],
-    "precio": 6.43
+    "precio": 6.12
   },
   {
     "id": 135,
@@ -1017,7 +1017,7 @@
       "images/ps2/Disney_Ratatouille-inside.JPEG",
       "images/ps2/Disney_Ratatouille-back.JPEG"
     ],
-    "precio": 15.45
+    "precio": 8.82
   },
   {
     "id": 137,
@@ -1377,7 +1377,7 @@
       "images/ps2/Tekken_tag-inside.JPEG",
       "images/ps2/Tekken_tag-back.JPEG"
     ],
-    "precio": 9.5
+    "precio": 12.0
   },
   {
     "id": 157,
@@ -1431,7 +1431,7 @@
       "images/ps2/toca_racer2-inside.JPEG",
       "images/ps2/toca_racer2-back.JPEG"
     ],
-    "precio": 12.12
+    "precio": 4.95
   },
   {
     "id": 160,
@@ -1485,7 +1485,7 @@
       "images/ps2/juiced2-inside.JPEG",
       "images/ps2/juiced2-back.JPEG"
     ],
-    "precio": 13.73
+    "precio": 6.29
   },
   {
     "id": 163,
@@ -1646,7 +1646,7 @@
       "images/ps2/MOHrising-inside.JPEG",
       "images/ps2/MOHrising-back.JPEG"
     ],
-    "precio": 3.05
+    "precio": 4.47
   },
   {
     "id": 172,
@@ -1682,7 +1682,7 @@
       "images/ps2/PES5-inside.JPEG",
       "images/ps2/PES5-back.JPEG"
     ],
-    "precio": 5.69
+    "precio": 3.86
   },
   {
     "id": 174,
@@ -1736,7 +1736,7 @@
       "images/ps2/PES2010-inside.JPEG",
       "images/ps2/PES2010-back.JPEG"
     ],
-    "precio": 7.49
+    "precio": 7.79
   },
   {
     "id": 177,
@@ -1772,7 +1772,7 @@
       "images/ps2/RedDeadRevolver-inside.JPEG",
       "images/ps2/RedDeadRevolver-back.JPEG"
     ],
-    "precio": 22.76
+    "precio": 18.23
   },
   {
     "id": 179,
@@ -1880,7 +1880,7 @@
       "images/xbox360/gear_of_war-inside.JPEG",
       "images/xbox360/gear_of_war-back.JPEG"
     ],
-    "precio": 10.12
+    "precio": 8.91
   },
   {
     "id": 203,
@@ -2188,7 +2188,7 @@
       "images/ps3/heavy_rain-inside.JPEG",
       "images/ps3/heavy_rain-back.JPEG"
     ],
-    "precio": 6.92
+    "precio": 6.59
   },
   {
     "id": 317,
@@ -2314,7 +2314,7 @@
       "images/ps3/Resistance2-insie.JPEG",
       "images/ps3/Resistance2-back.JPEG"
     ],
-    "precio": 6.3
+    "precio": 9.65
   },
   {
     "id": 324,
@@ -2420,7 +2420,7 @@
       "images/ps3/Resistance3-inside.JPEG",
       "images/ps3/Resistance3-back.JPEG"
     ],
-    "precio": 18.55
+    "precio": 19.49
   },
   {
     "id": 330,
@@ -2723,7 +2723,7 @@
       "images/ps4/f12017-inside.JPEG",
       "images/ps4/f12017-back.JPEG"
     ],
-    "precio": 7.59
+    "precio": 6.3
   },
   {
     "id": 403,
@@ -3014,7 +3014,7 @@
     "imagenes": [
       "images/ps4/the_last_us2.JPG"
     ],
-    "precio": 15.38
+    "precio": 10.98
   },
   {
     "id": 421,
@@ -3110,7 +3110,7 @@
     "imagenes": [
       "images/ps4/titanfall2.JPG"
     ],
-    "precio": 4.89
+    "precio": 5.46
   },
   {
     "id": 427,
@@ -3185,7 +3185,7 @@
     "imagenes": [
       "images/ps4/soulcalibur6.JPG"
     ],
-    "precio": 9.67
+    "precio": 12.76
   },
   {
     "id": 432,
@@ -3444,7 +3444,7 @@
       "images/ps4/Uncharted_legacy-inside.JPEG",
       "images/ps4/Uncharted_legacy-back.JPEG"
     ],
-    "precio": 9.29
+    "precio": 9.28
   },
   {
     "id": 447,
@@ -3479,7 +3479,7 @@
       "images/ps4/The_witcher3-inside.JPEG",
       "images/ps4/The_witcher3-back.JPEG"
     ],
-    "precio": 12.77
+    "precio": 13.45
   },
   {
     "id": 449,
@@ -3581,7 +3581,7 @@
       "images/ps4/SombrasGuerra-inside.JPEG",
       "images/ps4/SombrasGuerra-back.JPEG"
     ],
-    "precio": 8.43
+    "precio": 8.1
   },
   {
     "id": 501,
@@ -3688,7 +3688,7 @@
       "images/ps5/Ghost_of_Yotei-inside.JPEG",
       "images/ps5/Ghost_of_Yotei-back.JPEG"
     ],
-    "precio": 40.47
+    "precio": 40.48
   },
   {
     "id": 507,
@@ -3776,7 +3776,7 @@
       "images/ps5/The_Stanley_parable.JPEG",
       "images/ps5/The_Stanley_parable-back.JPEG"
     ],
-    "precio": 22.72
+    "precio": 47.0
   },
   {
     "id": 512,
@@ -3880,7 +3880,7 @@
       "images/ps5/Alan_Wake2-inside.JPEG",
       "images/ps5/Alan_Wake2-back.JPEG"
     ],
-    "precio": 25.0
+    "precio": 27.14
   },
   {
     "id": 518,
@@ -4003,7 +4003,7 @@
       "images/ps5/resident_evil_village.JPEG",
       "images/ps5/resident_evil_village-back.JPEG"
     ],
-    "precio": 15.48
+    "precio": 15.32
   },
   {
     "id": 526,
