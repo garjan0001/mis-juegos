@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lista de precios — Mi Colección</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      background: #14161f;
+      color: #f1f3f5;
+    }
+    h1 { margin-bottom: 1.5rem; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #1e2230;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    th, td {
+      padding: 10px 14px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    th { background: rgba(255,255,255,0.06); }
+    .error { color: #ff6b6b; }
+  </style>
+</head>
+<body>
+  <h1>📋 Lista de precios</h1>
+  <div id="contenedor-precios">⏳ Cargando precios...</div>
+
+  <script>
+    // Cambia esta ruta por la del JSON que usa tu web (ej. './data/juegos.json')
+    const RUTA_JSON = './data/juegos.json';
+
+    async function cargarPrecios() {
+      const contenedor = document.getElementById('contenedor-precios');
+      try {
+        const respuesta = await fetch(RUTA_JSON);
+        if (!respuesta.ok) {
+          throw new Error(`No se pudo cargar ${RUTA_JSON} (HTTP ${respuesta.status})`);
+        }
+
+        const datos = await respuesta.json();
+
+        // Admite tanto un array directo [{...}] como un objeto { juegos: [...] }
+        const lista = Array.isArray(datos)
+          ? datos
+          : (datos.juegos || datos.items || []);
+
+        if (!Array.isArray(lista) || lista.length === 0) {
+          contenedor.innerHTML = '<p>No se encontraron juegos en el JSON.</p>';
+          return;
+        }
+
+        // Ajusta aquí los nombres de campo según tu JSON (ej. item.precio, item.precioMercado, item.valor...)
+        let tabla = `
+          <table>
+            <thead>
+              <tr>
+                <th>Título</th>
+                <th>Plataforma</th>
+                <th>Precio</th>
+              </tr>
+            </thead>
+            <tbody>
+        `;
+
+        lista.forEach(item => {
+          const titulo = item.titulo || item.nombre || 'Sin título';
+          const plataforma = item.plataforma || '-';
+          const precio = item.precio ?? item.precioMercado ?? item.precio_segunda_mano ?? '-';
+
+          tabla += `
+            <tr>
+              <td>${escapeHtml(String(titulo))}</td>
+              <td>${escapeHtml(String(plataforma))}</td>
+              <td>${escapeHtml(String(precio))}</td>
+            </tr>
+          `;
+        });
+
+        tabla += '</tbody></table>';
+        contenedor.innerHTML = tabla;
+      } catch (err) {
+        contenedor.innerHTML = `<p class="error">❌ Error al cargar el JSON: ${escapeHtml(err.message)}</p>`;
+      }
+    }
+
+    function escapeHtml(str) {
+      return str
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    cargarPrecios();
+  </script>
+</body>
+</html>
