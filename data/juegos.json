@@ -2690,6 +2690,31 @@
     "precio": 5.42
   },
   {
+    "id": 344,
+    "titulo": "Spec Ops The Line",
+    "plataforma": "PlayStation 3",
+    "prestadoA": "",
+    "estado_filtro": "Pendiente",
+    "region": "PAL ESP",
+    "portada": "images/ps3/specops.JPEG",
+    "favorito": false,
+    "estado": "Buen estado general, con su manual y disco correcto",
+    "descripcion": "Spec Ops: The Line es un videojuego de disparos y acción táctica en tercera persona desarrollado por Yager Development y publicado por 2K Games para PlayStation 3 en junio de 2012. A diferencia de los títulos bélicos convencionales, destaca por ofrecer una profunda narrativa psicológica y antibélica inspirada en la novela El corazón de las tinieblas.",
+    "imagenes": [
+      "images/ps3/specops.JPEG",
+      "images/ps3/specops-inside.JPEG",
+      "images/ps3/specops-back.JPEG"
+    ],
+    "precio": 5.42
+  },
+
+
+
+
+
+
+  
+  {
     "id": 401,
     "titulo": "Bloodstained: Ritual of the Night",
     "plataforma": "PlayStation 4",
